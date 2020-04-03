@@ -1784,16 +1784,5 @@
         }
       }
     }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 21,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
   }
 }
