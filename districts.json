@@ -224,24 +224,24 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 9,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bhilwara": {
-        "confirmed": 22,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Jodhpur": {
         "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
+        }
+      },
+      "Bhilwara": {
+        "confirmed": 23,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Jodhpur": {
+        "confirmed": 20,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
         }
       },
       "Unknown": {
@@ -287,17 +287,17 @@
         }
       },
       "Churu": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bikaner": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jaisalmer": {
@@ -326,6 +326,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Banswara": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -1500,7 +1507,7 @@
         }
       },
       "Indore": {
-        "confirmed": 63,
+        "confirmed": 91,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1528,14 +1535,21 @@
         }
       },
       "Unknown": {
-        "confirmed": 60,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Morena": {
-        "confirmed": 12,
+        "confirmed": 22,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Chhindwara": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1656,10 +1670,10 @@
   "Goa": {
     "districtData": {
       "North Goa": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Unknown": {
@@ -1771,6 +1785,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Golaghat": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1778,6 +1799,17 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 697,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
