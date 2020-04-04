@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 342,
+        "confirmed": 401,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 59
         }
       }
     }
@@ -843,10 +843,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 47,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Kalaburagi": {
@@ -871,10 +871,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 21,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Dharwad": {
@@ -899,10 +899,10 @@
         }
       },
       "Udupi": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chitradurga": {
@@ -927,10 +927,10 @@
         }
       },
       "Ballari": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bidar": {
@@ -952,6 +952,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bengaluru Rural": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -1865,7 +1879,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 593,
+        "confirmed": 518,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
