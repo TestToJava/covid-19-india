@@ -354,10 +354,10 @@
   "Haryana": {
     "districtData": {
       "Gurugram": {
-        "confirmed": 29,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Faridabad": {
@@ -389,10 +389,10 @@
         }
       },
       "Palwal": {
-        "confirmed": 4,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       "Ambala": {
@@ -435,6 +435,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bhiwani": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Kaithal": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1851,7 +1865,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 613,
+        "confirmed": 595,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
