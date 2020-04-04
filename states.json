@@ -588,30 +588,30 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "386",
+			"confirmeddelta": "393",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 20:06:24",
-			"recovereddelta": "32",
+			"lastupdatedtime": "04/04/2020 21:43:23",
+			"recovereddelta": "36",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3141",
-			"confirmed": "3494",
+			"active": "3144",
+			"confirmed": "3501",
 			"deaths": "91",
 			"delta": {
-				"active": 386,
-				"confirmed": 386,
+				"active": 393,
+				"confirmed": 393,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "386",
+			"deltaconfirmed": "393",
 			"deltadeaths": "5",
-			"deltarecovered": "32",
-			"lastupdatedtime": "04/04/2020 20:06:24",
-			"recovered": "262",
+			"deltarecovered": "36",
+			"lastupdatedtime": "04/04/2020 21:43:23",
+			"recovered": "266",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -706,20 +706,20 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "208",
-			"confirmed": "227",
+			"active": "211",
+			"confirmed": "234",
 			"deaths": "2",
 			"delta": {
-				"active": 53,
-				"confirmed": 53,
+				"active": 60,
+				"confirmed": 60,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "53",
+			"deltaconfirmed": "60",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:47:37",
-			"recovered": "17",
+			"deltarecovered": "4",
+			"lastupdatedtime": "04/04/2020 21:43:24",
+			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
 		},
