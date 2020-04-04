@@ -244,8 +244,15 @@
           "confirmed": 7
         }
       },
-      "Unknown": {
-        "confirmed": 31,
+      "Pali": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Sikar": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -253,6 +260,13 @@
       },
       "Pratapgarh": {
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1096,10 +1110,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ludhiana": {
@@ -1177,17 +1191,17 @@
         }
       },
       "West Godavari": {
-        "confirmed": 18,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       },
       "Y.S.R.": {
-        "confirmed": 20,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         }
       }
     }
@@ -1422,10 +1436,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 38,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Vadodara": {
@@ -1436,10 +1450,10 @@
         }
       },
       "Gandhinagar": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kachchh": {
@@ -1457,10 +1471,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Porbandar": {
@@ -1484,11 +1498,11 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 10,
+      "Patan": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 1
         }
       }
     }
@@ -1813,6 +1827,13 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      "Lakhimpur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1830,7 +1851,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 619,
+        "confirmed": 614,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
