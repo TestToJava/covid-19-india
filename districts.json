@@ -98,6 +98,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -217,7 +224,7 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 56,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -231,14 +238,14 @@
         }
       },
       "Bhilwara": {
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       "Jodhpur": {
-        "confirmed": 22,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -265,11 +272,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 29,
+      "Dungarpur": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Churu": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       "Ajmer": {
@@ -279,15 +293,15 @@
           "confirmed": 0
         }
       },
-      "Alwar": {
-        "confirmed": 4,
+      "Army Camp": {
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Dungarpur": {
-        "confirmed": 1,
+      "Alwar": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -300,8 +314,22 @@
           "confirmed": 0
         }
       },
-      "Churu": {
-        "confirmed": 9,
+      "Dholpur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Udaipur": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Bharatpur": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -314,32 +342,11 @@
           "confirmed": 1
         }
       },
-      "Jaisalmer": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Udaipur": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Dausa": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Bharatpur": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       },
       "Banswara": {
@@ -463,10 +470,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 98,
+        "confirmed": 151,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 53
         }
       },
       "Ghaziabad": {
@@ -763,6 +770,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 74,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 74
+        }
       }
     }
   },
@@ -790,10 +804,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 27,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       "Rajouri": {
@@ -892,10 +906,10 @@
         }
       },
       "Dakshina Kannada": {
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Udupi": {
@@ -959,13 +973,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }
@@ -1262,6 +1269,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Nainital": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
+      },
+      "Haridwar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1879,7 +1900,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 518,
+        "confirmed": 359,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
