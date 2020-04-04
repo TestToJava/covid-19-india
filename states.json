@@ -588,29 +588,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "102",
+			"confirmeddelta": "103",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "04/04/2020 14:37:24",
+			"lastupdatedtime": "04/04/2020 15:57:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2895",
-			"confirmed": "3210",
+			"active": "2896",
+			"confirmed": "3211",
 			"deaths": "86",
 			"delta": {
-				"active": 102,
-				"confirmed": 102,
+				"active": 103,
+				"confirmed": 103,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "102",
+			"deltaconfirmed": "103",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:37:24",
+			"lastupdatedtime": "04/04/2020 15:57:24",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -1012,19 +1012,19 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "6",
-			"confirmed": "9",
+			"active": "7",
+			"confirmed": "10",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "31/03/2020 23:07:28",
+			"lastupdatedtime": "04/04/2020 15:57:25",
 			"recovered": "3",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
