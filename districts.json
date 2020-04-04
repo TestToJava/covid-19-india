@@ -1411,10 +1411,10 @@
         }
       },
       "Korba": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -1851,7 +1851,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 614,
+        "confirmed": 613,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
