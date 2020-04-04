@@ -588,30 +588,30 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "374",
+			"confirmeddelta": "382",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 18:37:24",
-			"recovereddelta": "8",
+			"lastupdatedtime": "04/04/2020 19:25:37",
+			"recovereddelta": "30",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3153",
-			"confirmed": "3482",
+			"active": "3139",
+			"confirmed": "3490",
 			"deaths": "91",
 			"delta": {
-				"active": 374,
-				"confirmed": 374,
+				"active": 382,
+				"confirmed": 382,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "374",
+			"deltaconfirmed": "382",
 			"deltadeaths": "5",
-			"deltarecovered": "8",
-			"lastupdatedtime": "04/04/2020 18:37:24",
-			"recovered": "238",
+			"deltarecovered": "30",
+			"lastupdatedtime": "04/04/2020 19:25:37",
+			"recovered": "260",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -706,7 +706,7 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "197",
+			"active": "175",
 			"confirmed": "200",
 			"deaths": "0",
 			"delta": {
@@ -717,9 +717,9 @@
 			},
 			"deltaconfirmed": "21",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:17:32",
-			"recovered": "3",
+			"deltarecovered": "22",
+			"lastupdatedtime": "04/04/2020 18:56:30",
+			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
 		},
@@ -736,7 +736,7 @@
 			"deltaconfirmed": "53",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:57:28",
+			"lastupdatedtime": "04/04/2020 17:47:37",
 			"recovered": "17",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -868,19 +868,19 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "51",
-			"confirmed": "57",
+			"active": "59",
+			"confirmed": "65",
 			"deaths": "5",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 12,
+				"confirmed": 12,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "12",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:37:26",
+			"lastupdatedtime": "04/04/2020 19:24:28",
 			"recovered": "1",
 			"state": "Punjab",
 			"statecode": "PB"
