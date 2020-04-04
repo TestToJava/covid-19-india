@@ -584,15 +584,24 @@
 			"totalconfirmed": "3108",
 			"totaldeceased": "86",
 			"totalrecovered": "230"
+		},
+		{
+			"dailyconfirmed": "563",
+			"dailydeceased": "13",
+			"dailyrecovered": "53",
+			"date": "04 April ",
+			"totalconfirmed": "3671",
+			"totaldeceased": "99",
+			"totalrecovered": "283"
 		}
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "563",
+			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "13",
+			"deceaseddelta": "0",
 			"lastupdatedtime": "05/04/2020 01:15:23",
-			"recovereddelta": "53",
+			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
