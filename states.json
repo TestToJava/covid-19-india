@@ -588,29 +588,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "14",
+			"confirmeddelta": "19",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "04/04/2020 09:42:24",
+			"lastupdatedtime": "04/04/2020 10:27:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2807",
-			"confirmed": "3122",
+			"active": "2812",
+			"confirmed": "3127",
 			"deaths": "86",
 			"delta": {
-				"active": 14,
-				"confirmed": 14,
+				"active": 19,
+				"confirmed": 19,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "14",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 09:42:24",
+			"lastupdatedtime": "04/04/2020 10:27:24",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -706,19 +706,19 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "188",
-			"confirmed": "191",
+			"active": "193",
+			"confirmed": "196",
 			"deaths": "0",
 			"delta": {
-				"active": 12,
-				"confirmed": 12,
+				"active": 17,
+				"confirmed": 17,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "12",
+			"deltaconfirmed": "17",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:32:37",
+			"lastupdatedtime": "04/04/2020 10:27:25",
 			"recovered": "3",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -1474,6 +1474,14 @@
 			"totalpositivecases": "2183",
 			"totalsamplestested": "56680",
 			"updatetimestamp": "3/4/2020 09:00"
+		},
+		{
+			"source": "ICMR_testing_update_03April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "2653",
+			"totalsamplestested": "69245",
+			"updatetimestamp": "3/4/2020 21:00"
 		}
 	]
 }
