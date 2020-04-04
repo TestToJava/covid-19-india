@@ -1391,7 +1391,7 @@
   "Uttarakhand": {
     "districtData": {
       "Dehradun": {
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1406,13 +1406,6 @@
       },
       "Udham Singh Nagar": {
         "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1465,6 +1458,13 @@
         }
       },
       "Jajapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kalahandi": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1955,7 +1955,7 @@
   "Assam": {
     "districtData": {
       "Cachar": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2040,7 +2040,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 253,
+        "confirmed": 251,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
