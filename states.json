@@ -588,7 +588,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "103",
+			"confirmeddelta": "121",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "04/04/2020 15:57:24",
@@ -598,16 +598,16 @@
 	],
 	"statewise": [
 		{
-			"active": "2896",
-			"confirmed": "3211",
+			"active": "2914",
+			"confirmed": "3229",
 			"deaths": "86",
 			"delta": {
-				"active": 103,
-				"confirmed": 103,
+				"active": 121,
+				"confirmed": 121,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "103",
+			"deltaconfirmed": "121",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/04/2020 15:57:24",
@@ -832,16 +832,16 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "31",
-			"confirmed": "58",
+			"active": "49",
+			"confirmed": "76",
 			"deaths": "0",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 18,
+				"confirmed": 18,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 20:27:29",
