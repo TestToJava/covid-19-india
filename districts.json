@@ -238,10 +238,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Unknown": {
@@ -802,6 +802,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Udhampur": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
       }
     }
   },
@@ -924,17 +931,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 63,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Mumbai": {
-        "confirmed": 198,
+        "confirmed": 226,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 28
         }
       },
       "Nagpur": {
@@ -945,10 +952,10 @@
         }
       },
       "Thane": {
-        "confirmed": 10,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       "Ahmadnagar": {
@@ -987,10 +994,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 140,
+        "confirmed": 141,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sangli": {
@@ -1040,6 +1047,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Amravati": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1107,10 +1121,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Visakhapatnam": {
@@ -1128,31 +1142,31 @@
         }
       },
       "Krishna": {
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Chittoor": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Guntur": {
-        "confirmed": 20,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Kurnool": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Anantapur": {
@@ -1163,17 +1177,17 @@
         }
       },
       "West Godavari": {
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Y.S.R.": {
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -1468,6 +1482,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 10
         }
       }
     }
@@ -1809,7 +1830,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 697,
+        "confirmed": 619,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
