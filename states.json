@@ -588,29 +588,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "382",
+			"confirmeddelta": "386",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 19:40:25",
+			"lastupdatedtime": "04/04/2020 20:06:24",
 			"recovereddelta": "32",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3137",
-			"confirmed": "3490",
+			"active": "3141",
+			"confirmed": "3494",
 			"deaths": "91",
 			"delta": {
-				"active": 382,
-				"confirmed": 382,
+				"active": 386,
+				"confirmed": 386,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "382",
+			"deltaconfirmed": "386",
 			"deltadeaths": "5",
 			"deltarecovered": "32",
-			"lastupdatedtime": "04/04/2020 19:40:25",
+			"lastupdatedtime": "04/04/2020 20:06:24",
 			"recovered": "262",
 			"state": "Total",
 			"statecode": "TT"
@@ -796,19 +796,19 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "85",
-			"confirmed": "105",
+			"active": "88",
+			"confirmed": "108",
 			"deaths": "10",
 			"delta": {
-				"active": 10,
-				"confirmed": 10,
+				"active": 13,
+				"confirmed": 13,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "10",
+			"deltaconfirmed": "13",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:37:35",
+			"lastupdatedtime": "04/04/2020 20:06:25",
 			"recovered": "10",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -886,19 +886,19 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "27",
-			"confirmed": "31",
+			"active": "28",
+			"confirmed": "32",
 			"deaths": "1",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 1,
+				"confirmed": 1,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 21:12:26",
+			"lastupdatedtime": "04/04/2020 20:06:26",
 			"recovered": "3",
 			"state": "Bihar",
 			"statecode": "BR"
