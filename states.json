@@ -577,16 +577,16 @@
 			"totalrecovered": "191"
 		},
 		{
-			"dailyconfirmed": "563",
+			"dailyconfirmed": "560",
 			"dailydeceased": "14",
 			"dailyrecovered": "39",
 			"date": "03 April ",
-			"totalconfirmed": "3108",
+			"totalconfirmed": "3105",
 			"totaldeceased": "86",
 			"totalrecovered": "230"
 		},
 		{
-			"dailyconfirmed": "563",
+			"dailyconfirmed": "566",
 			"dailydeceased": "13",
 			"dailyrecovered": "53",
 			"date": "04 April ",
@@ -597,13 +597,13 @@
 	],
 	"statewise": [
 		{
-			"active": "3289",
-			"confirmed": "3671",
+			"active": "3323",
+			"confirmed": "3705",
 			"deaths": "99",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "34",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 01:15:23",
+			"lastupdatedtime": "05/04/2020 11:36:24",
 			"recovered": "283",
 			"state": "Total",
 			"statecode": "TT"
@@ -693,13 +693,13 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "189",
-			"confirmed": "192",
+			"active": "223",
+			"confirmed": "226",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "34",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:14:29",
+			"lastupdatedtime": "05/04/2020 11:36:25",
 			"recovered": "2",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
