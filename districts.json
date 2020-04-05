@@ -1092,28 +1092,28 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 65,
+        "confirmed": 76,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 247,
+        "confirmed": 361,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Nagpur": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Thane": {
-        "confirmed": 25,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1155,7 +1155,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 217,
+        "confirmed": 74,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1212,6 +1212,20 @@
       },
       "Amravati": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Latur": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Osmanabad": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
