@@ -588,23 +588,23 @@
 		{
 			"dailyconfirmed": "566",
 			"dailydeceased": "13",
-			"dailyrecovered": "53",
+			"dailyrecovered": "56",
 			"date": "04 April ",
 			"totalconfirmed": "3671",
 			"totaldeceased": "99",
-			"totalrecovered": "283"
+			"totalrecovered": "286"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3323",
-			"confirmed": "3705",
-			"deaths": "99",
-			"deltaconfirmed": "34",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 11:36:24",
-			"recovered": "283",
+			"active": "3336",
+			"confirmed": "3726",
+			"deaths": "100",
+			"deltaconfirmed": "55",
+			"deltadeaths": "1",
+			"deltarecovered": "4",
+			"lastupdatedtime": "05/04/2020 12:27:24",
+			"recovered": "290",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -681,13 +681,13 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "174",
-			"confirmed": "200",
+			"active": "180",
+			"confirmed": "206",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 23:56:28",
+			"lastupdatedtime": "05/04/2020 12:27:26",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -729,14 +729,14 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "88",
-			"confirmed": "108",
-			"deaths": "10",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 20:06:25",
-			"recovered": "10",
+			"active": "94",
+			"confirmed": "122",
+			"deaths": "11",
+			"deltaconfirmed": "14",
+			"deltadeaths": "1",
+			"deltarecovered": "4",
+			"lastupdatedtime": "05/04/2020 12:10:35",
+			"recovered": "17",
 			"state": "Gujarat",
 			"statecode": "GJ"
 		},
@@ -921,13 +921,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "2",
-			"confirmed": "2",
+			"active": "3",
+			"confirmed": "3",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 19:42:30",
+			"lastupdatedtime": "05/04/2020 12:10:40",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
