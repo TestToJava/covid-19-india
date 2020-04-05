@@ -597,13 +597,13 @@
 	],
 	"statewise": [
 		{
-			"active": "3690",
-			"confirmed": "4122",
-			"deaths": "117",
-			"deltaconfirmed": "440",
-			"deltadeaths": "18",
+			"active": "3733",
+			"confirmed": "4166",
+			"deaths": "118",
+			"deltaconfirmed": "484",
+			"deltadeaths": "19",
 			"deltarecovered": "29",
-			"lastupdatedtime": "05/04/2020 20:31:24",
+			"lastupdatedtime": "05/04/2020 21:23:37",
 			"recovered": "315",
 			"state": "Total",
 			"statecode": "TT"
@@ -633,13 +633,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "481",
+			"active": "480",
 			"confirmed": "503",
-			"deaths": "6",
+			"deaths": "7",
 			"deltaconfirmed": "58",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 19:21:26",
+			"lastupdatedtime": "05/04/2020 21:23:37",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -669,10 +669,10 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "211",
-			"confirmed": "234",
+			"active": "255",
+			"confirmed": "278",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "44",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "04/04/2020 21:43:24",
