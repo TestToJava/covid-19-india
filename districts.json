@@ -217,17 +217,17 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 55,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jhunjhunu": {
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bhilwara": {
@@ -287,7 +287,7 @@
         }
       },
       "Evacuees": {
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -301,13 +301,13 @@
         }
       },
       "Tonk": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Dholpur": {
+      "Dhaulpur": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -329,17 +329,17 @@
         }
       },
       "Bikaner": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dausa": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Banswara": {
@@ -349,11 +349,11 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 6,
+      "Karauli": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 0
         }
       }
     }
@@ -2082,7 +2082,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 98,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
