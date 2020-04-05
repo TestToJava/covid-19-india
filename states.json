@@ -597,13 +597,13 @@
 	],
 	"statewise": [
 		{
-			"active": "3332",
-			"confirmed": "3730",
+			"active": "3334",
+			"confirmed": "3732",
 			"deaths": "104",
-			"deltaconfirmed": "55",
+			"deltaconfirmed": "57",
 			"deltadeaths": "5",
 			"deltarecovered": "8",
-			"lastupdatedtime": "05/04/2020 13:46:25",
+			"lastupdatedtime": "05/04/2020 15:22:27",
 			"recovered": "294",
 			"state": "Total",
 			"statecode": "TT"
@@ -717,13 +717,13 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "129",
-			"confirmed": "144",
+			"active": "131",
+			"confirmed": "146",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:37:30",
+			"lastupdatedtime": "05/04/2020 15:22:30",
 			"recovered": "11",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -1260,7 +1260,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "3113",
 			"totalsamplestested": "79950",
-			"updatetimestamp": "4/4/2020"
+			"updatetimestamp": "4/4/2020 21:00"
 		}
 	]
 }
