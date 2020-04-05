@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 227,
+        "confirmed": 257,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 30
         }
       }
     }
@@ -477,24 +477,24 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 44,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ghaziabad": {
-        "confirmed": 14,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Lucknow": {
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Gautam Buddha Nagar": {
@@ -512,17 +512,17 @@
         }
       },
       "Varanasi": {
-        "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Kanpur Nagar": {
         "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
+        }
+      },
+      "Kanpur Nagar": {
+        "confirmed": 15,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       },
       "Pilibhit": {
@@ -547,17 +547,17 @@
         }
       },
       "Lakhimpur": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Shamli": {
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Meerut": {
@@ -631,24 +631,24 @@
         }
       },
       "Hapur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Ghazipur": {
         "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
+        }
+      },
+      "Ghazipur": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       "Banda": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Maharajganj": {
@@ -672,11 +672,25 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 44,
+      "Rae Bareli": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 44
+          "confirmed": 2
+        }
+      },
+      "Bara Banki": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Auraiya": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1500,10 +1514,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 16,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 18
         }
       },
       "Bhadrak": {
@@ -2131,17 +2145,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 27,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 27
         }
       }
     }
