@@ -217,17 +217,17 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 56,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 37
         }
       },
       "Jhunjhunu": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Bhilwara": {
@@ -287,10 +287,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 28,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Alwar": {
@@ -301,10 +301,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dhaulpur": {
@@ -354,6 +354,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Nagaur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1253,10 +1260,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 58
         }
       },
       "Amravati": {
@@ -1415,10 +1422,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 49
         }
       },
       "Anantapur": {
@@ -1847,6 +1854,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 14,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 14
         }
       }
     }
