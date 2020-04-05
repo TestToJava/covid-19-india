@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 401,
+        "confirmed": 459,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 58
         }
       }
     }
@@ -856,10 +856,10 @@
         }
       },
       "Ranipet": {
-        "confirmed": 22,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ramanathapuram": {
@@ -909,13 +909,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
-        }
-      },
-      "Unknown": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }
@@ -1210,7 +1203,7 @@
           "confirmed": 0
         }
       },
-      "Gujarat": {
+      "Gujarat*": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
