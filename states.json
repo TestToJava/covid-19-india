@@ -478,16 +478,16 @@
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "102",
+			"dailyconfirmed": "94",
 			"dailydeceased": "2",
 			"dailyrecovered": "2",
 			"date": "23 March ",
-			"totalconfirmed": "505",
+			"totalconfirmed": "497",
 			"totaldeceased": "9",
 			"totalrecovered": "25"
 		},
 		{
-			"dailyconfirmed": "66",
+			"dailyconfirmed": "74",
 			"dailydeceased": "1",
 			"dailyrecovered": "15",
 			"date": "24 March ",
@@ -505,34 +505,34 @@
 			"totalrecovered": "43"
 		},
 		{
-			"dailyconfirmed": "78",
+			"dailyconfirmed": "73",
 			"dailydeceased": "5",
 			"dailyrecovered": "7",
 			"date": "26 March ",
-			"totalconfirmed": "735",
+			"totalconfirmed": "730",
 			"totaldeceased": "16",
 			"totalrecovered": "50"
 		},
 		{
-			"dailyconfirmed": "151",
+			"dailyconfirmed": "153",
 			"dailydeceased": "3",
 			"dailyrecovered": "25",
 			"date": "27 March ",
-			"totalconfirmed": "886",
+			"totalconfirmed": "883",
 			"totaldeceased": "19",
 			"totalrecovered": "75"
 		},
 		{
-			"dailyconfirmed": "143",
+			"dailyconfirmed": "141",
 			"dailydeceased": "5",
 			"dailyrecovered": "10",
 			"date": "28 March ",
-			"totalconfirmed": "1029",
+			"totalconfirmed": "1024",
 			"totaldeceased": "24",
 			"totalrecovered": "85"
 		},
 		{
-			"dailyconfirmed": "110",
+			"dailyconfirmed": "115",
 			"dailydeceased": "3",
 			"dailyrecovered": "17",
 			"date": "29 March ",
@@ -586,25 +586,25 @@
 			"totalrecovered": "230"
 		},
 		{
-			"dailyconfirmed": "570",
+			"dailyconfirmed": "577",
 			"dailydeceased": "13",
 			"dailyrecovered": "56",
 			"date": "04 April ",
-			"totalconfirmed": "3675",
+			"totalconfirmed": "3682",
 			"totaldeceased": "99",
 			"totalrecovered": "286"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3421",
-			"confirmed": "3823",
+			"active": "3420",
+			"confirmed": "3831",
 			"deaths": "107",
-			"deltaconfirmed": "148",
+			"deltaconfirmed": "149",
 			"deltadeaths": "8",
-			"deltarecovered": "9",
-			"lastupdatedtime": "05/04/2020 17:53:27",
-			"recovered": "295",
+			"deltarecovered": "18",
+			"lastupdatedtime": "05/04/2020 18:11:24",
+			"recovered": "304",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -645,14 +645,14 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "254",
-			"confirmed": "306",
+			"active": "256",
+			"confirmed": "314",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 18:22:29",
-			"recovered": "50",
+			"deltarecovered": "6",
+			"lastupdatedtime": "05/04/2020 18:11:26",
+			"recovered": "56",
 			"state": "Kerala",
 			"statecode": "KL"
 		},
@@ -741,14 +741,14 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "101",
+			"active": "100",
 			"confirmed": "106",
 			"deaths": "2",
 			"deltaconfirmed": "14",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 16:07:27",
-			"recovered": "3",
+			"deltarecovered": "1",
+			"lastupdatedtime": "05/04/2020 18:11:27",
+			"recovered": "4",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
 		},
@@ -813,14 +813,14 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "24",
+			"active": "22",
 			"confirmed": "26",
 			"deaths": "0",
 			"deltaconfirmed": "4",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 17:53:30",
-			"recovered": "2",
+			"deltarecovered": "2",
+			"lastupdatedtime": "05/04/2020 18:11:31",
+			"recovered": "4",
 			"state": "Uttarakhand",
 			"statecode": "UT"
 		},
@@ -900,7 +900,7 @@
 			"active": "10",
 			"confirmed": "13",
 			"deaths": "2",
-			"deltaconfirmed": "7",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "05/04/2020 15:49:35",
