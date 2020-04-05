@@ -1092,14 +1092,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 76,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 361,
+        "confirmed": 358,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1113,14 +1113,14 @@
         }
       },
       "Thane": {
-        "confirmed": 32,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 19,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1134,14 +1134,14 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ratnagiri": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1155,7 +1155,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 74,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1169,7 +1169,7 @@
         }
       },
       "Satara": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1190,7 +1190,7 @@
         }
       },
       "Jalgaon": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1210,6 +1210,27 @@
           "confirmed": 0
         }
       },
+      "Osmanabad": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Washim": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Hingoli": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Amravati": {
         "confirmed": 1,
         "lastupdatedtime": "",
@@ -1219,13 +1240,6 @@
       },
       "Latur": {
         "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Osmanabad": {
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1317,17 +1331,17 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 32,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Prakasam": {
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Visakhapatnam": {
@@ -1352,10 +1366,10 @@
         }
       },
       "Chittoor": {
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Guntur": {
@@ -1366,10 +1380,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 4,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       "Anantapur": {
@@ -2047,7 +2061,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 153,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
