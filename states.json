@@ -873,14 +873,14 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "7",
+			"active": "3",
 			"confirmed": "10",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 15:57:25",
-			"recovered": "3",
+			"deltarecovered": "4",
+			"lastupdatedtime": "05/04/2020 14:04:27",
+			"recovered": "7",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
 		},
@@ -921,14 +921,14 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "-1",
+			"active": "3",
 			"confirmed": "3",
 			"deaths": "0",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "4",
-			"lastupdatedtime": "05/04/2020 13:46:30",
-			"recovered": "4",
+			"deltarecovered": "0",
+			"lastupdatedtime": "05/04/2020 14:04:29",
+			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
 		},
