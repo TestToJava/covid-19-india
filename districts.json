@@ -1099,17 +1099,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 81,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 21
         }
       },
       "Mumbai": {
-        "confirmed": 359,
+        "confirmed": 388,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 29
         }
       },
       "Nagpur": {
@@ -1127,10 +1127,10 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Yavatmal": {
@@ -1141,10 +1141,10 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ratnagiri": {
@@ -1458,10 +1458,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bhadrak": {
@@ -1745,6 +1745,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 7
         }
       }
     }
@@ -2082,10 +2089,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 92,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
