@@ -406,16 +406,16 @@
 			"totalrecovered": "10"
 		},
 		{
-			"dailyconfirmed": "6",
+			"dailyconfirmed": "5",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "15 March ",
-			"totalconfirmed": "113",
+			"totalconfirmed": "112",
 			"totaldeceased": "2",
 			"totalrecovered": "13"
 		},
 		{
-			"dailyconfirmed": "14",
+			"dailyconfirmed": "15",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "16 March ",
@@ -597,13 +597,13 @@
 	],
 	"statewise": [
 		{
-			"active": "3418",
+			"active": "3417",
 			"confirmed": "3819",
-			"deaths": "106",
+			"deaths": "107",
 			"deltaconfirmed": "144",
-			"deltadeaths": "7",
+			"deltadeaths": "8",
 			"deltarecovered": "9",
-			"lastupdatedtime": "05/04/2020 16:42:24",
+			"lastupdatedtime": "05/04/2020 17:26:24",
 			"recovered": "295",
 			"state": "Total",
 			"statecode": "TT"
@@ -765,13 +765,13 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "59",
+			"active": "58",
 			"confirmed": "68",
-			"deaths": "5",
+			"deaths": "6",
 			"deltaconfirmed": "3",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "1",
-			"lastupdatedtime": "05/04/2020 16:42:25",
+			"lastupdatedtime": "05/04/2020 17:26:26",
 			"recovered": "4",
 			"state": "Punjab",
 			"statecode": "PB"
