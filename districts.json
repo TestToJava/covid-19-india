@@ -1113,7 +1113,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 386,
+        "confirmed": 387,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1127,7 +1127,7 @@
         }
       },
       "Thane": {
-        "confirmed": 50,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1264,7 +1264,7 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 9,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1278,14 +1278,14 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       "Hoshiarpur": {
-        "confirmed": 3,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1298,18 +1298,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Ludhiana": {
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       },
       "Rupnagar": {
@@ -1433,10 +1433,10 @@
   "Uttarakhand": {
     "districtData": {
       "Dehradun": {
-        "confirmed": 11,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Pauri Garhwal": {
@@ -1454,10 +1454,10 @@
         }
       },
       "Nainital": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Haridwar": {
@@ -2103,7 +2103,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 5,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
