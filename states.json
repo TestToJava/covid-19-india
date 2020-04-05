@@ -597,14 +597,14 @@
 	],
 	"statewise": [
 		{
-			"active": "3814",
-			"confirmed": "4254",
-			"deaths": "119",
-			"deltaconfirmed": "570",
-			"deltadeaths": "20",
-			"deltarecovered": "35",
-			"lastupdatedtime": "05/04/2020 23:18:25",
-			"recovered": "321",
+			"active": "3843",
+			"confirmed": "4288",
+			"deaths": "117",
+			"deltaconfirmed": "604",
+			"deltadeaths": "21",
+			"deltarecovered": "42",
+			"lastupdatedtime": "05/04/2020 23:53:24",
+			"recovered": "328",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -657,13 +657,13 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "289",
-			"confirmed": "333",
+			"active": "290",
+			"confirmed": "334",
 			"deaths": "11",
-			"deltaconfirmed": "61",
+			"deltaconfirmed": "62",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 23:18:27",
+			"lastupdatedtime": "05/04/2020 23:52:28",
 			"recovered": "33",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -681,13 +681,13 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "234",
-			"confirmed": "260",
+			"active": "240",
+			"confirmed": "266",
 			"deaths": "1",
-			"deltaconfirmed": "54",
+			"deltaconfirmed": "60",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 22:39:31",
+			"lastupdatedtime": "05/04/2020 23:52:29",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -705,13 +705,13 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "178",
+			"active": "177",
 			"confirmed": "193",
-			"deaths": "12",
+			"deaths": "13",
 			"deltaconfirmed": "14",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "3",
-			"lastupdatedtime": "05/04/2020 19:56:31",
+			"lastupdatedtime": "05/04/2020 23:36:31",
 			"recovered": "3",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -777,14 +777,14 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "44",
-			"confirmed": "53",
-			"deaths": "6",
-			"deltaconfirmed": "0",
+			"active": "67",
+			"confirmed": "80",
+			"deaths": "3",
+			"deltaconfirmed": "27",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 18:32:26",
-			"recovered": "3",
+			"deltarecovered": "7",
+			"lastupdatedtime": "05/04/2020 23:36:33",
+			"recovered": "10",
 			"state": "West Bengal",
 			"statecode": "WB"
 		},
