@@ -192,10 +192,10 @@
         }
       },
       "Ranga Reddy": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Medchal Malkajgiri": {
@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 232,
+        "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 1
         }
       },
       "Warangal Urban": {
@@ -227,6 +227,34 @@
         }
       },
       "Adilabad": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Nirmal": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Nizamabad": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Peddapalli": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Sangareddy": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -389,6 +417,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     }
@@ -1662,10 +1697,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 27
         }
       }
     }
@@ -2198,6 +2233,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 14,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
