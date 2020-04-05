@@ -238,10 +238,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Pali": {
@@ -287,10 +287,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 31,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 5
         }
       },
       "Alwar": {
@@ -357,6 +357,13 @@
         }
       },
       "Nagaur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Jaisalmer": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1843,17 +1850,17 @@
         }
       },
       "Bhopal": {
-        "confirmed": 15,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Indore": {
-        "confirmed": 128,
+        "confirmed": 135,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Ujjain": {
@@ -1892,17 +1899,17 @@
         }
       },
       "Khargone": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
-      "Unknown": {
-        "confirmed": 14,
+      "Barwani": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 2
         }
       }
     }
