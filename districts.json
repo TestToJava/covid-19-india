@@ -1113,7 +1113,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 387,
+        "confirmed": 386,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1127,7 +1127,7 @@
         }
       },
       "Thane": {
-        "confirmed": 49,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1299,17 +1299,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
-        }
-      },
-      "Ludhiana": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Ludhiana": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       },
       "Rupnagar": {
@@ -1338,6 +1338,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Barnala": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
