@@ -171,10 +171,10 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 36,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       },
       "Karimnagar": {
@@ -206,10 +206,31 @@
         }
       },
       "Unknown": {
-        "confirmed": 257,
+        "confirmed": 232,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 30
+          "confirmed": 5
+        }
+      },
+      "Warangal Urban": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Vikarabad": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Adilabad": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -224,10 +245,10 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 19,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -245,10 +266,10 @@
         }
       },
       "Pali": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sikar": {
@@ -332,7 +353,7 @@
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Dausa": {
@@ -1805,13 +1826,6 @@
         "delta": {
           "confirmed": 1
         }
-      },
-      "Bhuj": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
       }
     }
   },
@@ -1899,17 +1913,17 @@
         }
       },
       "Khargone": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       "Barwani": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       }
     }
@@ -2173,6 +2187,17 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Bhuj": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
