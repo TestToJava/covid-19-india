@@ -597,25 +597,25 @@
 	],
 	"statewise": [
 		{
-			"active": "3398",
-			"confirmed": "3796",
-			"deaths": "104",
-			"deltaconfirmed": "121",
-			"deltadeaths": "5",
+			"active": "3412",
+			"confirmed": "3811",
+			"deaths": "105",
+			"deltaconfirmed": "136",
+			"deltadeaths": "6",
 			"deltarecovered": "8",
-			"lastupdatedtime": "05/04/2020 15:49:26",
+			"lastupdatedtime": "05/04/2020 16:07:24",
 			"recovered": "294",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "604",
+			"active": "603",
 			"confirmed": "690",
-			"deaths": "34",
+			"deaths": "35",
 			"deltaconfirmed": "55",
-			"deltadeaths": "2",
+			"deltadeaths": "3",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 15:40:25",
+			"lastupdatedtime": "05/04/2020 15:58:32",
 			"recovered": "52",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -741,13 +741,13 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "87",
-			"confirmed": "92",
+			"active": "101",
+			"confirmed": "106",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "14",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:52:40",
+			"lastupdatedtime": "05/04/2020 16:07:27",
 			"recovered": "3",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
@@ -765,13 +765,13 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "57",
-			"confirmed": "65",
+			"active": "58",
+			"confirmed": "66",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 19:40:26",
+			"lastupdatedtime": "05/04/2020 15:58:38",
 			"recovered": "3",
 			"state": "Punjab",
 			"statecode": "PB"
