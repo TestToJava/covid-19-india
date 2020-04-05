@@ -1786,7 +1786,7 @@
         }
       },
       "Kachchh": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1849,13 +1849,6 @@
         }
       },
       "Morbi": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bhuj": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
