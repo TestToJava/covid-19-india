@@ -923,10 +923,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       "Rajouri": {
@@ -1106,7 +1106,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 388,
+        "confirmed": 387,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1120,7 +1120,7 @@
         }
       },
       "Thane": {
-        "confirmed": 48,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1271,10 +1271,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hoshiarpur": {
@@ -2089,10 +2089,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 28,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
