@@ -976,10 +976,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 51,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kalaburagi": {
@@ -1106,7 +1106,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 361,
+        "confirmed": 359,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1120,7 +1120,7 @@
         }
       },
       "Thane": {
-        "confirmed": 46,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2082,7 +2082,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 94,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
