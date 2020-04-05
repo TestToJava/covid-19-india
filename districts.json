@@ -217,10 +217,10 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 92,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 37
+          "confirmed": 39
         }
       },
       "Jhunjhunu": {
@@ -361,13 +361,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      "Italians": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }
