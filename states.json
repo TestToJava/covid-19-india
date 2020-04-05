@@ -597,14 +597,14 @@
 	],
 	"statewise": [
 		{
-			"active": "3733",
-			"confirmed": "4166",
+			"active": "3747",
+			"confirmed": "4182",
 			"deaths": "118",
-			"deltaconfirmed": "484",
+			"deltaconfirmed": "500",
 			"deltadeaths": "19",
-			"deltarecovered": "29",
-			"lastupdatedtime": "05/04/2020 21:23:37",
-			"recovered": "315",
+			"deltarecovered": "31",
+			"lastupdatedtime": "05/04/2020 21:40:28",
+			"recovered": "317",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -639,7 +639,7 @@
 			"deltaconfirmed": "58",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 21:23:37",
+			"lastupdatedtime": "05/04/2020 21:24:25",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -675,7 +675,7 @@
 			"deltaconfirmed": "44",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 21:43:24",
+			"lastupdatedtime": "05/04/2020 21:24:27",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -825,26 +825,26 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "21",
-			"confirmed": "23",
+			"active": "37",
+			"confirmed": "39",
 			"deaths": "0",
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 15:49:31",
+			"lastupdatedtime": "05/04/2020 21:33:46",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"
 		},
 		{
-			"active": "15",
+			"active": "13",
 			"confirmed": "18",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:40:27",
-			"recovered": "3",
+			"deltarecovered": "2",
+			"lastupdatedtime": "05/04/2020 21:40:35",
+			"recovered": "5",
 			"state": "Chandigarh",
 			"statecode": "CH"
 		},
