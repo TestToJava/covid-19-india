@@ -265,8 +265,15 @@
   },
   "Rajasthan": {
     "districtData": {
+      "Italians": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Jaipur": {
-        "confirmed": 102,
+        "confirmed": 100,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -430,8 +437,15 @@
   },
   "Haryana": {
     "districtData": {
+      "Italians": {
+        "confirmed": 14,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Gurugram": {
-        "confirmed": 32,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1680,6 +1694,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Kendrapara": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1962,24 +1983,24 @@
         }
       },
       "Bhopal": {
-        "confirmed": 18,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 43
         }
       },
       "Indore": {
-        "confirmed": 135,
+        "confirmed": 151,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Ujjain": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gwalior": {
@@ -2022,6 +2043,27 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Betul": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Vidisha": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2296,7 +2338,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 321,
+        "confirmed": 257,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
