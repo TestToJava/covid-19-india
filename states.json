@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4087",
-			"confirmed": "4554",
+			"active": "4098",
+			"confirmed": "4565",
 			"deaths": "125",
-			"deltaconfirmed": "265",
+			"deltaconfirmed": "276",
 			"deltadeaths": "4",
 			"deltarecovered": "13",
-			"lastupdatedtime": "06/04/2020 18:53:25",
+			"lastupdatedtime": "06/04/2020 19:13:24",
 			"recovered": "342",
 			"state": "Total",
 			"statecode": "TT"
@@ -660,7 +660,7 @@
 			"deltaconfirmed": "13",
 			"deltadeaths": "0",
 			"deltarecovered": "5",
-			"lastupdatedtime": "06/04/2020 18:53:27",
+			"lastupdatedtime": "06/04/2020 18:54:26",
 			"recovered": "61",
 			"state": "Kerala",
 			"statecode": "KL"
@@ -768,19 +768,19 @@
 			"deltaconfirmed": "11",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 18:53:29",
+			"lastupdatedtime": "06/04/2020 18:54:27",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
 		{
-			"active": "57",
-			"confirmed": "68",
+			"active": "68",
+			"confirmed": "79",
 			"deaths": "7",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "11",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 00:02:25",
+			"lastupdatedtime": "06/04/2020 19:13:25",
 			"recovered": "4",
 			"state": "Punjab",
 			"statecode": "PB"
