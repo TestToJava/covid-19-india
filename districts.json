@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 479,
+        "confirmed": 481,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 22
         }
       }
     }
@@ -2335,10 +2335,21 @@
       }
     }
   },
+  "Tripura": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 257,
+        "confirmed": 254,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
