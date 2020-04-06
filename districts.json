@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 459,
+        "confirmed": 479,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 20
         }
       }
     }
@@ -266,10 +266,10 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 94,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Jhunjhunu": {
@@ -287,10 +287,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pali": {
@@ -336,10 +336,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 33,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Alwar": {
@@ -385,10 +385,10 @@
         }
       },
       "Dausa": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Banswara": {
@@ -540,10 +540,10 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 47,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ghaziabad": {
@@ -554,17 +554,17 @@
         }
       },
       "Lucknow": {
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 58,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Moradabad": {
@@ -582,10 +582,10 @@
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pilibhit": {
@@ -617,10 +617,10 @@
         }
       },
       "Shamli": {
-        "confirmed": 9,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Meerut": {
@@ -754,6 +754,34 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Kaushambi": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Bijnor": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Prayagraj": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Sitapur": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     }
@@ -1028,10 +1056,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 55,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Rajouri": {
@@ -2240,7 +2268,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 639,
+        "confirmed": 575,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
