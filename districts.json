@@ -1571,6 +1571,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Almora": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
