@@ -606,14 +606,14 @@
 	],
 	"statewise": [
 		{
-			"active": "3988",
-			"confirmed": "4439",
-			"deaths": "122",
-			"deltaconfirmed": "150",
+			"active": "4040",
+			"confirmed": "4502",
+			"deaths": "125",
+			"deltaconfirmed": "213",
 			"deltadeaths": "4",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 17:43:24",
-			"recovered": "329",
+			"deltarecovered": "8",
+			"lastupdatedtime": "06/04/2020 18:14:27",
+			"recovered": "337",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -630,13 +630,13 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "558",
-			"confirmed": "571",
+			"active": "608",
+			"confirmed": "621",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "50",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 18:47:27",
+			"lastupdatedtime": "06/04/2020 18:14:33",
 			"recovered": "8",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -654,13 +654,13 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "256",
-			"confirmed": "314",
+			"active": "269",
+			"confirmed": "327",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "13",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 18:11:26",
+			"lastupdatedtime": "06/04/2020 18:14:37",
 			"recovered": "56",
 			"state": "Kerala",
 			"statecode": "KL"
@@ -726,14 +726,14 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "147",
+			"active": "139",
 			"confirmed": "163",
 			"deaths": "4",
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 14:29:32",
-			"recovered": "12",
+			"deltarecovered": "8",
+			"lastupdatedtime": "06/04/2020 18:04:55",
+			"recovered": "20",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},
@@ -786,13 +786,13 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "67",
+			"active": "64",
 			"confirmed": "80",
-			"deaths": "3",
+			"deaths": "6",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 23:36:33",
+			"lastupdatedtime": "06/04/2020 17:54:25",
 			"recovered": "10",
 			"state": "West Bengal",
 			"statecode": "WB"
