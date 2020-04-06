@@ -466,10 +466,10 @@
         }
       },
       "Palwal": {
-        "confirmed": 17,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Ambala": {
@@ -501,17 +501,17 @@
         }
       },
       "Nuh": {
-        "confirmed": 3,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Karnal": {
-        "confirmed": 1,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bhiwani": {
@@ -529,10 +529,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 17,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 0
+        }
+      },
+      "Charki Dadri": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2303,7 +2310,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 330,
+        "confirmed": 321,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
