@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "3924",
-			"confirmed": "4375",
+			"active": "3988",
+			"confirmed": "4439",
 			"deaths": "122",
-			"deltaconfirmed": "86",
+			"deltaconfirmed": "150",
 			"deltadeaths": "4",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:18:25",
+			"lastupdatedtime": "06/04/2020 17:43:24",
 			"recovered": "329",
 			"state": "Total",
 			"statecode": "TT"
@@ -642,13 +642,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "480",
-			"confirmed": "503",
+			"active": "500",
+			"confirmed": "523",
 			"deaths": "7",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "20",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 21:24:25",
+			"lastupdatedtime": "06/04/2020 17:43:27",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -678,25 +678,25 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "254",
-			"confirmed": "278",
+			"active": "281",
+			"confirmed": "305",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "27",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 22:39:30",
+			"lastupdatedtime": "06/04/2020 17:36:28",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
 		},
 		{
-			"active": "247",
-			"confirmed": "274",
+			"active": "261",
+			"confirmed": "288",
 			"deaths": "2",
-			"deltaconfirmed": "8",
+			"deltaconfirmed": "22",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 11:34:26",
+			"lastupdatedtime": "06/04/2020 17:24:25",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -750,13 +750,13 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "100",
-			"confirmed": "106",
+			"active": "103",
+			"confirmed": "109",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 18:11:27",
+			"lastupdatedtime": "06/04/2020 17:36:34",
 			"recovered": "4",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
