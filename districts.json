@@ -568,7 +568,7 @@
         }
       },
       "Lucknow": {
-        "confirmed": 22,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -576,6 +576,13 @@
       },
       "Gautam Buddha Nagar": {
         "confirmed": 61,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kheri": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -618,13 +625,6 @@
       },
       "Baghpat": {
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Lakhimpur": {
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -728,15 +728,22 @@
           "confirmed": 0
         }
       },
-      "Maharajganj": {
+      "Mahrajganj": {
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
+      "Hathras": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Hatras": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1077,7 +1084,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 58,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1104,15 +1111,8 @@
           "confirmed": 0
         }
       },
-      "Shopian": {
+      "Shupiyan": {
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Kashmir": {
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
