@@ -343,10 +343,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Alwar": {
@@ -357,10 +357,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dhaulpur": {
@@ -385,10 +385,10 @@
         }
       },
       "Bikaner": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dausa": {
@@ -427,10 +427,10 @@
         }
       },
       "Kota": {
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 10
         }
       }
     }
@@ -2326,7 +2326,7 @@
   },
   "Dadra and Nagar Haveli": {
     "districtData": {
-      "Dadra and Nagar Haveli": {
+      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2337,7 +2337,7 @@
   },
   "Tripura": {
     "districtData": {
-      "Unknown": {
+      "Gomati": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2349,7 +2349,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 254,
+        "confirmed": 241,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
