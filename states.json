@@ -606,14 +606,14 @@
 	],
 	"statewise": [
 		{
-			"active": "4276",
-			"confirmed": "4760",
+			"active": "4277",
+			"confirmed": "4773",
 			"deaths": "135",
-			"deltaconfirmed": "471",
+			"deltaconfirmed": "484",
 			"deltadeaths": "14",
-			"deltarecovered": "20",
-			"lastupdatedtime": "06/04/2020 22:13:27",
-			"recovered": "349",
+			"deltarecovered": "32",
+			"lastupdatedtime": "06/04/2020 22:45:26",
+			"recovered": "361",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -630,14 +630,14 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "608",
+			"active": "603",
 			"confirmed": "621",
 			"deaths": "5",
 			"deltaconfirmed": "50",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 18:14:33",
-			"recovered": "8",
+			"deltarecovered": "5",
+			"lastupdatedtime": "06/04/2020 22:45:33",
+			"recovered": "13",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
@@ -690,13 +690,13 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "261",
-			"confirmed": "288",
+			"active": "274",
+			"confirmed": "301",
 			"deaths": "2",
-			"deltaconfirmed": "22",
+			"deltaconfirmed": "35",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 17:24:25",
+			"lastupdatedtime": "06/04/2020 22:35:36",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -798,14 +798,14 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "28",
+			"active": "22",
 			"confirmed": "32",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 20:06:26",
-			"recovered": "3",
+			"deltarecovered": "6",
+			"lastupdatedtime": "06/04/2020 22:45:39",
+			"recovered": "9",
 			"state": "Bihar",
 			"statecode": "BR"
 		},
@@ -942,14 +942,14 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "2",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 09:42:34",
-			"recovered": "0",
+			"deltarecovered": "1",
+			"lastupdatedtime": "06/04/2020 22:35:54",
+			"recovered": "1",
 			"state": "Manipur",
 			"statecode": "MN"
 		},
@@ -1056,7 +1056,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 22:13:50",
+			"lastupdatedtime": "06/04/2020 22:14:41",
 			"recovered": "0",
 			"state": "Tripura",
 			"statecode": "TR"
