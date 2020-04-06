@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4209",
-			"confirmed": "4684",
+			"active": "4218",
+			"confirmed": "4693",
 			"deaths": "129",
-			"deltaconfirmed": "395",
+			"deltaconfirmed": "404",
 			"deltadeaths": "8",
 			"deltarecovered": "17",
-			"lastupdatedtime": "06/04/2020 20:05:28",
+			"lastupdatedtime": "06/04/2020 20:44:24",
 			"recovered": "346",
 			"state": "Total",
 			"statecode": "TT"
@@ -762,13 +762,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "72",
-			"confirmed": "101",
+			"active": "81",
+			"confirmed": "110",
 			"deaths": "0",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "20",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 18:54:27",
+			"lastupdatedtime": "06/04/2020 20:44:26",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
