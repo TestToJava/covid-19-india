@@ -606,26 +606,26 @@
 	],
 	"statewise": [
 		{
-			"active": "4281",
+			"active": "4260",
 			"confirmed": "4778",
 			"deaths": "136",
 			"deltaconfirmed": "488",
 			"deltadeaths": "15",
-			"deltarecovered": "32",
-			"lastupdatedtime": "06/04/2020 23:15:26",
-			"recovered": "361",
+			"deltarecovered": "53",
+			"lastupdatedtime": "06/04/2020 23:54:32",
+			"recovered": "382",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "760",
+			"active": "746",
 			"confirmed": "868",
 			"deaths": "52",
 			"deltaconfirmed": "120",
 			"deltadeaths": "7",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 21:44:25",
-			"recovered": "56",
+			"deltarecovered": "14",
+			"lastupdatedtime": "06/04/2020 23:40:25",
+			"recovered": "70",
 			"state": "Maharashtra",
 			"statecode": "MH"
 		},
@@ -858,14 +858,14 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "11",
+			"active": "4",
 			"confirmed": "14",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/03/2020 11:52:25",
-			"recovered": "3",
+			"deltarecovered": "7",
+			"lastupdatedtime": "06/04/2020 23:54:41",
+			"recovered": "10",
 			"state": "Ladakh",
 			"statecode": "LA"
 		},
@@ -1297,6 +1297,14 @@
 			"totalpositivecases": "3554",
 			"totalsamplestested": "89534",
 			"updatetimestamp": "5/4/2020 21:00"
+		},
+		{
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_06April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "4135",
+			"totalsamplestested": "101068",
+			"updatetimestamp": "6/4/2020 21:00"
 		}
 	]
 }
