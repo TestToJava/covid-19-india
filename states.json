@@ -595,24 +595,24 @@
 			"totalrecovered": "286"
 		},
 		{
-			"dailyconfirmed": "605",
+			"dailyconfirmed": "606",
 			"dailydeceased": "22",
 			"dailyrecovered": "43",
 			"date": "05 April ",
-			"totalconfirmed": "4289",
+			"totalconfirmed": "4290",
 			"totaldeceased": "121",
 			"totalrecovered": "329"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4277",
-			"confirmed": "4773",
-			"deaths": "135",
-			"deltaconfirmed": "484",
-			"deltadeaths": "14",
+			"active": "4281",
+			"confirmed": "4778",
+			"deaths": "136",
+			"deltaconfirmed": "488",
+			"deltadeaths": "15",
 			"deltarecovered": "32",
-			"lastupdatedtime": "06/04/2020 22:45:26",
+			"lastupdatedtime": "06/04/2020 23:15:26",
 			"recovered": "361",
 			"state": "Total",
 			"statecode": "TT"
@@ -714,13 +714,13 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "231",
+			"active": "230",
 			"confirmed": "256",
-			"deaths": "14",
+			"deaths": "15",
 			"deltaconfirmed": "63",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "8",
-			"lastupdatedtime": "06/04/2020 21:44:26",
+			"lastupdatedtime": "06/04/2020 23:15:31",
 			"recovered": "11",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -906,13 +906,13 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "10",
-			"confirmed": "13",
+			"active": "15",
+			"confirmed": "18",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 15:49:35",
+			"lastupdatedtime": "06/04/2020 23:04:27",
 			"recovered": "1",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
