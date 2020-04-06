@@ -606,14 +606,14 @@
 	],
 	"statewise": [
 		{
-			"active": "4040",
-			"confirmed": "4502",
+			"active": "4087",
+			"confirmed": "4554",
 			"deaths": "125",
-			"deltaconfirmed": "213",
+			"deltaconfirmed": "265",
 			"deltadeaths": "4",
-			"deltarecovered": "8",
-			"lastupdatedtime": "06/04/2020 18:14:27",
-			"recovered": "337",
+			"deltarecovered": "13",
+			"lastupdatedtime": "06/04/2020 18:53:25",
+			"recovered": "342",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -654,14 +654,14 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "269",
+			"active": "264",
 			"confirmed": "327",
 			"deaths": "2",
 			"deltaconfirmed": "13",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 18:14:37",
-			"recovered": "56",
+			"deltarecovered": "5",
+			"lastupdatedtime": "06/04/2020 18:53:27",
+			"recovered": "61",
 			"state": "Kerala",
 			"statecode": "KL"
 		},
@@ -702,13 +702,13 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "258",
-			"confirmed": "266",
+			"active": "295",
+			"confirmed": "303",
 			"deaths": "3",
-			"deltaconfirmed": "14",
+			"deltaconfirmed": "51",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:22:24",
+			"lastupdatedtime": "06/04/2020 18:44:25",
 			"recovered": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -762,13 +762,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "61",
-			"confirmed": "90",
+			"active": "72",
+			"confirmed": "101",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "11",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 16:34:40",
+			"lastupdatedtime": "06/04/2020 18:53:29",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -822,13 +822,13 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "23",
-			"confirmed": "27",
+			"active": "27",
+			"confirmed": "31",
 			"deaths": "0",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 12:05:32",
+			"lastupdatedtime": "06/04/2020 18:44:26",
 			"recovered": "4",
 			"state": "Uttarakhand",
 			"statecode": "UT"
