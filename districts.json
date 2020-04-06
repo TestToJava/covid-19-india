@@ -2226,10 +2226,21 @@
       }
     }
   },
+  "Dadra and Nagar Haveli": {
+    "districtData": {
+      "Dadra and Nagar Haveli": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 640,
+        "confirmed": 639,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
