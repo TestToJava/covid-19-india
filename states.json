@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4274",
-			"confirmed": "4757",
-			"deaths": "134",
-			"deltaconfirmed": "468",
-			"deltadeaths": "13",
+			"active": "4276",
+			"confirmed": "4760",
+			"deaths": "135",
+			"deltaconfirmed": "471",
+			"deltadeaths": "14",
 			"deltarecovered": "20",
-			"lastupdatedtime": "06/04/2020 21:53:25",
+			"lastupdatedtime": "06/04/2020 22:13:27",
 			"recovered": "349",
 			"state": "Total",
 			"statecode": "TT"
@@ -642,13 +642,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "500",
-			"confirmed": "523",
+			"active": "502",
+			"confirmed": "525",
 			"deaths": "7",
-			"deltaconfirmed": "20",
+			"deltaconfirmed": "22",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 17:43:27",
+			"lastupdatedtime": "06/04/2020 22:04:40",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -744,7 +744,7 @@
 			"deltaconfirmed": "18",
 			"deltadeaths": "1",
 			"deltarecovered": "1",
-			"lastupdatedtime": "06/04/2020 21:53:31",
+			"lastupdatedtime": "06/04/2020 21:54:36",
 			"recovered": "22",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -762,13 +762,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "80",
+			"active": "79",
 			"confirmed": "110",
-			"deaths": "1",
+			"deaths": "2",
 			"deltaconfirmed": "20",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 21:53:37",
+			"lastupdatedtime": "06/04/2020 22:04:53",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -840,7 +840,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 21:53:49",
+			"lastupdatedtime": "06/04/2020 21:54:41",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"
@@ -1050,13 +1050,13 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "06/04/2020 22:13:50",
 			"recovered": "0",
 			"state": "Tripura",
 			"statecode": "TR"
