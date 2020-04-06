@@ -1204,17 +1204,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 103,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       },
       "Mumbai": {
-        "confirmed": 406,
+        "confirmed": 469,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Nagpur": {
@@ -1225,17 +1225,17 @@
         }
       },
       "Thane": {
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Yavatmal": {
@@ -1246,7 +1246,7 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1267,10 +1267,10 @@
         }
       },
       "Satara": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sindhudurg": {
@@ -1295,7 +1295,7 @@
         }
       },
       "Gujarat*": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1323,7 +1323,7 @@
         }
       },
       "Osmanabad": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1343,13 +1343,6 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 59,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Amravati": {
         "confirmed": 1,
         "lastupdatedtime": "",
@@ -1362,6 +1355,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Palghar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1471,10 +1471,10 @@
         }
       },
       "Visakhapatnam": {
-        "confirmed": 15,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "East Godavari": {
@@ -1499,31 +1499,31 @@
         }
       },
       "Guntur": {
-        "confirmed": 30,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kurnool": {
-        "confirmed": 53,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Anantapur": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "West Godavari": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Y.S.R.": {
@@ -1765,24 +1765,24 @@
         }
       },
       "Surat": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ahmadabad": {
-        "confirmed": 53,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Vadodara": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Gandhinagar": {
@@ -1800,10 +1800,10 @@
         }
       },
       "Mahesana": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhavnagar": {
@@ -1835,10 +1835,10 @@
         }
       },
       "Patan": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chota Udaipur": {
@@ -2219,17 +2219,6 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
