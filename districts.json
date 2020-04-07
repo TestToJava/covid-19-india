@@ -452,10 +452,10 @@
         }
       },
       "Faridabad": {
-        "confirmed": 14,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Panipat": {
@@ -515,10 +515,10 @@
         }
       },
       "Nuh": {
-        "confirmed": 14,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Karnal": {
@@ -1467,10 +1467,10 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Patiala": {
@@ -1527,6 +1527,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 10
         }
       }
     }
@@ -1668,10 +1675,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhadrak": {
@@ -2384,7 +2391,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 133,
+        "confirmed": 98,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
