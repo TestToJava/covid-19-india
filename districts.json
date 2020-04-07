@@ -171,10 +171,10 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 88,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 17
         }
       },
       "Karimnagar": {
@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 266,
+        "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 38
+          "confirmed": 0
         }
       },
       "Warangal Urban": {
@@ -241,10 +241,10 @@
         }
       },
       "Nizamabad": {
-        "confirmed": 8,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Peddapalli": {
@@ -269,17 +269,17 @@
         }
       },
       "Jogulamba Gadwal": {
-        "confirmed": 8,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Mahabubnagar": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Suryapet": {
