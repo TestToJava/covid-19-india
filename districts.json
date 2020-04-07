@@ -1130,17 +1130,17 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 55,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Kalaburagi": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kodagu": {
@@ -1228,10 +1228,10 @@
         }
       },
       "Bagalkote": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Belagavi": {
@@ -1242,10 +1242,24 @@
         }
       },
       "Bengaluru Rural": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Gadag": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Mandya": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       }
     }
@@ -1781,10 +1795,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 53,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       }
     }
@@ -2370,7 +2384,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 156,
+        "confirmed": 133,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
