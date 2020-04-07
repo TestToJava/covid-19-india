@@ -273,10 +273,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 100,
+        "confirmed": 103,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Jhunjhunu": {
@@ -294,10 +294,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 21,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Pali": {
@@ -329,10 +329,10 @@
         }
       },
       "Churu": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ajmer": {
@@ -399,10 +399,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Karauli": {
@@ -420,10 +420,10 @@
         }
       },
       "Jaisalmer": {
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Kota": {
@@ -1856,10 +1856,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 64,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       "Vadodara": {
@@ -1891,10 +1891,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Porbandar": {
@@ -1919,10 +1919,10 @@
         }
       },
       "Patan": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Chota Udaipur": {
@@ -1944,6 +1944,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Anand": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Sabar Kantha": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2310,6 +2324,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Dhubri": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2349,7 +2370,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 236,
+        "confirmed": 192,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
