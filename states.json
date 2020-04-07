@@ -616,12 +616,12 @@
 	"statewise": [
 		{
 			"active": "4394",
-			"confirmed": "4916",
-			"deaths": "136",
-			"deltaconfirmed": "138",
-			"deltadeaths": "3",
+			"confirmed": "4917",
+			"deaths": "137",
+			"deltaconfirmed": "139",
+			"deltadeaths": "4",
 			"deltarecovered": "4",
-			"lastupdatedtime": "07/04/2020 14:04:28",
+			"lastupdatedtime": "07/04/2020 14:35:24",
 			"recovered": "386",
 			"state": "Total",
 			"statecode": "TT"
@@ -844,12 +844,12 @@
 		},
 		{
 			"active": "39",
-			"confirmed": "41",
-			"deaths": "0",
-			"deltaconfirmed": "1",
-			"deltadeaths": "0",
+			"confirmed": "42",
+			"deaths": "1",
+			"deltaconfirmed": "2",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 13:54:26",
+			"lastupdatedtime": "07/04/2020 14:35:26",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"
