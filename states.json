@@ -615,13 +615,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4263",
-			"confirmed": "4778",
+			"active": "4307",
+			"confirmed": "4822",
 			"deaths": "133",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "44",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 08:09:24",
+			"lastupdatedtime": "07/04/2020 11:13:27",
 			"recovered": "382",
 			"state": "Total",
 			"statecode": "TT"
@@ -699,13 +699,13 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "274",
-			"confirmed": "301",
+			"active": "298",
+			"confirmed": "325",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "24",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 22:35:36",
+			"lastupdatedtime": "07/04/2020 11:04:28",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -747,13 +747,13 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "112",
-			"confirmed": "146",
+			"active": "131",
+			"confirmed": "165",
 			"deaths": "12",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 21:54:36",
+			"lastupdatedtime": "07/04/2020 11:13:31",
 			"recovered": "22",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -819,13 +819,13 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "26",
-			"confirmed": "26",
+			"active": "27",
+			"confirmed": "27",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:48:26",
+			"lastupdatedtime": "07/04/2020 11:04:34",
 			"recovered": "0",
 			"state": "Assam",
 			"statecode": "AS"
