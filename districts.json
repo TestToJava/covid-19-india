@@ -1281,10 +1281,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 145,
+        "confirmed": 163,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 22
         }
       },
       "Mumbai": {
@@ -1295,24 +1295,24 @@
         }
       },
       "Nagpur": {
-        "confirmed": 19,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 5
         }
       },
       "Thane": {
-        "confirmed": 86,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Ahmadnagar": {
-        "confirmed": 26,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
+        }
+      },
+      "Ahmadnagar": {
+        "confirmed": 29,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       },
       "Yavatmal": {
@@ -1323,24 +1323,24 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 10,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ratnagiri": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Sangli": {
-        "confirmed": 26,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Sangli": {
+        "confirmed": 27,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       "Satara": {
@@ -1386,10 +1386,10 @@
         }
       },
       "Buldana": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       "Nashik": {
@@ -1439,6 +1439,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 39,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 39
+        }
+      },
+      "Saharsa": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2412,7 +2426,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 300,
+        "confirmed": 227,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
