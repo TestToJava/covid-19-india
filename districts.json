@@ -1253,38 +1253,38 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 141,
+        "confirmed": 145,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Mumbai": {
-        "confirmed": 526,
+        "confirmed": 536,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Nagpur": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Thane": {
-        "confirmed": 85,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ahmadnagar": {
-        "confirmed": 23,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Yavatmal": {
@@ -1309,10 +1309,10 @@
         }
       },
       "Sangli": {
-        "confirmed": 25,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Satara": {
@@ -1358,10 +1358,10 @@
         }
       },
       "Buldana": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Nashik": {
@@ -1555,10 +1555,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kurnool": {
@@ -1990,10 +1990,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 61,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Indore": {
@@ -2363,7 +2363,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 192,
+        "confirmed": 156,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
