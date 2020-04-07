@@ -615,14 +615,14 @@
 	],
 	"statewise": [
 		{
-			"active": "4738",
-			"confirmed": "5337",
-			"deaths": "154",
-			"deltaconfirmed": "559",
-			"deltadeaths": "20",
-			"deltarecovered": "51",
-			"lastupdatedtime": "07/04/2020 22:44:25",
-			"recovered": "445",
+			"active": "4729",
+			"confirmed": "5341",
+			"deaths": "157",
+			"deltaconfirmed": "563",
+			"deltadeaths": "23",
+			"deltarecovered": "61",
+			"lastupdatedtime": "07/04/2020 23:53:23",
+			"recovered": "455",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -651,13 +651,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "553",
+			"active": "551",
 			"confirmed": "576",
-			"deaths": "7",
+			"deaths": "9",
 			"deltaconfirmed": "51",
-			"deltadeaths": "0",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 22:24:26",
+			"lastupdatedtime": "07/04/2020 23:35:41",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -771,26 +771,26 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "118",
+			"active": "117",
 			"confirmed": "125",
-			"deaths": "3",
+			"deaths": "4",
 			"deltaconfirmed": "16",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 19:24:44",
+			"lastupdatedtime": "07/04/2020 23:35:45",
 			"recovered": "4",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
 		},
 		{
-			"active": "87",
+			"active": "77",
 			"confirmed": "99",
 			"deaths": "8",
 			"deltaconfirmed": "20",
 			"deltadeaths": "1",
-			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 22:44:28",
-			"recovered": "4",
+			"deltarecovered": "10",
+			"lastupdatedtime": "07/04/2020 23:53:25",
+			"recovered": "14",
 			"state": "Punjab",
 			"statecode": "PB"
 		},
@@ -819,13 +819,13 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "18",
-			"confirmed": "34",
+			"active": "22",
+			"confirmed": "38",
 			"deaths": "1",
-			"deltaconfirmed": "2",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "6",
-			"lastupdatedtime": "07/04/2020 19:24:48",
+			"lastupdatedtime": "07/04/2020 23:53:27",
 			"recovered": "15",
 			"state": "Bihar",
 			"statecode": "BR"
