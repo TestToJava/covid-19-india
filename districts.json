@@ -1884,24 +1884,24 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Surat": {
-        "confirmed": 19,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ahmadabad": {
-        "confirmed": 77,
+        "confirmed": 83,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 19
         }
       },
       "Vadodara": {
@@ -2412,7 +2412,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 310,
+        "confirmed": 300,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
