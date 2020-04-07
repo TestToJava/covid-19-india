@@ -171,14 +171,14 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 87,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Karimnagar": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -199,17 +199,17 @@
         }
       },
       "Medchal Malkajgiri": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Unknown": {
-        "confirmed": 298,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 40
+          "confirmed": 38
         }
       },
       "Warangal Urban": {
@@ -227,28 +227,28 @@
         }
       },
       "Adilabad": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nirmal": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Nizamabad": {
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Peddapalli": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -256,6 +256,34 @@
       },
       "Sangareddy": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jagitial": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jogulamba Gadwal": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mahabubnagar": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Suryapet": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2123,7 +2151,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Sheopur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
