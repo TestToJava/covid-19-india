@@ -1365,7 +1365,7 @@
         }
       },
       "Nashik": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1401,13 +1401,6 @@
       },
       "Latur": {
         "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Palghar": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
