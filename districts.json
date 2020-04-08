@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 228,
+        "confirmed": 277,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 49
         }
       },
       "Warangal Urban": {
@@ -473,10 +473,10 @@
         }
       },
       "Gurugram": {
-        "confirmed": 20,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Faridabad": {
@@ -1516,10 +1516,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Ludhiana": {
@@ -1590,6 +1590,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       }
     }
@@ -2461,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 455,
+        "confirmed": 389,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
