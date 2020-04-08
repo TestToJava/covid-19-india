@@ -293,7 +293,7 @@
   },
   "Rajasthan": {
     "districtData": {
-      "Italians": {
+      "Italians*": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
@@ -465,7 +465,7 @@
   },
   "Haryana": {
     "districtData": {
-      "Italians": {
+      "Italians*": {
         "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
