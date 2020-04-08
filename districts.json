@@ -1706,10 +1706,10 @@
         }
       },
       "Haridwar": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Almora": {
@@ -2461,7 +2461,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 456,
+        "confirmed": 455,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
