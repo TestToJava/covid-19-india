@@ -301,17 +301,17 @@
         }
       },
       "Jaipur": {
-        "confirmed": 118,
+        "confirmed": 129,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 23
         }
       },
       "Jhunjhunu": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -434,10 +434,10 @@
         }
       },
       "Karauli": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nagaur": {
@@ -455,10 +455,17 @@
         }
       },
       "Kota": {
-        "confirmed": 10,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
+        }
+      },
+      "Jhalawar": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
@@ -2258,6 +2265,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Nawada": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -2482,7 +2496,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 205,
+        "confirmed": 184,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
