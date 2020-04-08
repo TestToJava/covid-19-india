@@ -1386,7 +1386,7 @@
         }
       },
       "Satara": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1483,11 +1483,11 @@
           "confirmed": 0
         }
       },
-      "Satna": {
-        "confirmed": 1,
+      "Unknown": {
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 60
         }
       }
     }
@@ -1713,10 +1713,10 @@
         }
       },
       "Haridwar": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Almora": {
@@ -2157,7 +2157,7 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
+      "Other Region*": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2468,10 +2468,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 30,
+        "confirmed": 545,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
