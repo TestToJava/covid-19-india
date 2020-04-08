@@ -1105,10 +1105,10 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 16,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Srinagar": {
@@ -1168,10 +1168,10 @@
         }
       },
       "Kashmir": {
-        "confirmed": 9,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       }
     }
@@ -2461,7 +2461,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 527,
+        "confirmed": 513,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
