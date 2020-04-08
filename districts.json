@@ -596,24 +596,24 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 49,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ghaziabad": {
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Lucknow": {
-        "confirmed": 21,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Gautam Buddha Nagar": {
@@ -638,17 +638,17 @@
         }
       },
       "Varanasi": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Pilibhit": {
@@ -659,21 +659,21 @@
         }
       },
       "Jaunpur": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Baghpat": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Shamli": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -694,14 +694,14 @@
         }
       },
       "Bulandshahr": {
-        "confirmed": 3,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Basti": {
-        "confirmed": 5,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -722,7 +722,7 @@
         }
       },
       "Firozabad": {
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -736,10 +736,10 @@
         }
       },
       "Saharanpur": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pratapgarh": {
@@ -813,10 +813,10 @@
         }
       },
       "Kaushambi": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bijnor": {
@@ -834,17 +834,24 @@
         }
       },
       "Sitapur": {
-        "confirmed": 8,
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Unknown": {
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 27,
+      "Rampur": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       }
     }
@@ -1126,10 +1133,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 63,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       },
       "Rajouri": {
@@ -1502,10 +1509,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 26,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Hoshiarpur": {
@@ -1590,13 +1597,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 4
         }
       }
     }
@@ -2468,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 389,
+        "confirmed": 341,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
