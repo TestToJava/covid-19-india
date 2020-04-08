@@ -301,10 +301,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 109,
+        "confirmed": 118,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 12
         }
       },
       "Jhunjhunu": {
@@ -322,10 +322,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 30,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pali": {
@@ -413,10 +413,10 @@
         }
       },
       "Bikaner": {
-        "confirmed": 15,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         }
       },
       "Dausa": {
@@ -777,15 +777,8 @@
           "confirmed": 0
         }
       },
-      "Hathras": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Hatras": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2468,7 +2461,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 545,
+        "confirmed": 530,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
