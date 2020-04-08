@@ -625,24 +625,24 @@
 	"statewise": [
 		{
 			"active": "4728",
-			"confirmed": "5356",
-			"deaths": "160",
-			"deltaconfirmed": "5",
-			"deltadeaths": "0",
+			"confirmed": "5360",
+			"deaths": "164",
+			"deltaconfirmed": "9",
+			"deltadeaths": "4",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 09:44:24",
+			"lastupdatedtime": "08/04/2020 11:43:25",
 			"recovered": "468",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "875",
+			"active": "873",
 			"confirmed": "1018",
-			"deaths": "64",
+			"deaths": "66",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 00:24:24",
+			"lastupdatedtime": "08/04/2020 11:43:27",
 			"recovered": "79",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -756,13 +756,13 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "136",
-			"confirmed": "175",
-			"deaths": "14",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"active": "138",
+			"confirmed": "179",
+			"deaths": "16",
+			"deltaconfirmed": "4",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 20:24:29",
+			"lastupdatedtime": "08/04/2020 11:30:32",
 			"recovered": "25",
 			"state": "Gujarat",
 			"statecode": "GJ"
