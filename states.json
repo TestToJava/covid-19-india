@@ -624,13 +624,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4838",
-			"confirmed": "5477",
+			"active": "4841",
+			"confirmed": "5480",
 			"deaths": "167",
-			"deltaconfirmed": "126",
+			"deltaconfirmed": "129",
 			"deltadeaths": "7",
 			"deltarecovered": "4",
-			"lastupdatedtime": "08/04/2020 15:20:24",
+			"lastupdatedtime": "08/04/2020 16:10:24",
 			"recovered": "472",
 			"state": "Total",
 			"statecode": "TT"
@@ -792,13 +792,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "77",
-			"confirmed": "99",
+			"active": "79",
+			"confirmed": "101",
 			"deaths": "8",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 23:54:26",
+			"lastupdatedtime": "08/04/2020 16:10:25",
 			"recovered": "14",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -900,10 +900,10 @@
 			"statecode": "LA"
 		},
 		{
-			"active": "10",
-			"confirmed": "10",
+			"active": "11",
+			"confirmed": "11",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "30/03/2020 11:27:27",
