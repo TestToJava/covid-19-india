@@ -1926,10 +1926,10 @@
         }
       },
       "Surat": {
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ahmadabad": {
@@ -1940,10 +1940,10 @@
         }
       },
       "Vadodara": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gandhinagar": {
@@ -1968,10 +1968,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Porbandar": {
@@ -2461,10 +2461,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 43,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
