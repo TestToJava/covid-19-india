@@ -1516,10 +1516,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ludhiana": {
@@ -1558,10 +1558,10 @@
         }
       },
       "Faridkot": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Barnala": {
@@ -2304,10 +2304,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2461,7 +2461,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 530,
+        "confirmed": 527,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
