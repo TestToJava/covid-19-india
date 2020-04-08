@@ -2,38 +2,38 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Alappuzha": {
-        "confirmed": 5,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
-      "Kasaragod": {
-        "confirmed": 157,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Pathanamthitta": {
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Kannur": {
-        "confirmed": 58,
+      "Alappuzha": {
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
+        }
+      },
+      "Kasaragod": {
+        "confirmed": 158,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Pathanamthitta": {
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Kannur": {
+        "confirmed": 62,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       },
       "Ernakulam": {
@@ -729,7 +729,7 @@
         }
       },
       "Azamgarh": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -841,7 +841,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1330,10 +1330,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 642,
+        "confirmed": 702,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 60
         }
       },
       "Nagpur": {
@@ -1484,10 +1484,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 60,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 60
+          "confirmed": 57
         }
       }
     }
@@ -1611,10 +1611,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Visakhapatnam": {
@@ -1646,10 +1646,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 41,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kurnool": {
@@ -1660,17 +1660,17 @@
         }
       },
       "Anantapur": {
-        "confirmed": 6,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "West Godavari": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Y.S.R.": {
@@ -2468,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 341,
+        "confirmed": 256,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
