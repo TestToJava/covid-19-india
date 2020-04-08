@@ -624,10 +624,10 @@
 	],
 	"statewise": [
 		{
-			"active": "4763",
-			"confirmed": "5402",
+			"active": "4823",
+			"confirmed": "5462",
 			"deaths": "167",
-			"deltaconfirmed": "51",
+			"deltaconfirmed": "111",
 			"deltadeaths": "7",
 			"deltarecovered": "4",
 			"lastupdatedtime": "08/04/2020 14:40:24",
@@ -636,10 +636,10 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "873",
-			"confirmed": "1018",
+			"active": "933",
+			"confirmed": "1078",
 			"deaths": "66",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "60",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 11:44:27",
@@ -708,13 +708,13 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "309",
-			"confirmed": "333",
+			"active": "308",
+			"confirmed": "332",
 			"deaths": "3",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 22:14:28",
+			"lastupdatedtime": "08/04/2020 14:50:25",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -840,13 +840,13 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "27",
-			"confirmed": "31",
+			"active": "28",
+			"confirmed": "32",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 18:44:26",
+			"lastupdatedtime": "08/04/2020 14:50:28",
 			"recovered": "4",
 			"state": "Uttarakhand",
 			"statecode": "UT"
