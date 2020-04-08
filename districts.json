@@ -596,7 +596,7 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 61,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -610,21 +610,21 @@
         }
       },
       "Lucknow": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 5
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 61,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Kheri": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -645,7 +645,7 @@
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 18,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
@@ -680,7 +680,7 @@
         }
       },
       "Meerut": {
-        "confirmed": 25,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -812,6 +812,20 @@
           "confirmed": 0
         }
       },
+      "Mathura": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Budaun": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Kaushambi": {
         "confirmed": 2,
         "lastupdatedtime": "",
@@ -838,13 +852,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
-        }
-      },
-      "Unknown": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
         }
       },
       "Rampur": {
@@ -1947,10 +1954,10 @@
         }
       },
       "Vadodara": {
-        "confirmed": 13,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         }
       },
       "Gandhinagar": {
@@ -1975,10 +1982,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       "Porbandar": {
@@ -2468,7 +2475,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 265,
+        "confirmed": 258,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
