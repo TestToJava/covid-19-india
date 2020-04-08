@@ -624,14 +624,14 @@
 	],
 	"statewise": [
 		{
-			"active": "4727",
-			"confirmed": "5360",
-			"deaths": "165",
-			"deltaconfirmed": "9",
-			"deltadeaths": "5",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 12:44:24",
-			"recovered": "468",
+			"active": "4763",
+			"confirmed": "5402",
+			"deaths": "167",
+			"deltaconfirmed": "51",
+			"deltadeaths": "7",
+			"deltarecovered": "4",
+			"lastupdatedtime": "08/04/2020 14:40:24",
+			"recovered": "472",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -708,10 +708,10 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "308",
-			"confirmed": "332",
+			"active": "309",
+			"confirmed": "333",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "07/04/2020 22:14:28",
@@ -720,14 +720,14 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "306",
-			"confirmed": "314",
+			"active": "320",
+			"confirmed": "329",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "15",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 21:54:37",
-			"recovered": "5",
+			"deltarecovered": "1",
+			"lastupdatedtime": "08/04/2020 14:40:25",
+			"recovered": "6",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
@@ -744,14 +744,14 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "145",
-			"confirmed": "175",
+			"active": "148",
+			"confirmed": "181",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "1",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 12:44:26",
-			"recovered": "25",
+			"deltarecovered": "3",
+			"lastupdatedtime": "08/04/2020 14:40:25",
+			"recovered": "28",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},
@@ -768,13 +768,13 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "110",
-			"confirmed": "143",
+			"active": "122",
+			"confirmed": "155",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "12",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 20:45:28",
+			"lastupdatedtime": "08/04/2020 14:40:28",
 			"recovered": "31",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -804,13 +804,13 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "75",
-			"confirmed": "91",
-			"deaths": "3",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"active": "81",
+			"confirmed": "99",
+			"deaths": "5",
+			"deltaconfirmed": "8",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 13:35:28",
+			"lastupdatedtime": "08/04/2020 14:40:29",
 			"recovered": "13",
 			"state": "West Bengal",
 			"statecode": "WB"
