@@ -615,23 +615,23 @@
 		{
 			"dailyconfirmed": "573",
 			"dailydeceased": "26",
-			"dailyrecovered": "74",
+			"dailyrecovered": "76",
 			"date": "07 April ",
 			"totalconfirmed": "5351",
 			"totaldeceased": "163",
-			"totalrecovered": "468"
+			"totalrecovered": "470"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4892",
-			"confirmed": "5551",
+			"active": "4891",
+			"confirmed": "5552",
 			"deaths": "170",
-			"deltaconfirmed": "200",
+			"deltaconfirmed": "201",
 			"deltadeaths": "10",
 			"deltarecovered": "21",
 			"lastupdatedtime": "08/04/2020 18:10:26",
-			"recovered": "489",
+			"recovered": "491",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -841,13 +841,13 @@
 		},
 		{
 			"active": "28",
-			"confirmed": "32",
+			"confirmed": "33",
 			"deaths": "0",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 14:50:28",
-			"recovered": "4",
+			"lastupdatedtime": "08/04/2020 18:51:07",
+			"recovered": "5",
 			"state": "Uttarakhand",
 			"statecode": "UT"
 		},
@@ -876,14 +876,14 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "24",
+			"active": "23",
 			"confirmed": "27",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 00:04:28",
-			"recovered": "1",
+			"lastupdatedtime": "08/04/2020 18:51:19",
+			"recovered": "2",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
 		},
