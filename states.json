@@ -633,10 +633,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5171",
-			"confirmed": "5916",
+			"active": "5177",
+			"confirmed": "5922",
 			"deaths": "180",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 00:30:24",
@@ -801,10 +801,10 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "83",
-			"confirmed": "106",
+			"active": "89",
+			"confirmed": "112",
 			"deaths": "9",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 22:45:28",
