@@ -633,13 +633,13 @@
 	],
 	"statewise": [
 		{
-			"active": "5186",
-			"confirmed": "5935",
-			"deaths": "181",
-			"deltaconfirmed": "19",
-			"deltadeaths": "1",
+			"active": "5228",
+			"confirmed": "5979",
+			"deaths": "183",
+			"deltaconfirmed": "63",
+			"deltadeaths": "3",
 			"deltarecovered": "3",
-			"lastupdatedtime": "09/04/2020 09:36:47",
+			"lastupdatedtime": "09/04/2020 11:00:29",
 			"recovered": "568",
 			"state": "Total",
 			"statecode": "TT"
@@ -693,13 +693,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "335",
-			"confirmed": "383",
+			"active": "365",
+			"confirmed": "413",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "30",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 00:30:26",
+			"lastupdatedtime": "09/04/2020 10:50:32",
 			"recovered": "45",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -741,25 +741,25 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "292",
-			"confirmed": "341",
+			"active": "298",
+			"confirmed": "347",
 			"deaths": "24",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 21:20:25",
+			"lastupdatedtime": "09/04/2020 11:00:34",
 			"recovered": "25",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
 		},
 		{
-			"active": "148",
+			"active": "147",
 			"confirmed": "181",
-			"deaths": "5",
+			"deaths": "6",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 14:40:25",
+			"lastupdatedtime": "09/04/2020 11:00:36",
 			"recovered": "28",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -801,13 +801,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "88",
-			"confirmed": "112",
+			"active": "90",
+			"confirmed": "114",
 			"deaths": "10",
-			"deltaconfirmed": "6",
+			"deltaconfirmed": "8",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 10:12:37",
+			"lastupdatedtime": "09/04/2020 11:00:38",
 			"recovered": "14",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -819,7 +819,7 @@
 			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "3",
-			"lastupdatedtime": "09/04/2020 10:13:23",
+			"lastupdatedtime": "09/04/2020 10:17:04",
 			"recovered": "16",
 			"state": "West Bengal",
 			"statecode": "WB"
@@ -837,13 +837,13 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "23",
-			"confirmed": "39",
+			"active": "27",
+			"confirmed": "43",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 22:10:25",
+			"lastupdatedtime": "09/04/2020 10:50:39",
 			"recovered": "15",
 			"state": "Bihar",
 			"statecode": "BR"
@@ -885,13 +885,13 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "23",
-			"confirmed": "27",
+			"active": "24",
+			"confirmed": "28",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 18:51:19",
+			"lastupdatedtime": "09/04/2020 10:50:40",
 			"recovered": "2",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
@@ -921,13 +921,13 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "1",
-			"confirmed": "10",
+			"active": "2",
+			"confirmed": "11",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 19:44:41",
+			"lastupdatedtime": "09/04/2020 10:50:42",
 			"recovered": "9",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
@@ -957,13 +957,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "13",
+			"active": "12",
 			"confirmed": "13",
-			"deaths": "0",
+			"deaths": "1",
 			"deltaconfirmed": "9",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 07:45:54",
+			"lastupdatedtime": "09/04/2020 10:50:43",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
