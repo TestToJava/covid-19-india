@@ -905,17 +905,17 @@
         }
       },
       "Chennai": {
-        "confirmed": 159,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Erode": {
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       "Coimbatore": {
@@ -926,38 +926,38 @@
         }
       },
       "Tirunelveli": {
-        "confirmed": 42,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Tiruppur": {
-        "confirmed": 22,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Madurai": {
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Salem": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Vellore": {
-        "confirmed": 7,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Tiruchirappalli": {
@@ -968,10 +968,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 20,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Thanjavur": {
@@ -1010,31 +1010,31 @@
         }
       },
       "Namakkal": {
-        "confirmed": 33,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kanniyakumari": {
-        "confirmed": 6,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Thoothukkudi": {
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Theni": {
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dindigul": {
@@ -1045,10 +1045,10 @@
         }
       },
       "Sivaganga": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tirupathur": {
@@ -1059,10 +1059,10 @@
         }
       },
       "Thiruvarur": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ranipet": {
@@ -1087,10 +1087,10 @@
         }
       },
       "Nagapattinam": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Cuddalore": {
@@ -1101,10 +1101,10 @@
         }
       },
       "Kallakurichi": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Perambalur": {
@@ -1128,11 +1128,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 96,
+      "Tenkasi": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 96
+          "confirmed": 1
+        }
+      },
+      "Thirupathur": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
         }
       }
     }
@@ -1523,10 +1530,10 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -1635,13 +1642,6 @@
         }
       },
       "Sangrur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
