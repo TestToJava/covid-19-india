@@ -1154,10 +1154,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 82,
+        "confirmed": 108,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       "Rajouri": {
