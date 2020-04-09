@@ -874,6 +874,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 49,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
@@ -1982,31 +1989,31 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 11,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Surat": {
-        "confirmed": 25,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
-      "Ahmadabad": {
-        "confirmed": 133,
+      "Surat": {
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 50
+          "confirmed": 1
+        }
+      },
+      "Ahmadabad": {
+        "confirmed": 142,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 59
         }
       },
       "Vadodara": {
-        "confirmed": 18,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Gandhinagar": {
@@ -2059,10 +2066,10 @@
         }
       },
       "Patan": {
-        "confirmed": 5,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Chota Udaipur": {
