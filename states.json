@@ -633,10 +633,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5182",
-			"confirmed": "5927",
+			"active": "5186",
+			"confirmed": "5931",
 			"deaths": "180",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "15",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 07:45:50",
@@ -957,10 +957,10 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "9",
-			"confirmed": "9",
+			"active": "13",
+			"confirmed": "13",
 			"deaths": "0",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 07:45:54",
