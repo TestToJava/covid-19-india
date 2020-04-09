@@ -633,14 +633,14 @@
 	],
 	"statewise": [
 		{
-			"active": "5623",
+			"active": "5619",
 			"confirmed": "6399",
 			"deaths": "186",
 			"deltaconfirmed": "483",
 			"deltadeaths": "6",
-			"deltarecovered": "25",
+			"deltarecovered": "29",
 			"lastupdatedtime": "09/04/2020 18:30:24",
-			"recovered": "590",
+			"recovered": "594",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -801,14 +801,14 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "106",
+			"active": "102",
 			"confirmed": "130",
 			"deaths": "10",
 			"deltaconfirmed": "24",
 			"deltadeaths": "1",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"lastupdatedtime": "09/04/2020 15:05:38",
-			"recovered": "14",
+			"recovered": "18",
 			"state": "Punjab",
 			"statecode": "PB"
 		},
