@@ -879,7 +879,7 @@
         "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 49
         }
       }
     }
@@ -1667,10 +1667,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 27,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Visakhapatnam": {
@@ -1681,10 +1681,10 @@
         }
       },
       "East Godavari": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Krishna": {
@@ -1702,10 +1702,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 49,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kurnool": {
@@ -1730,10 +1730,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -2522,10 +2522,10 @@
         }
       },
       "Dhubri": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hailakandi": {
