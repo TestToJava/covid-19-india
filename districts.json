@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 157,
+        "confirmed": 161,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Pathanamthitta": {
@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 58,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ernakulam": {
@@ -51,10 +51,10 @@
         }
       },
       "Thiruvananthapuram": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Idukki": {
@@ -65,10 +65,10 @@
         }
       },
       "Malappuram": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kozhikode": {
@@ -93,17 +93,10 @@
         }
       },
       "Kollam": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 3
+          "confirmed": 1
         }
       }
     }
@@ -1134,6 +1127,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 96,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 96
+        }
       }
     }
   },
@@ -1537,10 +1537,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 7
         }
       },
       "Hoshiarpur": {
@@ -1558,10 +1558,10 @@
         }
       },
       "Ludhiana": {
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 4
         }
       },
       "Patiala": {
@@ -1579,10 +1579,10 @@
         }
       },
       "Mansa": {
-        "confirmed": 5,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Pathankot": {
@@ -1600,10 +1600,10 @@
         }
       },
       "Barnala": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Fatehgarh Sahib": {
@@ -1625,6 +1625,27 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Sri Muktsar Sahib": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Sangrur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
