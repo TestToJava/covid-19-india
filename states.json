@@ -633,10 +633,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5519",
-			"confirmed": "6276",
+			"active": "5524",
+			"confirmed": "6281",
 			"deaths": "186",
-			"deltaconfirmed": "360",
+			"deltaconfirmed": "365",
 			"deltadeaths": "6",
 			"deltarecovered": "6",
 			"lastupdatedtime": "09/04/2020 17:35:24",
@@ -705,10 +705,10 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "259",
-			"confirmed": "345",
+			"active": "262",
+			"confirmed": "348",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 20:15:28",
@@ -777,10 +777,10 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "134",
-			"confirmed": "168",
+			"active": "136",
+			"confirmed": "170",
 			"deaths": "2",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 12:51:40",
