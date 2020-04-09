@@ -631,36 +631,36 @@
 			"totalrecovered": "565"
 		},
 		{
-			"dailyconfirmed": "737",
-			"dailydeceased": "29",
+			"dailyconfirmed": "794",
+			"dailydeceased": "45",
 			"dailyrecovered": "37",
 			"date": "09 April ",
-			"totalconfirmed": "6653",
-			"totaldeceased": "212",
+			"totalconfirmed": "6710",
+			"totaldeceased": "228",
 			"totalrecovered": "602"
 		}
 	],
 	"statewise": [
 		{
-			"active": "5842",
-			"confirmed": "6653",
-			"deaths": "209",
-			"deltaconfirmed": "737",
-			"deltadeaths": "29",
+			"active": "5884",
+			"confirmed": "6711",
+			"deaths": "225",
+			"deltaconfirmed": "794",
+			"deltadeaths": "45",
 			"deltarecovered": "37",
-			"lastupdatedtime": "09/04/2020 22:40:24",
+			"lastupdatedtime": "09/04/2020 23:20:24",
 			"recovered": "602",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1148",
-			"confirmed": "1346",
-			"deaths": "81",
-			"deltaconfirmed": "211",
-			"deltadeaths": "9",
+			"active": "1150",
+			"confirmed": "1364",
+			"deaths": "97",
+			"deltaconfirmed": "228",
+			"deltadeaths": "25",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 19:50:24",
+			"lastupdatedtime": "09/04/2020 23:20:27",
 			"recovered": "117",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -702,13 +702,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "382",
-			"confirmed": "430",
+			"active": "415",
+			"confirmed": "463",
 			"deaths": "3",
-			"deltaconfirmed": "47",
+			"deltaconfirmed": "80",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 15:05:34",
+			"lastupdatedtime": "09/04/2020 23:20:28",
 			"recovered": "45",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -846,13 +846,13 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "35",
-			"confirmed": "51",
+			"active": "42",
+			"confirmed": "58",
 			"deaths": "1",
-			"deltaconfirmed": "12",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 12:06:17",
+			"lastupdatedtime": "09/04/2020 23:20:30",
 			"recovered": "15",
 			"state": "Bihar",
 			"statecode": "BR"
