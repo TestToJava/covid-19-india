@@ -301,10 +301,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 129,
+        "confirmed": 140,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Jhunjhunu": {
@@ -322,10 +322,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 32,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       "Pali": {
@@ -371,10 +371,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 36,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Alwar": {
@@ -1344,17 +1344,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 197,
+        "confirmed": 200,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Mumbai": {
-        "confirmed": 714,
+        "confirmed": 857,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 143
         }
       },
       "Nagpur": {
@@ -1365,10 +1365,10 @@
         }
       },
       "Thane": {
-        "confirmed": 92,
+        "confirmed": 93,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ahmadnagar": {
@@ -1379,17 +1379,17 @@
         }
       },
       "Yavatmal": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Aurangabad": {
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ratnagiri": {
@@ -1414,10 +1414,10 @@
         }
       },
       "Sindhudurg": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gondiya": {
@@ -1505,10 +1505,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 162,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 162
+          "confirmed": 10
         }
       }
     }
@@ -1544,10 +1544,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 8,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ludhiana": {
