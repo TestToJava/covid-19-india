@@ -642,10 +642,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5951",
-			"confirmed": "6821",
+			"active": "5950",
+			"confirmed": "6820",
 			"deaths": "229",
-			"deltaconfirmed": "92",
+			"deltaconfirmed": "91",
 			"deltadeaths": "3",
 			"deltarecovered": "6",
 			"lastupdatedtime": "10/04/2020 11:40:24",
@@ -750,10 +750,10 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "354",
-			"confirmed": "412",
+			"active": "353",
+			"confirmed": "411",
 			"deaths": "33",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "10/04/2020 11:35:24",
