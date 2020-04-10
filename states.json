@@ -642,14 +642,14 @@
 	],
 	"statewise": [
 		{
-			"active": "6040",
-			"confirmed": "6912",
+			"active": "6078",
+			"confirmed": "6998",
 			"deaths": "230",
-			"deltaconfirmed": "183",
+			"deltaconfirmed": "269",
 			"deltadeaths": "4",
-			"deltarecovered": "7",
-			"lastupdatedtime": "10/04/2020 17:50:24",
-			"recovered": "642",
+			"deltarecovered": "55",
+			"lastupdatedtime": "10/04/2020 18:35:24",
+			"recovered": "690",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -666,14 +666,14 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "799",
-			"confirmed": "834",
+			"active": "859",
+			"confirmed": "911",
 			"deaths": "8",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "77",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 18:30:27",
-			"recovered": "27",
+			"deltarecovered": "17",
+			"lastupdatedtime": "10/04/2020 18:35:25",
+			"recovered": "44",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
@@ -714,14 +714,14 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "258",
-			"confirmed": "357",
+			"active": "238",
+			"confirmed": "364",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 18:10:35",
-			"recovered": "97",
+			"deltarecovered": "27",
+			"lastupdatedtime": "10/04/2020 18:35:27",
+			"recovered": "124",
 			"state": "Kerala",
 			"statecode": "KL"
 		},
@@ -786,14 +786,14 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "141",
-			"confirmed": "175",
+			"active": "138",
+			"confirmed": "176",
 			"deaths": "2",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 12:51:40",
-			"recovered": "32",
+			"deltarecovered": "4",
+			"lastupdatedtime": "10/04/2020 18:10:25",
+			"recovered": "36",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
@@ -882,13 +882,13 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "11",
-			"confirmed": "18",
+			"active": "12",
+			"confirmed": "19",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 22:35:25",
+			"lastupdatedtime": "10/04/2020 18:10:27",
 			"recovered": "7",
 			"state": "Chandigarh",
 			"statecode": "CH"
