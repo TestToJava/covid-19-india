@@ -640,24 +640,24 @@
 			"totalrecovered": "635"
 		},
 		{
-			"dailyconfirmed": "869",
+			"dailyconfirmed": "871",
 			"dailydeceased": "22",
 			"dailyrecovered": "139",
 			"date": "10 April ",
-			"totalconfirmed": "7598",
+			"totalconfirmed": "7600",
 			"totaldeceased": "252",
 			"totalrecovered": "774"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6575",
-			"confirmed": "7598",
+			"active": "6577",
+			"confirmed": "7600",
 			"deaths": "249",
-			"deltaconfirmed": "869",
+			"deltaconfirmed": "871",
 			"deltadeaths": "22",
 			"deltarecovered": "139",
-			"lastupdatedtime": "11/04/2020 00:00:27",
+			"lastupdatedtime": "11/04/2020 00:20:24",
 			"recovered": "774",
 			"state": "Total",
 			"statecode": "TT"
@@ -843,13 +843,13 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "35",
-			"confirmed": "48",
+			"active": "37",
+			"confirmed": "50",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "10",
-			"lastupdatedtime": "10/04/2020 23:10:26",
+			"lastupdatedtime": "11/04/2020 00:20:26",
 			"recovered": "12",
 			"state": "Odisha",
 			"statecode": "OR"
