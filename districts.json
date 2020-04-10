@@ -1885,7 +1885,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
