@@ -642,14 +642,14 @@
 	],
 	"statewise": [
 		{
-			"active": "5995",
-			"confirmed": "6866",
+			"active": "6040",
+			"confirmed": "6912",
 			"deaths": "230",
-			"deltaconfirmed": "137",
+			"deltaconfirmed": "183",
 			"deltadeaths": "4",
-			"deltarecovered": "6",
-			"lastupdatedtime": "10/04/2020 17:35:24",
-			"recovered": "641",
+			"deltarecovered": "7",
+			"lastupdatedtime": "10/04/2020 17:50:24",
+			"recovered": "642",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -726,14 +726,14 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "375",
-			"confirmed": "410",
+			"active": "395",
+			"confirmed": "431",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "21",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 20:35:25",
-			"recovered": "31",
+			"deltarecovered": "1",
+			"lastupdatedtime": "10/04/2020 17:50:25",
+			"recovered": "32",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
 		},
@@ -798,10 +798,10 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "174",
-			"confirmed": "184",
+			"active": "197",
+			"confirmed": "207",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "23",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 19:35:27",
@@ -954,13 +954,13 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "4",
-			"confirmed": "5",
+			"active": "6",
+			"confirmed": "7",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 17:24:56",
+			"lastupdatedtime": "10/04/2020 17:50:26",
 			"recovered": "1",
 			"state": "Puducherry",
 			"statecode": "PY"
