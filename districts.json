@@ -1379,14 +1379,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 200,
+        "confirmed": 214,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 857,
+        "confirmed": 876,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 93,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1421,14 +1421,14 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ratnagiri": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1449,7 +1449,7 @@
         }
       },
       "Sindhudurg": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1463,7 +1463,7 @@
         }
       },
       "Kolhapur": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1484,7 +1484,7 @@
         }
       },
       "Buldana": {
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1540,7 +1540,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 77,
+        "confirmed": 26,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Akola": {
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2186,10 +2193,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 95,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Indore": {
