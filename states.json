@@ -642,13 +642,13 @@
 	],
 	"statewise": [
 		{
-			"active": "5880",
-			"confirmed": "6742",
-			"deaths": "227",
-			"deltaconfirmed": "13",
-			"deltadeaths": "1",
+			"active": "5908",
+			"confirmed": "6771",
+			"deaths": "228",
+			"deltaconfirmed": "42",
+			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 10:00:24",
+			"lastupdatedtime": "10/04/2020 10:30:30",
 			"recovered": "635",
 			"state": "Total",
 			"statecode": "TT"
@@ -702,13 +702,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "400",
-			"confirmed": "463",
+			"active": "426",
+			"confirmed": "489",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "26",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 01:35:25",
+			"lastupdatedtime": "10/04/2020 10:30:31",
 			"recovered": "60",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -846,10 +846,10 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "42",
-			"confirmed": "58",
+			"active": "44",
+			"confirmed": "60",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 23:20:30",
@@ -870,13 +870,13 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "29",
+			"active": "28",
 			"confirmed": "29",
-			"deaths": "0",
+			"deaths": "1",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 00:04:27",
+			"lastupdatedtime": "10/04/2020 10:20:25",
 			"recovered": "0",
 			"state": "Assam",
 			"statecode": "AS"
@@ -966,13 +966,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "12",
-			"confirmed": "13",
+			"active": "13",
+			"confirmed": "14",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 10:50:43",
+			"lastupdatedtime": "10/04/2020 10:20:26",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
