@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 161,
+        "confirmed": 164,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Pathanamthitta": {
@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 62,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ernakulam": {
@@ -65,10 +65,10 @@
         }
       },
       "Malappuram": {
-        "confirmed": 18,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kozhikode": {
@@ -1168,6 +1168,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 77,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 77
         }
       }
     }
