@@ -901,10 +901,10 @@
   "Ladakh": {
     "districtData": {
       "Leh": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kargil": {
@@ -2186,10 +2186,10 @@
         }
       },
       "Bhopal": {
-        "confirmed": 94,
+        "confirmed": 95,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Indore": {
