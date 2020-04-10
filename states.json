@@ -614,11 +614,11 @@
 		},
 		{
 			"dailyconfirmed": "573",
-			"dailydeceased": "26",
+			"dailydeceased": "27",
 			"dailyrecovered": "75",
 			"date": "07 April ",
 			"totalconfirmed": "5351",
-			"totaldeceased": "163",
+			"totaldeceased": "164",
 			"totalrecovered": "469"
 		},
 		{
@@ -627,7 +627,7 @@
 			"dailyrecovered": "96",
 			"date": "08 April ",
 			"totalconfirmed": "5916",
-			"totaldeceased": "183",
+			"totaldeceased": "184",
 			"totalrecovered": "565"
 		},
 		{
@@ -636,40 +636,40 @@
 			"dailyrecovered": "70",
 			"date": "09 April ",
 			"totalconfirmed": "6729",
-			"totaldeceased": "229",
+			"totaldeceased": "230",
 			"totalrecovered": "635"
 		},
 		{
 			"dailyconfirmed": "869",
-			"dailydeceased": "20",
+			"dailydeceased": "22",
 			"dailyrecovered": "139",
 			"date": "10 April ",
 			"totalconfirmed": "7598",
-			"totaldeceased": "249",
+			"totaldeceased": "252",
 			"totalrecovered": "774"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6578",
+			"active": "6575",
 			"confirmed": "7598",
-			"deaths": "246",
+			"deaths": "249",
 			"deltaconfirmed": "869",
-			"deltadeaths": "20",
+			"deltadeaths": "22",
 			"deltarecovered": "139",
-			"lastupdatedtime": "10/04/2020 23:10:24",
+			"lastupdatedtime": "11/04/2020 00:00:27",
 			"recovered": "774",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1278",
+			"active": "1276",
 			"confirmed": "1574",
-			"deaths": "108",
+			"deaths": "110",
 			"deltaconfirmed": "210",
-			"deltadeaths": "11",
+			"deltadeaths": "13",
 			"deltarecovered": "63",
-			"lastupdatedtime": "10/04/2020 21:40:40",
+			"lastupdatedtime": "11/04/2020 00:00:28",
 			"recovered": "188",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -747,9 +747,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "366",
+			"active": "365",
 			"confirmed": "381",
-			"deaths": "5",
+			"deaths": "6",
 			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
