@@ -642,10 +642,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5950",
-			"confirmed": "6820",
+			"active": "5955",
+			"confirmed": "6825",
 			"deaths": "229",
-			"deltaconfirmed": "91",
+			"deltaconfirmed": "96",
 			"deltadeaths": "3",
 			"deltarecovered": "6",
 			"lastupdatedtime": "10/04/2020 11:40:24",
@@ -786,10 +786,10 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "136",
-			"confirmed": "170",
+			"active": "141",
+			"confirmed": "175",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 12:51:40",
