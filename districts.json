@@ -1386,7 +1386,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 876,
+        "confirmed": 874,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 114,
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1429,6 +1429,13 @@
       },
       "Ratnagiri": {
         "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Palghar": {
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1534,13 +1541,6 @@
       },
       "Jalna": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Palghar": {
-        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
