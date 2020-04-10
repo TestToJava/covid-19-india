@@ -371,7 +371,7 @@
         }
       },
       "Evacuees": {
-        "confirmed": 48,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -470,13 +470,6 @@
       },
       "Barmer": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "EVACUEES": {
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
