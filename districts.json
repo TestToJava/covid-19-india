@@ -1242,17 +1242,17 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 64,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kalaburagi": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kodagu": {
@@ -1270,10 +1270,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 37,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Dharwad": {
@@ -1354,10 +1354,10 @@
         }
       },
       "Bengaluru Rural": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Gadag": {
@@ -2193,21 +2193,21 @@
   "Madhya Pradesh": {
     "districtData": {
       "Jabalpur": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Bhopal": {
-        "confirmed": 94,
+        "confirmed": 98,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Indore": {
-        "confirmed": 173,
+        "confirmed": 221,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2249,7 +2249,7 @@
         }
       },
       "Khargone": {
-        "confirmed": 4,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2270,7 +2270,7 @@
         }
       },
       "Vidisha": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2290,13 +2290,6 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 72,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Khandwa": {
         "confirmed": 5,
         "lastupdatedtime": "",
@@ -2306,6 +2299,27 @@
       },
       "Dhar": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Hoshangabad": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Raisen": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Dewas": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
