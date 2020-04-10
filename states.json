@@ -642,10 +642,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5955",
-			"confirmed": "6825",
+			"active": "5965",
+			"confirmed": "6835",
 			"deaths": "229",
-			"deltaconfirmed": "96",
+			"deltaconfirmed": "106",
 			"deltadeaths": "3",
 			"deltarecovered": "6",
 			"lastupdatedtime": "10/04/2020 11:40:24",
@@ -762,10 +762,10 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "161",
-			"confirmed": "197",
+			"active": "171",
+			"confirmed": "207",
 			"deaths": "6",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "10",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 17:35:25",
