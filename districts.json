@@ -1674,7 +1674,7 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 49,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1723,17 +1723,17 @@
         }
       },
       "Kurnool": {
-        "confirmed": 74,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Anantapur": {
-        "confirmed": 13,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "West Godavari": {
@@ -2010,10 +2010,10 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Surat": {
@@ -2024,31 +2024,31 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 142,
+        "confirmed": 153,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Vadodara": {
-        "confirmed": 22,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Gandhinagar": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kachchh": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Mahesana": {
@@ -2059,10 +2059,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 18,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Porbandar": {
@@ -2087,10 +2087,10 @@
         }
       },
       "Patan": {
-        "confirmed": 12,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Chota Udaipur": {
@@ -2133,6 +2133,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bharuch": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       }
     }
