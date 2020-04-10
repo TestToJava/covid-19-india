@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 676,
+        "confirmed": 859,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 183
         }
       }
     }
@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 295,
+        "confirmed": 311,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Warangal Urban": {
@@ -1695,10 +1695,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 38,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Visakhapatnam": {
@@ -1709,10 +1709,10 @@
         }
       },
       "East Godavari": {
-        "confirmed": 12,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Krishna": {
@@ -1730,17 +1730,17 @@
         }
       },
       "Guntur": {
-        "confirmed": 51,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Kurnool": {
-        "confirmed": 75,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Anantapur": {
@@ -2031,24 +2031,24 @@
         }
       },
       "Surat": {
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ahmadabad": {
-        "confirmed": 153,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 55
         }
       },
       "Vadodara": {
-        "confirmed": 39,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 37
         }
       },
       "Gandhinagar": {
@@ -2150,10 +2150,10 @@
         }
       },
       "Bharuch": {
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 7
         }
       }
     }
