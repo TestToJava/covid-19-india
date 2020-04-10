@@ -642,14 +642,14 @@
 	],
 	"statewise": [
 		{
-			"active": "5908",
-			"confirmed": "6771",
-			"deaths": "228",
-			"deltaconfirmed": "42",
-			"deltadeaths": "2",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 10:30:30",
-			"recovered": "635",
+			"active": "5950",
+			"confirmed": "6819",
+			"deaths": "229",
+			"deltaconfirmed": "90",
+			"deltadeaths": "3",
+			"deltarecovered": "5",
+			"lastupdatedtime": "10/04/2020 11:05:24",
+			"recovered": "640",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -708,7 +708,7 @@
 			"deltaconfirmed": "26",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 10:30:31",
+			"lastupdatedtime": "10/04/2020 10:35:26",
 			"recovered": "60",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -738,13 +738,13 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "348",
-			"confirmed": "363",
+			"active": "350",
+			"confirmed": "365",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 20:50:25",
+			"lastupdatedtime": "10/04/2020 10:50:25",
 			"recovered": "10",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -774,14 +774,14 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "218",
-			"confirmed": "262",
-			"deaths": "18",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 22:40:26",
-			"recovered": "26",
+			"active": "259",
+			"confirmed": "308",
+			"deaths": "19",
+			"deltaconfirmed": "46",
+			"deltadeaths": "1",
+			"deltarecovered": "4",
+			"lastupdatedtime": "10/04/2020 11:05:25",
+			"recovered": "30",
 			"state": "Gujarat",
 			"statecode": "GJ"
 		},
@@ -852,7 +852,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 23:20:30",
+			"lastupdatedtime": "10/04/2020 10:35:27",
 			"recovered": "15",
 			"state": "Bihar",
 			"statecode": "BR"
@@ -942,14 +942,14 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "7",
+			"active": "6",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "04/04/2020 09:42:27",
-			"recovered": "0",
+			"recovered": "1",
 			"state": "Goa",
 			"statecode": "GA"
 		},
@@ -1417,6 +1417,16 @@
 			"totalpositivecases": "5114",
 			"totalsamplestested": "127919",
 			"updatetimestamp": "08/04/2020 09:00: pm"
+		},
+		{
+			"positivecasesfromsamplesreported": "320",
+			"samplereportedtoday": "16002",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_09April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "130792",
+			"totalpositivecases": "5705",
+			"totalsamplestested": "144910",
+			"updatetimestamp": "09/04/2020 09:00: pm"
 		}
 	]
 }
