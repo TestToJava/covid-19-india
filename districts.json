@@ -536,10 +536,10 @@
         }
       },
       "Ambala": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "Sirsa": {
@@ -1903,10 +1903,10 @@
         }
       },
       "Puducherry": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
@@ -1981,10 +1981,10 @@
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
