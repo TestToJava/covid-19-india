@@ -1593,10 +1593,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 37,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Hoshiarpur": {
@@ -1607,10 +1607,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ludhiana": {
@@ -1642,10 +1642,10 @@
         }
       },
       "Pathankot": {
-        "confirmed": 7,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Faridkot": {
@@ -1691,10 +1691,10 @@
         }
       },
       "Sangrur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
