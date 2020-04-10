@@ -640,25 +640,25 @@
 			"totalrecovered": "635"
 		},
 		{
-			"dailyconfirmed": "828",
+			"dailyconfirmed": "869",
 			"dailydeceased": "20",
-			"dailyrecovered": "125",
+			"dailyrecovered": "129",
 			"date": "10 April ",
-			"totalconfirmed": "7557",
+			"totalconfirmed": "7598",
 			"totaldeceased": "249",
-			"totalrecovered": "760"
+			"totalrecovered": "764"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6591",
-			"confirmed": "7597",
+			"active": "6588",
+			"confirmed": "7598",
 			"deaths": "246",
-			"deltaconfirmed": "828",
+			"deltaconfirmed": "869",
 			"deltadeaths": "20",
-			"deltarecovered": "125",
-			"lastupdatedtime": "10/04/2020 21:40:24",
-			"recovered": "760",
+			"deltarecovered": "129",
+			"lastupdatedtime": "10/04/2020 22:00:24",
+			"recovered": "764",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -711,13 +711,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "497",
-			"confirmed": "560",
+			"active": "498",
+			"confirmed": "561",
 			"deaths": "3",
-			"deltaconfirmed": "57",
+			"deltaconfirmed": "98",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 17:35:25",
+			"lastupdatedtime": "10/04/2020 22:00:25",
 			"recovered": "60",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -771,14 +771,14 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "171",
+			"active": "167",
 			"confirmed": "207",
 			"deaths": "6",
 			"deltaconfirmed": "10",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 17:35:25",
-			"recovered": "30",
+			"deltarecovered": "4",
+			"lastupdatedtime": "10/04/2020 21:50:26",
+			"recovered": "34",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},
