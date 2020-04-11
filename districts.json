@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 311,
+        "confirmed": 327,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Warangal Urban": {
@@ -1400,14 +1400,14 @@
         }
       },
       "Thane": {
-        "confirmed": 132,
+        "confirmed": 125,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Raigarh": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1435,7 +1435,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2351,6 +2351,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 78,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 78
         }
       }
     }
