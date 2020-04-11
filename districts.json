@@ -919,21 +919,21 @@
         }
       },
       "Chennai": {
-        "confirmed": 175,
+        "confirmed": 174,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Erode": {
-        "confirmed": 55,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Coimbatore": {
-        "confirmed": 90,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -960,6 +960,13 @@
           "confirmed": 0
         }
       },
+      "Chengalpattu": {
+        "confirmed": 37,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Salem": {
         "confirmed": 14,
         "lastupdatedtime": "",
@@ -967,21 +974,7 @@
           "confirmed": 0
         }
       },
-      "Vellore": {
-        "confirmed": 12,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Tiruchirappalli": {
-        "confirmed": 37,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Chengalpattu": {
+      "Ranipet": {
         "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
@@ -989,6 +982,13 @@
         }
       },
       "Thanjavur": {
+        "confirmed": 11,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Vellore": {
         "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
@@ -1079,13 +1079,6 @@
           "confirmed": 0
         }
       },
-      "Ranipet": {
-        "confirmed": 35,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Ramanathapuram": {
         "confirmed": 2,
         "lastupdatedtime": "",
@@ -1123,6 +1116,13 @@
       },
       "Perambalur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Tiruchirappalli": {
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1235,10 +1235,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 66,
+        "confirmed": 67,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kalaburagi": {
@@ -1263,10 +1263,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 42,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Dharwad": {
@@ -1326,10 +1326,10 @@
         }
       },
       "Bidar": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bagalkote": {
