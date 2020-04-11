@@ -647,17 +647,35 @@
 			"totalconfirmed": "7600",
 			"totaldeceased": "252",
 			"totalrecovered": "786"
+		},
+		{
+			"dailyconfirmed": "854",
+			"dailydeceased": "39",
+			"dailyrecovered": "186",
+			"date": "11 April ",
+			"totalconfirmed": "8454",
+			"totaldeceased": "291",
+			"totalrecovered": "972"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "12 April ",
+			"totalconfirmed": "8454",
+			"totaldeceased": "291",
+			"totalrecovered": "972"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7186",
-			"confirmed": "8446",
+			"active": "7193",
+			"confirmed": "8453",
 			"deaths": "288",
-			"deltaconfirmed": "847",
+			"deltaconfirmed": "854",
 			"deltadeaths": "39",
 			"deltarecovered": "186",
-			"lastupdatedtime": "11/04/2020 23:35:24",
+			"lastupdatedtime": "12/04/2020 01:10:24",
 			"recovered": "972",
 			"state": "Total",
 			"statecode": "TT"
@@ -939,13 +957,13 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "9",
-			"confirmed": "18",
+			"active": "16",
+			"confirmed": "25",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 10:50:42",
+			"lastupdatedtime": "12/04/2020 01:10:26",
 			"recovered": "9",
 			"state": "Chhattisgarh",
 			"statecode": "CT"
