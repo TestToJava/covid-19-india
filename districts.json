@@ -494,10 +494,10 @@
         }
       },
       "Faridabad": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Panipat": {
@@ -522,10 +522,10 @@
         }
       },
       "Palwal": {
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ambala": {
@@ -919,10 +919,10 @@
         }
       },
       "Chennai": {
-        "confirmed": 172,
+        "confirmed": 182,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Erode": {
@@ -933,10 +933,10 @@
         }
       },
       "Coimbatore": {
-        "confirmed": 86,
+        "confirmed": 97,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Tirunelveli": {
@@ -961,10 +961,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 39,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Salem": {
@@ -1010,10 +1010,10 @@
         }
       },
       "Tiruvannamalai": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Viluppuram": {
@@ -1052,10 +1052,10 @@
         }
       },
       "Dindigul": {
-        "confirmed": 54,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sivaganga": {
@@ -1087,24 +1087,24 @@
         }
       },
       "Thiruvallur": {
-        "confirmed": 13,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Nagapattinam": {
-        "confirmed": 12,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Cuddalore": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kallakurichi": {
@@ -1122,17 +1122,17 @@
         }
       },
       "Tiruchirappalli": {
-        "confirmed": 36,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "The Nilgiris": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ariyalur": {
@@ -1593,10 +1593,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 48,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Hoshiarpur": {
@@ -1607,10 +1607,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 12,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ludhiana": {
@@ -1621,10 +1621,10 @@
         }
       },
       "Patiala": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Rupnagar": {
@@ -1642,10 +1642,10 @@
         }
       },
       "Pathankot": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Faridkot": {
@@ -1709,10 +1709,10 @@
         }
       },
       "Prakasam": {
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Visakhapatnam": {
@@ -1744,17 +1744,17 @@
         }
       },
       "Guntur": {
-        "confirmed": 58,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Kurnool": {
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Anantapur": {
@@ -1772,10 +1772,10 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 29,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
