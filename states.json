@@ -651,35 +651,35 @@
 		{
 			"dailyconfirmed": "818",
 			"dailydeceased": "38",
-			"dailyrecovered": "161",
+			"dailyrecovered": "181",
 			"date": "11 April ",
 			"totalconfirmed": "8418",
 			"totaldeceased": "290",
-			"totalrecovered": "949"
+			"totalrecovered": "969"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7181",
+			"active": "7161",
 			"confirmed": "8417",
 			"deaths": "287",
 			"deltaconfirmed": "818",
 			"deltadeaths": "38",
-			"deltarecovered": "161",
-			"lastupdatedtime": "11/04/2020 22:20:24",
-			"recovered": "949",
+			"deltarecovered": "181",
+			"lastupdatedtime": "11/04/2020 22:35:24",
+			"recovered": "969",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1446",
+			"active": "1426",
 			"confirmed": "1761",
 			"deaths": "127",
 			"deltaconfirmed": "187",
 			"deltadeaths": "17",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 21:20:24",
-			"recovered": "188",
+			"deltarecovered": "20",
+			"lastupdatedtime": "11/04/2020 22:35:24",
+			"recovered": "208",
 			"state": "Maharashtra",
 			"statecode": "MH"
 		},
@@ -1436,6 +1436,16 @@
 			"totalpositivecases": "6872",
 			"totalsamplestested": "161330",
 			"updatetimestamp": "10/04/2020 09:00: pm"
+		},
+		{
+			"positivecasesfromsamplesreported": "600",
+			"samplereportedtoday": "17143",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_11April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "164773",
+			"totalpositivecases": "7703",
+			"totalsamplestested": "179374",
+			"updatetimestamp": "11/04/2020 09:00: pm"
 		}
 	]
 }
