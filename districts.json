@@ -413,10 +413,10 @@
         }
       },
       "Bikaner": {
-        "confirmed": 20,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Dausa": {
@@ -455,10 +455,10 @@
         }
       },
       "Kota": {
-        "confirmed": 19,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       "Jhalawar": {
