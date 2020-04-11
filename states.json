@@ -647,29 +647,38 @@
 			"totalconfirmed": "7600",
 			"totaldeceased": "252",
 			"totalrecovered": "788"
+		},
+		{
+			"dailyconfirmed": "724",
+			"dailydeceased": "14",
+			"dailyrecovered": "108",
+			"date": "11 April ",
+			"totalconfirmed": "8324",
+			"totaldeceased": "266",
+			"totalrecovered": "896"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6908",
-			"confirmed": "8062",
-			"deaths": "258",
-			"deltaconfirmed": "463",
-			"deltadeaths": "9",
+			"active": "7164",
+			"confirmed": "8323",
+			"deaths": "263",
+			"deltaconfirmed": "724",
+			"deltadeaths": "14",
 			"deltarecovered": "108",
-			"lastupdatedtime": "11/04/2020 20:20:24",
+			"lastupdatedtime": "11/04/2020 21:13:06",
 			"recovered": "896",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1368",
-			"confirmed": "1666",
+			"active": "1463",
+			"confirmed": "1761",
 			"deaths": "110",
-			"deltaconfirmed": "92",
+			"deltaconfirmed": "187",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 15:50:24",
+			"lastupdatedtime": "11/04/2020 21:13:09",
 			"recovered": "188",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -687,13 +696,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "862",
-			"confirmed": "903",
-			"deaths": "14",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"active": "1023",
+			"confirmed": "1069",
+			"deaths": "19",
+			"deltaconfirmed": "166",
+			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 21:00:25",
+			"lastupdatedtime": "11/04/2020 21:13:10",
 			"recovered": "27",
 			"state": "Delhi",
 			"statecode": "DL"
