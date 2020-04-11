@@ -610,17 +610,17 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 88,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ghaziabad": {
-        "confirmed": 25,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Lucknow": {
@@ -694,10 +694,10 @@
         }
       },
       "Meerut": {
-        "confirmed": 44,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bareilly": {
@@ -708,10 +708,10 @@
         }
       },
       "Bulandshahr": {
-        "confirmed": 8,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Basti": {
@@ -750,10 +750,10 @@
         }
       },
       "Saharanpur": {
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pratapgarh": {
@@ -827,17 +827,17 @@
         }
       },
       "Mathura": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Budaun": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kaushambi": {
@@ -887,6 +887,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Bhadohi": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1231,7 +1238,7 @@
         "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Kalaburagi": {
@@ -1372,7 +1379,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1004,
+        "confirmed": 1000,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1428,7 +1435,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 7,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1470,7 +1477,7 @@
         }
       },
       "Other States*": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1555,13 +1562,6 @@
       },
       "Nagaur": {
         "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Other States": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1836,7 +1836,7 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 35,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1871,7 +1871,7 @@
         }
       },
       "Kalahandi": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1892,7 +1892,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2052,24 +2052,24 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 228,
+        "confirmed": 243,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 46
         }
       },
       "Vadodara": {
-        "confirmed": 77,
+        "confirmed": 95,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 18
+          "confirmed": 36
         }
       },
       "Gandhinagar": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kachchh": {
@@ -2122,10 +2122,10 @@
         }
       },
       "Chota Udaipur": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jamnagar": {
@@ -2164,10 +2164,10 @@
         }
       },
       "Bharuch": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
