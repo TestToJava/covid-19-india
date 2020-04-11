@@ -1435,7 +1435,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 17,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1546,15 +1546,15 @@
           "confirmed": 0
         }
       },
-      "Bid": {
-        "confirmed": 1,
+      "Akola": {
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Akola": {
-        "confirmed": 12,
+      "Bid": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
