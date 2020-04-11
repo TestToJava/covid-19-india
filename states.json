@@ -647,27 +647,18 @@
 			"totalconfirmed": "7600",
 			"totaldeceased": "252",
 			"totalrecovered": "788"
-		},
-		{
-			"dailyconfirmed": "818",
-			"dailydeceased": "38",
-			"dailyrecovered": "181",
-			"date": "11 April ",
-			"totalconfirmed": "8418",
-			"totaldeceased": "290",
-			"totalrecovered": "969"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7161",
-			"confirmed": "8417",
-			"deaths": "287",
-			"deltaconfirmed": "818",
-			"deltadeaths": "38",
-			"deltarecovered": "181",
+			"active": "7178",
+			"confirmed": "8439",
+			"deaths": "288",
+			"deltaconfirmed": "840",
+			"deltadeaths": "39",
+			"deltarecovered": "185",
 			"lastupdatedtime": "11/04/2020 22:35:24",
-			"recovered": "969",
+			"recovered": "973",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -720,10 +711,10 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "554",
-			"confirmed": "678",
+			"active": "576",
+			"confirmed": "700",
 			"deaths": "8",
-			"deltaconfirmed": "117",
+			"deltaconfirmed": "139",
 			"deltadeaths": "5",
 			"deltarecovered": "56",
 			"lastupdatedtime": "11/04/2020 22:20:25",
@@ -768,11 +759,11 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "451",
+			"active": "450",
 			"confirmed": "529",
-			"deaths": "39",
+			"deaths": "40",
 			"deltaconfirmed": "78",
-			"deltadeaths": "3",
+			"deltadeaths": "4",
 			"deltarecovered": "0",
 			"lastupdatedtime": "11/04/2020 16:35:25",
 			"recovered": "39",
@@ -960,14 +951,14 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "6",
+			"active": "2",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"lastupdatedtime": "04/04/2020 09:42:27",
-			"recovered": "1",
+			"recovered": "5",
 			"state": "Goa",
 			"statecode": "GA"
 		},
