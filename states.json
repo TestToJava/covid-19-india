@@ -651,14 +651,14 @@
 	],
 	"statewise": [
 		{
-			"active": "6595",
-			"confirmed": "7618",
+			"active": "6651",
+			"confirmed": "7675",
 			"deaths": "249",
-			"deltaconfirmed": "18",
+			"deltaconfirmed": "75",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 09:50:24",
-			"recovered": "774",
+			"deltarecovered": "1",
+			"lastupdatedtime": "11/04/2020 11:50:24",
+			"recovered": "775",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -783,14 +783,14 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "326",
-			"confirmed": "378",
+			"active": "379",
+			"confirmed": "432",
 			"deaths": "19",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "54",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 20:35:37",
-			"recovered": "33",
+			"deltarecovered": "1",
+			"lastupdatedtime": "11/04/2020 11:40:28",
+			"recovered": "34",
 			"state": "Gujarat",
 			"statecode": "GJ"
 		},
@@ -975,13 +975,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "13",
-			"confirmed": "14",
+			"active": "16",
+			"confirmed": "17",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 10:20:26",
+			"lastupdatedtime": "11/04/2020 11:50:26",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
@@ -1417,6 +1417,16 @@
 			"totalpositivecases": "5705",
 			"totalsamplestested": "144910",
 			"updatetimestamp": "09/04/2020 09:00: pm"
+		},
+		{
+			"positivecasesfromsamplesreported": "433",
+			"samplereportedtoday": "15663",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_10April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "147034",
+			"totalpositivecases": "6872",
+			"totalsamplestested": "161330",
+			"updatetimestamp": "10/04/2020 09:00: pm"
 		}
 	]
 }
