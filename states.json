@@ -651,13 +651,13 @@
 	],
 	"statewise": [
 		{
-			"active": "6577",
-			"confirmed": "7600",
+			"active": "6595",
+			"confirmed": "7618",
 			"deaths": "249",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 00:20:24",
+			"lastupdatedtime": "11/04/2020 09:50:24",
 			"recovered": "774",
 			"state": "Total",
 			"statecode": "TT"
@@ -711,13 +711,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "498",
-			"confirmed": "561",
+			"active": "516",
+			"confirmed": "579",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 22:00:25",
+			"lastupdatedtime": "11/04/2020 09:50:25",
 			"recovered": "60",
 			"state": "Rajasthan",
 			"statecode": "RJ"
