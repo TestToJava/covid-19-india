@@ -543,10 +543,10 @@
         }
       },
       "Hisar": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Rohtak": {
@@ -1372,7 +1372,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1005,
+        "confirmed": 1006,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1385,15 +1385,15 @@
           "confirmed": 0
         }
       },
-      "Thane": {
-        "confirmed": 136,
+      "Ahmadnagar": {
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Ahmadnagar": {
-        "confirmed": 25,
+      "Thane": {
+        "confirmed": 135,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
