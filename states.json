@@ -650,11 +650,11 @@
 		},
 		{
 			"dailyconfirmed": "854",
-			"dailydeceased": "39",
+			"dailydeceased": "40",
 			"dailyrecovered": "186",
 			"date": "11 April ",
 			"totalconfirmed": "8454",
-			"totaldeceased": "291",
+			"totaldeceased": "292",
 			"totalrecovered": "972"
 		},
 		{
@@ -663,19 +663,19 @@
 			"dailyrecovered": "0",
 			"date": "12 April ",
 			"totalconfirmed": "8454",
-			"totaldeceased": "291",
+			"totaldeceased": "292",
 			"totalrecovered": "972"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7193",
+			"active": "7192",
 			"confirmed": "8453",
-			"deaths": "288",
+			"deaths": "289",
 			"deltaconfirmed": "854",
-			"deltadeaths": "39",
+			"deltadeaths": "40",
 			"deltarecovered": "186",
-			"lastupdatedtime": "12/04/2020 01:10:24",
+			"lastupdatedtime": "12/04/2020 02:35:24",
 			"recovered": "972",
 			"state": "Total",
 			"statecode": "TT"
@@ -729,13 +729,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "576",
+			"active": "575",
 			"confirmed": "700",
-			"deaths": "8",
+			"deaths": "9",
 			"deltaconfirmed": "139",
-			"deltadeaths": "5",
+			"deltadeaths": "6",
 			"deltarecovered": "56",
-			"lastupdatedtime": "11/04/2020 22:20:25",
+			"lastupdatedtime": "12/04/2020 02:35:25",
 			"recovered": "116",
 			"state": "Rajasthan",
 			"statecode": "RJ"
