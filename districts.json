@@ -301,10 +301,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 221,
+        "confirmed": 286,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 65
         }
       },
       "Jhunjhunu": {
@@ -385,10 +385,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 27,
+        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       "Dhaulpur": {
@@ -420,24 +420,24 @@
         }
       },
       "Dausa": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Banswara": {
-        "confirmed": 24,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       "Karauli": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nagaur": {
@@ -448,10 +448,10 @@
         }
       },
       "Jaisalmer": {
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kota": {
@@ -1559,6 +1559,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 92,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 92
+        }
       }
     }
   },
@@ -2024,7 +2031,7 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2101,7 +2108,7 @@
         }
       },
       "Patan": {
-        "confirmed": 18,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
