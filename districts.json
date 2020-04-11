@@ -791,7 +791,7 @@
           "confirmed": 0
         }
       },
-      "Hatras": {
+      "Hathras": {
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
@@ -919,7 +919,7 @@
         }
       },
       "Chennai": {
-        "confirmed": 174,
+        "confirmed": 172,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -961,7 +961,7 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 37,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1066,7 +1066,7 @@
         }
       },
       "Tirupathur": {
-        "confirmed": 11,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1144,13 +1144,6 @@
       },
       "Tenkasi": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Thirupathur": {
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
