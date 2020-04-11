@@ -1372,7 +1372,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1006,
+        "confirmed": 1004,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1393,7 +1393,14 @@
         }
       },
       "Thane": {
-        "confirmed": 135,
+        "confirmed": 136,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Raigarh": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
