@@ -30,7 +30,7 @@
         }
       },
       "Kannur": {
-        "confirmed": 71,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -1836,7 +1836,7 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 38,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1892,7 +1892,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
