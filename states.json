@@ -388,25 +388,25 @@
 			"totalrecovered": "4"
 		},
 		{
-			"dailyconfirmed": "7",
+			"dailyconfirmed": "9",
 			"dailydeceased": "0",
 			"dailyrecovered": "6",
 			"date": "13 March ",
-			"totalconfirmed": "89",
+			"totalconfirmed": "91",
 			"totaldeceased": "1",
 			"totalrecovered": "10"
 		},
 		{
-			"dailyconfirmed": "18",
+			"dailyconfirmed": "11",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "14 March ",
-			"totalconfirmed": "107",
+			"totalconfirmed": "102",
 			"totaldeceased": "2",
 			"totalrecovered": "10"
 		},
 		{
-			"dailyconfirmed": "5",
+			"dailyconfirmed": "10",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "15 March ",
@@ -651,10 +651,10 @@
 	],
 	"statewise": [
 		{
-			"active": "6833",
-			"confirmed": "7875",
+			"active": "6834",
+			"confirmed": "7876",
 			"deaths": "250",
-			"deltaconfirmed": "275",
+			"deltaconfirmed": "276",
 			"deltadeaths": "1",
 			"deltarecovered": "4",
 			"lastupdatedtime": "11/04/2020 15:50:24",
@@ -795,10 +795,10 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "138",
-			"confirmed": "176",
+			"active": "139",
+			"confirmed": "177",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "10/04/2020 18:10:25",
