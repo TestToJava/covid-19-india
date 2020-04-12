@@ -379,16 +379,16 @@
 			"totalrecovered": "4"
 		},
 		{
-			"dailyconfirmed": "11",
+			"dailyconfirmed": "10",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12 March ",
-			"totalconfirmed": "82",
+			"totalconfirmed": "81",
 			"totaldeceased": "1",
 			"totalrecovered": "4"
 		},
 		{
-			"dailyconfirmed": "9",
+			"dailyconfirmed": "10",
 			"dailydeceased": "0",
 			"dailyrecovered": "6",
 			"date": "13 March ",
@@ -415,16 +415,16 @@
 			"totalrecovered": "13"
 		},
 		{
-			"dailyconfirmed": "15",
+			"dailyconfirmed": "14",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "16 March ",
-			"totalconfirmed": "127",
+			"totalconfirmed": "126",
 			"totaldeceased": "2",
 			"totalrecovered": "14"
 		},
 		{
-			"dailyconfirmed": "19",
+			"dailyconfirmed": "20",
 			"dailydeceased": "1",
 			"dailyrecovered": "1",
 			"date": "17 March ",
@@ -659,21 +659,21 @@
 		},
 		{
 			"dailyconfirmed": "0",
-			"dailydeceased": "0",
+			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "12 April ",
 			"totalconfirmed": "8454",
-			"totaldeceased": "292",
+			"totaldeceased": "293",
 			"totalrecovered": "972"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7192",
+			"active": "7191",
 			"confirmed": "8453",
-			"deaths": "289",
+			"deaths": "290",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "12/04/2020 02:35:24",
 			"recovered": "972",
@@ -801,11 +801,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "402",
+			"active": "401",
 			"confirmed": "468",
-			"deaths": "22",
+			"deaths": "23",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "11/04/2020 20:20:24",
 			"recovered": "44",
