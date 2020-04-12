@@ -658,24 +658,24 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "487",
-			"dailydeceased": "6",
+			"dailyconfirmed": "515",
+			"dailydeceased": "8",
 			"dailyrecovered": "88",
 			"date": "12 April ",
-			"totalconfirmed": "8940",
-			"totaldeceased": "298",
+			"totalconfirmed": "8968",
+			"totaldeceased": "300",
 			"totalrecovered": "1060"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7584",
-			"confirmed": "8939",
-			"deaths": "295",
-			"deltaconfirmed": "487",
-			"deltadeaths": "6",
+			"active": "7610",
+			"confirmed": "8967",
+			"deaths": "297",
+			"deltaconfirmed": "515",
+			"deltadeaths": "8",
 			"deltarecovered": "88",
-			"lastupdatedtime": "12/04/2020 19:20:24",
+			"lastupdatedtime": "12/04/2020 19:35:30",
 			"recovered": "1060",
 			"state": "Total",
 			"statecode": "TT"
@@ -753,13 +753,13 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "402",
-			"confirmed": "452",
+			"active": "430",
+			"confirmed": "480",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "28",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 19:50:25",
+			"lastupdatedtime": "12/04/2020 19:35:31",
 			"recovered": "45",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -813,13 +813,13 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "149",
+			"active": "148",
 			"confirmed": "195",
-			"deaths": "2",
+			"deaths": "3",
 			"deltaconfirmed": "16",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "8",
-			"lastupdatedtime": "12/04/2020 18:35:25",
+			"lastupdatedtime": "12/04/2020 19:35:32",
 			"recovered": "44",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -993,13 +993,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "16",
+			"active": "15",
 			"confirmed": "17",
-			"deaths": "1",
+			"deaths": "2",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 11:55:30",
+			"lastupdatedtime": "12/04/2020 19:35:37",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
