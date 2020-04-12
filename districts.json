@@ -1266,28 +1266,28 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 26,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
       "Srinagar": {
-        "confirmed": 17,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Bandipore": {
-        "confirmed": 10,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
         }
       },
       "Unknown": {
-        "confirmed": 68,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1308,14 +1308,14 @@
         }
       },
       "Baramula": {
-        "confirmed": 5,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
         }
       },
       "Shupiyan": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1329,7 +1329,7 @@
         }
       },
       "Kashmir": {
-        "confirmed": 32,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1375,6 +1375,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Budaun": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
