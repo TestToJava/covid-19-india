@@ -2174,14 +2174,7 @@
         }
       },
       "Korba": {
-        "confirmed": 10,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 7,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
