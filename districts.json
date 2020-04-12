@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 32,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 28
         }
       },
       "Rajanna Sircilla": {
@@ -2707,10 +2707,10 @@
         }
       },
       "Bokaro": {
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kodarma": {
