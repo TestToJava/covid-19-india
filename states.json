@@ -658,24 +658,24 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "153",
+			"dailyconfirmed": "277",
 			"dailydeceased": "1",
 			"dailyrecovered": "11",
 			"date": "12 April ",
-			"totalconfirmed": "8607",
+			"totalconfirmed": "8731",
 			"totaldeceased": "293",
 			"totalrecovered": "983"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7333",
-			"confirmed": "8606",
+			"active": "7457",
+			"confirmed": "8730",
 			"deaths": "290",
-			"deltaconfirmed": "153",
+			"deltaconfirmed": "277",
 			"deltadeaths": "1",
 			"deltarecovered": "11",
-			"lastupdatedtime": "12/04/2020 14:20:24",
+			"lastupdatedtime": "12/04/2020 15:31:15",
 			"recovered": "983",
 			"state": "Total",
 			"statecode": "TT"
@@ -687,7 +687,7 @@
 			"deltaconfirmed": "134",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 22:35:24",
+			"lastupdatedtime": "12/04/2020 14:35:24",
 			"recovered": "208",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -729,13 +729,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "575",
-			"confirmed": "700",
+			"active": "671",
+			"confirmed": "796",
 			"deaths": "9",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "96",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 02:35:25",
+			"lastupdatedtime": "12/04/2020 15:31:42",
 			"recovered": "116",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -777,13 +777,13 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "451",
-			"confirmed": "529",
+			"active": "454",
+			"confirmed": "532",
 			"deaths": "40",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 23:35:25",
+			"lastupdatedtime": "12/04/2020 15:31:43",
 			"recovered": "38",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -801,13 +801,13 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "401",
-			"confirmed": "468",
+			"active": "426",
+			"confirmed": "493",
 			"deaths": "23",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "25",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 20:20:24",
+			"lastupdatedtime": "12/04/2020 15:20:25",
 			"recovered": "44",
 			"state": "Gujarat",
 			"statecode": "GJ"
