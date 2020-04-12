@@ -1277,14 +1277,14 @@
         }
       },
       "Uttara Kannada": {
-        "confirmed": 10,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Dakshina Kannada": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1297,21 +1297,14 @@
           "confirmed": 0
         }
       },
-      "Chitradurga": {
-        "confirmed": 1,
+      "Davanagere": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Tumakuru": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Davanagere": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
