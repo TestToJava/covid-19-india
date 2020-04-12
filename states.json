@@ -658,33 +658,33 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "11",
+			"dailyconfirmed": "153",
 			"dailydeceased": "1",
-			"dailyrecovered": "8",
+			"dailyrecovered": "11",
 			"date": "12 April ",
-			"totalconfirmed": "8465",
+			"totalconfirmed": "8607",
 			"totaldeceased": "293",
-			"totalrecovered": "980"
+			"totalrecovered": "983"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7194",
-			"confirmed": "8464",
+			"active": "7333",
+			"confirmed": "8606",
 			"deaths": "290",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "153",
 			"deltadeaths": "1",
-			"deltarecovered": "8",
-			"lastupdatedtime": "12/04/2020 13:50:24",
-			"recovered": "980",
+			"deltarecovered": "11",
+			"lastupdatedtime": "12/04/2020 14:20:24",
+			"recovered": "983",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1426",
-			"confirmed": "1761",
+			"active": "1560",
+			"confirmed": "1895",
 			"deaths": "127",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "134",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "11/04/2020 22:35:24",
@@ -849,14 +849,14 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "105",
-			"confirmed": "126",
+			"active": "110",
+			"confirmed": "134",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 19:20:26",
-			"recovered": "16",
+			"deltarecovered": "3",
+			"lastupdatedtime": "12/04/2020 14:20:26",
+			"recovered": "19",
 			"state": "West Bengal",
 			"statecode": "WB"
 		},
