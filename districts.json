@@ -715,10 +715,10 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 92,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Ghaziabad": {
@@ -750,10 +750,10 @@
         }
       },
       "Moradabad": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Varanasi": {
@@ -785,10 +785,10 @@
         }
       },
       "Baghpat": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Shamli": {
@@ -799,10 +799,10 @@
         }
       },
       "Meerut": {
-        "confirmed": 48,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Bareilly": {
@@ -841,10 +841,10 @@
         }
       },
       "Firozabad": {
-        "confirmed": 11,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Azamgarh": {
@@ -855,10 +855,10 @@
         }
       },
       "Saharanpur": {
-        "confirmed": 21,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Pratapgarh": {
@@ -932,10 +932,10 @@
         }
       },
       "Mathura": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Budaun": {
@@ -974,10 +974,10 @@
         }
       },
       "Muzaffarnagar": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Amroha": {
@@ -999,13 +999,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 31,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 31
         }
       }
     }
