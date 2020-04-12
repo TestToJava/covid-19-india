@@ -658,25 +658,25 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "307",
+			"dailyconfirmed": "332",
 			"dailydeceased": "4",
-			"dailyrecovered": "15",
+			"dailyrecovered": "51",
 			"date": "12 April ",
-			"totalconfirmed": "8761",
+			"totalconfirmed": "8786",
 			"totaldeceased": "296",
-			"totalrecovered": "987"
+			"totalrecovered": "1023"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7480",
-			"confirmed": "8760",
+			"active": "7469",
+			"confirmed": "8785",
 			"deaths": "293",
-			"deltaconfirmed": "307",
+			"deltaconfirmed": "332",
 			"deltadeaths": "4",
-			"deltarecovered": "15",
-			"lastupdatedtime": "12/04/2020 17:20:24",
-			"recovered": "987",
+			"deltarecovered": "51",
+			"lastupdatedtime": "12/04/2020 17:40:24",
+			"recovered": "1023",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -741,14 +741,14 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "228",
-			"confirmed": "373",
+			"active": "194",
+			"confirmed": "375",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 18:20:24",
-			"recovered": "143",
+			"deltarecovered": "36",
+			"lastupdatedtime": "12/04/2020 17:35:25",
+			"recovered": "179",
 			"state": "Kerala",
 			"statecode": "KL"
 		},
@@ -825,13 +825,13 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "214",
-			"confirmed": "224",
+			"active": "235",
+			"confirmed": "245",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "21",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 19:35:27",
+			"lastupdatedtime": "12/04/2020 17:40:25",
 			"recovered": "6",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
@@ -909,10 +909,10 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "12",
-			"confirmed": "19",
+			"active": "14",
+			"confirmed": "21",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "10/04/2020 18:10:27",
