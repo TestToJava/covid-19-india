@@ -1235,7 +1235,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 69,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1250,13 +1250,6 @@
       },
       "Kodagu": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Chikkaballapura": {
-        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1290,6 +1283,13 @@
           "confirmed": 0
         }
       },
+      "Chikkaballapura": {
+        "confirmed": 9,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
       "Udupi": {
         "confirmed": 4,
         "lastupdatedtime": "",
@@ -1305,7 +1305,7 @@
         }
       },
       "Tumakuru": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
