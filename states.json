@@ -660,23 +660,32 @@
 		{
 			"dailyconfirmed": "753",
 			"dailydeceased": "42",
-			"dailyrecovered": "108",
+			"dailyrecovered": "113",
 			"date": "12 April ",
 			"totalconfirmed": "9206",
 			"totaldeceased": "334",
-			"totalrecovered": "1080"
+			"totalrecovered": "1085"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "13 April ",
+			"totalconfirmed": "9206",
+			"totaldeceased": "334",
+			"totalrecovered": "1085"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7794",
+			"active": "7789",
 			"confirmed": "9205",
 			"deaths": "331",
 			"deltaconfirmed": "753",
 			"deltadeaths": "42",
-			"deltarecovered": "108",
-			"lastupdatedtime": "12/04/2020 23:35:24",
-			"recovered": "1080",
+			"deltarecovered": "113",
+			"lastupdatedtime": "13/04/2020 01:12:24",
+			"recovered": "1085",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -717,14 +726,14 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "677",
+			"active": "672",
 			"confirmed": "804",
 			"deaths": "11",
 			"deltaconfirmed": "104",
 			"deltadeaths": "2",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 22:35:24",
-			"recovered": "116",
+			"deltarecovered": "5",
+			"lastupdatedtime": "13/04/2020 01:12:25",
+			"recovered": "121",
 			"state": "Rajasthan",
 			"statecode": "RJ"
 		},
@@ -1134,7 +1143,7 @@
 			"totalindividualstested": "5900",
 			"totalpositivecases": "78",
 			"totalsamplestested": "6500",
-			"updatetimestamp": "13/03/2020 12:00: am"
+			"updatetimestamp": "13/03/2020 00:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1144,7 +1153,7 @@
 			"totalindividualstested": "12235",
 			"totalpositivecases": "150",
 			"totalsamplestested": "13125",
-			"updatetimestamp": "18/03/2020 06:00: pm"
+			"updatetimestamp": "18/03/2020 18:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1154,7 +1163,7 @@
 			"totalindividualstested": "12426",
 			"totalpositivecases": "168",
 			"totalsamplestested": "13316",
-			"updatetimestamp": "19/03/2020 10:00: am"
+			"updatetimestamp": "19/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1164,7 +1173,7 @@
 			"totalindividualstested": "13285",
 			"totalpositivecases": "182",
 			"totalsamplestested": "14175",
-			"updatetimestamp": "19/03/2020 06:00: pm"
+			"updatetimestamp": "19/03/2020 18:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1174,7 +1183,7 @@
 			"totalindividualstested": "13486",
 			"totalpositivecases": "206",
 			"totalsamplestested": "14376",
-			"updatetimestamp": "20/03/2020 10:00: am"
+			"updatetimestamp": "20/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1184,7 +1193,7 @@
 			"totalindividualstested": "14514",
 			"totalpositivecases": "236",
 			"totalsamplestested": "15404",
-			"updatetimestamp": "20/03/2020 06:00: pm"
+			"updatetimestamp": "20/03/2020 18:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1194,7 +1203,7 @@
 			"totalindividualstested": "14811",
 			"totalpositivecases": "271",
 			"totalsamplestested": "15701",
-			"updatetimestamp": "21/03/2020 10:00: am"
+			"updatetimestamp": "21/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1204,7 +1213,7 @@
 			"totalindividualstested": "16021",
 			"totalpositivecases": "315",
 			"totalsamplestested": "16911",
-			"updatetimestamp": "21/03/2020 06:00: pm"
+			"updatetimestamp": "21/03/2020 18:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1214,7 +1223,7 @@
 			"totalindividualstested": "16109",
 			"totalpositivecases": "341",
 			"totalsamplestested": "16999",
-			"updatetimestamp": "22/03/2020 10:00: am"
+			"updatetimestamp": "22/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1224,7 +1233,7 @@
 			"totalindividualstested": "17237",
 			"totalpositivecases": "396",
 			"totalsamplestested": "18127",
-			"updatetimestamp": "22/03/2020 06:00: pm"
+			"updatetimestamp": "22/03/2020 18:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1234,7 +1243,7 @@
 			"totalindividualstested": "17493",
 			"totalpositivecases": "415",
 			"totalsamplestested": "18383",
-			"updatetimestamp": "23/03/2020 10:00: am"
+			"updatetimestamp": "23/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1244,7 +1253,7 @@
 			"totalindividualstested": "19817",
 			"totalpositivecases": "471",
 			"totalsamplestested": "20707",
-			"updatetimestamp": "23/03/2020 08:00: pm"
+			"updatetimestamp": "23/03/2020 20:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1254,7 +1263,7 @@
 			"totalindividualstested": "19974",
 			"totalpositivecases": "482",
 			"totalsamplestested": "20864",
-			"updatetimestamp": "24/03/2020 10:00: am"
+			"updatetimestamp": "24/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1264,7 +1273,7 @@
 			"totalindividualstested": "21804",
 			"totalpositivecases": "536",
 			"totalsamplestested": "22694",
-			"updatetimestamp": "24/03/2020 08:00: pm"
+			"updatetimestamp": "24/03/2020 20:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1274,7 +1283,7 @@
 			"totalindividualstested": "22038",
 			"totalpositivecases": "539",
 			"totalsamplestested": "22928",
-			"updatetimestamp": "25/03/2020 10:00: am"
+			"updatetimestamp": "25/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1284,7 +1293,7 @@
 			"totalindividualstested": "24254",
 			"totalpositivecases": "581",
 			"totalsamplestested": "25144",
-			"updatetimestamp": "25/03/2020 08:00: pm"
+			"updatetimestamp": "25/03/2020 20:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1294,7 +1303,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "",
-			"updatetimestamp": "26/03/2020 10:00: am"
+			"updatetimestamp": "26/03/2020 10:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1304,7 +1313,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "",
-			"updatetimestamp": "26/03/2020 06:00: pm"
+			"updatetimestamp": "26/03/2020 18:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1314,7 +1323,7 @@
 			"totalindividualstested": "26798",
 			"totalpositivecases": "691",
 			"totalsamplestested": "27688",
-			"updatetimestamp": "27/03/2020 09:00: am"
+			"updatetimestamp": "27/03/2020 09:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1324,7 +1333,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "38442",
-			"updatetimestamp": "30/03/2020 12:00: am"
+			"updatetimestamp": "30/03/2020 00:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1334,7 +1343,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "",
 			"totalsamplestested": "42788",
-			"updatetimestamp": "31/03/2020 12:00: am"
+			"updatetimestamp": "31/03/2020 00:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1344,7 +1353,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "1637",
 			"totalsamplestested": "47951",
-			"updatetimestamp": "01/04/2020 12:00: am"
+			"updatetimestamp": "01/04/2020 00:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1354,7 +1363,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "2056",
 			"totalsamplestested": "55851",
-			"updatetimestamp": "02/04/2020 09:00: pm"
+			"updatetimestamp": "02/04/2020 21:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1364,7 +1373,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "2183",
 			"totalsamplestested": "56680",
-			"updatetimestamp": "03/04/2020 09:00: am"
+			"updatetimestamp": "03/04/2020 09:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "575",
@@ -1374,7 +1383,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "2653",
 			"totalsamplestested": "69245",
-			"updatetimestamp": "03/04/2020 09:00: pm"
+			"updatetimestamp": "03/04/2020 21:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "",
@@ -1384,7 +1393,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "3113",
 			"totalsamplestested": "79950",
-			"updatetimestamp": "04/04/2020 09:00: pm"
+			"updatetimestamp": "04/04/2020 21:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "295",
@@ -1394,7 +1403,7 @@
 			"totalindividualstested": "",
 			"totalpositivecases": "3554",
 			"totalsamplestested": "89534",
-			"updatetimestamp": "05/04/2020 09:00: pm"
+			"updatetimestamp": "05/04/2020 21:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "311",
@@ -1444,7 +1453,7 @@
 			"totalindividualstested": "147034",
 			"totalpositivecases": "6872",
 			"totalsamplestested": "161330",
-			"updatetimestamp": "10/04/2020 09:00: pm"
+			"updatetimestamp": "10/04/2020 21:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "600",
@@ -1454,7 +1463,7 @@
 			"totalindividualstested": "164773",
 			"totalpositivecases": "7703",
 			"totalsamplestested": "179374",
-			"updatetimestamp": "11/04/2020 09:00: pm"
+			"updatetimestamp": "11/04/2020 21:00:00"
 		},
 		{
 			"positivecasesfromsamplesreported": "544",
