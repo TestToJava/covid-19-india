@@ -658,25 +658,25 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "722",
-			"dailydeceased": "36",
-			"dailyrecovered": "101",
+			"dailyconfirmed": "752",
+			"dailydeceased": "38",
+			"dailyrecovered": "108",
 			"date": "12 April ",
-			"totalconfirmed": "9175",
-			"totaldeceased": "328",
-			"totalrecovered": "1073"
+			"totalconfirmed": "9205",
+			"totaldeceased": "330",
+			"totalrecovered": "1080"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7776",
-			"confirmed": "9174",
-			"deaths": "325",
-			"deltaconfirmed": "722",
-			"deltadeaths": "36",
-			"deltarecovered": "101",
-			"lastupdatedtime": "12/04/2020 21:35:24",
-			"recovered": "1073",
+			"active": "7797",
+			"confirmed": "9204",
+			"deaths": "327",
+			"deltaconfirmed": "752",
+			"deltadeaths": "38",
+			"deltarecovered": "108",
+			"lastupdatedtime": "12/04/2020 21:50:24",
+			"recovered": "1080",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -717,14 +717,14 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "393",
-			"confirmed": "503",
-			"deaths": "14",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 22:10:24",
-			"recovered": "96",
+			"active": "412",
+			"confirmed": "531",
+			"deaths": "16",
+			"deltaconfirmed": "28",
+			"deltadeaths": "2",
+			"deltarecovered": "7",
+			"lastupdatedtime": "12/04/2020 21:50:24",
+			"recovered": "103",
 			"state": "Telangana",
 			"statecode": "TG"
 		},
@@ -993,13 +993,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "15",
-			"confirmed": "17",
+			"active": "17",
+			"confirmed": "19",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 19:35:37",
+			"lastupdatedtime": "12/04/2020 21:50:26",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
