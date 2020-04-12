@@ -378,10 +378,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 336,
+        "confirmed": 341,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 35
+          "confirmed": 40
         }
       },
       "Jhunjhunu": {
@@ -434,10 +434,10 @@
         }
       },
       "Churu": {
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       "Ajmer": {
@@ -462,10 +462,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 58,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 11
+          "confirmed": 12
         }
       },
       "Dhaulpur": {
@@ -1990,7 +1990,7 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2047,13 +2047,6 @@
       },
       "Sundargarh": {
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bhubaneswar": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
