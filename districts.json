@@ -2842,5 +2842,16 @@
         }
       }
     }
+  },
+  "Nagaland": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
   }
 }
