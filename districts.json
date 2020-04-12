@@ -1235,7 +1235,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 68,
+        "confirmed": 69,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1256,7 +1256,7 @@
         }
       },
       "Chikkaballapura": {
-        "confirmed": 12,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
