@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1025,
+        "confirmed": 1110,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 85
         }
       }
     }
@@ -1002,10 +1002,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 28,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 28
+          "confirmed": 31
         }
       }
     }
@@ -1322,10 +1322,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Udhampur": {
@@ -2220,17 +2220,17 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 266,
+        "confirmed": 282,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 23
+          "confirmed": 39
         }
       },
       "Vadodara": {
-        "confirmed": 95,
+        "confirmed": 101,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Gandhinagar": {
@@ -2311,10 +2311,10 @@
         }
       },
       "Anand": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Sabar Kantha": {
