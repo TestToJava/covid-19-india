@@ -1235,7 +1235,7 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 72,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1277,7 +1277,7 @@
         }
       },
       "Dakshina Kannada": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1291,7 +1291,7 @@
         }
       },
       "Udupi": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1340,7 +1340,7 @@
         }
       },
       "Bengaluru Rural": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
