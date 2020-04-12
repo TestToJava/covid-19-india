@@ -658,37 +658,37 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "714",
+			"dailyconfirmed": "722",
 			"dailydeceased": "36",
-			"dailyrecovered": "89",
+			"dailyrecovered": "101",
 			"date": "12 April ",
-			"totalconfirmed": "9167",
+			"totalconfirmed": "9175",
 			"totaldeceased": "328",
-			"totalrecovered": "1061"
+			"totalrecovered": "1073"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7780",
-			"confirmed": "9166",
+			"active": "7776",
+			"confirmed": "9174",
 			"deaths": "325",
-			"deltaconfirmed": "714",
+			"deltaconfirmed": "722",
 			"deltadeaths": "36",
-			"deltarecovered": "89",
-			"lastupdatedtime": "12/04/2020 21:00:24",
-			"recovered": "1061",
+			"deltarecovered": "101",
+			"lastupdatedtime": "12/04/2020 21:35:24",
+			"recovered": "1073",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1625",
+			"active": "1616",
 			"confirmed": "1982",
 			"deaths": "149",
 			"deltaconfirmed": "221",
 			"deltadeaths": "22",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 21:00:24",
-			"recovered": "208",
+			"deltarecovered": "9",
+			"lastupdatedtime": "12/04/2020 21:35:24",
+			"recovered": "217",
 			"state": "Maharashtra",
 			"statecode": "MH"
 		},
@@ -729,13 +729,13 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "671",
-			"confirmed": "796",
+			"active": "679",
+			"confirmed": "804",
 			"deaths": "9",
-			"deltaconfirmed": "96",
+			"deltaconfirmed": "104",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 15:35:25",
+			"lastupdatedtime": "12/04/2020 21:35:26",
 			"recovered": "116",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -921,14 +921,14 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "21",
+			"active": "18",
 			"confirmed": "32",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "1",
-			"lastupdatedtime": "11/04/2020 22:00:34",
-			"recovered": "9",
+			"deltarecovered": "4",
+			"lastupdatedtime": "12/04/2020 21:35:27",
+			"recovered": "12",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
 		},
