@@ -667,11 +667,11 @@
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "56",
+			"dailyconfirmed": "78",
 			"dailydeceased": "1",
 			"dailyrecovered": "10",
 			"date": "13 April ",
-			"totalconfirmed": "9268",
+			"totalconfirmed": "9290",
 			"totaldeceased": "335",
 			"totalrecovered": "1096"
 		}
@@ -681,7 +681,7 @@
 			"active": "7861",
 			"confirmed": "9289",
 			"deaths": "332",
-			"deltaconfirmed": "56",
+			"deltaconfirmed": "78",
 			"deltadeaths": "1",
 			"deltarecovered": "10",
 			"lastupdatedtime": "13/04/2020 13:07:40",
@@ -765,10 +765,10 @@
 			"active": "470",
 			"confirmed": "538",
 			"deaths": "24",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "22",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 20:20:27",
+			"lastupdatedtime": "13/04/2020 13:07:42",
 			"recovered": "44",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -828,7 +828,7 @@
 			"deltaconfirmed": "15",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/04/2020 13:04:42",
+			"lastupdatedtime": "13/04/2020 13:07:44",
 			"recovered": "54",
 			"state": "Karnataka",
 			"statecode": "KA"
