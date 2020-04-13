@@ -667,25 +667,25 @@
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "162",
+			"dailyconfirmed": "220",
 			"dailydeceased": "4",
-			"dailyrecovered": "19",
+			"dailyrecovered": "23",
 			"date": "13 April ",
-			"totalconfirmed": "9374",
+			"totalconfirmed": "9432",
 			"totaldeceased": "338",
-			"totalrecovered": "1105"
+			"totalrecovered": "1109"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7933",
-			"confirmed": "9373",
+			"active": "7987",
+			"confirmed": "9431",
 			"deaths": "335",
-			"deltaconfirmed": "162",
+			"deltaconfirmed": "220",
 			"deltadeaths": "4",
-			"deltarecovered": "19",
-			"lastupdatedtime": "13/04/2020 16:21:08",
-			"recovered": "1105",
+			"deltarecovered": "23",
+			"lastupdatedtime": "13/04/2020 17:36:12",
+			"recovered": "1109",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -726,13 +726,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "683",
-			"confirmed": "815",
+			"active": "715",
+			"confirmed": "847",
 			"deaths": "11",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "43",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/04/2020 09:18:41",
+			"lastupdatedtime": "13/04/2020 17:06:18",
 			"recovered": "121",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -822,26 +822,26 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "235",
-			"confirmed": "245",
+			"active": "260",
+			"confirmed": "270",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "25",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 19:20:26",
+			"lastupdatedtime": "13/04/2020 17:36:14",
 			"recovered": "6",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
 		},
 		{
-			"active": "148",
-			"confirmed": "195",
+			"active": "145",
+			"confirmed": "196",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 19:35:32",
-			"recovered": "44",
+			"deltarecovered": "4",
+			"lastupdatedtime": "13/04/2020 17:06:19",
+			"recovered": "48",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
