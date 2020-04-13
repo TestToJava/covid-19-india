@@ -1526,14 +1526,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 261,
+        "confirmed": 263,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 1259,
+        "confirmed": 1297,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1554,7 +1554,7 @@
         }
       },
       "Thane": {
-        "confirmed": 145,
+        "confirmed": 182,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1722,7 +1722,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 101,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
