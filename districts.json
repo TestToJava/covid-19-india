@@ -1389,10 +1389,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 76,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kalaburagi": {
@@ -1417,10 +1417,10 @@
         }
       },
       "Dharwad": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Uttara Kannada": {
@@ -1473,31 +1473,31 @@
         }
       },
       "Bidar": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bagalkote": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Belagavi": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Bengaluru Rural": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gadag": {
@@ -1508,10 +1508,10 @@
         }
       },
       "Mandya": {
-        "confirmed": 5,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Vijayapura": {
@@ -1533,14 +1533,14 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1297,
+        "confirmed": 1298,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Nagpur": {
-        "confirmed": 25,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1554,14 +1554,14 @@
         }
       },
       "Thane": {
-        "confirmed": 182,
+        "confirmed": 185,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Raigarh": {
-        "confirmed": 8,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1589,7 +1589,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 18,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1652,7 +1652,7 @@
         }
       },
       "Nashik": {
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1680,7 +1680,7 @@
         }
       },
       "Amravati": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1721,8 +1721,8 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 24,
+      "Solapur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1930,6 +1930,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 12
         }
       }
     }
