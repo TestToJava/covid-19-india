@@ -507,7 +507,7 @@
         "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Karauli": {
@@ -2124,10 +2124,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 107,
+        "confirmed": 125,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       }
     }
