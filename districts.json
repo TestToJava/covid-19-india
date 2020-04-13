@@ -483,10 +483,10 @@
         }
       },
       "Bharatpur": {
-        "confirmed": 9,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Bikaner": {
@@ -504,7 +504,7 @@
         }
       },
       "Banswara": {
-        "confirmed": 52,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
