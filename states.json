@@ -668,24 +668,24 @@
 		},
 		{
 			"dailyconfirmed": "162",
-			"dailydeceased": "3",
-			"dailyrecovered": "18",
+			"dailydeceased": "4",
+			"dailyrecovered": "19",
 			"date": "13 April ",
 			"totalconfirmed": "9374",
-			"totaldeceased": "337",
-			"totalrecovered": "1104"
+			"totaldeceased": "338",
+			"totalrecovered": "1105"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7935",
+			"active": "7933",
 			"confirmed": "9373",
-			"deaths": "334",
+			"deaths": "335",
 			"deltaconfirmed": "162",
-			"deltadeaths": "3",
-			"deltarecovered": "18",
-			"lastupdatedtime": "13/04/2020 13:38:41",
-			"recovered": "1104",
+			"deltadeaths": "4",
+			"deltarecovered": "19",
+			"lastupdatedtime": "13/04/2020 16:21:08",
+			"recovered": "1105",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -738,13 +738,13 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "478",
+			"active": "477",
 			"confirmed": "562",
-			"deaths": "43",
+			"deaths": "44",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 17:20:25",
+			"lastupdatedtime": "13/04/2020 16:16:24",
 			"recovered": "41",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -882,14 +882,14 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "41",
+			"active": "40",
 			"confirmed": "54",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 23:35:26",
-			"recovered": "12",
+			"deltarecovered": "1",
+			"lastupdatedtime": "13/04/2020 16:16:25",
+			"recovered": "13",
 			"state": "Odisha",
 			"statecode": "OR"
 		},
