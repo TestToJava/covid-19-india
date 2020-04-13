@@ -378,10 +378,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 361,
+        "confirmed": 370,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 29
         }
       },
       "Jhunjhunu": {
@@ -399,10 +399,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 58,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 31
         }
       },
       "Pali": {
@@ -448,10 +448,10 @@
         }
       },
       "Evacuees": {
-        "confirmed": 50,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Alwar": {
@@ -504,10 +504,10 @@
         }
       },
       "Banswara": {
-        "confirmed": 53,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       },
       "Karauli": {
@@ -532,10 +532,10 @@
         }
       },
       "Kota": {
-        "confirmed": 40,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Jhalawar": {
@@ -715,10 +715,10 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 104,
+        "confirmed": 139,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       "Ghaziabad": {
@@ -729,17 +729,17 @@
         }
       },
       "Lucknow": {
-        "confirmed": 29,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Gautam Buddha Nagar": {
-        "confirmed": 62,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Kheri": {
@@ -799,10 +799,10 @@
         }
       },
       "Meerut": {
-        "confirmed": 51,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Bareilly": {
@@ -820,10 +820,10 @@
         }
       },
       "Basti": {
-        "confirmed": 9,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Hardoi": {
@@ -841,24 +841,24 @@
         }
       },
       "Firozabad": {
-        "confirmed": 15,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Azamgarh": {
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Saharanpur": {
-        "confirmed": 28,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       "Pratapgarh": {
@@ -932,10 +932,10 @@
         }
       },
       "Mathura": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Budaun": {
@@ -1000,23 +1000,37 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Kasganj": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
+        }
+      },
+      "Etawah": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
   "Ladakh": {
     "districtData": {
       "Leh": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kargil": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
