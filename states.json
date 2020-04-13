@@ -669,23 +669,23 @@
 		{
 			"dailyconfirmed": "328",
 			"dailydeceased": "4",
-			"dailyrecovered": "54",
+			"dailyrecovered": "58",
 			"date": "13 April ",
 			"totalconfirmed": "9540",
 			"totaldeceased": "338",
-			"totalrecovered": "1140"
+			"totalrecovered": "1144"
 		}
 	],
 	"statewise": [
 		{
-			"active": "8064",
+			"active": "8060",
 			"confirmed": "9539",
 			"deaths": "335",
 			"deltaconfirmed": "328",
 			"deltadeaths": "4",
-			"deltarecovered": "54",
-			"lastupdatedtime": "13/04/2020 18:30:24",
-			"recovered": "1140",
+			"deltarecovered": "58",
+			"lastupdatedtime": "13/04/2020 18:40:25",
+			"recovered": "1144",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -720,7 +720,7 @@
 			"deltaconfirmed": "98",
 			"deltadeaths": "0",
 			"deltarecovered": "8",
-			"lastupdatedtime": "13/04/2020 18:30:25",
+			"lastupdatedtime": "13/04/2020 18:35:25",
 			"recovered": "58",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -810,14 +810,14 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "182",
+			"active": "181",
 			"confirmed": "247",
 			"deaths": "6",
 			"deltaconfirmed": "15",
 			"deltadeaths": "0",
-			"deltarecovered": "5",
+			"deltarecovered": "6",
 			"lastupdatedtime": "13/04/2020 13:07:44",
-			"recovered": "59",
+			"recovered": "60",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},
@@ -834,14 +834,14 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "145",
+			"active": "142",
 			"confirmed": "196",
 			"deaths": "3",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "4",
-			"lastupdatedtime": "13/04/2020 17:06:19",
-			"recovered": "48",
+			"deltarecovered": "7",
+			"lastupdatedtime": "13/04/2020 18:40:26",
+			"recovered": "51",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
@@ -888,7 +888,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "13/04/2020 18:30:26",
+			"lastupdatedtime": "13/04/2020 18:35:26",
 			"recovered": "13",
 			"state": "Odisha",
 			"statecode": "OR"
