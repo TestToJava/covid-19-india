@@ -665,27 +665,18 @@
 			"totalconfirmed": "9212",
 			"totaldeceased": "334",
 			"totalrecovered": "1086"
-		},
-		{
-			"dailyconfirmed": "426",
-			"dailydeceased": "10",
-			"dailyrecovered": "87",
-			"date": "13 April ",
-			"totalconfirmed": "9638",
-			"totaldeceased": "344",
-			"totalrecovered": "1173"
 		}
 	],
 	"statewise": [
 		{
-			"active": "8123",
-			"confirmed": "9637",
+			"active": "8249",
+			"confirmed": "9764",
 			"deaths": "341",
-			"deltaconfirmed": "426",
+			"deltaconfirmed": "553",
 			"deltadeaths": "10",
-			"deltarecovered": "87",
-			"lastupdatedtime": "13/04/2020 20:50:24",
-			"recovered": "1173",
+			"deltarecovered": "88",
+			"lastupdatedtime": "13/04/2020 21:36:52",
+			"recovered": "1174",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -730,13 +721,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "715",
-			"confirmed": "847",
+			"active": "765",
+			"confirmed": "897",
 			"deaths": "11",
-			"deltaconfirmed": "43",
+			"deltaconfirmed": "93",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/04/2020 17:06:18",
+			"lastupdatedtime": "13/04/2020 21:20:25",
 			"recovered": "121",
 			"state": "Rajasthan",
 			"statecode": "RJ",
@@ -782,13 +773,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "433",
-			"confirmed": "483",
+			"active": "508",
+			"confirmed": "558",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "75",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 20:40:25",
+			"lastupdatedtime": "13/04/2020 21:30:25",
 			"recovered": "45",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
@@ -990,14 +981,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "4",
-			"confirmed": "15",
+			"active": "5",
+			"confirmed": "17",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 11:20:26",
-			"recovered": "11",
+			"deltarecovered": "1",
+			"lastupdatedtime": "13/04/2020 21:15:27",
+			"recovered": "12",
 			"state": "Ladakh",
 			"statecode": "LA",
 			"statenotes": ""
