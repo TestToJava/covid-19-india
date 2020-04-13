@@ -1273,14 +1273,14 @@
         }
       },
       "Srinagar": {
-        "confirmed": 28,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Bandipore": {
-        "confirmed": 44,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1301,35 +1301,21 @@
         }
       },
       "Baramula": {
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Shupiyan": {
-        "confirmed": 15,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Udhampur": {
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Kashmir": {
-        "confirmed": 20,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1526,17 +1512,17 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 263,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Mumbai": {
-        "confirmed": 1298,
+        "confirmed": 1357,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 59
         }
       },
       "Nagpur": {
@@ -1554,10 +1540,10 @@
         }
       },
       "Thane": {
-        "confirmed": 185,
+        "confirmed": 190,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Raigarh": {
@@ -1589,10 +1575,10 @@
         }
       },
       "Palghar": {
-        "confirmed": 25,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Sangli": {
@@ -1652,10 +1638,10 @@
         }
       },
       "Nashik": {
-        "confirmed": 18,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Osmanabad": {
@@ -1884,24 +1870,24 @@
         }
       },
       "Krishna": {
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chittoor": {
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Guntur": {
-        "confirmed": 82,
+        "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kurnool": {
@@ -1919,10 +1905,10 @@
         }
       },
       "West Godavari": {
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Y.S.R.": {
@@ -1930,13 +1916,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 12,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 12
         }
       }
     }
@@ -2589,10 +2568,10 @@
         }
       },
       "Begusarai": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Saran": {
@@ -2795,10 +2774,10 @@
         }
       },
       "Dhubri": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hailakandi": {
