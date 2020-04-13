@@ -378,10 +378,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 341,
+        "confirmed": 361,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 20
         }
       },
       "Jhunjhunu": {
@@ -399,10 +399,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 51,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Pali": {
@@ -483,10 +483,10 @@
         }
       },
       "Bharatpur": {
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 11
         }
       },
       "Bikaner": {
@@ -497,10 +497,10 @@
         }
       },
       "Dausa": {
-        "confirmed": 8,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Banswara": {
@@ -539,10 +539,10 @@
         }
       },
       "Jhalawar": {
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Barmer": {
@@ -627,10 +627,10 @@
         }
       },
       "Sirsa": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hisar": {
