@@ -669,40 +669,40 @@
 	],
 	"statewise": [
 		{
-			"active": "8555",
-			"confirmed": "10075",
-			"deaths": "342",
-			"deltaconfirmed": "848",
-			"deltadeaths": "11",
-			"deltarecovered": "92",
-			"lastupdatedtime": "13/04/2020 22:01:04",
-			"recovered": "1178",
+			"active": "8914",
+			"confirmed": "10453",
+			"deaths": "358",
+			"deltaconfirmed": "1242",
+			"deltadeaths": "27",
+			"deltarecovered": "95",
+			"lastupdatedtime": "13/04/2020 22:52:15",
+			"recovered": "1181",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
 		},
 		{
-			"active": "1947",
-			"confirmed": "2314",
-			"deaths": "150",
-			"deltaconfirmed": "316",
-			"deltadeaths": "1",
+			"active": "1957",
+			"confirmed": "2334",
+			"deaths": "160",
+			"deltaconfirmed": "352",
+			"deltadeaths": "11",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/04/2020 10:32:25",
+			"lastupdatedtime": "13/04/2020 22:45:59",
 			"recovered": "217",
 			"state": "Maharashtra",
 			"statecode": "MH",
 			"statenotes": ""
 		},
 		{
-			"active": "1102",
-			"confirmed": "1154",
-			"deaths": "24",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 20:35:25",
-			"recovered": "28",
+			"active": "1451",
+			"confirmed": "1510",
+			"deaths": "28",
+			"deltaconfirmed": "356",
+			"deltadeaths": "4",
+			"deltarecovered": "3",
+			"lastupdatedtime": "13/04/2020 22:46:07",
+			"recovered": "31",
 			"state": "Delhi",
 			"statecode": "DL",
 			"statenotes": ""
@@ -812,13 +812,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "181",
+			"active": "179",
 			"confirmed": "247",
-			"deaths": "6",
+			"deaths": "8",
 			"deltaconfirmed": "15",
-			"deltadeaths": "0",
+			"deltadeaths": "2",
 			"deltarecovered": "6",
-			"lastupdatedtime": "13/04/2020 13:07:44",
+			"lastupdatedtime": "13/04/2020 22:46:15",
 			"recovered": "60",
 			"state": "Karnataka",
 			"statecode": "KA",
@@ -848,7 +848,7 @@
 			"recovered": "51",
 			"state": "Haryana",
 			"statecode": "HR",
-			"statenotes": "14 recovered Italian tourists included in tally"
+			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
 		},
 		{
 			"active": "139",
@@ -877,13 +877,13 @@
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "36",
-			"confirmed": "65",
+			"active": "37",
+			"confirmed": "66",
 			"deaths": "1",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "2",
-			"lastupdatedtime": "13/04/2020 19:15:28",
+			"lastupdatedtime": "13/04/2020 22:46:16",
 			"recovered": "28",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -1137,13 +1137,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "13/04/2020 22:52:41",
 			"recovered": "0",
 			"state": "Meghalaya",
 			"statecode": "ML",
@@ -1503,6 +1503,16 @@
 			"totalpositivecases": "8312",
 			"totalsamplestested": "195748",
 			"updatetimestamp": "12/04/2020 21:00:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_13April_9PM_IST_0.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "202551",
+			"totalpositivecases": "9341",
+			"totalsamplestested": "217554",
+			"updatetimestamp": "13/04/2020 21:00:00"
 		}
 	]
 }
