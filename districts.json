@@ -1052,10 +1052,10 @@
         }
       },
       "Chennai": {
-        "confirmed": 209,
+        "confirmed": 214,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Erode": {
@@ -1087,10 +1087,10 @@
         }
       },
       "Madurai": {
-        "confirmed": 39,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Chengalpattu": {
@@ -1101,10 +1101,10 @@
         }
       },
       "Salem": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ranipet": {
@@ -1115,10 +1115,10 @@
         }
       },
       "Thanjavur": {
-        "confirmed": 11,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Vellore": {
@@ -1164,10 +1164,10 @@
         }
       },
       "Kanniyakumari": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Thoothukkudi": {
@@ -1185,17 +1185,17 @@
         }
       },
       "Dindigul": {
-        "confirmed": 56,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Sivaganga": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tirupathur": {
@@ -1213,10 +1213,10 @@
         }
       },
       "Ramanathapuram": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Thiruvallur": {
@@ -1227,17 +1227,17 @@
         }
       },
       "Nagapattinam": {
-        "confirmed": 29,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Cuddalore": {
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kallakurichi": {
@@ -1276,17 +1276,10 @@
         }
       },
       "Tenkasi": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 31,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 31
+          "confirmed": 3
         }
       }
     }
@@ -1410,10 +1403,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 79,
+        "confirmed": 80,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Kalaburagi": {
@@ -1445,10 +1438,10 @@
         }
       },
       "Uttara Kannada": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dakshina Kannada": {
