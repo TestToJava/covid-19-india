@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 166,
+        "confirmed": 167,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pathanamthitta": {
@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 73,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ernakulam": {
@@ -72,10 +72,10 @@
         }
       },
       "Kozhikode": {
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Palakkad": {
@@ -585,10 +585,10 @@
         }
       },
       "Faridabad": {
-        "confirmed": 31,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Panipat": {
@@ -1013,6 +1013,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 99,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 99
         }
       }
     }
@@ -1990,10 +1997,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 42,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bhadrak": {
@@ -2052,7 +2059,7 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
+      "Jaipur": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2188,10 +2195,10 @@
         }
       },
       "Korba": {
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
