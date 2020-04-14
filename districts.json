@@ -160,10 +160,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 1466,
+        "confirmed": 1517,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       }
     }
@@ -2410,31 +2410,31 @@
   "Madhya Pradesh": {
     "districtData": {
       "Jabalpur": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bhopal": {
-        "confirmed": 142,
+        "confirmed": 158,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Indore": {
-        "confirmed": 328,
+        "confirmed": 413,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 85
         }
       },
       "Ujjain": {
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Gwalior": {
@@ -2473,10 +2473,10 @@
         }
       },
       "Barwani": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Betul": {
@@ -2501,24 +2501,24 @@
         }
       },
       "Sheopur": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Khandwa": {
-        "confirmed": 6,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Dhar": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hoshangabad": {
@@ -2536,10 +2536,10 @@
         }
       },
       "Dewas": {
-        "confirmed": 4,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Sagar": {
@@ -2550,10 +2550,10 @@
         }
       },
       "Shajapur": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ratlam": {
@@ -2568,6 +2568,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Tikamgarh": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
