@@ -1287,24 +1287,24 @@
   "Jammu and Kashmir": {
     "districtData": {
       "Jammu": {
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Srinagar": {
-        "confirmed": 69,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Bandipore": {
-        "confirmed": 51,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Rajouri": {
@@ -1392,10 +1392,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 8,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 8
+          "confirmed": 1
         }
       }
     }
@@ -1919,7 +1919,7 @@
         }
       },
       "Chittoor": {
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1954,7 +1954,7 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 31,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2227,17 +2227,17 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 351,
+        "confirmed": 373,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 53
         }
       },
       "Vadodara": {
-        "confirmed": 107,
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Gandhinagar": {
@@ -2262,10 +2262,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 3
         }
       },
       "Porbandar": {
@@ -2297,10 +2297,10 @@
         }
       },
       "Chota Udaipur": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Jamnagar": {
@@ -2318,10 +2318,10 @@
         }
       },
       "Anand": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sabar Kantha": {
