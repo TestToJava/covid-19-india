@@ -378,17 +378,17 @@
         }
       },
       "Jaipur": {
-        "confirmed": 418,
+        "confirmed": 441,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 48
+          "confirmed": 71
         }
       },
       "Jhunjhunu": {
-        "confirmed": 31,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
