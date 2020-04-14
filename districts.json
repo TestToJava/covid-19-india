@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 121,
+        "confirmed": 173,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 52
         }
       },
       "Rajanna Sircilla": {
@@ -564,6 +564,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
