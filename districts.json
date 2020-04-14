@@ -1281,6 +1281,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 31,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 31
+        }
       }
     }
   },
@@ -1389,6 +1396,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     }
@@ -1761,10 +1775,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 54,
+        "confirmed": 56,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Hoshiarpur": {
@@ -1775,10 +1789,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ludhiana": {
@@ -1810,10 +1824,10 @@
         }
       },
       "Pathankot": {
-        "confirmed": 18,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Faridkot": {
@@ -1863,6 +1877,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Gurdaspur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2025,10 +2046,10 @@
         }
       },
       "Jajapur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kalahandi": {
@@ -2057,13 +2078,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Jaipur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     }
