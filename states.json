@@ -678,14 +678,14 @@
 	],
 	"statewise": [
 		{
-			"active": "9317",
-			"confirmed": "10978",
+			"active": "9318",
+			"confirmed": "10981",
 			"deaths": "368",
-			"deltaconfirmed": "524",
+			"deltaconfirmed": "527",
 			"deltadeaths": "10",
-			"deltarecovered": "95",
-			"lastupdatedtime": "14/04/2020 20:40:24",
-			"recovered": "1293",
+			"deltarecovered": "97",
+			"lastupdatedtime": "14/04/2020 21:10:24",
+			"recovered": "1295",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -782,14 +782,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "600",
-			"confirmed": "657",
+			"active": "602",
+			"confirmed": "660",
 			"deaths": "8",
-			"deltaconfirmed": "99",
+			"deltaconfirmed": "102",
 			"deltadeaths": "3",
-			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 18:10:27",
-			"recovered": "49",
+			"deltarecovered": "1",
+			"lastupdatedtime": "14/04/2020 21:00:25",
+			"recovered": "50",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
@@ -886,14 +886,14 @@
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "37",
+			"active": "36",
 			"confirmed": "66",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 19:36:48",
-			"recovered": "28",
+			"deltarecovered": "1",
+			"lastupdatedtime": "14/04/2020 21:10:25",
+			"recovered": "29",
 			"state": "Bihar",
 			"statecode": "BR",
 			"statenotes": ""
