@@ -722,10 +722,10 @@
   "Uttar Pradesh": {
     "districtData": {
       "Agra": {
-        "confirmed": 143,
+        "confirmed": 150,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Ghaziabad": {
@@ -736,10 +736,10 @@
         }
       },
       "Lucknow": {
-        "confirmed": 44,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       "Gautam Buddha Nagar": {
@@ -757,10 +757,10 @@
         }
       },
       "Moradabad": {
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Varanasi": {
@@ -771,10 +771,10 @@
         }
       },
       "Kanpur Nagar": {
-        "confirmed": 10,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Pilibhit": {
@@ -1030,10 +1030,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 75,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 75
+          "confirmed": 27
         }
       }
     }
@@ -1066,17 +1066,17 @@
         }
       },
       "Chennai": {
-        "confirmed": 214,
+        "confirmed": 219,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Erode": {
-        "confirmed": 64,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Coimbatore": {
@@ -1087,10 +1087,10 @@
         }
       },
       "Tirunelveli": {
-        "confirmed": 58,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruppur": {
@@ -1108,17 +1108,17 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 44,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Salem": {
-        "confirmed": 19,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Ranipet": {
@@ -1129,17 +1129,17 @@
         }
       },
       "Thanjavur": {
-        "confirmed": 15,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Vellore": {
         "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Vellore": {
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       },
       "Virudhunagar": {
@@ -1192,10 +1192,10 @@
         }
       },
       "Theni": {
-        "confirmed": 41,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dindigul": {
@@ -1220,10 +1220,10 @@
         }
       },
       "Thiruvarur": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ramanathapuram": {
@@ -1234,17 +1234,17 @@
         }
       },
       "Thiruvallur": {
-        "confirmed": 34,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Nagapattinam": {
-        "confirmed": 31,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Cuddalore": {
@@ -1290,17 +1290,10 @@
         }
       },
       "Tenkasi": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 38,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 38
+          "confirmed": 1
         }
       }
     }
