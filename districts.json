@@ -729,7 +729,7 @@
         }
       },
       "Lucknow": {
-        "confirmed": 41,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -932,7 +932,7 @@
         }
       },
       "Mathura": {
-        "confirmed": 7,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -953,7 +953,7 @@
         }
       },
       "Bijnor": {
-        "confirmed": 1,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1010,13 +1010,6 @@
       },
       "Etawah": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Bijapur": {
-        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2220,24 +2213,24 @@
         }
       },
       "Surat": {
-        "confirmed": 42,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Ahmadabad": {
-        "confirmed": 373,
+        "confirmed": 404,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 31
         }
       },
       "Vadodara": {
-        "confirmed": 113,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Gandhinagar": {
@@ -2283,10 +2276,10 @@
         }
       },
       "Panch Mahals": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Patan": {
@@ -2352,11 +2345,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 45,
+      "Botad": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 1
+        }
+      },
+      "Kheda": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
