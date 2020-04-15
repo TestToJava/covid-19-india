@@ -2445,24 +2445,24 @@
         }
       },
       "Bhopal": {
-        "confirmed": 158,
+        "confirmed": 167,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Indore": {
-        "confirmed": 411,
+        "confirmed": 544,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 133
         }
       },
       "Ujjain": {
-        "confirmed": 26,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Gwalior": {
@@ -2494,17 +2494,17 @@
         }
       },
       "Khargone": {
-        "confirmed": 17,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 22
         }
       },
       "Barwani": {
-        "confirmed": 17,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Betul": {
@@ -2536,10 +2536,10 @@
         }
       },
       "Khandwa": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dhar": {
@@ -2550,10 +2550,10 @@
         }
       },
       "Hoshangabad": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Raisen": {
@@ -2564,10 +2564,10 @@
         }
       },
       "Dewas": {
-        "confirmed": 7,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Sagar": {
@@ -2585,10 +2585,10 @@
         }
       },
       "Ratlam": {
-        "confirmed": 2,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Mandsaur": {
@@ -2612,11 +2612,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 197,
+      "Alirajpur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 197
+          "confirmed": 1
+        }
+      },
+      "Agar Malwa": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       }
     }
