@@ -378,17 +378,17 @@
         }
       },
       "Jaipur": {
-        "confirmed": 468,
+        "confirmed": 476,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 15
+          "confirmed": 23
         }
       },
       "Jhunjhunu": {
-        "confirmed": 32,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -462,10 +462,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 59,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Dhaulpur": {
@@ -497,10 +497,10 @@
         }
       },
       "Dausa": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Banswara": {
@@ -518,10 +518,10 @@
         }
       },
       "Nagaur": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jaisalmer": {
@@ -2501,7 +2501,7 @@
         }
       },
       "Khandwa": {
-        "confirmed": 16,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2522,7 +2522,7 @@
         }
       },
       "Raisen": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2558,6 +2558,13 @@
       },
       "Mandsaur": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Satna": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
