@@ -806,10 +806,10 @@
         }
       },
       "Meerut": {
-        "confirmed": 61,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bareilly": {
@@ -820,17 +820,17 @@
         }
       },
       "Bulandshahr": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Basti": {
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Hardoi": {
@@ -848,10 +848,10 @@
         }
       },
       "Firozabad": {
-        "confirmed": 19,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Azamgarh": {
@@ -876,10 +876,10 @@
         }
       },
       "Hapur": {
-        "confirmed": 9,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Ghazipur": {
@@ -1030,10 +1030,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 27,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 27
+          "confirmed": 8
         }
       }
     }
@@ -2763,7 +2763,7 @@
   "Jharkhand": {
     "districtData": {
       "Ranchi": {
-        "confirmed": 11,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2797,8 +2797,8 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 3,
+      "Simdega": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
