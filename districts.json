@@ -1301,7 +1301,7 @@
         }
       },
       "Srinagar": {
-        "confirmed": 72,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1392,13 +1392,6 @@
         }
       },
       "Budaun": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
