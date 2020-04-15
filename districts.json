@@ -98,6 +98,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -1021,6 +1028,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 67,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 67
+        }
       }
     }
   },
@@ -1494,10 +1508,10 @@
         }
       },
       "Belagavi": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bengaluru Rural": {
@@ -1522,10 +1536,10 @@
         }
       },
       "Vijayapura": {
-        "confirmed": 9,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       }
     }
@@ -2927,10 +2941,10 @@
   "Meghalaya": {
     "districtData": {
       "East Khasi Hills": {
-        "confirmed": 1,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       }
     }
