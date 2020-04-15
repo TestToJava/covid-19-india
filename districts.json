@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 77,
+        "confirmed": 78,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ernakulam": {
@@ -97,13 +97,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     }
@@ -213,7 +206,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 173,
+        "confirmed": 170,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -368,6 +361,13 @@
       },
       "Jangoan": {
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kumuram Bheem Asifabad": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1030,10 +1030,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 67,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 67
+          "confirmed": 75
         }
       }
     }
@@ -1294,6 +1294,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 38,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 38
         }
       }
     }
@@ -1803,10 +1810,10 @@
         }
       },
       "Patiala": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Rupnagar": {
@@ -1873,10 +1880,10 @@
         }
       },
       "Sangrur": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gurdaspur": {
