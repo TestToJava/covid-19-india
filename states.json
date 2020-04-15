@@ -687,23 +687,23 @@
 	],
 	"statewise": [
 		{
-			"active": "10069",
-			"confirmed": "11906",
+			"active": "10171",
+			"confirmed": "12021",
 			"deaths": "405",
-			"deltaconfirmed": "417",
+			"deltaconfirmed": "532",
 			"deltadeaths": "10",
-			"deltarecovered": "67",
-			"lastupdatedtime": "15/04/2020 19:55:24",
-			"recovered": "1432",
+			"deltarecovered": "80",
+			"lastupdatedtime": "15/04/2020 20:21:56",
+			"recovered": "1445",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
 		},
 		{
-			"active": "2364",
-			"confirmed": "2801",
+			"active": "2479",
+			"confirmed": "2916",
 			"deaths": "178",
-			"deltaconfirmed": "117",
+			"deltaconfirmed": "232",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "15/04/2020 17:35:24",
@@ -830,14 +830,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "266",
+			"active": "260",
 			"confirmed": "300",
 			"deaths": "4",
 			"deltaconfirmed": "22",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 19:50:25",
-			"recovered": "30",
+			"deltarecovered": "6",
+			"lastupdatedtime": "15/04/2020 20:10:28",
+			"recovered": "36",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK",
 			"statenotes": ""
@@ -934,14 +934,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "20",
+			"active": "16",
 			"confirmed": "33",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"lastupdatedtime": "15/04/2020 11:00:25",
-			"recovered": "13",
+			"recovered": "17",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": "Death of Tibetan refugee included"
@@ -960,14 +960,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "31",
+			"active": "29",
 			"confirmed": "32",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 23:05:31",
-			"recovered": "0",
+			"deltarecovered": "2",
+			"lastupdatedtime": "15/04/2020 20:22:09",
+			"recovered": "2",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": ""
@@ -1025,14 +1025,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/04/2020 23:26:44",
-			"recovered": "5",
+			"deltarecovered": "1",
+			"lastupdatedtime": "15/04/2020 20:10:36",
+			"recovered": "6",
 			"state": "Goa",
 			"statecode": "GA",
 			"statenotes": ""
