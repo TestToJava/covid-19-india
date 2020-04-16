@@ -1410,17 +1410,17 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 82,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Kalaburagi": {
-        "confirmed": 17,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kodagu": {
@@ -1431,10 +1431,10 @@
         }
       },
       "Mysuru": {
-        "confirmed": 58,
+        "confirmed": 61,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Dharwad": {
@@ -1508,10 +1508,10 @@
         }
       },
       "Belagavi": {
-        "confirmed": 19,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Bengaluru Rural": {
@@ -1522,10 +1522,10 @@
         }
       },
       "Gadag": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Mandya": {
@@ -1536,10 +1536,10 @@
         }
       },
       "Vijayapura": {
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       }
     }
@@ -1554,31 +1554,31 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1756,
+        "confirmed": 1863,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 107
         }
       },
       "Nagpur": {
-        "confirmed": 44,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Ahmadnagar": {
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Thane": {
-        "confirmed": 270,
+        "confirmed": 283,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       "Raigarh": {
@@ -1750,10 +1750,17 @@
         }
       },
       "Unknown": {
-        "confirmed": 232,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 34
+        }
+      },
+      "Chandrapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
