@@ -692,17 +692,26 @@
 			"totalconfirmed": "12372",
 			"totaldeceased": "425",
 			"totalrecovered": "1509"
+		},
+		{
+			"dailyconfirmed": "1059",
+			"dailydeceased": "26",
+			"dailyrecovered": "259",
+			"date": "16 April ",
+			"totalconfirmed": "13431",
+			"totaldeceased": "451",
+			"totalrecovered": "1768"
 		}
 	],
 	"statewise": [
 		{
-			"active": "11213",
-			"confirmed": "13428",
-			"deaths": "447",
-			"deltaconfirmed": "1057",
-			"deltadeaths": "25",
+			"active": "11214",
+			"confirmed": "13430",
+			"deaths": "448",
+			"deltaconfirmed": "1059",
+			"deltadeaths": "26",
 			"deltarecovered": "259",
-			"lastupdatedtime": "16/04/2020 23:23:05",
+			"lastupdatedtime": "16/04/2020 23:43:05",
 			"recovered": "1768",
 			"state": "Total",
 			"statecode": "TT",
@@ -787,13 +796,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "725",
+			"active": "724",
 			"confirmed": "805",
-			"deaths": "12",
+			"deaths": "13",
 			"deltaconfirmed": "70",
-			"deltadeaths": "1",
+			"deltadeaths": "2",
 			"deltarecovered": "11",
-			"lastupdatedtime": "16/04/2020 20:53:06",
+			"lastupdatedtime": "16/04/2020 23:43:06",
 			"recovered": "68",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
@@ -1060,13 +1069,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "6",
-			"confirmed": "7",
+			"active": "8",
+			"confirmed": "9",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 18:00:28",
+			"lastupdatedtime": "16/04/2020 23:43:08",
 			"recovered": "0",
 			"state": "Meghalaya",
 			"statecode": "ML",
