@@ -16,10 +16,10 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 167,
+        "confirmed": 168,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pathanamthitta": {
@@ -30,10 +30,10 @@
         }
       },
       "Kannur": {
-        "confirmed": 78,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Ernakulam": {
@@ -72,10 +72,10 @@
         }
       },
       "Kozhikode": {
-        "confirmed": 16,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Palakkad": {
@@ -1315,17 +1315,17 @@
         }
       },
       "Srinagar": {
-        "confirmed": 76,
+        "confirmed": 78,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bandipore": {
-        "confirmed": 56,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Rajouri": {
@@ -1336,10 +1336,10 @@
         }
       },
       "Badgam": {
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Baramula": {
@@ -1378,10 +1378,10 @@
         }
       },
       "Ganderbal": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kulgam": {
@@ -1410,13 +1410,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 14,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 14
         }
       }
     }
