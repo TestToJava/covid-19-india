@@ -406,10 +406,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 115,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 11
         }
       },
       "Pali": {
@@ -546,10 +546,10 @@
         }
       },
       "Kota": {
-        "confirmed": 84,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Jhalawar": {
@@ -1294,6 +1294,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 25,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 25
         }
       }
     }
@@ -2719,6 +2726,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Buxar": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     }
