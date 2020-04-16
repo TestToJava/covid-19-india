@@ -2227,38 +2227,38 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 24,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Surat": {
-        "confirmed": 51,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       "Ahmadabad": {
-        "confirmed": 450,
+        "confirmed": 492,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 42
         }
       },
       "Vadodara": {
-        "confirmed": 121,
+        "confirmed": 127,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Gandhinagar": {
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kachchh": {
@@ -2297,10 +2297,10 @@
         }
       },
       "Panch Mahals": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Patan": {
@@ -2332,10 +2332,10 @@
         }
       },
       "Anand": {
-        "confirmed": 17,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Sabar Kantha": {
@@ -2360,10 +2360,10 @@
         }
       },
       "Banas Kantha": {
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Botad": {
@@ -2374,17 +2374,17 @@
         }
       },
       "Kheda": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Narmada": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Narmada": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       }
     }
