@@ -1933,10 +1933,10 @@
         }
       },
       "Krishna": {
-        "confirmed": 45,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Chittoor": {
@@ -1954,10 +1954,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 109,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Anantapur": {
@@ -1968,10 +1968,10 @@
         }
       },
       "West Godavari": {
-        "confirmed": 31,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Y.S.R.": {
