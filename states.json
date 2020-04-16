@@ -696,14 +696,14 @@
 	],
 	"statewise": [
 		{
-			"active": "10911",
-			"confirmed": "12979",
+			"active": "10936",
+			"confirmed": "13024",
 			"deaths": "429",
-			"deltaconfirmed": "608",
+			"deltaconfirmed": "653",
 			"deltadeaths": "7",
-			"deltarecovered": "131",
-			"lastupdatedtime": "16/04/2020 18:43:05",
-			"recovered": "1639",
+			"deltarecovered": "151",
+			"lastupdatedtime": "16/04/2020 19:23:05",
+			"recovered": "1659",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -748,14 +748,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "998",
-			"confirmed": "1115",
+			"active": "997",
+			"confirmed": "1120",
 			"deaths": "53",
-			"deltaconfirmed": "177",
+			"deltaconfirmed": "182",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/04/2020 17:23:06",
-			"recovered": "64",
+			"deltarecovered": "6",
+			"lastupdatedtime": "16/04/2020 19:13:10",
+			"recovered": "70",
 			"state": "Madhya Pradesh",
 			"statecode": "MP",
 			"statenotes": ""
@@ -787,14 +787,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "666",
-			"confirmed": "735",
+			"active": "693",
+			"confirmed": "773",
 			"deaths": "12",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "38",
 			"deltadeaths": "1",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 19:55:25",
-			"recovered": "57",
+			"deltarecovered": "11",
+			"lastupdatedtime": "16/04/2020 19:23:06",
+			"recovered": "68",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
@@ -878,14 +878,14 @@
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
 		},
 		{
-			"active": "148",
-			"confirmed": "213",
+			"active": "147",
+			"confirmed": "215",
 			"deaths": "3",
-			"deltaconfirmed": "9",
+			"deltaconfirmed": "11",
 			"deltadeaths": "0",
-			"deltarecovered": "5",
-			"lastupdatedtime": "14/04/2020 18:10:31",
-			"recovered": "62",
+			"deltarecovered": "8",
+			"lastupdatedtime": "16/04/2020 19:13:11",
+			"recovered": "65",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": ""
