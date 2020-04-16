@@ -1547,10 +1547,10 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 351,
+        "confirmed": 374,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       "Mumbai": {
@@ -1575,17 +1575,17 @@
         }
       },
       "Thane": {
-        "confirmed": 283,
+        "confirmed": 285,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 13
+          "confirmed": 15
         }
       },
       "Raigarh": {
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Yavatmal": {
@@ -1610,10 +1610,10 @@
         }
       },
       "Palghar": {
-        "confirmed": 34,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sangli": {
@@ -1673,10 +1673,10 @@
         }
       },
       "Nashik": {
-        "confirmed": 46,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Osmanabad": {
@@ -1750,10 +1750,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 266,
+        "confirmed": 234,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 34
+          "confirmed": 2
         }
       },
       "Chandrapur": {
