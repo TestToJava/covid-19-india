@@ -385,10 +385,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 483,
+        "confirmed": 486,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Jhunjhunu": {
@@ -497,10 +497,10 @@
         }
       },
       "Bharatpur": {
-        "confirmed": 20,
+        "confirmed": 43,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 23
         }
       },
       "Bikaner": {
@@ -532,10 +532,10 @@
         }
       },
       "Nagaur": {
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Jaisalmer": {
@@ -571,13 +571,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 27,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 27
         }
       }
     }
@@ -2452,24 +2445,24 @@
   "Madhya Pradesh": {
     "districtData": {
       "Jabalpur": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhopal": {
-        "confirmed": 167,
+        "confirmed": 196,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 29
         }
       },
       "Indore": {
-        "confirmed": 586,
+        "confirmed": 707,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 42
+          "confirmed": 163
         }
       },
       "Ujjain": {
@@ -2550,17 +2543,17 @@
         }
       },
       "Khandwa": {
-        "confirmed": 16,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Dhar": {
-        "confirmed": 3,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Hoshangabad": {
@@ -2571,17 +2564,17 @@
         }
       },
       "Raisen": {
-        "confirmed": 4,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Dewas": {
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sagar": {
@@ -2592,10 +2585,10 @@
         }
       },
       "Shajapur": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ratlam": {
@@ -2606,10 +2599,10 @@
         }
       },
       "Mandsaur": {
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Satna": {
@@ -2634,17 +2627,10 @@
         }
       },
       "Agar Malwa": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 184,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 184
+          "confirmed": 1
         }
       }
     }
