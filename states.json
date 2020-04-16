@@ -696,14 +696,14 @@
 	],
 	"statewise": [
 		{
-			"active": "10939",
-			"confirmed": "12961",
+			"active": "10905",
+			"confirmed": "12968",
 			"deaths": "428",
-			"deltaconfirmed": "590",
+			"deltaconfirmed": "597",
 			"deltadeaths": "6",
-			"deltarecovered": "86",
-			"lastupdatedtime": "16/04/2020 17:23:05",
-			"recovered": "1594",
+			"deltarecovered": "127",
+			"lastupdatedtime": "16/04/2020 18:13:39",
+			"recovered": "1635",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -800,14 +800,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "515",
+			"active": "512",
 			"confirmed": "650",
 			"deaths": "18",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 21:00:28",
-			"recovered": "117",
+			"deltarecovered": "3",
+			"lastupdatedtime": "16/04/2020 18:13:40",
+			"recovered": "120",
 			"state": "Telangana",
 			"statecode": "TG",
 			"statenotes": ""
@@ -826,14 +826,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "167",
-			"confirmed": "387",
+			"active": "147",
+			"confirmed": "394",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 18:10:26",
-			"recovered": "218",
+			"deltarecovered": "27",
+			"lastupdatedtime": "16/04/2020 18:13:41",
+			"recovered": "245",
 			"state": "Kerala",
 			"statecode": "KL",
 			"statenotes": ""
@@ -904,14 +904,14 @@
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "44",
+			"active": "36",
 			"confirmed": "74",
 			"deaths": "1",
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 13:39:51",
-			"recovered": "29",
+			"deltarecovered": "8",
+			"lastupdatedtime": "16/04/2020 18:03:08",
+			"recovered": "37",
 			"state": "Bihar",
 			"statecode": "BR",
 			"statenotes": ""
@@ -943,14 +943,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "20",
+			"active": "17",
 			"confirmed": "35",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 21:00:30",
-			"recovered": "13",
+			"deltarecovered": "3",
+			"lastupdatedtime": "16/04/2020 18:13:42",
+			"recovered": "16",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "Death of Tibetan refugee included"
