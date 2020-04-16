@@ -696,14 +696,14 @@
 	],
 	"statewise": [
 		{
-			"active": "10789",
-			"confirmed": "12799",
+			"active": "10797",
+			"confirmed": "12808",
 			"deaths": "428",
-			"deltaconfirmed": "428",
+			"deltaconfirmed": "437",
 			"deltadeaths": "6",
-			"deltarecovered": "74",
-			"lastupdatedtime": "16/04/2020 15:13:05",
-			"recovered": "1582",
+			"deltarecovered": "75",
+			"lastupdatedtime": "16/04/2020 16:53:05",
+			"recovered": "1583",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -813,13 +813,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "491",
-			"confirmed": "525",
+			"active": "500",
+			"confirmed": "534",
 			"deaths": "14",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 21:00:29",
+			"lastupdatedtime": "16/04/2020 16:53:06",
 			"recovered": "20",
 			"state": "Andhra Pradesh",
 			"statecode": "AP",
@@ -1021,14 +1021,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "11",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "30/03/2020 11:27:27",
-			"recovered": "10",
+			"deltarecovered": "1",
+			"lastupdatedtime": "16/04/2020 16:53:07",
+			"recovered": "11",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN",
 			"statenotes": ""
