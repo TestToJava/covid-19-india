@@ -696,14 +696,14 @@
 	],
 	"statewise": [
 		{
-			"active": "11242",
+			"active": "11223",
 			"confirmed": "13425",
-			"deaths": "444",
+			"deaths": "446",
 			"deltaconfirmed": "1054",
-			"deltadeaths": "22",
-			"deltarecovered": "231",
-			"lastupdatedtime": "16/04/2020 22:23:05",
-			"recovered": "1739",
+			"deltadeaths": "24",
+			"deltarecovered": "248",
+			"lastupdatedtime": "16/04/2020 22:33:06",
+			"recovered": "1756",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -748,11 +748,11 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1041",
+			"active": "1039",
 			"confirmed": "1164",
-			"deaths": "53",
+			"deaths": "55",
 			"deltaconfirmed": "226",
-			"deltadeaths": "0",
+			"deltadeaths": "2",
 			"deltarecovered": "6",
 			"lastupdatedtime": "16/04/2020 21:33:07",
 			"recovered": "70",
@@ -761,14 +761,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "973",
+			"active": "956",
 			"confirmed": "1131",
 			"deaths": "11",
 			"deltaconfirmed": "55",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/04/2020 22:13:06",
-			"recovered": "147",
+			"deltarecovered": "17",
+			"lastupdatedtime": "16/04/2020 22:33:08",
+			"recovered": "164",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1560,6 +1560,16 @@
 			"totalpositivecases": "11297",
 			"totalsamplestested": "274599",
 			"updatetimestamp": "15/04/2020 21:00:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "1206",
+			"samplereportedtoday": "27256",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_16April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "286714",
+			"totalpositivecases": "12,581",
+			"totalsamplestested": "302956",
+			"updatetimestamp": "16/04/2020 21:00:00"
 		}
 	]
 }
