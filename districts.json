@@ -599,10 +599,10 @@
         }
       },
       "Panchkula": {
-        "confirmed": 14,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sonipat": {
@@ -648,10 +648,10 @@
         }
       },
       "Nuh": {
-        "confirmed": 50,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Karnal": {
