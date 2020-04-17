@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 66,
+        "confirmed": 132,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 66
         }
       },
       "Rajanna Sircilla": {
@@ -1051,10 +1051,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 41,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 41
+          "confirmed": 44
         }
       }
     }
@@ -1336,10 +1336,10 @@
         }
       },
       "Bandipore": {
-        "confirmed": 66,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       "Rajouri": {
@@ -1364,10 +1364,10 @@
         }
       },
       "Shupiyan": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Udhampur": {
@@ -1385,10 +1385,10 @@
         }
       },
       "Kupwara": {
-        "confirmed": 25,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Ganderbal": {
@@ -2428,6 +2428,13 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      "Unknown": {
+        "confirmed": 78,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 78
+        }
       }
     }
   },
@@ -2666,6 +2673,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 146,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 146
         }
       }
     }
