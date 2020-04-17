@@ -1919,38 +1919,38 @@
         }
       },
       "Krishna": {
-        "confirmed": 48,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Chittoor": {
-        "confirmed": 23,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Guntur": {
-        "confirmed": 122,
+        "confirmed": 126,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Kurnool": {
-        "confirmed": 112,
+        "confirmed": 125,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       "Anantapur": {
-        "confirmed": 21,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "West Godavari": {
@@ -1961,10 +1961,17 @@
         }
       },
       "Y.S.R.": {
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 6
         }
       }
     }
@@ -2385,6 +2392,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 92,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 92
         }
       }
     }
