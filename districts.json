@@ -2829,10 +2829,10 @@
   "Andaman and Nicobar Islands": {
     "districtData": {
       "South Andaman": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "North and Middle Andaman": {
@@ -2843,10 +2843,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 6,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
@@ -2854,10 +2854,10 @@
   "Jharkhand": {
     "districtData": {
       "Ranchi": {
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Hazaribagh": {
