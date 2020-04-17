@@ -705,14 +705,14 @@
 	],
 	"statewise": [
 		{
-			"active": "11507",
+			"active": "11402",
 			"confirmed": "13815",
 			"deaths": "457",
 			"deltaconfirmed": "383",
 			"deltadeaths": "9",
-			"deltarecovered": "83",
-			"lastupdatedtime": "17/04/2020 18:43:05",
-			"recovered": "1851",
+			"deltarecovered": "188",
+			"lastupdatedtime": "17/04/2020 19:14:05",
+			"recovered": "1956",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -744,14 +744,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1128",
+			"active": "1025",
 			"confirmed": "1323",
 			"deaths": "15",
 			"deltaconfirmed": "56",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "17/04/2020 18:43:05",
-			"recovered": "180",
+			"deltarecovered": "103",
+			"lastupdatedtime": "17/04/2020 18:55:06",
+			"recovered": "283",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
 			"statenotes": ""
@@ -802,7 +802,7 @@
 			"deltaconfirmed": "41",
 			"deltadeaths": "0",
 			"deltarecovered": "6",
-			"lastupdatedtime": "17/04/2020 18:43:06",
+			"lastupdatedtime": "17/04/2020 18:44:07",
 			"recovered": "74",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
@@ -900,14 +900,14 @@
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
 		},
 		{
-			"active": "168",
+			"active": "167",
 			"confirmed": "211",
 			"deaths": "14",
 			"deltaconfirmed": "14",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "17/04/2020 18:43:07",
-			"recovered": "29",
+			"deltarecovered": "1",
+			"lastupdatedtime": "17/04/2020 18:55:29",
+			"recovered": "30",
 			"state": "Punjab",
 			"statecode": "PB",
 			"statenotes": ""
@@ -952,14 +952,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "13",
+			"active": "12",
 			"confirmed": "36",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "17/04/2020 10:18:07",
-			"recovered": "23",
+			"deltarecovered": "1",
+			"lastupdatedtime": "17/04/2020 19:14:06",
+			"recovered": "24",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": ""
