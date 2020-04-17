@@ -750,7 +750,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 18:40:25",
+			"lastupdatedtime": "16/04/2020 21:33:06",
 			"recovered": "180",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
@@ -854,7 +854,7 @@
 			"deltaconfirmed": "38",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/04/2020 12:29:41",
+			"lastupdatedtime": "16/04/2020 21:33:06",
 			"recovered": "82",
 			"state": "Karnataka",
 			"statecode": "KA",
@@ -1134,19 +1134,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "17/04/2020 15:03:07",
-			"recovered": "0",
-			"state": "Dadra and Nagar Haveli",
-			"statecode": "DN",
-			"statenotes": ""
-		},
-		{
 			"active": "1",
 			"confirmed": "1",
 			"deaths": "0",
@@ -1157,6 +1144,19 @@
 			"recovered": "0",
 			"state": "Nagaland",
 			"statecode": "NL",
+			"statenotes": ""
+		},
+		{
+			"active": "0",
+			"confirmed": "0",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "17/04/2020 15:03:07",
+			"recovered": "0",
+			"state": "Dadra and Nagar Haveli",
+			"statecode": "DN",
 			"statenotes": ""
 		},
 		{
