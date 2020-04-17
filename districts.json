@@ -2262,24 +2262,24 @@
         }
       },
       "Surat": {
-        "confirmed": 102,
+        "confirmed": 140,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 52
         }
       },
       "Ahmadabad": {
-        "confirmed": 590,
+        "confirmed": 622,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 77
         }
       },
       "Vadodara": {
-        "confirmed": 137,
+        "confirmed": 142,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 14
         }
       },
       "Gandhinagar": {
@@ -2388,10 +2388,10 @@
         }
       },
       "Banas Kantha": {
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Botad": {
@@ -2427,13 +2427,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "confirmed": 78,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 78
         }
       }
     }
