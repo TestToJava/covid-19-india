@@ -388,14 +388,14 @@
         "confirmed": 491,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Jhunjhunu": {
         "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhilwara": {
@@ -409,7 +409,7 @@
         "confirmed": 133,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Pali": {
@@ -451,14 +451,14 @@
         "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Evacuees*": {
         "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Alwar": {
@@ -472,7 +472,7 @@
         "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Dhaulpur": {
@@ -528,7 +528,7 @@
         "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Jaisalmer": {
@@ -542,14 +542,14 @@
         "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Jhalawar": {
         "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Barmer": {
@@ -2162,7 +2162,7 @@
         "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 24
         }
       }
     }
