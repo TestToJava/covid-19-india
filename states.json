@@ -705,13 +705,13 @@
 	],
 	"statewise": [
 		{
-			"active": "11421",
-			"confirmed": "13664",
+			"active": "11420",
+			"confirmed": "13663",
 			"deaths": "450",
 			"deltaconfirmed": "231",
 			"deltadeaths": "2",
 			"deltarecovered": "25",
-			"lastupdatedtime": "17/04/2020 13:20:08",
+			"lastupdatedtime": "17/04/2020 15:03:05",
 			"recovered": "1793",
 			"state": "Total",
 			"statecode": "TT",
@@ -1134,13 +1134,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "0",
+			"confirmed": "0",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:22:25",
+			"lastupdatedtime": "17/04/2020 15:03:07",
 			"recovered": "0",
 			"state": "Dadra and Nagar Haveli",
 			"statecode": "DN",
