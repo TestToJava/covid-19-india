@@ -385,10 +385,10 @@
         }
       },
       "Jaipur": {
-        "confirmed": 491,
+        "confirmed": 492,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 6
         }
       },
       "Jhunjhunu": {
@@ -406,10 +406,10 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 133,
+        "confirmed": 144,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 17
+          "confirmed": 28
         }
       },
       "Pali": {
@@ -455,10 +455,10 @@
         }
       },
       "Evacuees*": {
-        "confirmed": 55,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
         }
       },
       "Alwar": {
@@ -469,10 +469,10 @@
         }
       },
       "Tonk": {
-        "confirmed": 77,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 6
+          "confirmed": 13
         }
       },
       "Dhaulpur": {
@@ -539,10 +539,10 @@
         }
       },
       "Kota": {
-        "confirmed": 90,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 6
         }
       },
       "Jhalawar": {
