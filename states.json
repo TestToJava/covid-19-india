@@ -705,14 +705,14 @@
 	],
 	"statewise": [
 		{
-			"active": "11214",
-			"confirmed": "13430",
+			"active": "11229",
+			"confirmed": "13454",
 			"deaths": "448",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "24",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/04/2020 23:43:05",
-			"recovered": "1768",
+			"deltarecovered": "9",
+			"lastupdatedtime": "17/04/2020 08:43:05",
+			"recovered": "1777",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -874,14 +874,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "179",
-			"confirmed": "231",
+			"active": "194",
+			"confirmed": "255",
 			"deaths": "10",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "24",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "16/04/2020 19:53:44",
-			"recovered": "42",
+			"deltarecovered": "9",
+			"lastupdatedtime": "17/04/2020 08:43:06",
+			"recovered": "51",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
