@@ -1316,6 +1316,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 49,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 49
+        }
       }
     }
   },
@@ -1424,6 +1431,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 13,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 13
         }
       }
     }
@@ -1803,10 +1817,10 @@
         }
       },
       "S.A.S. Nagar": {
-        "confirmed": 56,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Hoshiarpur": {
@@ -1817,10 +1831,10 @@
         }
       },
       "Jalandhar": {
-        "confirmed": 35,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Ludhiana": {
@@ -1908,10 +1922,10 @@
         }
       },
       "Gurdaspur": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Firozpur": {
@@ -2715,7 +2729,7 @@
         }
       },
       "Nalanda": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2743,7 +2757,7 @@
         }
       },
       "Begusarai": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2778,13 +2792,6 @@
         }
       },
       "Buxar": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
