@@ -1926,17 +1926,17 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 65,
+        "confirmed": 68,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Prakasam": {
-        "confirmed": 42,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Visakhapatnam": {
@@ -1947,17 +1947,17 @@
         }
       },
       "East Godavari": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Krishna": {
-        "confirmed": 52,
+        "confirmed": 70,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       "Chittoor": {
@@ -1975,10 +1975,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 125,
+        "confirmed": 130,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       "Anantapur": {
@@ -1989,10 +1989,10 @@
         }
       },
       "West Godavari": {
-        "confirmed": 34,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Y.S.R.": {
@@ -2000,13 +2000,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 31,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 31
         }
       }
     }
@@ -2262,31 +2255,31 @@
   "Gujarat": {
     "districtData": {
       "Rajkot": {
-        "confirmed": 28,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Surat": {
-        "confirmed": 140,
+        "confirmed": 156,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 16
         }
       },
       "Ahmadabad": {
-        "confirmed": 622,
+        "confirmed": 765,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 143
         }
       },
       "Vadodara": {
-        "confirmed": 142,
+        "confirmed": 150,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Gandhinagar": {
@@ -2311,10 +2304,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 26,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Porbandar": {
@@ -2367,10 +2360,10 @@
         }
       },
       "Anand": {
-        "confirmed": 26,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sabar Kantha": {
@@ -2388,10 +2381,10 @@
         }
       },
       "Bharuch": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Banas Kantha": {
