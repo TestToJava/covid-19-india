@@ -227,10 +227,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 22,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 43
         }
       },
       "Vikarabad": {
@@ -1845,10 +1845,10 @@
         }
       },
       "Patiala": {
-        "confirmed": 11,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       "Rupnagar": {
@@ -2697,10 +2697,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 45,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 45
+          "confirmed": 92
         }
       }
     }
