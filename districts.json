@@ -1582,21 +1582,21 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 509,
+        "confirmed": 552,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 2187,
+        "confirmed": 2257,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Nagpur": {
-        "confirmed": 69,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1610,28 +1610,28 @@
         }
       },
       "Thane": {
-        "confirmed": 325,
+        "confirmed": 323,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Raigarh": {
-        "confirmed": 30,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Yavatmal": {
-        "confirmed": 5,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Aurangabad": {
-        "confirmed": 24,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1659,7 +1659,7 @@
         }
       },
       "Satara": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1792,7 +1792,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 239,
+        "confirmed": 122,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
