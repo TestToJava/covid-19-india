@@ -869,10 +869,10 @@
         }
       },
       "Saharanpur": {
-        "confirmed": 53,
+        "confirmed": 72,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       },
       "Pratapgarh": {
@@ -1071,18 +1071,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 20,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 20
-        }
-      },
       "Mau": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
