@@ -723,23 +723,23 @@
 		{
 			"dailyconfirmed": "1580",
 			"dailydeceased": "38",
-			"dailyrecovered": "388",
+			"dailyrecovered": "392",
 			"date": "19 April ",
 			"totalconfirmed": "17304",
 			"totaldeceased": "559",
-			"totalrecovered": "2854"
+			"totalrecovered": "2858"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13891",
-			"confirmed": "17304",
+			"active": "13923",
+			"confirmed": "17340",
 			"deaths": "559",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "36",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 01:09:07",
-			"recovered": "2854",
+			"lastupdatedtime": "20/04/2020 09:25:13",
+			"recovered": "2858",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -784,19 +784,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1051",
-			"confirmed": "1477",
-			"deaths": "15",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 18:44:11",
-			"recovered": "411",
-			"state": "Tamil Nadu",
-			"statecode": "TN",
-			"statenotes": ""
-		},
-		{
 			"active": "1250",
 			"confirmed": "1478",
 			"deaths": "23",
@@ -807,6 +794,19 @@
 			"recovered": "205",
 			"state": "Rajasthan",
 			"statecode": "RJ",
+			"statenotes": ""
+		},
+		{
+			"active": "1051",
+			"confirmed": "1477",
+			"deaths": "15",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "19/04/2020 18:44:11",
+			"recovered": "411",
+			"state": "Tamil Nadu",
+			"statecode": "TN",
 			"statenotes": ""
 		},
 		{
@@ -901,14 +901,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "236",
-			"confirmed": "310",
+			"active": "261",
+			"confirmed": "339",
 			"deaths": "12",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "29",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 12:14:07",
-			"recovered": "62",
+			"lastupdatedtime": "20/04/2020 09:25:14",
+			"recovered": "66",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "As WB state bulletin only reports the number of active cases, the numbers for WB are currently updated according to https://www.mohfw.gov.in"
@@ -953,13 +953,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "36",
-			"confirmed": "61",
+			"active": "43",
+			"confirmed": "68",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 17:56:06",
+			"lastupdatedtime": "20/04/2020 09:25:15",
 			"recovered": "24",
 			"state": "Odisha",
 			"statecode": "OR",
@@ -979,19 +979,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "21",
-			"confirmed": "39",
-			"deaths": "2",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 19:15:06",
-			"recovered": "16",
-			"state": "Himachal Pradesh",
-			"statecode": "HP",
-			"statenotes": "Death of Tibetan refugee included"
-		},
-		{
 			"active": "39",
 			"confirmed": "41",
 			"deaths": "2",
@@ -1003,6 +990,19 @@
 			"state": "Jharkhand",
 			"statecode": "JH",
 			"statenotes": ""
+		},
+		{
+			"active": "21",
+			"confirmed": "39",
+			"deaths": "2",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "18/04/2020 19:15:06",
+			"recovered": "16",
+			"state": "Himachal Pradesh",
+			"statecode": "HP",
+			"statenotes": "Death of Tibetan refugee included"
 		},
 		{
 			"active": "11",
