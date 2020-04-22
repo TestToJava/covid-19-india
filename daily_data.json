@@ -310,5 +310,11 @@
       "confirmed":20080,
       "deaths":645,
       "recovered":3795
+   },
+   {
+      "date":"Apr 22",
+      "confirmed":21370,
+      "deaths":681,
+      "recovered":4370
    }
 ]
