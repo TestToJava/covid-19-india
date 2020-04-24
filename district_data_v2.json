@@ -3329,6 +3329,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Dharmapuri",
+  "state" : "Tamil Nadu",
+  "name" : "Dharmapuri",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
