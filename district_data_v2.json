@@ -443,7 +443,7 @@
   "state" : "Chandigarh",
   "name" : "Chandigarh",
   "confirmed" : 28,
-  "recovered" : 14,
+  "recovered" : 15,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
