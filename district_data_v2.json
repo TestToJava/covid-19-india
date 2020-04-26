@@ -1442,7 +1442,7 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 36,
+  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1519,10 +1519,10 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Kalaburgi",
+  "id" : "Others",
   "state" : "Karnataka",
-  "name" : "Kalaburgi",
-  "confirmed" : 10,
+  "name" : "Others",
+  "confirmed" : 0,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
