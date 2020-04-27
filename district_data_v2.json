@@ -3839,6 +3839,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Jhansi",
+  "state" : "Uttar Pradesh",
+  "name" : "Jhansi",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Meerut",
   "state" : "Uttar Pradesh",
   "name" : "Meerut",
@@ -4093,6 +4103,16 @@
   "state" : "Uttar Pradesh",
   "name" : "Mahrajganj",
   "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Gorakhpur",
+  "state" : "Uttar Pradesh",
+  "name" : "Gorakhpur",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4369,6 +4389,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Balrampur",
+  "state" : "Uttar Pradesh",
+  "name" : "Balrampur",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Aligarh",
   "state" : "Uttar Pradesh",
   "name" : "Aligarh",
@@ -4553,16 +4583,6 @@
   "state" : "West Bengal",
   "name" : "Murshidabad",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Purba-Bardhaman",
-  "state" : "West Bengal",
-  "name" : "Purba Bardhaman",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
