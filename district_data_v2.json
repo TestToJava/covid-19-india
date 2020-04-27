@@ -1,24 +1,4 @@
 [ {
-  "id" : "South-Andaman",
-  "state" : "Andaman and Nicobar Islands",
-  "name" : "South Andaman",
-  "confirmed" : 32,
-  "recovered" : 10,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "North-and-Middle-Andaman",
-  "state" : "Andaman and Nicobar Islands",
-  "name" : "North and Middle Andaman",
-  "confirmed" : 1,
-  "recovered" : 1,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Kurnool",
   "state" : "Andhra Pradesh",
   "name" : "Kurnool",
@@ -279,11 +259,21 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Siwan",
-  "state" : "Bihar",
-  "name" : "Siwan",
-  "confirmed" : 30,
-  "recovered" : 0,
+  "id" : "South-Andaman",
+  "state" : "Andaman and Nicobar Islands",
+  "name" : "South Andaman",
+  "confirmed" : 32,
+  "recovered" : 10,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "North-and-Middle-Andaman",
+  "state" : "Andaman and Nicobar Islands",
+  "name" : "North and Middle Andaman",
+  "confirmed" : 1,
+  "recovered" : 1,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
