@@ -489,6 +489,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Banka",
+  "state" : "Bihar",
+  "name" : "Banka",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Vaishali",
   "state" : "Bihar",
   "name" : "Vaishali",
@@ -519,16 +529,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Banka",
-  "state" : "Bihar",
-  "name" : "Banka",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -542,6 +542,26 @@
   "id" : "Araria",
   "state" : "Bihar",
   "name" : "Araria",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Sheikhpura",
+  "state" : "Bihar",
+  "name" : "Sheikhpura",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Madhepura",
+  "state" : "Bihar",
+  "name" : "Madhepura",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -602,6 +622,16 @@
   "id" : "Rajnandgaon",
   "state" : "Chhattisgarh",
   "name" : "Rajnandgaon",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Surajpur",
+  "state" : "Chhattisgarh",
+  "name" : "Surajpur",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
