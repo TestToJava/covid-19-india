@@ -1539,16 +1539,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Vijayapura",
-  "state" : "Karnataka",
-  "name" : "Vijayapura",
-  "confirmed" : 41,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
@@ -1559,10 +1549,20 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Vijayapura",
+  "state" : "Karnataka",
+  "name" : "Vijayapura",
+  "confirmed" : 41,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Bagalkote",
   "state" : "Karnataka",
   "name" : "Bagalkote",
-  "confirmed" : 26,
+  "confirmed" : 29,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
