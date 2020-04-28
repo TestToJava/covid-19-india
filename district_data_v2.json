@@ -519,6 +519,36 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Banka",
+  "state" : "Bihar",
+  "name" : "Banka",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Sitamarhi",
+  "state" : "Bihar",
+  "name" : "Sitamarhi",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Araria",
+  "state" : "Bihar",
+  "name" : "Araria",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
