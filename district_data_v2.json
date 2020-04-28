@@ -2872,7 +2872,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 850,
+  "confirmed" : 856,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2899,16 +2899,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Bharatpur",
-  "state" : "Rajasthan",
-  "name" : "Bharatpur",
-  "confirmed" : 124,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Ajmer",
   "state" : "Rajasthan",
   "name" : "Ajmer",
@@ -2923,6 +2913,16 @@
   "state" : "Rajasthan",
   "name" : "Tonk",
   "confirmed" : 126,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Bharatpur",
+  "state" : "Rajasthan",
+  "name" : "Bharatpur",
+  "confirmed" : 124,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3049,6 +3049,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Dhaulpur",
+  "state" : "Rajasthan",
+  "name" : "Dhaulpur",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Dungarpur",
   "state" : "Rajasthan",
   "name" : "Dungarpur",
@@ -3073,16 +3083,6 @@
   "state" : "Rajasthan",
   "name" : "Sikar",
   "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Dhaulpur",
-  "state" : "Rajasthan",
-  "name" : "Dhaulpur",
-  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
