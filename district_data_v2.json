@@ -169,26 +169,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Bongaigaon",
-  "state" : "Assam",
-  "name" : "Bongaigaon",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Kamrup-Metropolitan",
-  "state" : "Assam",
-  "name" : "Kamrup Metropolitan",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Morigaon",
   "state" : "Assam",
   "name" : "Morigaon",
@@ -223,6 +203,26 @@
   "state" : "Assam",
   "name" : "Nalbari",
   "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Bongaigaon",
+  "state" : "Assam",
+  "name" : "Bongaigaon",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Kamrup-Metropolitan",
+  "state" : "Assam",
+  "name" : "Kamrup Metropolitan",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -272,6 +272,16 @@
   "id" : "South-Salmara-Mancachar",
   "state" : "Assam",
   "name" : "South Salmara Mancachar",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Karimganj",
+  "state" : "Assam",
+  "name" : "Karimganj",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
