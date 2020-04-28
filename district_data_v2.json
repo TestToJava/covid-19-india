@@ -69,10 +69,10 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Vizianagaram",
+  "id" : "Kadapa",
   "state" : "Andhra Pradesh",
-  "name" : "Vizianagaram",
-  "confirmed" : 0,
+  "name" : "Kadapa",
+  "confirmed" : 65,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -84,16 +84,6 @@
   "name" : "Prakasam",
   "confirmed" : 56,
   "recovered" : 1,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Kadapa",
-  "state" : "Andhra Pradesh",
-  "name" : "Kadapa",
-  "confirmed" : 65,
-  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -149,6 +139,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Vizianagaram",
+  "state" : "Andhra Pradesh",
+  "name" : "Vizianagaram",
+  "confirmed" : 0,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Lohit",
   "state" : "Arunachal Pradesh",
   "name" : "Lohit",
@@ -159,10 +159,20 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Jorhat",
+  "id" : "Golaghat",
   "state" : "Assam",
-  "name" : "Jorhat",
-  "confirmed" : 8,
+  "name" : "Golaghat",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Bongaigaon",
+  "state" : "Assam",
+  "name" : "Bongaigaon",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -172,6 +182,16 @@
   "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
   "name" : "Kamrup Metropolitan",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Morigaon",
+  "state" : "Assam",
+  "name" : "Morigaon",
   "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
@@ -192,17 +212,7 @@
   "id" : "Goalpara",
   "state" : "Assam",
   "name" : "Goalpara",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Morigaon",
-  "state" : "Assam",
-  "name" : "Morigaon",
-  "confirmed" : 6,
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -222,17 +232,7 @@
   "id" : "Cachar",
   "state" : "Assam",
   "name" : "Cachar",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Golaghat",
-  "state" : "Assam",
-  "name" : "Golaghat",
-  "confirmed" : 9,
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
