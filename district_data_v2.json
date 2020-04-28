@@ -2159,6 +2159,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "",
+  "state" : "Madhya Pradesh",
+  "name" : "",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Mumbai",
   "state" : "Maharashtra",
   "name" : "Mumbai",
