@@ -49,9 +49,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "S-P-S-Nellore",
+  "id" : "Nellore",
   "state" : "Andhra Pradesh",
-  "name" : "S.P.S. Nellore",
+  "name" : "Nellore",
   "confirmed" : 82,
   "recovered" : 2,
   "deaths" : 2,
@@ -2199,9 +2199,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Satna",
+  "id" : "Others",
   "state" : "Madhya Pradesh",
-  "name" : "Satna",
+  "name" : "Others",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -2242,16 +2242,6 @@
   "id" : "Betul",
   "state" : "Madhya Pradesh",
   "name" : "Betul",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Rajgarh",
-  "state" : "Madhya Pradesh",
-  "name" : "Rajgarh",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
