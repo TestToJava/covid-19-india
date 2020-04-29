@@ -1569,6 +1569,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Jamtara",
+  "state" : "Jharkhand",
+  "name" : "Jamtara",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Giridih",
   "state" : "Jharkhand",
   "name" : "Giridih",
@@ -1582,16 +1592,6 @@
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Jamtara",
-  "state" : "Jharkhand",
-  "name" : "Jamtara",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -2712,7 +2712,7 @@
   "id" : "Baleshwar",
   "state" : "Odisha",
   "name" : "Baleshwar",
-  "confirmed" : 16,
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
