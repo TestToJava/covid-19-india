@@ -2082,8 +2082,8 @@
   "id" : "Morena",
   "state" : "Madhya Pradesh",
   "name" : "Morena",
-  "confirmed" : 16,
-  "recovered" : 13,
+  "confirmed" : 13,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2889,9 +2889,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Shahid-Bhagat-Singh-Nagar",
+  "id" : "S-B-S-Nagar",
   "state" : "Punjab",
-  "name" : "Shahid Bhagat Singh Nagar",
+  "name" : "S.B.S Nagar",
   "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
@@ -2949,6 +2949,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Kapurthala",
+  "state" : "Punjab",
+  "name" : "Kapurthala",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Moga",
   "state" : "Punjab",
   "name" : "Moga",
@@ -2972,16 +2982,6 @@
   "id" : "Rupnagar",
   "state" : "Punjab",
   "name" : "Rupnagar",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Kapurthala",
-  "state" : "Punjab",
-  "name" : "Kapurthala",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
@@ -3039,9 +3039,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Sri-Muktsar-Sahib",
+  "id" : "Muktsar",
   "state" : "Punjab",
-  "name" : "Sri Muktsar Sahib",
+  "name" : "Muktsar",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
