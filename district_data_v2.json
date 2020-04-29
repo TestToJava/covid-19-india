@@ -2789,9 +2789,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Debagarh",
+  "id" : "Deogarh",
   "state" : "Odisha",
-  "name" : "Debagarh",
+  "name" : "Deogarh",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -2799,9 +2799,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Kendujhar",
+  "id" : "Keonjhar",
   "state" : "Odisha",
-  "name" : "Kendujhar",
+  "name" : "Keonjhar",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
