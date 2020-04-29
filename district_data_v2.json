@@ -209,19 +209,19 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Bongaigaon",
+  "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
-  "name" : "Bongaigaon",
-  "confirmed" : 1,
+  "name" : "Kamrup Metropolitan",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Kamrup-Metropolitan",
+  "id" : "Bongaigaon",
   "state" : "Assam",
-  "name" : "Kamrup Metropolitan",
+  "name" : "Bongaigaon",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
