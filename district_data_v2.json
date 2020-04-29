@@ -309,6 +309,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Buxar",
+  "state" : "Bihar",
+  "name" : "Buxar",
+  "confirmed" : 38,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
@@ -333,16 +343,6 @@
   "state" : "Bihar",
   "name" : "Siwan",
   "confirmed" : 30,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Buxar",
-  "state" : "Bihar",
-  "name" : "Buxar",
-  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3012,7 +3012,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 864,
+  "confirmed" : 867,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3032,7 +3032,7 @@
   "id" : "Kota",
   "state" : "Rajasthan",
   "name" : "Kota",
-  "confirmed" : 189,
+  "confirmed" : 190,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3159,6 +3159,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Chittaurgarh",
+  "state" : "Rajasthan",
+  "name" : "Chittaurgarh",
+  "confirmed" : 13,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Hanumangarh",
   "state" : "Rajasthan",
   "name" : "Hanumangarh",
@@ -3172,17 +3182,7 @@
   "id" : "Dhaulpur",
   "state" : "Rajasthan",
   "name" : "Dhaulpur",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Chittaurgarh",
-  "state" : "Rajasthan",
-  "name" : "Chittaurgarh",
-  "confirmed" : 8,
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
