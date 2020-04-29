@@ -332,7 +332,7 @@
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
-  "confirmed" : 31,
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -349,9 +349,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Kaimur-Bhabua",
+  "id" : "Kaimur",
   "state" : "Bihar",
-  "name" : "Kaimur Bhabua",
+  "name" : "Kaimur",
   "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
@@ -449,6 +449,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Darbhanga",
+  "state" : "Bihar",
+  "name" : "Darbhanga",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Nawada",
   "state" : "Bihar",
   "name" : "Nawada",
@@ -529,16 +539,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Darbhanga",
-  "state" : "Bihar",
-  "name" : "Darbhanga",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -573,6 +573,56 @@
   "state" : "Bihar",
   "name" : "Madhepura",
   "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Jamui",
+  "state" : "Bihar",
+  "name" : "Jamui",
+  "confirmed" : 0,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Katihar",
+  "state" : "Bihar",
+  "name" : "Katihar",
+  "confirmed" : 0,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Khagaria",
+  "state" : "Bihar",
+  "name" : "Khagaria",
+  "confirmed" : 0,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Kishanganj",
+  "state" : "Bihar",
+  "name" : "Kishanganj",
+  "confirmed" : 0,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Samastipur",
+  "state" : "Bihar",
+  "name" : "Samastipur",
+  "confirmed" : 0,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -652,7 +702,7 @@
   "id" : "Unknown",
   "state" : "Delhi",
   "name" : "Unknown",
-  "confirmed" : 2529,
+  "confirmed" : 2651,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -703,6 +753,16 @@
   "state" : "Delhi",
   "name" : "North Delhi",
   "confirmed" : 60,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Shahdra",
+  "state" : "Delhi",
+  "name" : "Shahdra",
+  "confirmed" : 48,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4723,56 +4783,6 @@
   "state" : "West Bengal",
   "name" : "Kalimpong",
   "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Nadia",
-  "state" : "West Bengal",
-  "name" : "Nadia",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Jalpaiguri",
-  "state" : "West Bengal",
-  "name" : "Jalpaiguri",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Darjeeling",
-  "state" : "West Bengal",
-  "name" : "Darjeeling",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Murshidabad",
-  "state" : "West Bengal",
-  "name" : "Murshidabad",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Purba-Bardhaman",
-  "state" : "West Bengal",
-  "name" : "Purba Bardhaman",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
