@@ -1829,6 +1829,26 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Tumkur",
+  "state" : "Karnataka",
+  "name" : "Tumkur",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Udupi",
+  "state" : "Karnataka",
+  "name" : "Udupi",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Bengaluru-Rural",
   "state" : "Karnataka",
   "name" : "Bengaluru Rural",
@@ -1842,26 +1862,6 @@
   "id" : "Davanagere",
   "state" : "Karnataka",
   "name" : "Davanagere",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Udupi",
-  "state" : "Karnataka",
-  "name" : "Udupi",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Tumakuru",
-  "state" : "Karnataka",
-  "name" : "Tumakuru",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
@@ -1883,16 +1883,6 @@
   "state" : "Karnataka",
   "name" : "Kodagu",
   "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Others",
-  "state" : "Karnataka",
-  "name" : "Others",
-  "confirmed" : 0,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4783,6 +4773,16 @@
   "state" : "West Bengal",
   "name" : "South 24 Parganas",
   "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Paschim-Bardhaman",
+  "state" : "West Bengal",
+  "name" : "Paschim Bardhaman",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
