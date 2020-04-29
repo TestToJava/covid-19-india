@@ -2789,6 +2789,36 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Debagarh",
+  "state" : "Odisha",
+  "name" : "Debagarh",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Kendujhar",
+  "state" : "Odisha",
+  "name" : "Kendujhar",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Jharsuguda",
+  "state" : "Odisha",
+  "name" : "Jharsuguda",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Puducherry",
   "state" : "Puducherry",
   "name" : "Puducherry",
