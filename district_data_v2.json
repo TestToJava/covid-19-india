@@ -1199,6 +1199,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Jhajjar",
+  "state" : "Haryana",
+  "name" : "Jhajjar",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Ambala",
   "state" : "Haryana",
   "name" : "Ambala",
@@ -1222,16 +1232,6 @@
   "id" : "Karnal",
   "state" : "Haryana",
   "name" : "Karnal",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Jhajjar",
-  "state" : "Haryana",
-  "name" : "Jhajjar",
   "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
