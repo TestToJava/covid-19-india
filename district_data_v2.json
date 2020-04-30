@@ -199,6 +199,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Bongaigaon",
+  "state" : "Assam",
+  "name" : "Bongaigaon",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Nalbari",
   "state" : "Assam",
   "name" : "Nalbari",
@@ -213,16 +223,6 @@
   "state" : "Assam",
   "name" : "Kamrup Metropolitan",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Bongaigaon",
-  "state" : "Assam",
-  "name" : "Bongaigaon",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
