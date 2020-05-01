@@ -2829,6 +2829,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Bolangir",
+  "state" : "Odisha",
+  "name" : "Bolangir",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Cuttack",
   "state" : "Odisha",
   "name" : "Cuttack",
