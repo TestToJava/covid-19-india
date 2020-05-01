@@ -3442,7 +3442,7 @@
   "id" : "Chennai",
   "state" : "Tamil Nadu",
   "name" : "Chennai",
-  "confirmed" : 906,
+  "confirmed" : 1082,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3469,6 +3469,16 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
+  "id" : "Chengalpattu",
+  "state" : "Tamil Nadu",
+  "name" : "Chengalpattu",
+  "confirmed" : 86,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
   "id" : "Madurai",
   "state" : "Tamil Nadu",
   "name" : "Madurai",
@@ -3483,16 +3493,6 @@
   "state" : "Tamil Nadu",
   "name" : "Dindigul",
   "confirmed" : 80,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
-  "id" : "Chengalpattu",
-  "state" : "Tamil Nadu",
-  "name" : "Chengalpattu",
-  "confirmed" : 78,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3529,9 +3529,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Thiruvallur",
+  "id" : "Thanjavur",
   "state" : "Tamil Nadu",
-  "name" : "Thiruvallur",
+  "name" : "Thanjavur",
   "confirmed" : 55,
   "recovered" : 0,
   "deaths" : 0,
@@ -3539,9 +3539,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Thanjavur",
+  "id" : "Thiruvallur",
   "state" : "Tamil Nadu",
-  "name" : "Thanjavur",
+  "name" : "Thiruvallur",
   "confirmed" : 55,
   "recovered" : 0,
   "deaths" : 0,
@@ -3619,9 +3619,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Virudhunagar",
+  "id" : "Salem",
   "state" : "Tamil Nadu",
-  "name" : "Virudhunagar",
+  "name" : "Salem",
   "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
@@ -3629,9 +3629,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Salem",
+  "id" : "Virudhunagar",
   "state" : "Tamil Nadu",
-  "name" : "Salem",
+  "name" : "Virudhunagar",
   "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
@@ -3649,19 +3649,19 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Thoothukkudi",
+  "id" : "Cuddalore",
   "state" : "Tamil Nadu",
-  "name" : "Thoothukkudi",
-  "confirmed" : 27,
+  "name" : "Cuddalore",
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Cuddalore",
+  "id" : "Thoothukkudi",
   "state" : "Tamil Nadu",
-  "name" : "Cuddalore",
+  "name" : "Thoothukkudi",
   "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
@@ -3689,9 +3689,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Tirupathur",
+  "id" : "Ramanathapuram",
   "state" : "Tamil Nadu",
-  "name" : "Tirupathur",
+  "name" : "Ramanathapuram",
   "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
@@ -3699,9 +3699,9 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Ramanathapuram",
+  "id" : "Tirupathur",
   "state" : "Tamil Nadu",
-  "name" : "Ramanathapuram",
+  "name" : "Tirupathur",
   "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
@@ -3739,16 +3739,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "The-Nilgiris",
-  "state" : "Tamil Nadu",
-  "name" : "The Nilgiris",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0
-}, {
   "id" : "Kallakurichi",
   "state" : "Tamil Nadu",
   "name" : "Kallakurichi",
@@ -3769,20 +3759,20 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Ariyalur",
+  "id" : "The-Nilgiris",
   "state" : "Tamil Nadu",
-  "name" : "Ariyalur",
-  "confirmed" : 7,
+  "name" : "The Nilgiris",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0
 }, {
-  "id" : "Pudukkottai",
+  "id" : "Ariyalur",
   "state" : "Tamil Nadu",
-  "name" : "Pudukkottai",
-  "confirmed" : 1,
+  "name" : "Ariyalur",
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3792,6 +3782,16 @@
   "id" : "Dharmapuri",
   "state" : "Tamil Nadu",
   "name" : "Dharmapuri",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0
+}, {
+  "id" : "Pudukkottai",
+  "state" : "Tamil Nadu",
+  "name" : "Pudukkottai",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
