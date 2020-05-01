@@ -184,7 +184,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Morigaon",
   "state" : "Assam",
@@ -195,7 +195,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Dhubri",
   "state" : "Assam",
@@ -206,7 +206,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Goalpara",
   "state" : "Assam",
@@ -217,7 +217,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Bongaigaon",
   "state" : "Assam",
@@ -239,7 +239,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
@@ -250,7 +250,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Cachar",
   "state" : "Assam",
@@ -261,7 +261,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Hailakandi",
   "state" : "Assam",
@@ -272,7 +272,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Kamrup",
   "state" : "Assam",
@@ -283,7 +283,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Lakhimpur",
   "state" : "Assam",
@@ -294,7 +294,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "South-Salmara-Mancachar",
   "state" : "Assam",
@@ -305,7 +305,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Karimganj",
   "state" : "Assam",
@@ -316,7 +316,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Munger",
   "state" : "Bihar",
@@ -327,7 +327,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Rohtas",
   "state" : "Bihar",
@@ -338,7 +338,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Buxar",
   "state" : "Bihar",
@@ -349,7 +349,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Patna",
   "state" : "Bihar",
@@ -360,7 +360,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Nalanda",
   "state" : "Bihar",
@@ -371,7 +371,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Siwan",
   "state" : "Bihar",
@@ -382,7 +382,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kaimur",
   "state" : "Bihar",
@@ -393,7 +393,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Gopalganj",
   "state" : "Bihar",
@@ -404,7 +404,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Madhubani",
   "state" : "Bihar",
@@ -415,7 +415,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Bhojpur",
   "state" : "Bihar",
@@ -426,7 +426,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Begusarai",
   "state" : "Bihar",
@@ -437,7 +437,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Aurangabad",
   "state" : "Bihar",
@@ -448,7 +448,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
@@ -470,7 +470,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Saran",
   "state" : "Bihar",
@@ -481,7 +481,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Bhagalpur",
   "state" : "Bihar",
@@ -492,7 +492,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "East-Champaran",
   "state" : "Bihar",
@@ -503,7 +503,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "West-Champaran",
   "state" : "Bihar",
@@ -525,7 +525,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Nawada",
   "state" : "Bihar",
@@ -536,7 +536,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
@@ -547,7 +547,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Arwal",
   "state" : "Bihar",
@@ -558,7 +558,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Jehanabad-",
   "state" : "Bihar",
@@ -569,7 +569,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Banka",
   "state" : "Bihar",
@@ -580,7 +580,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Vaishali",
   "state" : "Bihar",
@@ -591,7 +591,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Madhepura",
   "state" : "Bihar",
@@ -602,7 +602,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Katihar",
   "state" : "Bihar",
