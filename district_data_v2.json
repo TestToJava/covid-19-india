@@ -1011,22 +1011,22 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Bharuch",
+  "id" : "Banaskantha",
   "state" : "Gujarat",
-  "name" : "Bharuch",
-  "confirmed" : 31,
-  "recovered" : 27,
+  "name" : "Banaskantha",
+  "confirmed" : 29,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Banaskantha",
+  "id" : "Bharuch",
   "state" : "Gujarat",
-  "name" : "Banaskantha",
-  "confirmed" : 29,
-  "recovered" : 0,
+  "name" : "Bharuch",
+  "confirmed" : 27,
+  "recovered" : 27,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2626,7 +2626,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Pune",
   "state" : "Maharashtra",
