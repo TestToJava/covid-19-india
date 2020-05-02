@@ -3808,7 +3808,7 @@
   "id" : "Chennai",
   "state" : "Tamil Nadu",
   "name" : "Chennai",
-  "confirmed" : 1082,
+  "confirmed" : 1257,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3819,7 +3819,7 @@
   "id" : "Coimbatore",
   "state" : "Tamil Nadu",
   "name" : "Coimbatore",
-  "confirmed" : 141,
+  "confirmed" : 142,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3830,7 +3830,18 @@
   "id" : "Tiruppur",
   "state" : "Tamil Nadu",
   "name" : "Tiruppur",
-  "confirmed" : 112,
+  "confirmed" : 114,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Chengalpattu",
+  "state" : "Tamil Nadu",
+  "name" : "Chengalpattu",
+  "confirmed" : 88,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3842,17 +3853,6 @@
   "state" : "Tamil Nadu",
   "name" : "Madurai",
   "confirmed" : 87,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Chengalpattu",
-  "state" : "Tamil Nadu",
-  "name" : "Chengalpattu",
-  "confirmed" : 86,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5057,7 +5057,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Jalaun",
   "state" : "Uttar Pradesh",
@@ -5068,7 +5068,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Etawah",
   "state" : "Uttar Pradesh",
@@ -5079,7 +5079,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Hardoi",
   "state" : "Uttar Pradesh",
@@ -5090,7 +5090,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kaushambi",
   "state" : "Uttar Pradesh",
@@ -5101,7 +5101,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Gonda",
   "state" : "Uttar Pradesh",
@@ -5112,7 +5112,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Gorakhpur",
   "state" : "Uttar Pradesh",
@@ -5123,7 +5123,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Bara-Banki",
   "state" : "Uttar Pradesh",
@@ -5134,7 +5134,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Bhadohi",
   "state" : "Uttar Pradesh",
@@ -5145,7 +5145,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Mau",
   "state" : "Uttar Pradesh",
@@ -5156,7 +5156,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Shahjahanpur",
   "state" : "Uttar Pradesh",
@@ -5167,7 +5167,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Unnao",
   "state" : "Uttar Pradesh",
@@ -5178,7 +5178,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Ayodhya",
   "state" : "Uttar Pradesh",
@@ -5189,7 +5189,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kanpur-Dehat",
   "state" : "Uttar Pradesh",
@@ -5200,7 +5200,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Balrampur",
   "state" : "Uttar Pradesh",
@@ -5211,7 +5211,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Dehradun",
   "state" : "Uttarakhand",
@@ -5222,7 +5222,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Nainital",
   "state" : "Uttarakhand",
@@ -5233,7 +5233,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Haridwar",
   "state" : "Uttarakhand",
@@ -5244,7 +5244,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Udham-Singh-Nagar",
   "state" : "Uttarakhand",
@@ -5255,7 +5255,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Almora",
   "state" : "Uttarakhand",
@@ -5266,7 +5266,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Pauri-Garhwal",
   "state" : "Uttarakhand",
@@ -5277,7 +5277,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Kolkata",
   "state" : "West Bengal",
@@ -5288,7 +5288,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Howrah",
   "state" : "West Bengal",
@@ -5299,7 +5299,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "North-24-Parganas",
   "state" : "West Bengal",
@@ -5310,7 +5310,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Medinipur-East",
   "state" : "West Bengal",
@@ -5321,7 +5321,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Hooghly",
   "state" : "West Bengal",
@@ -5332,7 +5332,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "South-24-Parganas",
   "state" : "West Bengal",
@@ -5343,7 +5343,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Paschim-Bardhaman",
   "state" : "West Bengal",
@@ -5354,7 +5354,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kalimpong",
   "state" : "West Bengal",
@@ -5365,7 +5365,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Nadia",
   "state" : "West Bengal",
@@ -5376,7 +5376,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Jalpaiguri",
   "state" : "West Bengal",
@@ -5387,7 +5387,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Darjeeling",
   "state" : "West Bengal",
@@ -5398,5 +5398,5 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 } ]
