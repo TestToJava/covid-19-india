@@ -1253,6 +1253,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Gurugram",
+  "state" : "Haryana",
+  "name" : "Gurugram",
+  "confirmed" : 63,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Faridabad",
   "state" : "Haryana",
   "name" : "Faridabad",
@@ -1275,17 +1286,6 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Gurugram",
-  "state" : "Haryana",
-  "name" : "Gurugram",
-  "confirmed" : 57,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Palwal",
   "state" : "Haryana",
   "name" : "Palwal",
@@ -1300,7 +1300,7 @@
   "id" : "Jhajjar",
   "state" : "Haryana",
   "name" : "Jhajjar",
-  "confirmed" : 28,
+  "confirmed" : 34,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
