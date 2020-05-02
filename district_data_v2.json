@@ -571,6 +571,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Katihar",
+  "state" : "Bihar",
+  "name" : "Katihar",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Banka",
   "state" : "Bihar",
   "name" : "Banka",
@@ -602,33 +613,22 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
-  "id" : "Katihar",
+  "id" : "Araria",
   "state" : "Bihar",
-  "name" : "Katihar",
+  "name" : "Araria",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Purnia",
   "state" : "Bihar",
   "name" : "Purnia",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Araria",
-  "state" : "Bihar",
-  "name" : "Araria",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
