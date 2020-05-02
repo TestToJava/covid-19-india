@@ -2307,7 +2307,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Raisen",
   "state" : "Madhya Pradesh",
@@ -2318,7 +2318,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Dhar",
   "state" : "Madhya Pradesh",
@@ -2351,7 +2351,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Barwani",
   "state" : "Madhya Pradesh",
@@ -2384,7 +2384,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Ratlam",
   "state" : "Madhya Pradesh",
@@ -2395,7 +2395,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Morena",
   "state" : "Madhya Pradesh",
@@ -2406,7 +2406,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Vidisha",
   "state" : "Madhya Pradesh",
@@ -2417,7 +2417,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Agar-Malwa",
   "state" : "Madhya Pradesh",
@@ -2428,7 +2428,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Shajapur",
   "state" : "Madhya Pradesh",
@@ -2439,7 +2439,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Chhindwara",
   "state" : "Madhya Pradesh",
@@ -2450,7 +2450,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Sagar",
   "state" : "Madhya Pradesh",
@@ -2461,7 +2461,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Gwalior",
   "state" : "Madhya Pradesh",
@@ -2483,7 +2483,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Alirajpur",
   "state" : "Madhya Pradesh",
@@ -2494,7 +2494,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Shahdol",
   "state" : "Madhya Pradesh",
@@ -2505,7 +2505,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Harda",
   "state" : "Madhya Pradesh",
@@ -2516,7 +2516,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Others",
   "state" : "Madhya Pradesh",
@@ -2538,7 +2538,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Tikamgarh",
   "state" : "Madhya Pradesh",
@@ -2549,7 +2549,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Rewa",
   "state" : "Madhya Pradesh",
@@ -2571,7 +2571,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Betul",
   "state" : "Madhya Pradesh",
@@ -2582,7 +2582,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Dindori",
   "state" : "Madhya Pradesh",
@@ -2593,7 +2593,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Burhanpur",
   "state" : "Madhya Pradesh",
@@ -2604,7 +2604,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Ashoknagar",
   "state" : "Madhya Pradesh",
@@ -3467,7 +3467,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 933,
+  "confirmed" : 945,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3478,7 +3478,7 @@
   "id" : "Jodhpur",
   "state" : "Rajasthan",
   "name" : "Jodhpur",
-  "confirmed" : 547,
+  "confirmed" : 575,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3500,7 +3500,7 @@
   "id" : "Ajmer",
   "state" : "Rajasthan",
   "name" : "Ajmer",
-  "confirmed" : 162,
+  "confirmed" : 164,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3687,7 +3687,7 @@
   "id" : "Alwar",
   "state" : "Rajasthan",
   "name" : "Alwar",
-  "confirmed" : 9,
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
