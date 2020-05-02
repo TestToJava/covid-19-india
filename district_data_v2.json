@@ -789,7 +789,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "South-East-Delhi",
   "state" : "Delhi",
@@ -800,7 +800,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "West-Delhi",
   "state" : "Delhi",
@@ -811,7 +811,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "South-Delhi",
   "state" : "Delhi",
@@ -822,7 +822,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "North-Delhi",
   "state" : "Delhi",
@@ -833,7 +833,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Shahdra",
   "state" : "Delhi",
@@ -844,7 +844,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "South-West-Delhi",
   "state" : "Delhi",
@@ -855,7 +855,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "East-Delhi",
   "state" : "Delhi",
@@ -866,7 +866,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "New-Delhi",
   "state" : "Delhi",
@@ -877,7 +877,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "North-West-Delhi",
   "state" : "Delhi",
@@ -888,7 +888,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "North-East-Delhi",
   "state" : "Delhi",
@@ -899,7 +899,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "North-Goa",
   "state" : "Goa",
