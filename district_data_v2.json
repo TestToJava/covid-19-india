@@ -4177,12 +4177,23 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Pudukkottai",
   "state" : "Tamil Nadu",
   "name" : "Pudukkottai",
   "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Krishnagiri",
+  "state" : "Tamil Nadu",
+  "name" : "Krishnagiri",
+  "confirmed" : 0,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4199,7 +4210,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Suryapet",
   "state" : "Telangana",
@@ -4210,7 +4221,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Nizamabad",
   "state" : "Telangana",
@@ -4221,7 +4232,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Jogulamba-Gadwal",
   "state" : "Telangana",
@@ -4232,7 +4243,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Vikarabad",
   "state" : "Telangana",
@@ -4243,7 +4254,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Ranga-Reddy",
   "state" : "Telangana",
@@ -4254,7 +4265,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Warangal-Urban",
   "state" : "Telangana",
@@ -4265,7 +4276,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Medchal-Malkajgiri",
   "state" : "Telangana",
@@ -4276,7 +4287,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Adilabad",
   "state" : "Telangana",
@@ -4298,7 +4309,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Karimnagar",
   "state" : "Telangana",
@@ -4331,7 +4342,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Mahabubnagar",
   "state" : "Telangana",
@@ -4364,7 +4375,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kumuram-Bheem-Asifabad",
   "state" : "Telangana",
@@ -5382,17 +5393,6 @@
   "state" : "West Bengal",
   "name" : "Murshidabad",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Purba-Bardhaman",
-  "state" : "West Bengal",
-  "name" : "Purba Bardhaman",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
