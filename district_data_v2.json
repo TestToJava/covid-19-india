@@ -1053,7 +1053,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Patan",
   "state" : "Gujarat",
@@ -1075,7 +1075,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Chota-Udaipur",
   "state" : "Gujarat",
@@ -1086,7 +1086,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Narmada",
   "state" : "Gujarat",
@@ -1119,7 +1119,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kheda",
   "state" : "Gujarat",
@@ -1130,7 +1130,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Navsari",
   "state" : "Gujarat",
@@ -1141,7 +1141,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Dahod",
   "state" : "Gujarat",
@@ -1152,7 +1152,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Valsad",
   "state" : "Gujarat",
@@ -1163,7 +1163,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Gir-Somnath",
   "state" : "Gujarat",
@@ -1174,7 +1174,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Porbandar",
   "state" : "Gujarat",
@@ -1185,7 +1185,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Sabarkantha",
   "state" : "Gujarat",
@@ -1196,7 +1196,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Dang",
   "state" : "Gujarat",
@@ -1207,7 +1207,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Jamnagar",
   "state" : "Gujarat",
@@ -1218,7 +1218,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Morbi",
   "state" : "Gujarat",
@@ -1229,7 +1229,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Surendranagar",
   "state" : "Gujarat",
@@ -1240,7 +1240,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Tapi",
   "state" : "Gujarat",
@@ -1251,7 +1251,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Faridabad",
   "state" : "Haryana",
