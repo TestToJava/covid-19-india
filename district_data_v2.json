@@ -3110,7 +3110,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kalahandi",
   "state" : "Odisha",
@@ -3143,11 +3143,22 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
   "name" : "Jharsuguda",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Ganjam",
+  "state" : "Odisha",
+  "name" : "Ganjam",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
