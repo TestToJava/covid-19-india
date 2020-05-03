@@ -3066,7 +3066,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Khordha",
   "state" : "Odisha",
@@ -3121,7 +3121,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kendrapara",
   "state" : "Odisha",
@@ -3132,7 +3132,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Bolangir",
   "state" : "Odisha",
@@ -3143,7 +3143,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
@@ -3154,7 +3154,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Ganjam",
   "state" : "Odisha",
@@ -3165,7 +3165,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Cuttack",
   "state" : "Odisha",
@@ -3187,7 +3187,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Puri",
   "state" : "Odisha",
@@ -3198,7 +3198,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Koraput",
   "state" : "Odisha",
@@ -3209,7 +3209,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Deogarh",
   "state" : "Odisha",
@@ -3220,7 +3220,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Keonjhar",
   "state" : "Odisha",
@@ -3231,7 +3231,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Mahe",
   "state" : "Puducherry",
@@ -3242,7 +3242,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Puducherry",
   "state" : "Puducherry",
@@ -3253,7 +3253,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Amritsar",
   "state" : "Punjab",
@@ -3264,7 +3264,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Jalandhar",
   "state" : "Punjab",
@@ -3275,7 +3275,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Ludhiana",
   "state" : "Punjab",
@@ -3286,7 +3286,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "S-A-S-Nagar",
   "state" : "Punjab",
@@ -3297,7 +3297,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "ORANGE"
 }, {
   "id" : "Patiala",
   "state" : "Punjab",
@@ -3308,7 +3308,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Hoshiarpur",
   "state" : "Punjab",
