@@ -761,7 +761,7 @@
   "id" : "Surajpur",
   "state" : "Chhattisgarh",
   "name" : "Surajpur",
-  "confirmed" : 3,
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2268,7 +2268,7 @@
   "id" : "Kargil",
   "state" : "Ladakh",
   "name" : "Kargil",
-  "confirmed" : 8,
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4597,16 +4597,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Gomati",
+  "id" : "Dhalai",
   "state" : "Tripura",
-  "name" : "Gomati",
-  "confirmed" : 1,
+  "name" : "Dhalai",
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "North-Tripura",
   "state" : "Tripura",
@@ -4619,16 +4619,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dhalai",
+  "id" : "Gomati",
   "state" : "Tripura",
-  "name" : "Dhalai",
-  "confirmed" : 2,
+  "name" : "Gomati",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Agra",
   "state" : "Uttar Pradesh",
@@ -5348,7 +5348,7 @@
   "id" : "Udham-Singh-Nagar",
   "state" : "Uttarakhand",
   "name" : "Udham Singh Nagar",
-  "confirmed" : 8,
+  "confirmed" : 7,
   "recovered" : 8,
   "deaths" : 0,
   "oldConfirmed" : 0,
