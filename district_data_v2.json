@@ -3343,6 +3343,28 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bathinda",
+  "state" : "Punjab",
+  "name" : "Bathinda",
+  "confirmed" : 35,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Gurdaspur",
+  "state" : "Punjab",
+  "name" : "Gurdaspur",
+  "confirmed" : 30,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Firozpur",
   "state" : "Punjab",
   "name" : "Firozpur",
@@ -3420,6 +3442,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Rupnagar",
+  "state" : "Punjab",
+  "name" : "Rupnagar",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kapurthala",
   "state" : "Punjab",
   "name" : "Kapurthala",
@@ -3453,28 +3486,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Rupnagar",
-  "state" : "Punjab",
-  "name" : "Rupnagar",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Gurdaspur",
-  "state" : "Punjab",
-  "name" : "Gurdaspur",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Fazilka",
   "state" : "Punjab",
   "name" : "Fazilka",
@@ -3486,21 +3497,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Bathinda",
-  "state" : "Punjab",
-  "name" : "Bathinda",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Barnala",
   "state" : "Punjab",
   "name" : "Barnala",
-  "confirmed" : 2,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3511,7 +3511,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 969,
+  "confirmed" : 993,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3522,7 +3522,7 @@
   "id" : "Jodhpur",
   "state" : "Rajasthan",
   "name" : "Jodhpur",
-  "confirmed" : 614,
+  "confirmed" : 632,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3533,7 +3533,7 @@
   "id" : "Kota",
   "state" : "Rajasthan",
   "name" : "Kota",
-  "confirmed" : 208,
+  "confirmed" : 209,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3544,7 +3544,7 @@
   "id" : "Ajmer",
   "state" : "Rajasthan",
   "name" : "Ajmer",
-  "confirmed" : 167,
+  "confirmed" : 168,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3577,13 +3577,24 @@
   "id" : "Bharatpur",
   "state" : "Rajasthan",
   "name" : "Bharatpur",
-  "confirmed" : 112,
+  "confirmed" : 114,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Chittaurgarh",
+  "state" : "Rajasthan",
+  "name" : "Chittaurgarh",
+  "confirmed" : 67,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Banswara",
   "state" : "Rajasthan",
@@ -3599,7 +3610,7 @@
   "id" : "Others",
   "state" : "Rajasthan",
   "name" : "Others",
-  "confirmed" : 61,
+  "confirmed" : 62,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3662,17 +3673,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Chittaurgarh",
-  "state" : "Rajasthan",
-  "name" : "Chittaurgarh",
-  "confirmed" : 30,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Dausa",
   "state" : "Rajasthan",
   "name" : "Dausa",
@@ -3728,9 +3728,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Hanumangarh",
+  "id" : "Alwar",
   "state" : "Rajasthan",
-  "name" : "Hanumangarh",
+  "name" : "Alwar",
   "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
@@ -3739,9 +3739,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Alwar",
+  "id" : "Hanumangarh",
   "state" : "Rajasthan",
-  "name" : "Alwar",
+  "name" : "Hanumangarh",
   "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
