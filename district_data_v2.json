@@ -5334,10 +5334,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Purba-Bardhaman",
+  "id" : "Kolkata",
   "state" : "West Bengal",
-  "name" : "Purba Bardhaman",
-  "confirmed" : 1,
+  "name" : "Kolkata",
+  "confirmed" : 184,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5345,10 +5345,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Murshidabad",
+  "id" : "Howrah",
   "state" : "West Bengal",
-  "name" : "Murshidabad",
-  "confirmed" : 2,
+  "name" : "Howrah",
+  "confirmed" : 79,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5356,10 +5356,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Darjeeling",
+  "id" : "North-24-Parganas",
   "state" : "West Bengal",
-  "name" : "Darjeeling",
-  "confirmed" : 4,
+  "name" : "North 24 Parganas",
+  "confirmed" : 47,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5367,43 +5367,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Jalpaiguri",
+  "id" : "Medinipur-East",
   "state" : "West Bengal",
-  "name" : "Jalpaiguri",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Nadia",
-  "state" : "West Bengal",
-  "name" : "Nadia",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Paschim-Bardhaman",
-  "state" : "West Bengal",
-  "name" : "Paschim Bardhaman",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Kalimpong",
-  "state" : "West Bengal",
-  "name" : "Kalimpong",
-  "confirmed" : 7,
+  "name" : "Medinipur East",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5433,10 +5400,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Medinipur-East",
+  "id" : "Paschim-Bardhaman",
   "state" : "West Bengal",
-  "name" : "Medinipur East",
-  "confirmed" : 22,
+  "name" : "Paschim Bardhaman",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5444,10 +5411,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "North-24-Parganas",
+  "id" : "Kalimpong",
   "state" : "West Bengal",
-  "name" : "North 24 Parganas",
-  "confirmed" : 47,
+  "name" : "Kalimpong",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5455,10 +5422,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Howrah",
+  "id" : "Nadia",
   "state" : "West Bengal",
-  "name" : "Howrah",
-  "confirmed" : 79,
+  "name" : "Nadia",
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5466,10 +5433,43 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Kolkata",
+  "id" : "Jalpaiguri",
   "state" : "West Bengal",
-  "name" : "Kolkata",
-  "confirmed" : 184,
+  "name" : "Jalpaiguri",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Darjeeling",
+  "state" : "West Bengal",
+  "name" : "Darjeeling",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Murshidabad",
+  "state" : "West Bengal",
+  "name" : "Murshidabad",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Purba-Bardhaman",
+  "state" : "West Bengal",
+  "name" : "Purba Bardhaman",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
