@@ -486,7 +486,7 @@
   "id" : "Saran",
   "state" : "Bihar",
   "name" : "Saran",
-  "confirmed" : 7,
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
