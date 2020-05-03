@@ -1858,6 +1858,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Godda",
+  "state" : "Jharkhand",
+  "name" : "Godda",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
@@ -5465,15 +5476,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Murshidabad",
-  "state" : "West Bengal",
-  "name" : "Murshidabad",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 } ]
