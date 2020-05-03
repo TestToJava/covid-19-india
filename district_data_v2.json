@@ -945,6 +945,28 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Surat",
+  "state" : "Gujarat",
+  "name" : "Surat",
+  "confirmed" : 686,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Vadodara",
+  "state" : "Gujarat",
+  "name" : "Vadodara",
+  "confirmed" : 350,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Anand",
   "state" : "Gujarat",
   "name" : "Anand",
@@ -956,10 +978,43 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Aravalli",
+  "id" : "Gandhinagar",
   "state" : "Gujarat",
-  "name" : "Aravalli",
-  "confirmed" : 20,
+  "name" : "Gandhinagar",
+  "confirmed" : 70,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Rajkot",
+  "state" : "Gujarat",
+  "name" : "Rajkot",
+  "confirmed" : 58,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Bhavnagar",
+  "state" : "Gujarat",
+  "name" : "Bhavnagar",
+  "confirmed" : 53,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Panchmahal",
+  "state" : "Gujarat",
+  "name" : "Panchmahal",
+  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -978,120 +1033,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Bharuch",
+  "id" : "Mahisagar",
   "state" : "Gujarat",
-  "name" : "Bharuch",
-  "confirmed" : 31,
-  "recovered" : 27,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Bhavnagar",
-  "state" : "Gujarat",
-  "name" : "Bhavnagar",
-  "confirmed" : 53,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Botad",
-  "state" : "Gujarat",
-  "name" : "Botad",
-  "confirmed" : 30,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Chota-Udaipur",
-  "state" : "Gujarat",
-  "name" : "Chota Udaipur",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Dahod",
-  "state" : "Gujarat",
-  "name" : "Dahod",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Dang",
-  "state" : "Gujarat",
-  "name" : "Dang",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Gandhinagar",
-  "state" : "Gujarat",
-  "name" : "Gandhinagar",
-  "confirmed" : 70,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Gir-Somnath",
-  "state" : "Gujarat",
-  "name" : "Gir Somnath",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Jamnagar",
-  "state" : "Gujarat",
-  "name" : "Jamnagar",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kheda",
-  "state" : "Gujarat",
-  "name" : "Kheda",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kutch",
-  "state" : "Gujarat",
-  "name" : "Kutch",
-  "confirmed" : 7,
+  "name" : "Mahisagar",
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1110,10 +1055,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Mahisagar",
+  "id" : "Bharuch",
   "state" : "Gujarat",
-  "name" : "Mahisagar",
-  "confirmed" : 33,
+  "name" : "Bharuch",
+  "confirmed" : 31,
+  "recovered" : 27,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Botad",
+  "state" : "Gujarat",
+  "name" : "Botad",
+  "confirmed" : 30,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1121,21 +1077,54 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Morbi",
+  "id" : "Patan",
   "state" : "Gujarat",
-  "name" : "Morbi",
-  "confirmed" : 1,
+  "name" : "Patan",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
+}, {
+  "id" : "Aravalli",
+  "state" : "Gujarat",
+  "name" : "Aravalli",
+  "confirmed" : 20,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Chota-Udaipur",
+  "state" : "Gujarat",
+  "name" : "Chota Udaipur",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Narmada",
   "state" : "Gujarat",
   "name" : "Narmada",
   "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Kheda",
+  "state" : "Gujarat",
+  "name" : "Kheda",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1154,21 +1143,43 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Panchmahal",
+  "id" : "Dahod",
   "state" : "Gujarat",
-  "name" : "Panchmahal",
-  "confirmed" : 38,
+  "name" : "Dahod",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Patan",
+  "id" : "Kutch",
   "state" : "Gujarat",
-  "name" : "Patan",
-  "confirmed" : 22,
+  "name" : "Kutch",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Valsad",
+  "state" : "Gujarat",
+  "name" : "Valsad",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Gir-Somnath",
+  "state" : "Gujarat",
+  "name" : "Gir Somnath",
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1187,17 +1198,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Rajkot",
-  "state" : "Gujarat",
-  "name" : "Rajkot",
-  "confirmed" : 58,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Sabarkantha",
   "state" : "Gujarat",
   "name" : "Sabarkantha",
@@ -1209,21 +1209,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Surat",
+  "id" : "Dang",
   "state" : "Gujarat",
-  "name" : "Surat",
-  "confirmed" : 686,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Surendranagar",
-  "state" : "Gujarat",
-  "name" : "Surendranagar",
-  "confirmed" : 1,
+  "name" : "Dang",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1242,21 +1231,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Vadodara",
+  "id" : "Morbi",
   "state" : "Gujarat",
-  "name" : "Vadodara",
-  "confirmed" : 350,
+  "name" : "Morbi",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "GREEN"
 }, {
-  "id" : "Valsad",
+  "id" : "Jamnagar",
   "state" : "Gujarat",
-  "name" : "Valsad",
-  "confirmed" : 5,
+  "name" : "Jamnagar",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Surendranagar",
+  "state" : "Gujarat",
+  "name" : "Surendranagar",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
