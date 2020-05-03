@@ -79,12 +79,12 @@
   "recovered" : "499",
   "state" : "Telangana"
 }, {
-  "active" : "544",
-  "confirmed" : "795",
+  "active" : "723",
+  "confirmed" : "922",
   "deaths" : "112",
   "delta" : null,
   "lastupdatedtime" : "2020-05-02T23:12:02.115",
-  "recovered" : "139",
+  "recovered" : "151",
   "state" : "West Bengal"
 }, {
   "active" : "640",
