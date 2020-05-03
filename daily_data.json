@@ -368,14 +368,20 @@
    {
       "date":"May 1",
       "confirmed":37257,
-      "deaths":1293,
+      "deaths":1233,
       "recovered":10005
    },
    {
       "date":"May 2",
       "confirmed":39699,
-      "deaths":1381,
+      "deaths":1323,
       "recovered":10825
+   },
+   {
+      "date":"May 3",
+      "confirmed":42589,
+      "deaths":1392,
+      "recovered":11788
    }
    
 ]
