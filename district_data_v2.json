@@ -2697,7 +2697,7 @@
   "id" : "Mumbai",
   "state" : "Maharashtra",
   "name" : "Mumbai",
-  "confirmed" : 8800,
+  "confirmed" : 9123,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5444,9 +5444,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Medinipur-East",
+  "id" : "Purba-Medinipur",
   "state" : "West Bengal",
-  "name" : "Medinipur East",
+  "name" : "Purba Medinipur",
   "confirmed" : 36,
   "recovered" : 0,
   "deaths" : 0,
@@ -5466,6 +5466,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Paschim-Medinipur",
+  "state" : "West Bengal",
+  "name" : "Paschim Medinipur",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Paschim-Bardhaman",
   "state" : "West Bengal",
   "name" : "Paschim Bardhaman",
@@ -5476,6 +5487,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Others",
+  "state" : "West Bengal",
+  "name" : "Others",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 }, {
   "id" : "Nadia",
   "state" : "West Bengal",
@@ -5532,9 +5554,31 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Birbhum",
+  "state" : "West Bengal",
+  "name" : "Birbhum",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Murshidabad",
   "state" : "West Bengal",
   "name" : "Murshidabad",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Malda",
+  "state" : "West Bengal",
+  "name" : "Malda",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
