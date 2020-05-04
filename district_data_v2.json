@@ -1957,6 +1957,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Davanagere",
+  "state" : "Karnataka",
+  "name" : "Davanagere",
+  "confirmed" : 31,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Mandya",
   "state" : "Karnataka",
   "name" : "Mandya",
@@ -2033,17 +2044,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Davanagere",
-  "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Tumkur",
   "state" : "Karnataka",
