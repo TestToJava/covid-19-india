@@ -1278,7 +1278,7 @@
   "id" : "Faridabad",
   "state" : "Haryana",
   "name" : "Faridabad",
-  "confirmed" : 73,
+  "confirmed" : 75,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1297,6 +1297,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sonipat",
+  "state" : "Haryana",
+  "name" : "Sonipat",
+  "confirmed" : 73,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Nuh",
   "state" : "Haryana",
   "name" : "Nuh",
@@ -1311,7 +1322,7 @@
   "id" : "Jhajjar",
   "state" : "Haryana",
   "name" : "Jhajjar",
-  "confirmed" : 53,
+  "confirmed" : 56,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1319,16 +1330,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sonipat",
+  "id" : "Ambala",
   "state" : "Haryana",
-  "name" : "Sonipat",
-  "confirmed" : 49,
+  "name" : "Ambala",
+  "confirmed" : 37,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Palwal",
   "state" : "Haryana",
@@ -1363,21 +1374,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ambala",
-  "state" : "Haryana",
-  "name" : "Ambala",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Jind",
   "state" : "Haryana",
   "name" : "Jind",
-  "confirmed" : 8,
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
