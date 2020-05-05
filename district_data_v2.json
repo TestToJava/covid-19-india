@@ -538,21 +538,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Lakhisarai",
+  "id" : "Arwal",
   "state" : "Bihar",
-  "name" : "Lakhisarai",
+  "name" : "Arwal",
   "confirmed" : 5,
-  "recovered" : 4,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Arwal",
+  "id" : "Lakhisarai",
   "state" : "Bihar",
-  "name" : "Arwal",
-  "confirmed" : 5,
+  "name" : "Lakhisarai",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
