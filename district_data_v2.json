@@ -3346,7 +3346,7 @@
   "id" : "Jalandhar",
   "state" : "Punjab",
   "name" : "Jalandhar",
-  "confirmed" : 128,
+  "confirmed" : 134,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3357,7 +3357,7 @@
   "id" : "Ludhiana",
   "state" : "Punjab",
   "name" : "Ludhiana",
-  "confirmed" : 110,
+  "confirmed" : 124,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3390,13 +3390,24 @@
   "id" : "Patiala",
   "state" : "Punjab",
   "name" : "Patiala",
-  "confirmed" : 86,
+  "confirmed" : 87,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Tarn-Taran",
+  "state" : "Punjab",
+  "name" : "Tarn Taran",
+  "confirmed" : 87,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "S-B-S-Nagar",
   "state" : "Punjab",
@@ -3412,7 +3423,18 @@
   "id" : "Sangrur",
   "state" : "Punjab",
   "name" : "Sangrur",
-  "confirmed" : 63,
+  "confirmed" : 85,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Gurdaspur",
+  "state" : "Punjab",
+  "name" : "Gurdaspur",
+  "confirmed" : 84,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3423,7 +3445,18 @@
   "id" : "Muktsar",
   "state" : "Punjab",
   "name" : "Muktsar",
-  "confirmed" : 49,
+  "confirmed" : 64,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Faridkot",
+  "state" : "Punjab",
+  "name" : "Faridkot",
+  "confirmed" : 45,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3442,16 +3475,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Tarn-Taran",
+  "id" : "Fazilka",
   "state" : "Punjab",
-  "name" : "Tarn Taran",
-  "confirmed" : 40,
+  "name" : "Fazilka",
+  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Bathinda",
   "state" : "Punjab",
@@ -3463,17 +3496,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Gurdaspur",
-  "state" : "Punjab",
-  "name" : "Gurdaspur",
-  "confirmed" : 36,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Moga",
   "state" : "Punjab",
@@ -3508,9 +3530,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Faridkot",
+  "id" : "Kapurthala",
   "state" : "Punjab",
-  "name" : "Faridkot",
+  "name" : "Kapurthala",
   "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
@@ -3545,28 +3567,6 @@
   "state" : "Punjab",
   "name" : "Rupnagar",
   "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kapurthala",
-  "state" : "Punjab",
-  "name" : "Kapurthala",
-  "confirmed" : 13,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Fazilka",
-  "state" : "Punjab",
-  "name" : "Fazilka",
-  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
