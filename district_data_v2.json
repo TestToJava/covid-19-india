@@ -4058,6 +4058,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kallakurichi",
+  "state" : "Tamil Nadu",
+  "name" : "Kallakurichi",
+  "confirmed" : 53,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Tenkasi",
   "state" : "Tamil Nadu",
   "name" : "Tenkasi",
@@ -4193,7 +4204,7 @@
   "id" : "Tiruvannamalai",
   "state" : "Tamil Nadu",
   "name" : "Tiruvannamalai",
-  "confirmed" : 27,
+  "confirmed" : 25,
   "recovered" : 25,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4238,17 +4249,6 @@
   "state" : "Tamil Nadu",
   "name" : "Kanniyakumari",
   "confirmed" : 17,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kallakurichi",
-  "state" : "Tamil Nadu",
-  "name" : "Kallakurichi",
-  "confirmed" : 15,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
