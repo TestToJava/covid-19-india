@@ -1264,6 +1264,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Junagadh",
+  "state" : "Gujarat",
+  "name" : "Junagadh",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Morbi",
   "state" : "Gujarat",
   "name" : "Morbi",
