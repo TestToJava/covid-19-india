@@ -3137,7 +3137,7 @@
   "id" : "Jajapur",
   "state" : "Odisha",
   "name" : "Jajapur",
-  "confirmed" : 52,
+  "confirmed" : 53,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3159,7 +3159,7 @@
   "id" : "Baleshwar",
   "state" : "Odisha",
   "name" : "Baleshwar",
-  "confirmed" : 23,
+  "confirmed" : 24,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3698,7 +3698,7 @@
   "id" : "Jhalawar",
   "state" : "Rajasthan",
   "name" : "Jhalawar",
-  "confirmed" : 41,
+  "confirmed" : 42,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3797,7 +3797,7 @@
   "id" : "Alwar",
   "state" : "Rajasthan",
   "name" : "Alwar",
-  "confirmed" : 12,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3849,6 +3849,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Rajsamand",
+  "state" : "Rajasthan",
+  "name" : "Rajsamand",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Pratapgarh",
   "state" : "Rajasthan",
   "name" : "Pratapgarh",
@@ -3859,17 +3870,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Rajsamand",
-  "state" : "Rajasthan",
-  "name" : "Rajsamand",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Barmer",
   "state" : "Rajasthan",
