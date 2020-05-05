@@ -387,7 +387,7 @@
   "id" : "Kaimur",
   "state" : "Bihar",
   "name" : "Kaimur",
-  "confirmed" : 30,
+  "confirmed" : 31,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -472,6 +472,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Katihar",
+  "state" : "Bihar",
+  "name" : "Katihar",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "East-Champaran",
   "state" : "Bihar",
   "name" : "East Champaran",
@@ -526,17 +537,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Katihar",
-  "state" : "Bihar",
-  "name" : "Katihar",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
