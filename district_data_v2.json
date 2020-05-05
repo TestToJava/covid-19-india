@@ -1979,6 +1979,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Davanagere",
+  "state" : "Karnataka",
+  "name" : "Davanagere",
+  "confirmed" : 44,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Bagalkot",
   "state" : "Karnataka",
   "name" : "Bagalkot",
@@ -1989,17 +2000,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Davanagere",
-  "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 32,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Mandya",
   "state" : "Karnataka",
@@ -2070,7 +2070,7 @@
   "id" : "Dharwad",
   "state" : "Karnataka",
   "name" : "Dharwad",
-  "confirmed" : 10,
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2122,6 +2122,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Haveri",
+  "state" : "Karnataka",
+  "name" : "Haveri",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Chitradurga",
   "state" : "Karnataka",
   "name" : "Chitradurga",
@@ -2136,17 +2147,6 @@
   "id" : "Kodagu",
   "state" : "Karnataka",
   "name" : "Kodagu",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Haveri",
-  "state" : "Karnataka",
-  "name" : "Haveri",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -3038,7 +3038,7 @@
   "id" : "Sindhudurg",
   "state" : "Maharashtra",
   "name" : "Sindhudurg",
-  "confirmed" : 2,
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
