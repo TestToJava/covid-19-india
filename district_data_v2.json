@@ -21,38 +21,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Anantapur",
+  "id" : "Kurnool",
   "state" : "Andhra Pradesh",
-  "name" : "Anantapur",
-  "confirmed" : 80,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Chittoor",
-  "state" : "Andhra Pradesh",
-  "name" : "Chittoor",
-  "confirmed" : 82,
+  "name" : "Kurnool",
+  "confirmed" : 516,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "East-Godavari",
-  "state" : "Andhra Pradesh",
-  "name" : "East Godavari",
-  "confirmed" : 45,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Guntur",
   "state" : "Andhra Pradesh",
@@ -65,32 +43,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Kadapa",
-  "state" : "Andhra Pradesh",
-  "name" : "Kadapa",
-  "confirmed" : 89,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Krishna",
   "state" : "Andhra Pradesh",
   "name" : "Krishna",
   "confirmed" : 286,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Kurnool",
-  "state" : "Andhra Pradesh",
-  "name" : "Kurnool",
-  "confirmed" : 516,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -109,6 +65,39 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Kadapa",
+  "state" : "Andhra Pradesh",
+  "name" : "Kadapa",
+  "confirmed" : 89,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Chittoor",
+  "state" : "Andhra Pradesh",
+  "name" : "Chittoor",
+  "confirmed" : 82,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Anantapur",
+  "state" : "Andhra Pradesh",
+  "name" : "Anantapur",
+  "confirmed" : 80,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Prakasam",
   "state" : "Andhra Pradesh",
   "name" : "Prakasam",
@@ -120,10 +109,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Srikakulam",
+  "id" : "West-Godavari",
   "state" : "Andhra Pradesh",
-  "name" : "Srikakulam",
-  "confirmed" : 5,
+  "name" : "West Godavari",
+  "confirmed" : 59,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "East-Godavari",
+  "state" : "Andhra Pradesh",
+  "name" : "East Godavari",
+  "confirmed" : 45,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -142,6 +142,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Srikakulam",
+  "state" : "Andhra Pradesh",
+  "name" : "Srikakulam",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Vizianagaram",
   "state" : "Andhra Pradesh",
   "name" : "Vizianagaram",
@@ -153,16 +164,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "West-Godavari",
+  "id" : "Others",
   "state" : "Andhra Pradesh",
-  "name" : "West Godavari",
-  "confirmed" : 59,
+  "name" : "Others",
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
   "id" : "Lohit",
   "state" : "Arunachal Pradesh",
@@ -1583,9 +1594,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sirmaur",
+  "id" : "Sirmour",
   "state" : "Himachal Pradesh",
-  "name" : "Sirmaur",
+  "name" : "Sirmour",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -1594,21 +1605,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bandipore",
-  "state" : "Jammu and Kashmir",
-  "name" : "Bandipore",
-  "confirmed" : 130,
+  "id" : "Mandi",
+  "state" : "Himachal Pradesh",
+  "name" : "Mandi",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "GREEN"
 }, {
-  "id" : "Anantnag",
+  "id" : "Bandipore",
   "state" : "Jammu and Kashmir",
-  "name" : "Anantnag",
-  "confirmed" : 109,
+  "name" : "Bandipore",
+  "confirmed" : 132,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1619,7 +1630,18 @@
   "id" : "Srinagar",
   "state" : "Jammu and Kashmir",
   "name" : "Srinagar",
-  "confirmed" : 109,
+  "confirmed" : 113,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Anantnag",
+  "state" : "Jammu and Kashmir",
+  "name" : "Anantnag",
+  "confirmed" : 110,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1630,7 +1652,7 @@
   "id" : "Baramula",
   "state" : "Jammu and Kashmir",
   "name" : "Baramula",
-  "confirmed" : 103,
+  "confirmed" : 104,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1641,7 +1663,7 @@
   "id" : "Shupiyan",
   "state" : "Jammu and Kashmir",
   "name" : "Shupiyan",
-  "confirmed" : 83,
+  "confirmed" : 89,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1685,7 +1707,7 @@
   "id" : "Udhampur",
   "state" : "Jammu and Kashmir",
   "name" : "Udhampur",
-  "confirmed" : 20,
+  "confirmed" : 21,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1795,7 +1817,7 @@
   "id" : "Ranchi",
   "state" : "Jharkhand",
   "name" : "Ranchi",
-  "confirmed" : 90,
+  "confirmed" : 91,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1890,6 +1912,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Dumka",
+  "state" : "Jharkhand",
+  "name" : "Dumka",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Giridih",
   "state" : "Jharkhand",
@@ -4227,7 +4260,7 @@
   "state" : "Tamil Nadu",
   "name" : "Tiruvannamalai",
   "confirmed" : 25,
-  "recovered" : 25,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4336,7 +4369,7 @@
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
-  "confirmed" : 599,
+  "confirmed" : 606,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4377,10 +4410,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Vikarabad",
+  "id" : "Ranga-Reddy",
   "state" : "Telangana",
-  "name" : "Vikarabad",
-  "confirmed" : 37,
+  "name" : "Ranga Reddy",
+  "confirmed" : 40,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4388,10 +4421,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Ranga-Reddy",
+  "id" : "Vikarabad",
   "state" : "Telangana",
-  "name" : "Ranga Reddy",
-  "confirmed" : 36,
+  "name" : "Vikarabad",
+  "confirmed" : 37,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4650,12 +4683,12 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Dhalai",
   "state" : "Tripura",
   "name" : "Dhalai",
-  "confirmed" : 14,
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4663,10 +4696,21 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "North-Tripura",
+  "id" : "Others",
   "state" : "Tripura",
-  "name" : "North Tripura",
-  "confirmed" : 1,
+  "name" : "Others",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Gomati",
+  "state" : "Tripura",
+  "name" : "Gomati",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4674,9 +4718,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Gomati",
+  "id" : "North-Tripura",
   "state" : "Tripura",
-  "name" : "Gomati",
+  "name" : "North Tripura",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -5404,7 +5448,7 @@
   "state" : "Uttarakhand",
   "name" : "Udham Singh Nagar",
   "confirmed" : 8,
-  "recovered" : 8,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
