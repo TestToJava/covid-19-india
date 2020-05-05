@@ -1773,7 +1773,7 @@
   "id" : "Ranchi",
   "state" : "Jharkhand",
   "name" : "Ranchi",
-  "confirmed" : 83,
+  "confirmed" : 87,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1889,7 +1889,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Kodarma",
   "state" : "Jharkhand",
