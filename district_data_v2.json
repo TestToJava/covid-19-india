@@ -1960,7 +1960,7 @@
   "id" : "Bengaluru",
   "state" : "Karnataka",
   "name" : "Bengaluru",
-  "confirmed" : 166,
+  "confirmed" : 168,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1993,7 +1993,18 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 64,
+  "confirmed" : 65,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Bagalkot",
+  "state" : "Karnataka",
+  "name" : "Bagalkot",
+  "confirmed" : 48,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2023,17 +2034,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Bagalkot",
-  "state" : "Karnataka",
-  "name" : "Bagalkot",
-  "confirmed" : 35,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Mandya",
   "state" : "Karnataka",
   "name" : "Mandya",
@@ -2045,10 +2045,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bidar",
+  "id" : "Dakshina-Kannada",
   "state" : "Karnataka",
-  "name" : "Bidar",
-  "confirmed" : 23,
+  "name" : "Dakshina Kannada",
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2056,9 +2056,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dakshina-Kannada",
+  "id" : "Bidar",
   "state" : "Karnataka",
-  "name" : "Dakshina Kannada",
+  "name" : "Bidar",
   "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
