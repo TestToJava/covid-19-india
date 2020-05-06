@@ -3632,7 +3632,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 1047,
+  "confirmed" : 1069,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3665,7 +3665,7 @@
   "id" : "Ajmer",
   "state" : "Rajasthan",
   "name" : "Ajmer",
-  "confirmed" : 177,
+  "confirmed" : 179,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3709,7 +3709,7 @@
   "id" : "Chittaurgarh",
   "state" : "Rajasthan",
   "name" : "Chittaurgarh",
-  "confirmed" : 99,
+  "confirmed" : 100,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3797,7 +3797,7 @@
   "id" : "Pali",
   "state" : "Rajasthan",
   "name" : "Pali",
-  "confirmed" : 28,
+  "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3852,7 +3852,7 @@
   "id" : "Alwar",
   "state" : "Rajasthan",
   "name" : "Alwar",
-  "confirmed" : 13,
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3871,10 +3871,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sawai-Madhopur",
+  "id" : "Dungarpur",
   "state" : "Rajasthan",
-  "name" : "Sawai Madhopur",
-  "confirmed" : 8,
+  "name" : "Dungarpur",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3882,10 +3882,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dungarpur",
+  "id" : "Sawai-Madhopur",
   "state" : "Rajasthan",
-  "name" : "Dungarpur",
-  "confirmed" : 7,
+  "name" : "Sawai Madhopur",
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5574,7 +5574,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Purba-Medinipur",
   "state" : "West Bengal",
@@ -5596,7 +5596,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Others",
   "state" : "West Bengal",
@@ -5640,7 +5640,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Darjeeling",
   "state" : "West Bengal",
@@ -5651,7 +5651,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Jalpaiguri",
   "state" : "West Bengal",
@@ -5662,7 +5662,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Purba-Bardhaman",
   "state" : "West Bengal",
@@ -5695,7 +5695,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Murshidabad",
   "state" : "West Bengal",
