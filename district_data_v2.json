@@ -3266,10 +3266,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kalahandi",
+  "id" : "Kendrapara",
   "state" : "Odisha",
-  "name" : "Kalahandi",
-  "confirmed" : 2,
+  "name" : "Kendrapara",
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3277,9 +3277,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kendrapara",
+  "id" : "Kalahandi",
   "state" : "Odisha",
-  "name" : "Kendrapara",
+  "name" : "Kalahandi",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
