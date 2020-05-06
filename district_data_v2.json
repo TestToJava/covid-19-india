@@ -4069,6 +4069,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Kancheepuram",
+  "state" : "Tamil Nadu",
+  "name" : "Kancheepuram",
+  "confirmed" : 85,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Namakkal",
   "state" : "Tamil Nadu",
   "name" : "Namakkal",
@@ -4189,17 +4200,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Kancheepuram",
-  "state" : "Tamil Nadu",
-  "name" : "Kancheepuram",
-  "confirmed" : 42,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Perambalur",
   "state" : "Tamil Nadu",
