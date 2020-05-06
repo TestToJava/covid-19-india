@@ -263,6 +263,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Karimganj",
+  "state" : "Assam",
+  "name" : "Karimganj",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
   "name" : "Kamrup Metropolitan",
@@ -310,17 +321,6 @@
   "id" : "South-Salmara-Mancachar",
   "state" : "Assam",
   "name" : "South Salmara Mancachar",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Karimganj",
-  "state" : "Assam",
-  "name" : "Karimganj",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -3390,7 +3390,7 @@
   "id" : "Puducherry",
   "state" : "Puducherry",
   "name" : "Puducherry",
-  "confirmed" : 10,
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
