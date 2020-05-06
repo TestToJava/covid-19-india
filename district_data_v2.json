@@ -123,7 +123,7 @@
   "id" : "East-Godavari",
   "state" : "Andhra Pradesh",
   "name" : "East Godavari",
-  "confirmed" : 45,
+  "confirmed" : 46,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -134,7 +134,7 @@
   "id" : "Visakhapatnam",
   "state" : "Andhra Pradesh",
   "name" : "Visakhapatnam",
-  "confirmed" : 37,
+  "confirmed" : 39,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -167,7 +167,7 @@
   "id" : "Others",
   "state" : "Andhra Pradesh",
   "name" : "Others",
-  "confirmed" : 14,
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -208,10 +208,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dhubri",
+  "id" : "Goalpara",
   "state" : "Assam",
-  "name" : "Dhubri",
-  "confirmed" : 5,
+  "name" : "Goalpara",
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -219,9 +219,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Goalpara",
+  "id" : "Dhubri",
   "state" : "Assam",
-  "name" : "Goalpara",
+  "name" : "Dhubri",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -252,9 +252,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kamrup-Metropolitan",
+  "id" : "Cachar",
   "state" : "Assam",
-  "name" : "Kamrup Metropolitan",
+  "name" : "Cachar",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -263,9 +263,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Cachar",
+  "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
-  "name" : "Cachar",
+  "name" : "Kamrup Metropolitan",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
