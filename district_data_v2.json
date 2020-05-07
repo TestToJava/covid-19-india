@@ -252,6 +252,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kamrup-Metropolitan",
+  "state" : "Assam",
+  "name" : "Kamrup Metropolitan",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Cachar",
   "state" : "Assam",
   "name" : "Cachar",
@@ -267,17 +278,6 @@
   "state" : "Assam",
   "name" : "Karimganj",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kamrup-Metropolitan",
-  "state" : "Assam",
-  "name" : "Kamrup Metropolitan",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
