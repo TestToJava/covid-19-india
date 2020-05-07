@@ -365,7 +365,7 @@
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
-  "confirmed" : 52,
+  "confirmed" : 54,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -450,10 +450,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Begusarai",
+  "id" : "Aurangabad",
   "state" : "Bihar",
-  "name" : "Begusarai",
-  "confirmed" : 13,
+  "name" : "Aurangabad",
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -461,9 +461,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Aurangabad",
+  "id" : "Begusarai",
   "state" : "Bihar",
-  "name" : "Aurangabad",
+  "name" : "Begusarai",
   "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
@@ -571,6 +571,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Jehanabad-",
+  "state" : "Bihar",
+  "name" : "Jehanabad\t",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
   "name" : "Lakhisarai",
@@ -592,17 +603,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Jehanabad-",
-  "state" : "Bihar",
-  "name" : "Jehanabad\t",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Banka",
   "state" : "Bihar",
