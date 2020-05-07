@@ -3244,6 +3244,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Ganjam",
+  "state" : "Odisha",
+  "name" : "Ganjam",
+  "confirmed" : 21,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sundargarh",
   "state" : "Odisha",
   "name" : "Sundargarh",
@@ -3254,17 +3265,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Ganjam",
-  "state" : "Odisha",
-  "name" : "Ganjam",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Jagatsinghpur",
   "state" : "Odisha",
@@ -3287,6 +3287,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Mayurbhanj",
+  "state" : "Odisha",
+  "name" : "Mayurbhanj",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Kalahandi",
   "state" : "Odisha",
