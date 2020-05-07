@@ -2015,7 +2015,7 @@
   "id" : "Bagalkot",
   "state" : "Karnataka",
   "name" : "Bagalkot",
-  "confirmed" : 48,
+  "confirmed" : 51,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2026,7 +2026,7 @@
   "id" : "Bijapur",
   "state" : "Karnataka",
   "name" : "Bijapur",
-  "confirmed" : 47,
+  "confirmed" : 48,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3275,7 +3275,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Mayurbhanj",
   "state" : "Odisha",
@@ -3286,7 +3286,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Kendrapara",
   "state" : "Odisha",
