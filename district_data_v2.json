@@ -3253,7 +3253,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "RED"
 }, {
   "id" : "Sundargarh",
   "state" : "Odisha",
@@ -3277,6 +3277,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Mayurbhanj",
+  "state" : "Odisha",
+  "name" : "Mayurbhanj",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kendrapara",
   "state" : "Odisha",
   "name" : "Kendrapara",
@@ -3287,17 +3298,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Mayurbhanj",
-  "state" : "Odisha",
-  "name" : "Mayurbhanj",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Kalahandi",
   "state" : "Odisha",
