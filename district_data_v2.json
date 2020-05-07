@@ -1858,6 +1858,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Palamu",
+  "state" : "Jharkhand",
+  "name" : "Palamu",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Deoghar",
   "state" : "Jharkhand",
   "name" : "Deoghar",
@@ -1879,17 +1890,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Palamu",
-  "state" : "Jharkhand",
-  "name" : "Palamu",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Garhwa",
   "state" : "Jharkhand",
@@ -2001,9 +2001,9 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Belgaum",
+  "id" : "Belagavi",
   "state" : "Karnataka",
-  "name" : "Belgaum",
+  "name" : "Belagavi",
   "confirmed" : 72,
   "recovered" : 0,
   "deaths" : 0,
@@ -2015,7 +2015,7 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 68,
+  "confirmed" : 67,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2067,10 +2067,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dakshina-Kannada",
+  "id" : "Bidar",
   "state" : "Karnataka",
-  "name" : "Dakshina Kannada",
-  "confirmed" : 26,
+  "name" : "Bidar",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2078,10 +2078,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bidar",
+  "id" : "Dakshina-Kannada",
   "state" : "Karnataka",
-  "name" : "Bidar",
-  "confirmed" : 23,
+  "name" : "Dakshina Kannada",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2099,6 +2099,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Others",
+  "state" : "Karnataka",
+  "name" : "Others",
+  "confirmed" : 20,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 }, {
   "id" : "Bellary",
   "state" : "Karnataka",
@@ -2125,7 +2136,7 @@
   "id" : "Dharwad",
   "state" : "Karnataka",
   "name" : "Dharwad",
-  "confirmed" : 11,
+  "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2144,6 +2155,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bengaluru-Rural",
+  "state" : "Karnataka",
+  "name" : "Bengaluru Rural",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Gadag",
   "state" : "Karnataka",
   "name" : "Gadag",
@@ -2158,24 +2180,13 @@
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Bengaluru-Rural",
-  "state" : "Karnataka",
-  "name" : "Bengaluru Rural",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "GREEN"
 }, {
   "id" : "Haveri",
   "state" : "Karnataka",
