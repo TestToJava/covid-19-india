@@ -4446,7 +4446,7 @@
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
-  "confirmed" : 617,
+  "confirmed" : 629,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4509,6 +4509,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Others",
+  "state" : "Telangana",
+  "name" : "Others",
+  "confirmed" : 28,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Warangal-Urban",
   "state" : "Telangana",
   "name" : "Warangal Urban",
@@ -4519,17 +4530,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Others",
-  "state" : "Telangana",
-  "name" : "Others",
-  "confirmed" : 25,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Medchal-Malkajgiri",
   "state" : "Telangana",
