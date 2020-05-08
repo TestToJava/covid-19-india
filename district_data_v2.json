@@ -3486,17 +3486,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Rupnagar",
-  "state" : "Punjab",
-  "name" : "Rupnagar",
-  "confirmed" : 1090,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Amritsar",
   "state" : "Punjab",
   "name" : "Amritsar",
@@ -3728,10 +3717,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Rupnagar",
+  "state" : "Punjab",
+  "name" : "Rupnagar",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 842,
+  "confirmed" : 1111,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3742,7 +3742,18 @@
   "id" : "Jodhpur",
   "state" : "Rajasthan",
   "name" : "Jodhpur",
-  "confirmed" : 231,
+  "confirmed" : 842,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Kota",
+  "state" : "Rajasthan",
+  "name" : "Kota",
+  "confirmed" : 223,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3754,17 +3765,6 @@
   "state" : "Rajasthan",
   "name" : "Ajmer",
   "confirmed" : 187,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Kota",
-  "state" : "Rajasthan",
-  "name" : "Kota",
-  "confirmed" : 182,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
