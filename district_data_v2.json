@@ -1088,6 +1088,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Aravalli",
+  "state" : "Gujarat",
+  "name" : "Aravalli",
+  "confirmed" : 67,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Rajkot",
   "state" : "Gujarat",
   "name" : "Rajkot",
@@ -1102,7 +1113,7 @@
   "id" : "Panchmahal",
   "state" : "Gujarat",
   "name" : "Panchmahal",
-  "confirmed" : 51,
+  "confirmed" : 57,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1113,29 +1124,7 @@
   "id" : "Botad",
   "state" : "Gujarat",
   "name" : "Botad",
-  "confirmed" : 48,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Aravalli",
-  "state" : "Gujarat",
-  "name" : "Aravalli",
-  "confirmed" : 47,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Mahesana",
-  "state" : "Gujarat",
-  "name" : "Mahesana",
-  "confirmed" : 42,
+  "confirmed" : 51,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1146,6 +1135,17 @@
   "id" : "Mahisagar",
   "state" : "Gujarat",
   "name" : "Mahisagar",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Mahesana",
+  "state" : "Gujarat",
+  "name" : "Mahesana",
   "confirmed" : 42,
   "recovered" : 0,
   "deaths" : 0,
@@ -1165,6 +1165,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kheda",
+  "state" : "Gujarat",
+  "name" : "Kheda",
+  "confirmed" : 27,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Patan",
   "state" : "Gujarat",
   "name" : "Patan",
@@ -1176,10 +1187,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kheda",
+  "id" : "Dahod",
   "state" : "Gujarat",
-  "name" : "Kheda",
-  "confirmed" : 20,
+  "name" : "Dahod",
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1187,10 +1198,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dahod",
+  "id" : "Sabarkantha",
   "state" : "Gujarat",
-  "name" : "Dahod",
-  "confirmed" : 19,
+  "name" : "Sabarkantha",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jamnagar",
+  "state" : "Gujarat",
+  "name" : "Jamnagar",
+  "confirmed" : 16,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1213,28 +1235,6 @@
   "state" : "Gujarat",
   "name" : "Narmada",
   "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Sabarkantha",
-  "state" : "Gujarat",
-  "name" : "Sabarkantha",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Jamnagar",
-  "state" : "Gujarat",
-  "name" : "Jamnagar",
-  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1289,7 +1289,7 @@
   "id" : "Gir-Somnath",
   "state" : "Gujarat",
   "name" : "Gir Somnath",
-  "confirmed" : 3,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1902,6 +1902,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Garhwa",
+  "state" : "Jharkhand",
+  "name" : "Garhwa",
+  "confirmed" : 23,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bokaro",
   "state" : "Jharkhand",
   "name" : "Bokaro",
@@ -1946,9 +1957,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Garhwa",
+  "id" : "Kodarma",
   "state" : "Jharkhand",
-  "name" : "Garhwa",
+  "name" : "Kodarma",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
@@ -2022,17 +2033,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Kodarma",
-  "state" : "Jharkhand",
-  "name" : "Kodarma",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Bengaluru",
   "state" : "Karnataka",
@@ -3511,7 +3511,7 @@
   "id" : "Puducherry",
   "state" : "Puducherry",
   "name" : "Puducherry",
-  "confirmed" : 7,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
