@@ -538,6 +538,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Samastipur",
+  "state" : "Bihar",
+  "name" : "Samastipur",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -684,17 +695,6 @@
   "id" : "Sheikhpura",
   "state" : "Bihar",
   "name" : "Sheikhpura",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Samastipur",
-  "state" : "Bihar",
-  "name" : "Samastipur",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
