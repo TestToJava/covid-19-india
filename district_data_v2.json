@@ -186,6 +186,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Cachar",
+  "state" : "Assam",
+  "name" : "Cachar",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Golaghat",
   "state" : "Assam",
   "name" : "Golaghat",
@@ -218,17 +229,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Cachar",
-  "state" : "Assam",
-  "name" : "Cachar",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Dhubri",
   "state" : "Assam",
@@ -4864,7 +4864,7 @@
   "id" : "BSF",
   "state" : "Tripura",
   "name" : "BSF",
-  "confirmed" : 23,
+  "confirmed" : 53,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
