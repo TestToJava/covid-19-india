@@ -4916,10 +4916,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Saharanpur",
+  "id" : "Gautam-Buddha-Nagar",
   "state" : "Uttar Pradesh",
-  "name" : "Saharanpur",
-  "confirmed" : 205,
+  "name" : "Gautam Buddha Nagar",
+  "confirmed" : 214,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4927,10 +4927,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Gautam-Buddha-Nagar",
+  "id" : "Saharanpur",
   "state" : "Uttar Pradesh",
-  "name" : "Gautam Buddha Nagar",
-  "confirmed" : 193,
+  "name" : "Saharanpur",
+  "confirmed" : 205,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5656,7 +5656,7 @@
   "id" : "Haridwar",
   "state" : "Uttarakhand",
   "name" : "Haridwar",
-  "confirmed" : 7,
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
