@@ -2455,7 +2455,7 @@
   "id" : "Indore",
   "state" : "Madhya Pradesh",
   "name" : "Indore",
-  "confirmed" : 1699,
+  "confirmed" : 1727,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2466,7 +2466,7 @@
   "id" : "Bhopal",
   "state" : "Madhya Pradesh",
   "name" : "Bhopal",
-  "confirmed" : 652,
+  "confirmed" : 679,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2477,7 +2477,7 @@
   "id" : "Ujjain",
   "state" : "Madhya Pradesh",
   "name" : "Ujjain",
-  "confirmed" : 201,
+  "confirmed" : 220,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2488,7 +2488,7 @@
   "id" : "Jabalpur",
   "state" : "Madhya Pradesh",
   "name" : "Jabalpur",
-  "confirmed" : 115,
+  "confirmed" : 116,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2510,7 +2510,7 @@
   "id" : "Dhar",
   "state" : "Madhya Pradesh",
   "name" : "Dhar",
-  "confirmed" : 77,
+  "confirmed" : 78,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2529,21 +2529,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Mandsaur",
-  "state" : "Madhya Pradesh",
-  "name" : "Mandsaur",
-  "confirmed" : 52,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Khandwa",
   "state" : "Madhya Pradesh",
   "name" : "Khandwa",
-  "confirmed" : 50,
+  "confirmed" : 52,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2551,10 +2540,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Mandsaur",
+  "state" : "Madhya Pradesh",
+  "name" : "Mandsaur",
+  "confirmed" : 51,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Burhanpur",
   "state" : "Madhya Pradesh",
   "name" : "Burhanpur",
-  "confirmed" : 38,
+  "confirmed" : 42,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2576,7 +2576,7 @@
   "id" : "Dewas",
   "state" : "Madhya Pradesh",
   "name" : "Dewas",
-  "confirmed" : 30,
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2595,10 +2595,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Morena",
+  "id" : "Ratlam",
   "state" : "Madhya Pradesh",
-  "name" : "Morena",
-  "confirmed" : 22,
+  "name" : "Ratlam",
+  "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2606,10 +2606,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ratlam",
+  "id" : "Morena",
   "state" : "Madhya Pradesh",
-  "name" : "Ratlam",
-  "confirmed" : 20,
+  "name" : "Morena",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2683,6 +2683,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Neemuch",
+  "state" : "Madhya Pradesh",
+  "name" : "Neemuch",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sheopur",
   "state" : "Madhya Pradesh",
   "name" : "Sheopur",
@@ -2693,17 +2704,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Neemuch",
-  "state" : "Madhya Pradesh",
-  "name" : "Neemuch",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Alirajpur",
   "state" : "Madhya Pradesh",
@@ -2848,10 +2848,21 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Katni",
+  "id" : "Sehore",
   "state" : "Madhya Pradesh",
-  "name" : "Katni",
-  "confirmed" : 0,
+  "name" : "Sehore",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Guna",
+  "state" : "Madhya Pradesh",
+  "name" : "Guna",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
