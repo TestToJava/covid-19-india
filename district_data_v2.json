@@ -508,7 +508,7 @@
   "id" : "Katihar",
   "state" : "Bihar",
   "name" : "Katihar",
-  "confirmed" : 10,
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -530,6 +530,17 @@
   "id" : "Saran",
   "state" : "Bihar",
   "name" : "Saran",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Darbhanga",
+  "state" : "Bihar",
+  "name" : "Darbhanga",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
@@ -570,17 +581,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Darbhanga",
-  "state" : "Bihar",
-  "name" : "Darbhanga",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Arwal",
   "state" : "Bihar",
@@ -659,6 +659,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Saharsa",
+  "state" : "Bihar",
+  "name" : "Saharsa",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Madhepura",
   "state" : "Bihar",
   "name" : "Madhepura",
@@ -706,6 +717,17 @@
   "id" : "Kishanganj",
   "state" : "Bihar",
   "name" : "Kishanganj",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Supaul",
+  "state" : "Bihar",
+  "name" : "Supaul",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
