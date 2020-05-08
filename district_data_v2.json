@@ -2059,7 +2059,7 @@
   "id" : "Belagavi",
   "state" : "Karnataka",
   "name" : "Belagavi",
-  "confirmed" : 72,
+  "confirmed" : 83,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2077,6 +2077,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Davanagere",
+  "state" : "Karnataka",
+  "name" : "Davanagere",
+  "confirmed" : 61,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Bagalkot",
   "state" : "Karnataka",
@@ -2100,21 +2111,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Davanagere",
+  "id" : "Mandya",
   "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 47,
+  "name" : "Mandya",
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Mandya",
+  "id" : "Uttara-Kannada",
   "state" : "Karnataka",
-  "name" : "Mandya",
-  "confirmed" : 28,
+  "name" : "Uttara Kannada",
+  "confirmed" : 24,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2169,18 +2180,7 @@
   "id" : "Bellary",
   "state" : "Karnataka",
   "name" : "Bellary",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Uttara-Kannada",
-  "state" : "Karnataka",
-  "name" : "Uttara Kannada",
-  "confirmed" : 12,
+  "confirmed" : 15,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2232,6 +2232,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Chitradurga",
+  "state" : "Karnataka",
+  "name" : "Chitradurga",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
@@ -2247,17 +2258,6 @@
   "state" : "Karnataka",
   "name" : "Haveri",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Chitradurga",
-  "state" : "Karnataka",
-  "name" : "Chitradurga",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
