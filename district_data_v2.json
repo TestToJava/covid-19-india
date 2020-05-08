@@ -472,10 +472,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Begusarai",
+  "id" : "Bhagalpur",
   "state" : "Bihar",
-  "name" : "Begusarai",
-  "confirmed" : 13,
+  "name" : "Bhagalpur",
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -483,9 +483,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhagalpur",
+  "id" : "Begusarai",
   "state" : "Bihar",
-  "name" : "Bhagalpur",
+  "name" : "Begusarai",
   "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
@@ -640,7 +640,7 @@
   "id" : "Banka",
   "state" : "Bihar",
   "name" : "Banka",
-  "confirmed" : 3,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3313,7 +3313,7 @@
   "id" : "Khordha",
   "state" : "Odisha",
   "name" : "Khordha",
-  "confirmed" : 51,
+  "confirmed" : 50,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
