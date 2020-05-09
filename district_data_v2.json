@@ -582,17 +582,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -615,6 +604,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jehanabad-",
   "state" : "Bihar",
   "name" : "Jehanabad\t",
@@ -626,6 +626,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Khagaria",
+  "state" : "Bihar",
+  "name" : "Khagaria",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
   "name" : "Lakhisarai",
@@ -636,17 +647,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Khagaria",
-  "state" : "Bihar",
-  "name" : "Khagaria",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Banka",
   "state" : "Bihar",
@@ -662,7 +662,7 @@
   "id" : "Vaishali",
   "state" : "Bihar",
   "name" : "Vaishali",
-  "confirmed" : 3,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -828,7 +828,7 @@
   "state" : "Chhattisgarh",
   "name" : "Kabirdham",
   "confirmed" : 6,
-  "recovered" : 0,
+  "recovered" : 59,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -839,17 +839,6 @@
   "state" : "Chhattisgarh",
   "name" : "Surajpur",
   "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Rajnandgaon",
-  "state" : "Chhattisgarh",
-  "name" : "Rajnandgaon",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -871,6 +860,17 @@
   "id" : "Bhilai",
   "state" : "Chhattisgarh",
   "name" : "Bhilai",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Rajnandgaon",
+  "state" : "Chhattisgarh",
+  "name" : "Rajnandgaon",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
