@@ -4930,7 +4930,7 @@
   "id" : "North-Tripura",
   "state" : "Tripura",
   "name" : "North Tripura",
-  "confirmed" : 2,
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5697,6 +5697,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Udham-Singh-Nagar",
+  "state" : "Uttarakhand",
+  "name" : "Udham Singh Nagar",
+  "confirmed" : 13,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Nainital",
   "state" : "Uttarakhand",
   "name" : "Nainital",
@@ -5707,17 +5718,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Udham-Singh-Nagar",
-  "state" : "Uttarakhand",
-  "name" : "Udham Singh Nagar",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Haridwar",
   "state" : "Uttarakhand",
