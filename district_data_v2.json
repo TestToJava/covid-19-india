@@ -3302,7 +3302,7 @@
   "id" : "Ganjam",
   "state" : "Odisha",
   "name" : "Ganjam",
-  "confirmed" : 83,
+  "confirmed" : 84,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3324,7 +3324,7 @@
   "id" : "Khordha",
   "state" : "Odisha",
   "name" : "Khordha",
-  "confirmed" : 51,
+  "confirmed" : 50,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3496,6 +3496,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Nayagarh",
+  "state" : "Odisha",
+  "name" : "Nayagarh",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Mahe",
   "state" : "Puducherry",
