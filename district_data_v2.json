@@ -1718,7 +1718,7 @@
   "id" : "Srinagar",
   "state" : "Jammu and Kashmir",
   "name" : "Srinagar",
-  "confirmed" : 129,
+  "confirmed" : 131,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1751,7 +1751,7 @@
   "id" : "Shupiyan",
   "state" : "Jammu and Kashmir",
   "name" : "Shupiyan",
-  "confirmed" : 98,
+  "confirmed" : 100,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1762,7 +1762,7 @@
   "id" : "Kupwara",
   "state" : "Jammu and Kashmir",
   "name" : "Kupwara",
-  "confirmed" : 69,
+  "confirmed" : 71,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1792,6 +1792,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Ganderbal",
+  "state" : "Jammu and Kashmir",
+  "name" : "Ganderbal",
+  "confirmed" : 23,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Udhampur",
   "state" : "Jammu and Kashmir",
   "name" : "Udhampur",
@@ -1806,18 +1817,7 @@
   "id" : "Kulgam",
   "state" : "Jammu and Kashmir",
   "name" : "Kulgam",
-  "confirmed" : 20,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Ganderbal",
-  "state" : "Jammu and Kashmir",
-  "name" : "Ganderbal",
-  "confirmed" : 19,
+  "confirmed" : 21,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1828,7 +1828,7 @@
   "id" : "Pulwama",
   "state" : "Jammu and Kashmir",
   "name" : "Pulwama",
-  "confirmed" : 12,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1858,6 +1858,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kathua",
+  "state" : "Jammu and Kashmir",
+  "name" : "Kathua",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kishtwar",
   "state" : "Jammu and Kashmir",
   "name" : "Kishtwar",
@@ -1868,17 +1879,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Kathua",
-  "state" : "Jammu and Kashmir",
-  "name" : "Kathua",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Ramban",
   "state" : "Jammu and Kashmir",
