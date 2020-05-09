@@ -3376,10 +3376,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jagatsinghpur",
+  "id" : "Mayurbhanj",
   "state" : "Odisha",
-  "name" : "Jagatsinghpur",
-  "confirmed" : 5,
+  "name" : "Mayurbhanj",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3387,10 +3387,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Mayurbhanj",
+  "id" : "Jagatsinghpur",
   "state" : "Odisha",
-  "name" : "Mayurbhanj",
-  "confirmed" : 4,
+  "name" : "Jagatsinghpur",
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
