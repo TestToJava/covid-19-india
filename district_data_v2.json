@@ -4487,6 +4487,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Tirupathur",
+  "state" : "Tamil Nadu",
+  "name" : "Tirupathur",
+  "confirmed" : 27,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kanniyakumari",
   "state" : "Tamil Nadu",
   "name" : "Kanniyakumari",
@@ -4501,18 +4512,7 @@
   "id" : "Ramanathapuram",
   "state" : "Tamil Nadu",
   "name" : "Ramanathapuram",
-  "confirmed" : 24,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Tirupathur",
-  "state" : "Tamil Nadu",
-  "name" : "Tirupathur",
-  "confirmed" : 23,
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4523,7 +4523,7 @@
   "id" : "The-Nilgiris",
   "state" : "Tamil Nadu",
   "name" : "The Nilgiris",
-  "confirmed" : 13,
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
