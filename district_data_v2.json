@@ -409,7 +409,7 @@
   "id" : "Siwan",
   "state" : "Bihar",
   "name" : "Siwan",
-  "confirmed" : 32,
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -549,6 +549,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Arwal",
+  "state" : "Bihar",
+  "name" : "Arwal",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Samastipur",
   "state" : "Bihar",
   "name" : "Samastipur",
@@ -560,16 +571,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Arwal",
+  "id" : "Nawada",
   "state" : "Bihar",
-  "name" : "Arwal",
+  "name" : "Nawada",
   "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
@@ -603,17 +614,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
@@ -3313,7 +3313,7 @@
   "id" : "Ganjam",
   "state" : "Odisha",
   "name" : "Ganjam",
-  "confirmed" : 84,
+  "confirmed" : 89,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
