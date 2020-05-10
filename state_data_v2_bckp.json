@@ -127,8 +127,8 @@
   "recovered" : "318",
   "state" : "Bihar"
 }, {
-  "active" : "17",
-  "confirmed" : "506",
+  "active" : "16",
+  "confirmed" : "505",
   "deaths" : "4",
   "delta" : null,
   "lastupdatedtime" : "2020-05-09T23:30:01.522",
