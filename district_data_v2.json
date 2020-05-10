@@ -373,6 +373,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Patna",
+  "state" : "Bihar",
+  "name" : "Patna",
+  "confirmed" : 61,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
@@ -388,17 +399,6 @@
   "state" : "Bihar",
   "name" : "Buxar",
   "confirmed" : 56,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Patna",
-  "state" : "Bihar",
-  "name" : "Patna",
-  "confirmed" : 55,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -464,7 +464,7 @@
   "id" : "Bhojpur",
   "state" : "Bihar",
   "name" : "Bhojpur",
-  "confirmed" : 19,
+  "confirmed" : 20,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -486,7 +486,7 @@
   "id" : "Aurangabad",
   "state" : "Bihar",
   "name" : "Aurangabad",
-  "confirmed" : 14,
+  "confirmed" : 15,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -564,7 +564,7 @@
   "state" : "Bihar",
   "name" : "Madhepura",
   "confirmed" : 9,
-  "recovered" : 653,
+  "recovered" : 663,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -626,6 +626,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -641,17 +652,6 @@
   "state" : "Bihar",
   "name" : "Muzaffarpur",
   "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
