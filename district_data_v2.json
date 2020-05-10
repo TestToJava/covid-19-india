@@ -772,7 +772,7 @@
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
-  "confirmed" : 169,
+  "confirmed" : 173,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1726,6 +1726,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Srinagar",
+  "state" : "Jammu and Kashmir",
+  "name" : "Srinagar",
+  "confirmed" : 136,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Bandipore",
   "state" : "Jammu and Kashmir",
   "name" : "Bandipore",
@@ -1737,21 +1748,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Srinagar",
-  "state" : "Jammu and Kashmir",
-  "name" : "Srinagar",
-  "confirmed" : 131,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Anantnag",
   "state" : "Jammu and Kashmir",
   "name" : "Anantnag",
-  "confirmed" : 122,
+  "confirmed" : 123,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1762,18 +1762,18 @@
   "id" : "Baramula",
   "state" : "Jammu and Kashmir",
   "name" : "Baramula",
-  "confirmed" : 106,
+  "confirmed" : 108,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Shupiyan",
   "state" : "Jammu and Kashmir",
   "name" : "Shupiyan",
-  "confirmed" : 100,
+  "confirmed" : 103,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1784,13 +1784,13 @@
   "id" : "Kupwara",
   "state" : "Jammu and Kashmir",
   "name" : "Kupwara",
-  "confirmed" : 71,
+  "confirmed" : 73,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Badgam",
   "state" : "Jammu and Kashmir",
@@ -1801,45 +1801,45 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Jammu",
   "state" : "Jammu and Kashmir",
   "name" : "Jammu",
-  "confirmed" : 31,
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
+}, {
+  "id" : "Kulgam",
+  "state" : "Jammu and Kashmir",
+  "name" : "Kulgam",
+  "confirmed" : 31,
+  "recovered" : 861,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Ganderbal",
   "state" : "Jammu and Kashmir",
   "name" : "Ganderbal",
   "confirmed" : 23,
-  "recovered" : 836,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Udhampur",
-  "state" : "Jammu and Kashmir",
-  "name" : "Udhampur",
-  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
-  "id" : "Kulgam",
+  "id" : "Udhampur",
   "state" : "Jammu and Kashmir",
-  "name" : "Kulgam",
-  "confirmed" : 21,
+  "name" : "Udhampur",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1856,7 +1856,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "RED"
 }, {
   "id" : "Samba",
   "state" : "Jammu and Kashmir",
@@ -1867,7 +1867,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Rajouri",
   "state" : "Jammu and Kashmir",
@@ -1883,13 +1883,13 @@
   "id" : "Kathua",
   "state" : "Jammu and Kashmir",
   "name" : "Kathua",
-  "confirmed" : 2,
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Reasi",
   "state" : "Jammu and Kashmir",
@@ -1983,7 +1983,7 @@
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 4,
-  "recovered" : 156,
+  "recovered" : 157,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1993,7 +1993,7 @@
   "id" : "Hazaribagh",
   "state" : "Jharkhand",
   "name" : "Hazaribagh",
-  "confirmed" : 3,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
