@@ -4949,38 +4949,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "BSF",
-  "state" : "Tripura",
-  "name" : "BSF",
-  "confirmed" : 70,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Dhalai",
   "state" : "Tripura",
   "name" : "Dhalai",
-  "confirmed" : 62,
-  "recovered" : 135,
+  "confirmed" : 148,
+  "recovered" : 150,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Gomati",
-  "state" : "Tripura",
-  "name" : "Gomati",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "North-Tripura",
   "state" : "Tripura",
@@ -4993,10 +4971,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Gomati",
+  "state" : "Tripura",
+  "name" : "Gomati",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Agra",
   "state" : "Uttar Pradesh",
   "name" : "Agra",
-  "confirmed" : 743,
+  "confirmed" : 756,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5007,7 +4996,7 @@
   "id" : "Kanpur-Nagar",
   "state" : "Uttar Pradesh",
   "name" : "Kanpur Nagar",
-  "confirmed" : 294,
+  "confirmed" : 301,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5371,7 +5360,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Pratapgarh",
   "confirmed" : 11,
-  "recovered" : 3373,
+  "recovered" : 3393,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6037,4 +6026,15 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Murshidabad",
+  "state" : "West Bengal",
+  "name" : "Murshidabad",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 } ]
