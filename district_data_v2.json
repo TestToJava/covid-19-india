@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Arwal",
   "confirmed" : 11,
-  "recovered" : 695,
+  "recovered" : 696,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -564,7 +564,7 @@
   "state" : "Bihar",
   "name" : "Madhepura",
   "confirmed" : 9,
-  "recovered" : 673,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -659,6 +659,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Khagaria",
+  "state" : "Bihar",
+  "name" : "Khagaria",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jehanabad-",
   "state" : "Bihar",
   "name" : "Jehanabad\t",
@@ -669,17 +680,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Khagaria",
-  "state" : "Bihar",
-  "name" : "Khagaria",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
