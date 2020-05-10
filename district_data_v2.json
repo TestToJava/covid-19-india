@@ -3588,7 +3588,7 @@
   "id" : "Amritsar",
   "state" : "Punjab",
   "name" : "Amritsar",
-  "confirmed" : 287,
+  "confirmed" : 295,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3632,7 +3632,7 @@
   "id" : "Gurdaspur",
   "state" : "Punjab",
   "name" : "Gurdaspur",
-  "confirmed" : 115,
+  "confirmed" : 116,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3651,27 +3651,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Patiala",
-  "state" : "Punjab",
-  "name" : "Patiala",
-  "confirmed" : 96,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "S-A-S-Nagar",
   "state" : "Punjab",
   "name" : "S.A.S. Nagar",
-  "confirmed" : 95,
+  "confirmed" : 102,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Patiala",
+  "state" : "Punjab",
+  "name" : "Patiala",
+  "confirmed" : 97,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Hoshiarpur",
   "state" : "Punjab",
@@ -3699,7 +3699,7 @@
   "state" : "Punjab",
   "name" : "Muktsar",
   "confirmed" : 65,
-  "recovered" : 1762,
+  "recovered" : 1823,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3709,13 +3709,24 @@
   "id" : "Moga",
   "state" : "Punjab",
   "name" : "Moga",
-  "confirmed" : 56,
+  "confirmed" : 57,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Rupnagar",
+  "state" : "Punjab",
+  "name" : "Rupnagar",
+  "confirmed" : 55,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Faridkot",
   "state" : "Punjab",
@@ -3761,6 +3772,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Fatehgarh-Sahib",
+  "state" : "Punjab",
+  "name" : "Fatehgarh Sahib",
+  "confirmed" : 36,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Pathankot",
   "state" : "Punjab",
   "name" : "Pathankot",
@@ -3772,21 +3794,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Fatehgarh-Sahib",
-  "state" : "Punjab",
-  "name" : "Fatehgarh Sahib",
-  "confirmed" : 29,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Kapurthala",
   "state" : "Punjab",
   "name" : "Kapurthala",
-  "confirmed" : 24,
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3804,17 +3815,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Rupnagar",
-  "state" : "Punjab",
-  "name" : "Rupnagar",
-  "confirmed" : 20,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Mansa",
   "state" : "Punjab",
