@@ -23,12 +23,12 @@
   "recovered" : "2091",
   "state" : "Gujarat"
 }, {
-  "active" : "4454",
-  "confirmed" : "6542",
-  "deaths" : "68",
+  "active" : "4781",
+  "confirmed" : "6923",
+  "deaths" : "73",
   "delta" : null,
-  "lastupdatedtime" : "2020-05-09T23:30:01.522",
-  "recovered" : "2020",
+  "lastupdatedtime" : "2020-05-10T07:51:44.526",
+  "recovered" : "2069",
   "state" : "Delhi"
 }, {
   "active" : "4667",
