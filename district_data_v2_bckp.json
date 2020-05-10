@@ -4597,6 +4597,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "The-Nilgiris",
+  "state" : "Tamil Nadu",
+  "name" : "The Nilgiris",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
