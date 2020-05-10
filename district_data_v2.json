@@ -4388,9 +4388,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Thanjavur",
+  "id" : "Ranipet",
   "state" : "Tamil Nadu",
-  "name" : "Thanjavur",
+  "name" : "Ranipet",
   "confirmed" : 66,
   "recovered" : 0,
   "deaths" : 0,
@@ -4403,7 +4403,18 @@
   "state" : "Tamil Nadu",
   "name" : "Ranipet",
   "confirmed" : 66,
-  "recovered" : 7188,
+  "recovered" : 7255,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Thanjavur",
+  "state" : "Tamil Nadu",
+  "name" : "Thanjavur",
+  "confirmed" : 66,
+  "recovered" : 7189,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4414,7 +4425,7 @@
   "state" : "Tamil Nadu",
   "name" : "Trichy",
   "confirmed" : 65,
-  "recovered" : 7176,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4509,6 +4520,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Vellore",
+  "state" : "Tamil Nadu",
+  "name" : "Vellore",
+  "confirmed" : 32,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Thoothukkudi",
   "state" : "Tamil Nadu",
   "name" : "Thoothukkudi",
@@ -4520,21 +4542,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Vellore",
-  "state" : "Tamil Nadu",
-  "name" : "Vellore",
-  "confirmed" : 29,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Thirupathur",
   "state" : "Tamil Nadu",
   "name" : "Thirupathur",
-  "confirmed" : 27,
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4545,7 +4556,7 @@
   "id" : "Ramanathapuram",
   "state" : "Tamil Nadu",
   "name" : "Ramanathapuram",
-  "confirmed" : 25,
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4564,16 +4575,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Thiruppur",
+  "id" : "Krishnagiri",
   "state" : "Tamil Nadu",
-  "name" : "Thiruppur",
-  "confirmed" : 14,
+  "name" : "Krishnagiri",
+  "confirmed" : 20,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Sivaganga",
   "state" : "Tamil Nadu",
@@ -4585,17 +4596,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Krishnagiri",
-  "state" : "Tamil Nadu",
-  "name" : "Krishnagiri",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Pudukkottai",
   "state" : "Tamil Nadu",
