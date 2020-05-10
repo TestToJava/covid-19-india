@@ -3563,6 +3563,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Puducherry",
+  "state" : "Puducherry",
+  "name" : "Puducherry",
+  "confirmed" : 9,
+  "recovered" : 12,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Mahe",
   "state" : "Puducherry",
   "name" : "Mahe",
@@ -3584,17 +3595,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Puducherry",
-  "state" : "Puducherry",
-  "name" : "Puducherry",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Amritsar",
   "state" : "Punjab",
