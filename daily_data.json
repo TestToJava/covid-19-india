@@ -412,6 +412,17 @@
       "confirmed":59695,
       "deaths":1985,
       "recovered":17886
+   },
+   {
+      "date":"May 9",
+      "confirmed":63190,
+      "deaths":2106,
+      "recovered":19315
+   },
+   {
+      "date":"May 10",
+      "confirmed":67158,
+      "deaths":2213,
+      "recovered":20972
    }
-   
 ]
