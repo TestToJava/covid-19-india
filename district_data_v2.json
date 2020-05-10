@@ -3819,7 +3819,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 1196,
+  "confirmed" : 1207,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3830,7 +3830,7 @@
   "id" : "Jodhpur",
   "state" : "Rajasthan",
   "name" : "Jodhpur",
-  "confirmed" : 862,
+  "confirmed" : 865,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3841,7 +3841,7 @@
   "id" : "Kota",
   "state" : "Rajasthan",
   "name" : "Kota",
-  "confirmed" : 233,
+  "confirmed" : 242,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3863,7 +3863,7 @@
   "id" : "Tonk",
   "state" : "Rajasthan",
   "name" : "Tonk",
-  "confirmed" : 136,
+  "confirmed" : 137,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3885,7 +3885,7 @@
   "id" : "Nagaur",
   "state" : "Rajasthan",
   "name" : "Nagaur",
-  "confirmed" : 119,
+  "confirmed" : 121,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3907,7 +3907,7 @@
   "id" : "Udaipur",
   "state" : "Rajasthan",
   "name" : "Udaipur",
-  "confirmed" : 103,
+  "confirmed" : 112,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3926,6 +3926,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Pali",
+  "state" : "Rajasthan",
+  "name" : "Pali",
+  "confirmed" : 62,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Evacuees",
   "state" : "Rajasthan",
   "name" : "Evacuees",
@@ -3936,17 +3947,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Pali",
-  "state" : "Rajasthan",
-  "name" : "Pali",
-  "confirmed" : 60,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Jhalawar",
   "state" : "Rajasthan",
@@ -3970,17 +3970,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jhunjhunu",
-  "state" : "Rajasthan",
-  "name" : "Jhunjhunu",
-  "confirmed" : 42,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "BSF",
   "state" : "Rajasthan",
   "name" : "BSF",
@@ -3992,11 +3981,22 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
+  "id" : "Jhunjhunu",
+  "state" : "Rajasthan",
+  "name" : "Jhunjhunu",
+  "confirmed" : 42,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bikaner",
   "state" : "Rajasthan",
   "name" : "Bikaner",
   "confirmed" : 39,
-  "recovered" : 3714,
+  "recovered" : 3753,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4080,9 +4080,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sawai-Madhopur",
+  "id" : "Dungarpur",
   "state" : "Rajasthan",
-  "name" : "Sawai Madhopur",
+  "name" : "Dungarpur",
   "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
@@ -4091,10 +4091,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dungarpur",
+  "id" : "Sawai-Madhopur",
   "state" : "Rajasthan",
-  "name" : "Dungarpur",
-  "confirmed" : 9,
+  "name" : "Sawai Madhopur",
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4116,7 +4116,7 @@
   "id" : "Jalore",
   "state" : "Rajasthan",
   "name" : "Jalore",
-  "confirmed" : 7,
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4135,17 +4135,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Pratapgarh",
-  "state" : "Rajasthan",
-  "name" : "Pratapgarh",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Barmer",
   "state" : "Rajasthan",
   "name" : "Barmer",
@@ -4156,6 +4145,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Pratapgarh",
+  "state" : "Rajasthan",
+  "name" : "Pratapgarh",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Sirohi",
   "state" : "Rajasthan",
@@ -4168,9 +4168,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Others",
+  "id" : "Italian",
   "state" : "Rajasthan",
-  "name" : "Others",
+  "name" : "Italian",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -4179,9 +4179,9 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Italian",
+  "id" : "Others",
   "state" : "Rajasthan",
-  "name" : "Italian",
+  "name" : "Others",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
