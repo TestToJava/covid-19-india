@@ -505,6 +505,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "East-Champaran",
+  "state" : "Bihar",
+  "name" : "East Champaran",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "West-Champaran",
   "state" : "Bihar",
   "name" : "West Champaran",
@@ -549,22 +560,11 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "East-Champaran",
-  "state" : "Bihar",
-  "name" : "East Champaran",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Madhepura",
   "state" : "Bihar",
   "name" : "Madhepura",
   "confirmed" : 9,
-  "recovered" : 646,
+  "recovered" : 653,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -629,6 +629,17 @@
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Muzaffarpur",
+  "state" : "Bihar",
+  "name" : "Muzaffarpur",
   "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
@@ -717,17 +728,6 @@
   "id" : "Sheohar",
   "state" : "Bihar",
   "name" : "Sheohar",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Muzaffarpur",
-  "state" : "Bihar",
-  "name" : "Muzaffarpur",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
