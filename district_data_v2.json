@@ -3346,7 +3346,7 @@
   "id" : "Ganjam",
   "state" : "Odisha",
   "name" : "Ganjam",
-  "confirmed" : 118,
+  "confirmed" : 125,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3357,7 +3357,7 @@
   "id" : "Jajapur",
   "state" : "Odisha",
   "name" : "Jajapur",
-  "confirmed" : 59,
+  "confirmed" : 60,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3398,6 +3398,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Angul",
+  "state" : "Odisha",
+  "name" : "Angul",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Sundargarh",
   "state" : "Odisha",
   "name" : "Sundargarh",
@@ -3408,17 +3419,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Angul",
-  "state" : "Odisha",
-  "name" : "Angul",
-  "confirmed" : 13,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Kendrapara",
   "state" : "Odisha",
@@ -3446,12 +3446,34 @@
   "state" : "Odisha",
   "name" : "Jagatsinghpur",
   "confirmed" : 5,
-  "recovered" : 362,
+  "recovered" : 377,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Boudh",
+  "state" : "Odisha",
+  "name" : "Boudh",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Puri",
+  "state" : "Odisha",
+  "name" : "Puri",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Kalahandi",
   "state" : "Odisha",
@@ -3518,17 +3540,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Puri",
-  "state" : "Odisha",
-  "name" : "Puri",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Koraput",
   "state" : "Odisha",
@@ -4953,7 +4964,7 @@
   "state" : "Tripura",
   "name" : "Dhalai",
   "confirmed" : 62,
-  "recovered" : 0,
+  "recovered" : 135,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6026,15 +6037,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Murshidabad",
-  "state" : "West Bengal",
-  "name" : "Murshidabad",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 } ]
