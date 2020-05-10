@@ -4399,31 +4399,20 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Ranipet",
-  "state" : "Tamil Nadu",
-  "name" : "Ranipet",
-  "confirmed" : 66,
-  "recovered" : 7255,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Thanjavur",
   "state" : "Tamil Nadu",
   "name" : "Thanjavur",
   "confirmed" : 66,
-  "recovered" : 7189,
+  "recovered" : 7204,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Trichy",
+  "id" : "Tiruchirappalli",
   "state" : "Tamil Nadu",
-  "name" : "Trichy",
+  "name" : "Tiruchirappalli",
   "confirmed" : 65,
   "recovered" : 0,
   "deaths" : 0,
@@ -4586,6 +4575,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "The-Nilgiris",
+  "state" : "Tamil Nadu",
+  "name" : "The Nilgiris",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Sivaganga",
   "state" : "Tamil Nadu",
   "name" : "Sivaganga",
@@ -4600,7 +4600,7 @@
   "id" : "Pudukkottai",
   "state" : "Tamil Nadu",
   "name" : "Pudukkottai",
-  "confirmed" : 5,
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
