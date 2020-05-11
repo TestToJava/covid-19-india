@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Arwal",
   "confirmed" : 11,
-  "recovered" : 733,
+  "recovered" : 744,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -563,6 +563,17 @@
   "id" : "Khagaria",
   "state" : "Bihar",
   "name" : "Khagaria",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
   "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
@@ -604,9 +615,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Nawada",
+  "id" : "Muzaffarpur",
   "state" : "Bihar",
-  "name" : "Nawada",
+  "name" : "Muzaffarpur",
   "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
@@ -651,7 +662,7 @@
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
-  "confirmed" : 6,
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -659,10 +670,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Muzaffarpur",
+  "id" : "Sheikhpura",
   "state" : "Bihar",
-  "name" : "Muzaffarpur",
-  "confirmed" : 6,
+  "name" : "Sheikhpura",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -757,17 +768,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Sheikhpura",
-  "state" : "Bihar",
-  "name" : "Sheikhpura",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Chandigarh",
   "state" : "Chandigarh",
