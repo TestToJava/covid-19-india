@@ -3852,7 +3852,7 @@
   "id" : "Jodhpur",
   "state" : "Rajasthan",
   "name" : "Jodhpur",
-  "confirmed" : 875,
+  "confirmed" : 886,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3863,7 +3863,7 @@
   "id" : "Kota",
   "state" : "Rajasthan",
   "name" : "Kota",
-  "confirmed" : 253,
+  "confirmed" : 259,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3885,7 +3885,7 @@
   "id" : "Udaipur",
   "state" : "Rajasthan",
   "name" : "Udaipur",
-  "confirmed" : 179,
+  "confirmed" : 182,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3918,7 +3918,7 @@
   "id" : "Nagaur",
   "state" : "Rajasthan",
   "name" : "Nagaur",
-  "confirmed" : 124,
+  "confirmed" : 131,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4018,7 +4018,7 @@
   "state" : "Rajasthan",
   "name" : "Bikaner",
   "confirmed" : 39,
-  "recovered" : 3958,
+  "recovered" : 3988,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4102,6 +4102,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Dungarpur",
+  "state" : "Rajasthan",
+  "name" : "Dungarpur",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Hanumangarh",
   "state" : "Rajasthan",
   "name" : "Hanumangarh",
@@ -4113,16 +4124,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dungarpur",
+  "id" : "Sirohi",
   "state" : "Rajasthan",
-  "name" : "Dungarpur",
+  "name" : "Sirohi",
   "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Sawai-Madhopur",
   "state" : "Rajasthan",
@@ -4146,20 +4157,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sirohi",
+  "id" : "Barmer",
   "state" : "Rajasthan",
-  "name" : "Sirohi",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Karauli",
-  "state" : "Rajasthan",
-  "name" : "Karauli",
+  "name" : "Barmer",
   "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
@@ -4168,9 +4168,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Barmer",
+  "id" : "Karauli",
   "state" : "Rajasthan",
-  "name" : "Barmer",
+  "name" : "Karauli",
   "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
