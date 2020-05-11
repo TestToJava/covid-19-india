@@ -1762,7 +1762,7 @@
   "id" : "Baramula",
   "state" : "Jammu and Kashmir",
   "name" : "Baramula",
-  "confirmed" : 108,
+  "confirmed" : 109,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1803,10 +1803,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Jammu",
+  "id" : "Kulgam",
   "state" : "Jammu and Kashmir",
-  "name" : "Jammu",
-  "confirmed" : 32,
+  "name" : "Kulgam",
+  "confirmed" : 42,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1814,11 +1814,11 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Kulgam",
+  "id" : "Jammu",
   "state" : "Jammu and Kashmir",
-  "name" : "Kulgam",
-  "confirmed" : 31,
-  "recovered" : 861,
+  "name" : "Jammu",
+  "confirmed" : 35,
+  "recovered" : 879,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1869,6 +1869,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Kathua",
+  "state" : "Jammu and Kashmir",
+  "name" : "Kathua",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Rajouri",
   "state" : "Jammu and Kashmir",
   "name" : "Rajouri",
@@ -1879,17 +1890,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Kathua",
-  "state" : "Jammu and Kashmir",
-  "name" : "Kathua",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Reasi",
   "state" : "Jammu and Kashmir",
