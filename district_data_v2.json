@@ -376,7 +376,7 @@
   "id" : "Patna",
   "state" : "Bihar",
   "name" : "Patna",
-  "confirmed" : 64,
+  "confirmed" : 72,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Arwal",
   "confirmed" : 11,
-  "recovered" : 714,
+  "recovered" : 724,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -604,6 +604,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Saran",
   "state" : "Bihar",
   "name" : "Saran",
@@ -630,17 +641,6 @@
   "state" : "Bihar",
   "name" : "Samastipur",
   "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
