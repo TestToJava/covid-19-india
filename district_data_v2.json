@@ -1638,21 +1638,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Solan",
-  "state" : "Himachal Pradesh",
-  "name" : "Solan",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Chamba",
   "state" : "Himachal Pradesh",
   "name" : "Chamba",
-  "confirmed" : 9,
+  "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1663,8 +1652,19 @@
   "id" : "Kangra",
   "state" : "Himachal Pradesh",
   "name" : "Kangra",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Solan",
+  "state" : "Himachal Pradesh",
+  "name" : "Solan",
   "confirmed" : 9,
-  "recovered" : 55,
+  "recovered" : 59,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
