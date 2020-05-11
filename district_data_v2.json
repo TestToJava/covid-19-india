@@ -3094,7 +3094,7 @@
   "state" : "Maharashtra",
   "name" : "Dhule",
   "confirmed" : 54,
-  "recovered" : 23398,
+  "recovered" : 23401,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3192,7 +3192,7 @@
   "id" : "Jalna",
   "state" : "Maharashtra",
   "name" : "Jalna",
-  "confirmed" : 12,
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3265,6 +3265,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Wardha",
+  "state" : "Maharashtra",
+  "name" : "Wardha",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Gondiya",
   "state" : "Maharashtra",
