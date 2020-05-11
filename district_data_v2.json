@@ -3335,7 +3335,7 @@
   "id" : "Ganjam",
   "state" : "Odisha",
   "name" : "Ganjam",
-  "confirmed" : 137,
+  "confirmed" : 154,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3387,6 +3387,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Sundargarh",
+  "state" : "Odisha",
+  "name" : "Sundargarh",
+  "confirmed" : 16,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Angul",
   "state" : "Odisha",
   "name" : "Angul",
@@ -3397,17 +3408,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Sundargarh",
-  "state" : "Odisha",
-  "name" : "Sundargarh",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Kendrapara",
   "state" : "Odisha",
@@ -3435,7 +3435,7 @@
   "state" : "Odisha",
   "name" : "Jagatsinghpur",
   "confirmed" : 5,
-  "recovered" : 394,
+  "recovered" : 414,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3445,7 +3445,7 @@
   "id" : "Boudh",
   "state" : "Odisha",
   "name" : "Boudh",
-  "confirmed" : 3,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
