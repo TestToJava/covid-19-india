@@ -1388,7 +1388,7 @@
   "id" : "Sonipat",
   "state" : "Haryana",
   "name" : "Sonipat",
-  "confirmed" : 100,
+  "confirmed" : 105,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1410,7 +1410,7 @@
   "id" : "Jhajjar",
   "state" : "Haryana",
   "name" : "Jhajjar",
-  "confirmed" : 74,
+  "confirmed" : 83,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1488,7 +1488,7 @@
   "state" : "Haryana",
   "name" : "Karnal",
   "confirmed" : 14,
-  "recovered" : 703,
+  "recovered" : 719,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1561,6 +1561,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Mahendragarh",
+  "state" : "Haryana",
+  "name" : "Mahendragarh",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Hissar",
   "state" : "Haryana",
   "name" : "Hissar",
@@ -1571,17 +1582,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Mahendragarh",
-  "state" : "Haryana",
-  "name" : "Mahendragarh",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Rewari",
   "state" : "Haryana",
@@ -1605,10 +1605,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kurukshetra",
+  "id" : "Charki-Dadri",
   "state" : "Haryana",
-  "name" : "Kurukshetra",
-  "confirmed" : 2,
+  "name" : "Charki Dadri",
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1616,9 +1616,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Charki-Dadri",
+  "id" : "Kurukshetra",
   "state" : "Haryana",
-  "name" : "Charki Dadri",
+  "name" : "Kurukshetra",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
