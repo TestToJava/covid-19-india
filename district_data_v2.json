@@ -5932,7 +5932,7 @@
   "state" : "West Bengal",
   "name" : "Paschim Bardhaman",
   "confirmed" : 14,
-  "recovered" : 2059,
+  "recovered" : 2063,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6005,6 +6005,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Murshidabad",
+  "state" : "West Bengal",
+  "name" : "Murshidabad",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Jalpaiguri",
   "state" : "West Bengal",
   "name" : "Jalpaiguri",
@@ -6037,15 +6048,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Murshidabad",
-  "state" : "West Bengal",
-  "name" : "Murshidabad",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 } ]
