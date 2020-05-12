@@ -2087,12 +2087,23 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Mysuru",
   "state" : "Karnataka",
   "name" : "Mysuru",
   "confirmed" : 89,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Davanagere",
+  "state" : "Karnataka",
+  "name" : "Davanagere",
+  "confirmed" : 77,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2122,17 +2133,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Davanagere",
-  "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 73,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Vijayapura",
   "state" : "Karnataka",
   "name" : "Vijayapura",
@@ -2142,7 +2142,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Uttara-Kannada",
   "state" : "Karnataka",
@@ -2153,7 +2153,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Dakshina-Kannada",
   "state" : "Karnataka",
@@ -2192,7 +2192,7 @@
   "state" : "Karnataka",
   "name" : "Chikkaballapura",
   "confirmed" : 24,
-  "recovered" : 907,
+  "recovered" : 919,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2243,6 +2243,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Gadag",
+  "state" : "Karnataka",
+  "name" : "Gadag",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Chitradurga",
   "state" : "Karnataka",
   "name" : "Chitradurga",
@@ -2254,20 +2265,20 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Gadag",
+  "id" : "Hassan",
   "state" : "Karnataka",
-  "name" : "Gadag",
+  "name" : "Hassan",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
-  "id" : "Hassan",
+  "id" : "Kolar",
   "state" : "Karnataka",
-  "name" : "Hassan",
+  "name" : "Kolar",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
