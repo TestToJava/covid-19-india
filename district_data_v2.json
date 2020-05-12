@@ -4732,7 +4732,7 @@
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
-  "confirmed" : 796,
+  "confirmed" : 811,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4876,12 +4876,23 @@
   "state" : "Telangana",
   "name" : "Kamareddy",
   "confirmed" : 12,
-  "recovered" : 1297,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Yadadri",
+  "state" : "Telangana",
+  "name" : "Yadadri",
+  "confirmed" : 12,
+  "recovered" : 1326,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Mahabubnagar",
   "state" : "Telangana",
@@ -4927,6 +4938,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Jagitial",
+  "state" : "Telangana",
+  "name" : "Jagitial",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Medak",
   "state" : "Telangana",
   "name" : "Medak",
@@ -4948,17 +4970,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Jagitial",
-  "state" : "Telangana",
-  "name" : "Jagitial",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Jayashankar",
   "state" : "Telangana",
@@ -5084,7 +5095,7 @@
   "id" : "Agra",
   "state" : "Uttar Pradesh",
   "name" : "Agra",
-  "confirmed" : 770,
+  "confirmed" : 777,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5481,7 +5492,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Pratapgarh",
   "confirmed" : 13,
-  "recovered" : 3573,
+  "recovered" : 3580,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
