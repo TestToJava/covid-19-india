@@ -2181,7 +2181,7 @@
   "state" : "Karnataka",
   "name" : "Bidar",
   "confirmed" : 30,
-  "recovered" : 897,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2192,7 +2192,7 @@
   "state" : "Karnataka",
   "name" : "Chikkaballapura",
   "confirmed" : 24,
-  "recovered" : 0,
+  "recovered" : 904,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2265,6 +2265,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Hassan",
+  "state" : "Karnataka",
+  "name" : "Hassan",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
@@ -2291,6 +2302,17 @@
   "state" : "Karnataka",
   "name" : "Haveri",
   "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Yadgir",
+  "state" : "Karnataka",
+  "name" : "Yadgir",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
