@@ -365,7 +365,7 @@
   "id" : "Patna",
   "state" : "Bihar",
   "name" : "Patna",
-  "confirmed" : 72,
+  "confirmed" : 73,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -376,7 +376,7 @@
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
-  "confirmed" : 59,
+  "confirmed" : 72,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -420,7 +420,7 @@
   "id" : "Siwan",
   "state" : "Bihar",
   "name" : "Siwan",
-  "confirmed" : 33,
+  "confirmed" : 34,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -442,6 +442,28 @@
   "id" : "Madhubani",
   "state" : "Bihar",
   "name" : "Madhubani",
+  "confirmed" : 29,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Khagaria",
+  "state" : "Bihar",
+  "name" : "Khagaria",
+  "confirmed" : 27,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Bhagalpur",
+  "state" : "Bihar",
+  "name" : "Bhagalpur",
   "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
@@ -450,10 +472,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhagalpur",
+  "id" : "Gopalganj",
   "state" : "Bihar",
-  "name" : "Bhagalpur",
-  "confirmed" : 25,
+  "name" : "Gopalganj",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -471,28 +493,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Gopalganj",
-  "state" : "Bihar",
-  "name" : "Gopalganj",
-  "confirmed" : 20,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Khagaria",
-  "state" : "Bihar",
-  "name" : "Khagaria",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Darbhanga",
   "state" : "Bihar",
@@ -542,7 +542,7 @@
   "state" : "Bihar",
   "name" : "West Champaran",
   "confirmed" : 11,
-  "recovered" : 766,
+  "recovered" : 800,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -629,7 +629,7 @@
   "id" : "Saran",
   "state" : "Bihar",
   "name" : "Saran",
-  "confirmed" : 8,
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -725,6 +725,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Purnia",
+  "state" : "Bihar",
+  "name" : "Purnia",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Sheohar",
   "state" : "Bihar",
   "name" : "Sheohar",
@@ -746,17 +757,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Purnia",
-  "state" : "Bihar",
-  "name" : "Purnia",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Chandigarh",
   "state" : "Chandigarh",
