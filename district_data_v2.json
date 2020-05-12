@@ -542,7 +542,7 @@
   "state" : "Bihar",
   "name" : "West Champaran",
   "confirmed" : 11,
-  "recovered" : 800,
+  "recovered" : 801,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -736,10 +736,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sheohar",
+  "id" : "Supaul",
   "state" : "Bihar",
-  "name" : "Sheohar",
-  "confirmed" : 3,
+  "name" : "Supaul",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -747,9 +747,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Supaul",
+  "id" : "Sheohar",
   "state" : "Bihar",
-  "name" : "Supaul",
+  "name" : "Sheohar",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
