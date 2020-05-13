@@ -516,9 +516,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jehanabad-",
+  "id" : "Jehanabad",
   "state" : "Bihar",
-  "name" : "Jehanabad\t",
+  "name" : "Jehanabad",
   "confirmed" : 21,
   "recovered" : 0,
   "deaths" : 0,
