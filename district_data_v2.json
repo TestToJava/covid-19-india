@@ -4128,7 +4128,7 @@
   "state" : "Rajasthan",
   "name" : "Jalore",
   "confirmed" : 42,
-  "recovered" : 4325,
+  "recovered" : 4328,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4223,6 +4223,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sirohi",
+  "state" : "Rajasthan",
+  "name" : "Sirohi",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Dungarpur",
   "state" : "Rajasthan",
   "name" : "Dungarpur",
@@ -4255,17 +4266,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Sirohi",
-  "state" : "Rajasthan",
-  "name" : "Sirohi",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Barmer",
   "state" : "Rajasthan",
