@@ -1968,6 +1968,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Hazaribagh",
+  "state" : "Jharkhand",
+  "name" : "Hazaribagh",
+  "confirmed" : 18,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Palamu",
   "state" : "Jharkhand",
   "name" : "Palamu",
@@ -1982,17 +1993,6 @@
   "id" : "Bokaro",
   "state" : "Jharkhand",
   "name" : "Bokaro",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Hazaribagh",
-  "state" : "Jharkhand",
-  "name" : "Hazaribagh",
   "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
@@ -2016,7 +2016,7 @@
   "state" : "Jharkhand",
   "name" : "Kodarma",
   "confirmed" : 6,
-  "recovered" : 187,
+  "recovered" : 195,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
