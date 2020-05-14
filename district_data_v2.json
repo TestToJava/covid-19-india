@@ -376,7 +376,7 @@
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
-  "confirmed" : 75,
+  "confirmed" : 77,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -387,7 +387,7 @@
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
-  "confirmed" : 63,
+  "confirmed" : 66,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -431,7 +431,7 @@
   "id" : "Khagaria",
   "state" : "Bihar",
   "name" : "Khagaria",
-  "confirmed" : 34,
+  "confirmed" : 36,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -453,7 +453,7 @@
   "id" : "Bhagalpur",
   "state" : "Bihar",
   "name" : "Bhagalpur",
-  "confirmed" : 32,
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -475,7 +475,18 @@
   "id" : "Bhojpur",
   "state" : "Bihar",
   "name" : "Bhojpur",
-  "confirmed" : 28,
+  "confirmed" : 29,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jehanabad",
+  "state" : "Bihar",
+  "name" : "Jehanabad",
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -516,17 +527,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jehanabad",
-  "state" : "Bihar",
-  "name" : "Jehanabad",
-  "confirmed" : 21,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Aurangabad",
   "state" : "Bihar",
   "name" : "Aurangabad",
@@ -538,27 +538,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Darbhanga",
+  "id" : "Muzaffarpur",
   "state" : "Bihar",
-  "name" : "Darbhanga",
-  "confirmed" : 16,
+  "name" : "Muzaffarpur",
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
-  "id" : "Muzaffarpur",
+  "id" : "Darbhanga",
   "state" : "Bihar",
-  "name" : "Muzaffarpur",
-  "confirmed" : 15,
-  "recovered" : 966,
+  "name" : "Darbhanga",
+  "confirmed" : 16,
+  "recovered" : 999,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "East-Champaran",
   "state" : "Bihar",
@@ -571,10 +571,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Banka",
+  "state" : "Bihar",
+  "name" : "Banka",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Purnia",
   "state" : "Bihar",
   "name" : "Purnia",
-  "confirmed" : 13,
+  "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -604,6 +615,28 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Lakhisarai",
+  "state" : "Bihar",
+  "name" : "Lakhisarai",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Sheikhpura",
+  "state" : "Bihar",
+  "name" : "Sheikhpura",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Samastipur",
   "state" : "Bihar",
   "name" : "Samastipur",
@@ -614,17 +647,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Banka",
-  "state" : "Bihar",
-  "name" : "Banka",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Saharsa",
   "state" : "Bihar",
@@ -648,9 +670,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sheikhpura",
+  "id" : "Kishanganj",
   "state" : "Bihar",
-  "name" : "Sheikhpura",
+  "name" : "Kishanganj",
   "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
@@ -670,9 +692,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kishanganj",
+  "id" : "Supaul",
   "state" : "Bihar",
-  "name" : "Kishanganj",
+  "name" : "Supaul",
   "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
@@ -703,32 +725,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Supaul",
-  "state" : "Bihar",
-  "name" : "Supaul",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Lakhisarai",
-  "state" : "Bihar",
-  "name" : "Lakhisarai",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Vaishali",
   "state" : "Bihar",
   "name" : "Vaishali",
-  "confirmed" : 4,
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -817,7 +817,7 @@
   "state" : "Chhattisgarh",
   "name" : "Kabirdham",
   "confirmed" : 6,
-  "recovered" : 59,
+  "recovered" : 60,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -838,6 +838,17 @@
   "id" : "Bilaspur",
   "state" : "Chhattisgarh",
   "name" : "Bilaspur",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Balod",
+  "state" : "Chhattisgarh",
+  "name" : "Balod",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
