@@ -87,27 +87,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kadapa",
-  "state" : "Andhra Pradesh",
-  "name" : "Kadapa",
-  "confirmed" : 99,
-  "recovered" : 2173,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Others",
   "state" : "Andhra Pradesh",
   "name" : "Others",
-  "confirmed" : 73,
-  "recovered" : 0,
+  "confirmed" : 105,
+  "recovered" : 2205,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
+}, {
+  "id" : "Kadapa",
+  "state" : "Andhra Pradesh",
+  "name" : "Kadapa",
+  "confirmed" : 99,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "West-Godavari",
   "state" : "Andhra Pradesh",
