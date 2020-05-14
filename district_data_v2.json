@@ -3970,6 +3970,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Udaipur",
+  "state" : "Rajasthan",
+  "name" : "Udaipur",
+  "confirmed" : 277,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Kota",
   "state" : "Rajasthan",
   "name" : "Kota",
@@ -3981,10 +3992,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Udaipur",
+  "id" : "Ajmer",
   "state" : "Rajasthan",
-  "name" : "Udaipur",
-  "confirmed" : 257,
+  "name" : "Ajmer",
+  "confirmed" : 237,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3992,10 +4003,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Ajmer",
+  "id" : "Nagaur",
   "state" : "Rajasthan",
-  "name" : "Ajmer",
-  "confirmed" : 237,
+  "name" : "Nagaur",
+  "confirmed" : 155,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4024,17 +4035,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Nagaur",
-  "state" : "Rajasthan",
-  "name" : "Nagaur",
-  "confirmed" : 139,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Bharatpur",
   "state" : "Rajasthan",
@@ -4106,7 +4106,7 @@
   "state" : "Rajasthan",
   "name" : "Jalore",
   "confirmed" : 44,
-  "recovered" : 4344,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4128,7 +4128,7 @@
   "state" : "Rajasthan",
   "name" : "BSF",
   "confirmed" : 43,
-  "recovered" : 4355,
+  "recovered" : 4394,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4223,6 +4223,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sikar",
+  "state" : "Rajasthan",
+  "name" : "Sikar",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Sirohi",
   "state" : "Rajasthan",
   "name" : "Sirohi",
@@ -4248,17 +4259,6 @@
   "id" : "Hanumangarh",
   "state" : "Rajasthan",
   "name" : "Hanumangarh",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Sikar",
-  "state" : "Rajasthan",
-  "name" : "Sikar",
   "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
