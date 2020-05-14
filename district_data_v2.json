@@ -1003,7 +1003,7 @@
   "id" : "South-Goa",
   "state" : "Goa",
   "name" : "South Goa",
-  "confirmed" : 3,
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
