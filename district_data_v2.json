@@ -2004,8 +2004,8 @@
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
-  "confirmed" : 5,
-  "recovered" : 181,
+  "confirmed" : 6,
+  "recovered" : 187,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2034,6 +2034,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Jamshedpur",
+  "state" : "Jharkhand",
+  "name" : "Jamshedpur",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Simdega",
   "state" : "Jharkhand",
   "name" : "Simdega",
@@ -2059,17 +2070,6 @@
   "id" : "Dumka",
   "state" : "Jharkhand",
   "name" : "Dumka",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Jamshedpur",
-  "state" : "Jharkhand",
-  "name" : "Jamshedpur",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
