@@ -3508,6 +3508,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kendrapara",
+  "state" : "Odisha",
+  "name" : "Kendrapara",
+  "confirmed" : 22,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Angul",
   "state" : "Odisha",
   "name" : "Angul",
@@ -3518,17 +3529,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Kendrapara",
-  "state" : "Odisha",
-  "name" : "Kendrapara",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Mayurbhanj",
   "state" : "Odisha",
@@ -3545,7 +3545,7 @@
   "state" : "Odisha",
   "name" : "Jagatsinghpur",
   "confirmed" : 5,
-  "recovered" : 611,
+  "recovered" : 624,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
