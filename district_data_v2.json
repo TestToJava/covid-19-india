@@ -1949,7 +1949,7 @@
   "id" : "Ranchi",
   "state" : "Jharkhand",
   "name" : "Ranchi",
-  "confirmed" : 97,
+  "confirmed" : 102,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1968,27 +1968,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Hazaribagh",
-  "state" : "Jharkhand",
-  "name" : "Hazaribagh",
-  "confirmed" : 18,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Palamu",
   "state" : "Jharkhand",
   "name" : "Palamu",
-  "confirmed" : 12,
+  "confirmed" : 15,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Hazaribagh",
+  "state" : "Jharkhand",
+  "name" : "Hazaribagh",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Bokaro",
   "state" : "Jharkhand",
@@ -2016,7 +2016,7 @@
   "state" : "Jharkhand",
   "name" : "Kodarma",
   "confirmed" : 6,
-  "recovered" : 195,
+  "recovered" : 197,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2045,9 +2045,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jamshedpur",
+  "id" : "East-Singhbhum",
   "state" : "Jharkhand",
-  "name" : "Jamshedpur",
+  "name" : "East Singhbhum",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
