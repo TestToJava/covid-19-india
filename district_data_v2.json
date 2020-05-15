@@ -2158,7 +2158,7 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 83,
+  "confirmed" : 86,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2177,6 +2177,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bidar",
+  "state" : "Karnataka",
+  "name" : "Bidar",
+  "confirmed" : 56,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Vijayapura",
   "state" : "Karnataka",
   "name" : "Vijayapura",
@@ -2188,10 +2199,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Bidar",
+  "id" : "Mandya",
   "state" : "Karnataka",
-  "name" : "Bidar",
-  "confirmed" : 52,
+  "name" : "Mandya",
+  "confirmed" : 49,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2221,22 +2232,11 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Mandya",
-  "state" : "Karnataka",
-  "name" : "Mandya",
-  "confirmed" : 36,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Chikkaballapura",
   "state" : "Karnataka",
   "name" : "Chikkaballapura",
   "confirmed" : 24,
-  "recovered" : 1032,
+  "recovered" : 1056,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2265,10 +2265,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Gadag",
+  "id" : "Hassan",
   "state" : "Karnataka",
-  "name" : "Gadag",
-  "confirmed" : 12,
+  "name" : "Hassan",
+  "confirmed" : 16,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2276,9 +2276,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Hassan",
+  "id" : "Gadag",
   "state" : "Karnataka",
-  "name" : "Hassan",
+  "name" : "Gadag",
   "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
