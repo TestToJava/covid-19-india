@@ -3556,7 +3556,7 @@
   "state" : "Odisha",
   "name" : "Mayurbhanj",
   "confirmed" : 9,
-  "recovered" : 668,
+  "recovered" : 672,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3567,7 +3567,7 @@
   "state" : "Odisha",
   "name" : "Jagatsinghpur",
   "confirmed" : 5,
-  "recovered" : 657,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3599,6 +3599,17 @@
   "id" : "Cuttack",
   "state" : "Odisha",
   "name" : "Cuttack",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Nayagarh",
+  "state" : "Odisha",
+  "name" : "Nayagarh",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
@@ -3640,6 +3651,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Deogarh",
+  "state" : "Odisha",
+  "name" : "Deogarh",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Dhenkanal",
   "state" : "Odisha",
   "name" : "Dhenkanal",
@@ -3661,28 +3683,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Deogarh",
-  "state" : "Odisha",
-  "name" : "Deogarh",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Nayagarh",
-  "state" : "Odisha",
-  "name" : "Nayagarh",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Puducherry",
   "state" : "Puducherry",
