@@ -65,6 +65,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Others",
+  "state" : "Andhra Pradesh",
+  "name" : "Others",
+  "confirmed" : 150,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Nellore",
   "state" : "Andhra Pradesh",
   "name" : "Nellore",
@@ -80,23 +91,12 @@
   "state" : "Andhra Pradesh",
   "name" : "Anantapur",
   "confirmed" : 122,
-  "recovered" : 0,
+  "recovered" : 2307,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Others",
-  "state" : "Andhra Pradesh",
-  "name" : "Others",
-  "confirmed" : 105,
-  "recovered" : 2262,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Kadapa",
   "state" : "Andhra Pradesh",
