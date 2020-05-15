@@ -420,7 +420,7 @@
   "id" : "Siwan",
   "state" : "Bihar",
   "name" : "Siwan",
-  "confirmed" : 38,
+  "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -431,7 +431,7 @@
   "id" : "Khagaria",
   "state" : "Bihar",
   "name" : "Khagaria",
-  "confirmed" : 36,
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -508,7 +508,7 @@
   "id" : "Nawada",
   "state" : "Bihar",
   "name" : "Nawada",
-  "confirmed" : 24,
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Darbhanga",
   "confirmed" : 16,
-  "recovered" : 999,
+  "recovered" : 1012,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -714,6 +714,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Vaishali",
+  "state" : "Bihar",
+  "name" : "Vaishali",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -724,17 +735,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Vaishali",
-  "state" : "Bihar",
-  "name" : "Vaishali",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Araria",
   "state" : "Bihar",
