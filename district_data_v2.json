@@ -497,7 +497,18 @@
   "id" : "Jehanabad",
   "state" : "Bihar",
   "name" : "Jehanabad",
-  "confirmed" : 26,
+  "confirmed" : 27,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Purnia",
+  "state" : "Bihar",
+  "name" : "Purnia",
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -542,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Sheikhpura",
   "confirmed" : 21,
-  "recovered" : 0,
+  "recovered" : 1107,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -553,7 +564,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 20,
-  "recovered" : 1079,
+  "recovered" : 1083,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -563,13 +574,24 @@
   "id" : "Muzaffarpur",
   "state" : "Bihar",
   "name" : "Muzaffarpur",
-  "confirmed" : 18,
+  "confirmed" : 20,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Vaishali",
+  "state" : "Bihar",
+  "name" : "Vaishali",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Darbhanga",
   "state" : "Bihar",
@@ -636,17 +658,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Purnia",
-  "state" : "Bihar",
-  "name" : "Purnia",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Arwal",
   "state" : "Bihar",
@@ -725,17 +736,6 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Vaishali",
-  "state" : "Bihar",
-  "name" : "Vaishali",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -761,7 +761,7 @@
   "id" : "Sheohar",
   "state" : "Bihar",
   "name" : "Sheohar",
-  "confirmed" : 3,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
