@@ -1748,10 +1748,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Srinagar",
+  "id" : "Anantnag",
   "state" : "Jammu and Kashmir",
-  "name" : "Srinagar",
-  "confirmed" : 153,
+  "name" : "Anantnag",
+  "confirmed" : 162,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1759,10 +1759,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Anantnag",
+  "id" : "Srinagar",
   "state" : "Jammu and Kashmir",
-  "name" : "Anantnag",
-  "confirmed" : 145,
+  "name" : "Srinagar",
+  "confirmed" : 156,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1781,10 +1781,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Kulgam",
+  "state" : "Jammu and Kashmir",
+  "name" : "Kulgam",
+  "confirmed" : 119,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Baramula",
   "state" : "Jammu and Kashmir",
   "name" : "Baramula",
-  "confirmed" : 116,
+  "confirmed" : 118,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1806,18 +1817,7 @@
   "id" : "Kupwara",
   "state" : "Jammu and Kashmir",
   "name" : "Kupwara",
-  "confirmed" : 85,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Kulgam",
-  "state" : "Jammu and Kashmir",
-  "name" : "Kulgam",
-  "confirmed" : 72,
+  "confirmed" : 97,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1828,7 +1828,7 @@
   "id" : "Badgam",
   "state" : "Jammu and Kashmir",
   "name" : "Badgam",
-  "confirmed" : 52,
+  "confirmed" : 57,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1840,7 +1840,18 @@
   "state" : "Jammu and Kashmir",
   "name" : "Jammu",
   "confirmed" : 39,
-  "recovered" : 1013,
+  "recovered" : 1082,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Kathua",
+  "state" : "Jammu and Kashmir",
+  "name" : "Kathua",
+  "confirmed" : 31,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1869,16 +1880,16 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Kathua",
+  "id" : "Ramban",
   "state" : "Jammu and Kashmir",
-  "name" : "Kathua",
-  "confirmed" : 21,
+  "name" : "Ramban",
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Pulwama",
   "state" : "Jammu and Kashmir",
@@ -1901,17 +1912,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Ramban",
-  "state" : "Jammu and Kashmir",
-  "name" : "Ramban",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Rajouri",
   "state" : "Jammu and Kashmir",
