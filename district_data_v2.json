@@ -354,7 +354,7 @@
   "id" : "Munger",
   "state" : "Bihar",
   "name" : "Munger",
-  "confirmed" : 123,
+  "confirmed" : 125,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -387,7 +387,7 @@
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
-  "confirmed" : 66,
+  "confirmed" : 67,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -409,7 +409,7 @@
   "id" : "Begusarai",
   "state" : "Bihar",
   "name" : "Begusarai",
-  "confirmed" : 47,
+  "confirmed" : 54,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -431,7 +431,7 @@
   "id" : "Khagaria",
   "state" : "Bihar",
   "name" : "Khagaria",
-  "confirmed" : 41,
+  "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -450,6 +450,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bhagalpur",
+  "state" : "Bihar",
+  "name" : "Bhagalpur",
+  "confirmed" : 37,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kaimur",
   "state" : "Bihar",
   "name" : "Kaimur",
@@ -461,10 +472,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhagalpur",
+  "id" : "Banka",
   "state" : "Bihar",
-  "name" : "Bhagalpur",
-  "confirmed" : 33,
+  "name" : "Banka",
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -472,9 +483,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Banka",
+  "id" : "Gopalganj",
   "state" : "Bihar",
-  "name" : "Banka",
+  "name" : "Gopalganj",
   "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
@@ -538,11 +549,11 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Gopalganj",
+  "id" : "Aurangabad",
   "state" : "Bihar",
-  "name" : "Gopalganj",
-  "confirmed" : 24,
-  "recovered" : 0,
+  "name" : "Aurangabad",
+  "confirmed" : 22,
+  "recovered" : 1143,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -553,23 +564,12 @@
   "state" : "Bihar",
   "name" : "Sheikhpura",
   "confirmed" : 21,
-  "recovered" : 1115,
+  "recovered" : 1127,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Aurangabad",
-  "state" : "Bihar",
-  "name" : "Aurangabad",
-  "confirmed" : 20,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Muzaffarpur",
   "state" : "Bihar",
@@ -592,6 +592,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Katihar",
+  "state" : "Bihar",
+  "name" : "Katihar",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Darbhanga",
   "state" : "Bihar",
@@ -625,17 +636,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Katihar",
-  "state" : "Bihar",
-  "name" : "Katihar",
-  "confirmed" : 15,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
