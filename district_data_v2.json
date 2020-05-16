@@ -365,7 +365,7 @@
   "id" : "Patna",
   "state" : "Bihar",
   "name" : "Patna",
-  "confirmed" : 105,
+  "confirmed" : 106,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -417,10 +417,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Madhubani",
+  "state" : "Bihar",
+  "name" : "Madhubani",
+  "confirmed" : 53,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Siwan",
   "state" : "Bihar",
   "name" : "Siwan",
-  "confirmed" : 43,
+  "confirmed" : 45,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -439,10 +450,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Madhubani",
+  "id" : "Bhagalpur",
   "state" : "Bihar",
-  "name" : "Madhubani",
-  "confirmed" : 39,
+  "name" : "Bhagalpur",
+  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -450,10 +461,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhagalpur",
+  "id" : "Bhojpur",
   "state" : "Bihar",
-  "name" : "Bhagalpur",
-  "confirmed" : 37,
+  "name" : "Bhojpur",
+  "confirmed" : 36,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -475,7 +486,7 @@
   "id" : "Kaimur",
   "state" : "Bihar",
   "name" : "Kaimur",
-  "confirmed" : 33,
+  "confirmed" : 34,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -505,10 +516,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhojpur",
+  "id" : "Purnia",
   "state" : "Bihar",
-  "name" : "Bhojpur",
-  "confirmed" : 30,
+  "name" : "Purnia",
+  "confirmed" : 29,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -519,17 +530,6 @@
   "id" : "Jehanabad",
   "state" : "Bihar",
   "name" : "Jehanabad",
-  "confirmed" : 27,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Purnia",
-  "state" : "Bihar",
-  "name" : "Purnia",
   "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 22,
-  "recovered" : 1145,
+  "recovered" : 1178,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -626,10 +626,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Samastipur",
+  "state" : "Bihar",
+  "name" : "Samastipur",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
   "name" : "Lakhisarai",
-  "confirmed" : 13,
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -670,9 +681,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Samastipur",
+  "id" : "Jamui",
   "state" : "Bihar",
-  "name" : "Samastipur",
+  "name" : "Jamui",
   "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
@@ -713,17 +724,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Jamui",
-  "state" : "Bihar",
-  "name" : "Jamui",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Gaya",
   "state" : "Bihar",
@@ -4105,7 +4105,7 @@
   "id" : "Tonk",
   "state" : "Rajasthan",
   "name" : "Tonk",
-  "confirmed" : 144,
+  "confirmed" : 147,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4205,7 +4205,7 @@
   "state" : "Rajasthan",
   "name" : "Jhalawar",
   "confirmed" : 48,
-  "recovered" : 4948,
+  "recovered" : 4960,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4289,6 +4289,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sirohi",
+  "state" : "Rajasthan",
+  "name" : "Sirohi",
+  "confirmed" : 32,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sikar",
   "state" : "Rajasthan",
   "name" : "Sikar",
@@ -4310,17 +4321,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Sirohi",
-  "state" : "Rajasthan",
-  "name" : "Sirohi",
-  "confirmed" : 24,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Barmer",
   "state" : "Rajasthan",
@@ -4369,7 +4369,7 @@
   "id" : "Others",
   "state" : "Rajasthan",
   "name" : "Others",
-  "confirmed" : 6,
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
