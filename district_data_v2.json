@@ -5367,6 +5367,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Basti",
+  "state" : "Uttar Pradesh",
+  "name" : "Basti",
+  "confirmed" : 48,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bijnor",
   "state" : "Uttar Pradesh",
   "name" : "Bijnor",
@@ -5378,10 +5389,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Basti",
+  "id" : "Sambhal",
   "state" : "Uttar Pradesh",
-  "name" : "Basti",
-  "confirmed" : 46,
+  "name" : "Sambhal",
+  "confirmed" : 45,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jalaun",
+  "state" : "Uttar Pradesh",
+  "name" : "Jalaun",
+  "confirmed" : 40,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5411,17 +5433,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jalaun",
-  "state" : "Uttar Pradesh",
-  "name" : "Jalaun",
-  "confirmed" : 36,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Sant-Kabir-Nagar",
   "state" : "Uttar Pradesh",
   "name" : "Sant Kabir Nagar",
@@ -5443,17 +5454,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Sambhal",
-  "state" : "Uttar Pradesh",
-  "name" : "Sambhal",
-  "confirmed" : 34,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Shamli",
   "state" : "Uttar Pradesh",
@@ -5591,7 +5591,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Auraiya",
   "confirmed" : 18,
-  "recovered" : 4150,
+  "recovered" : 4167,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
