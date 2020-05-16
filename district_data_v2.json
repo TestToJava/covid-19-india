@@ -3585,10 +3585,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Khordha",
+  "id" : "Bhubaneswar",
   "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 56,
+  "name" : "Bhubaneswar",
+  "confirmed" : 53,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3655,7 +3655,7 @@
   "state" : "Odisha",
   "name" : "Mayurbhanj",
   "confirmed" : 11,
-  "recovered" : 737,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3666,7 +3666,7 @@
   "state" : "Odisha",
   "name" : "Cuttack",
   "confirmed" : 10,
-  "recovered" : 0,
+  "recovered" : 737,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3716,6 +3716,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Khordha",
+  "state" : "Odisha",
+  "name" : "Khordha",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Kalahandi",
   "state" : "Odisha",
