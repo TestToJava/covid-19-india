@@ -461,6 +461,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
+  "confirmed" : 34,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kaimur",
   "state" : "Bihar",
   "name" : "Kaimur",
@@ -475,7 +486,7 @@
   "id" : "Banka",
   "state" : "Bihar",
   "name" : "Banka",
-  "confirmed" : 32,
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -527,17 +538,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 26,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "West-Champaran",
   "state" : "Bihar",
   "name" : "West Champaran",
@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 22,
-  "recovered" : 1142,
+  "recovered" : 1151,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
