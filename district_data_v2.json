@@ -564,7 +564,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 20,
-  "recovered" : 1083,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4595,7 +4595,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Tiruchirappalli",
   "state" : "Tamil Nadu",
