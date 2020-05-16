@@ -553,7 +553,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 18,
-  "recovered" : 1069,
+  "recovered" : 1077,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -673,7 +673,7 @@
   "id" : "Samastipur",
   "state" : "Bihar",
   "name" : "Samastipur",
-  "confirmed" : 11,
+  "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -702,6 +702,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Jamui",
+  "state" : "Bihar",
+  "name" : "Jamui",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Gaya",
   "state" : "Bihar",
@@ -750,17 +761,6 @@
   "id" : "Sheohar",
   "state" : "Bihar",
   "name" : "Sheohar",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Jamui",
-  "state" : "Bihar",
-  "name" : "Jamui",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
