@@ -4798,7 +4798,7 @@
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
-  "confirmed" : 915,
+  "confirmed" : 959,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4817,6 +4817,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Others",
+  "state" : "Telangana",
+  "name" : "Others",
+  "confirmed" : 63,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Nizamabad",
   "state" : "Telangana",
   "name" : "Nizamabad",
@@ -4828,16 +4839,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Others",
+  "id" : "Ranga-Reddy",
   "state" : "Telangana",
-  "name" : "Others",
-  "confirmed" : 55,
+  "name" : "Ranga Reddy",
+  "confirmed" : 46,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
 }, {
   "id" : "Jogulamba-Gadwal",
   "state" : "Telangana",
@@ -4849,17 +4860,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Ranga-Reddy",
-  "state" : "Telangana",
-  "name" : "Ranga Reddy",
-  "confirmed" : 45,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Vikarabad",
   "state" : "Telangana",
@@ -4953,7 +4953,7 @@
   "state" : "Telangana",
   "name" : "Yadadri",
   "confirmed" : 12,
-  "recovered" : 1454,
+  "recovered" : 1507,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
