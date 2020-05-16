@@ -354,7 +354,7 @@
   "id" : "Munger",
   "state" : "Bihar",
   "name" : "Munger",
-  "confirmed" : 122,
+  "confirmed" : 123,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -365,7 +365,7 @@
   "id" : "Patna",
   "state" : "Bihar",
   "name" : "Patna",
-  "confirmed" : 100,
+  "confirmed" : 105,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -472,6 +472,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Banka",
+  "state" : "Bihar",
+  "name" : "Banka",
+  "confirmed" : 32,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bhojpur",
   "state" : "Bihar",
   "name" : "Bhojpur",
@@ -494,6 +505,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
+  "confirmed" : 26,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "West-Champaran",
   "state" : "Bihar",
   "name" : "West Champaran",
@@ -504,17 +526,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 25,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Gopalganj",
   "state" : "Bihar",
@@ -527,11 +538,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sheikhpura",
+  "state" : "Bihar",
+  "name" : "Sheikhpura",
+  "confirmed" : 21,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Aurangabad",
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 18,
-  "recovered" : 0,
+  "recovered" : 1069,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -542,7 +564,7 @@
   "state" : "Bihar",
   "name" : "Muzaffarpur",
   "confirmed" : 18,
-  "recovered" : 0,
+  "recovered" : 1057,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -553,7 +575,7 @@
   "state" : "Bihar",
   "name" : "Darbhanga",
   "confirmed" : 16,
-  "recovered" : 1033,
+  "recovered" : 1039,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -582,16 +604,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Banka",
+  "id" : "Katihar",
   "state" : "Bihar",
-  "name" : "Banka",
+  "name" : "Katihar",
   "confirmed" : 15,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
@@ -626,17 +648,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Katihar",
-  "state" : "Bihar",
-  "name" : "Katihar",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Arwal",
   "state" : "Bihar",
   "name" : "Arwal",
@@ -647,17 +658,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Sheikhpura",
-  "state" : "Bihar",
-  "name" : "Sheikhpura",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Kishanganj",
   "state" : "Bihar",
