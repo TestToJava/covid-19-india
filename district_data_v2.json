@@ -2247,7 +2247,7 @@
   "state" : "Karnataka",
   "name" : "Dharwad",
   "confirmed" : 22,
-  "recovered" : 1089,
+  "recovered" : 1092,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2287,6 +2287,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Shimoga",
+  "state" : "Karnataka",
+  "name" : "Shimoga",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Tumakuru",
   "state" : "Karnataka",
   "name" : "Tumakuru",
@@ -2312,17 +2323,6 @@
   "id" : "Chitradurga",
   "state" : "Karnataka",
   "name" : "Chitradurga",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Shimoga",
-  "state" : "Karnataka",
-  "name" : "Shimoga",
   "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
