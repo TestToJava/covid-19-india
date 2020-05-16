@@ -4380,7 +4380,7 @@
   "id" : "Chennai",
   "state" : "Tamil Nadu",
   "name" : "Chennai",
-  "confirmed" : 5946,
+  "confirmed" : 6271,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4391,7 +4391,7 @@
   "id" : "Thiruvallur",
   "state" : "Tamil Nadu",
   "name" : "Thiruvallur",
-  "confirmed" : 516,
+  "confirmed" : 527,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4402,7 +4402,7 @@
   "id" : "Chengalpattu",
   "state" : "Tamil Nadu",
   "name" : "Chengalpattu",
-  "confirmed" : 450,
+  "confirmed" : 470,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4509,6 +4509,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Dindigul",
+  "state" : "Tamil Nadu",
+  "name" : "Dindigul",
+  "confirmed" : 121,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Tiruppur",
   "state" : "Tamil Nadu",
   "name" : "Tiruppur",
@@ -4519,17 +4530,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Dindigul",
-  "state" : "Tamil Nadu",
-  "name" : "Dindigul",
-  "confirmed" : 114,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Ranipet",
   "state" : "Tamil Nadu",
@@ -4579,7 +4579,7 @@
   "state" : "Tamil Nadu",
   "name" : "Erode",
   "confirmed" : 70,
-  "recovered" : 10108,
+  "recovered" : 10471,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
