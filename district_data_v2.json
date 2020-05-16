@@ -3574,27 +3574,27 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Cuttack",
-  "state" : "Odisha",
-  "name" : "Cuttack",
-  "confirmed" : 10,
-  "recovered" : 735,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Mayurbhanj",
   "state" : "Odisha",
   "name" : "Mayurbhanj",
-  "confirmed" : 9,
-  "recovered" : 727,
+  "confirmed" : 11,
+  "recovered" : 737,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Cuttack",
+  "state" : "Odisha",
+  "name" : "Cuttack",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Nayagarh",
   "state" : "Odisha",
