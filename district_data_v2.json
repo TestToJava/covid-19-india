@@ -3896,7 +3896,7 @@
   "id" : "Amritsar",
   "state" : "Punjab",
   "name" : "Amritsar",
-  "confirmed" : 301,
+  "confirmed" : 307,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3929,7 +3929,7 @@
   "id" : "Ludhiana",
   "state" : "Punjab",
   "name" : "Ludhiana",
-  "confirmed" : 139,
+  "confirmed" : 144,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3951,7 +3951,7 @@
   "id" : "S-B-S-Nagar",
   "state" : "Punjab",
   "name" : "S.B.S Nagar",
-  "confirmed" : 103,
+  "confirmed" : 106,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4007,7 +4007,7 @@
   "state" : "Punjab",
   "name" : "Muktsar",
   "confirmed" : 65,
-  "recovered" : 1946,
+  "recovered" : 1964,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4036,6 +4036,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Faridkot",
+  "state" : "Punjab",
+  "name" : "Faridkot",
+  "confirmed" : 59,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Fatehgarh-Sahib",
   "state" : "Punjab",
   "name" : "Fatehgarh Sahib",
@@ -4046,17 +4057,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Faridkot",
-  "state" : "Punjab",
-  "name" : "Faridkot",
-  "confirmed" : 55,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Firozpur",
   "state" : "Punjab",
