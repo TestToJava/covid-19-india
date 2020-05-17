@@ -5701,7 +5701,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Banda",
   "confirmed" : 21,
-  "recovered" : 4258,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
