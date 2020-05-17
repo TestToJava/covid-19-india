@@ -3655,7 +3655,7 @@
   "state" : "Odisha",
   "name" : "Cuttack",
   "confirmed" : 22,
-  "recovered" : 806,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3677,12 +3677,23 @@
   "state" : "Odisha",
   "name" : "Mayurbhanj",
   "confirmed" : 11,
-  "recovered" : 818,
+  "recovered" : 825,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Keonjhar",
+  "state" : "Odisha",
+  "name" : "Keonjhar",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Nayagarh",
   "state" : "Odisha",
@@ -3717,9 +3728,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Keonjhar",
+  "id" : "Bolangir",
   "state" : "Odisha",
-  "name" : "Keonjhar",
+  "name" : "Bolangir",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
@@ -3750,17 +3761,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bolangir",
-  "state" : "Odisha",
-  "name" : "Bolangir",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
   "name" : "Jharsuguda",
@@ -3783,16 +3783,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dhenkanal",
+  "id" : "Sambalpur",
   "state" : "Odisha",
-  "name" : "Dhenkanal",
+  "name" : "Sambalpur",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Koraput",
   "state" : "Odisha",
@@ -3804,6 +3804,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Dhenkanal",
+  "state" : "Odisha",
+  "name" : "Dhenkanal",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Puducherry",
   "state" : "Puducherry",
