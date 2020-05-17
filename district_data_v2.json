@@ -250,7 +250,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Bongaigaon",
   "state" : "Assam",
@@ -261,13 +261,13 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Nalbari",
   "state" : "Assam",
   "name" : "Nalbari",
   "confirmed" : 4,
-  "recovered" : 94,
+  "recovered" : 95,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -354,6 +354,17 @@
   "id" : "Kokrajhar",
   "state" : "Assam",
   "name" : "Kokrajhar",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Sivsagar",
+  "state" : "Assam",
+  "name" : "Sivsagar",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
