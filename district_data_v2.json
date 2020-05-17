@@ -373,6 +373,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Patna",
+  "state" : "Bihar",
+  "name" : "Patna",
+  "confirmed" : 164,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Munger",
   "state" : "Bihar",
   "name" : "Munger",
@@ -384,21 +395,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Patna",
-  "state" : "Bihar",
-  "name" : "Patna",
-  "confirmed" : 106,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
-  "confirmed" : 77,
+  "confirmed" : 91,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -409,7 +409,7 @@
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
-  "confirmed" : 67,
+  "confirmed" : 68,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -575,7 +575,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 22,
-  "recovered" : 1178,
+  "recovered" : 1251,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
