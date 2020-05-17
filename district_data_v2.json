@@ -406,6 +406,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Madhubani",
+  "state" : "Bihar",
+  "name" : "Madhubani",
+  "confirmed" : 69,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
@@ -420,7 +431,7 @@
   "id" : "Buxar",
   "state" : "Bihar",
   "name" : "Buxar",
-  "confirmed" : 59,
+  "confirmed" : 62,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -432,17 +443,6 @@
   "state" : "Bihar",
   "name" : "Begusarai",
   "confirmed" : 54,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Madhubani",
-  "state" : "Bihar",
-  "name" : "Madhubani",
-  "confirmed" : 53,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -494,6 +494,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kaimur",
+  "state" : "Bihar",
+  "name" : "Kaimur",
+  "confirmed" : 36,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Nawada",
   "state" : "Bihar",
   "name" : "Nawada",
@@ -504,17 +515,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Kaimur",
-  "state" : "Bihar",
-  "name" : "Kaimur",
-  "confirmed" : 34,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Banka",
   "state" : "Bihar",
@@ -571,11 +571,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Muzaffarpur",
+  "state" : "Bihar",
+  "name" : "Muzaffarpur",
+  "confirmed" : 25,
+  "recovered" : 1284,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Aurangabad",
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 22,
-  "recovered" : 1251,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -593,16 +604,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Muzaffarpur",
+  "id" : "East-Champaran",
   "state" : "Bihar",
-  "name" : "Muzaffarpur",
-  "confirmed" : 20,
+  "name" : "East Champaran",
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Katihar",
   "state" : "Bihar",
@@ -637,17 +648,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "East-Champaran",
-  "state" : "Bihar",
-  "name" : "East Champaran",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Samastipur",
   "state" : "Bihar",
   "name" : "Samastipur",
@@ -658,6 +658,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Arwal",
+  "state" : "Bihar",
+  "name" : "Arwal",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Lakhisarai",
   "state" : "Bihar",
@@ -680,17 +691,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Arwal",
-  "state" : "Bihar",
-  "name" : "Arwal",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Kishanganj",
   "state" : "Bihar",
@@ -761,7 +761,7 @@
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
-  "confirmed" : 7,
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1080,7 +1080,7 @@
   "id" : "Ahmadabad",
   "state" : "Gujarat",
   "name" : "Ahmadabad",
-  "confirmed" : 8144,
+  "confirmed" : 8420,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1113,7 +1113,7 @@
   "id" : "Gandhinagar",
   "state" : "Gujarat",
   "name" : "Gandhinagar",
-  "confirmed" : 163,
+  "confirmed" : 168,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1124,7 +1124,7 @@
   "id" : "Bhavnagar",
   "state" : "Gujarat",
   "name" : "Bhavnagar",
-  "confirmed" : 107,
+  "confirmed" : 108,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1146,7 +1146,7 @@
   "id" : "Anand",
   "state" : "Gujarat",
   "name" : "Anand",
-  "confirmed" : 82,
+  "confirmed" : 83,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1168,7 +1168,7 @@
   "id" : "Aravalli",
   "state" : "Gujarat",
   "name" : "Aravalli",
-  "confirmed" : 77,
+  "confirmed" : 78,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1245,8 +1245,8 @@
   "id" : "Jamnagar",
   "state" : "Gujarat",
   "name" : "Jamnagar",
-  "confirmed" : 34,
-  "recovered" : 10988,
+  "confirmed" : 35,
+  "recovered" : 11279,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1278,7 +1278,7 @@
   "id" : "Gir-Somnath",
   "state" : "Gujarat",
   "name" : "Gir Somnath",
-  "confirmed" : 23,
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1289,7 +1289,7 @@
   "id" : "Dahod",
   "state" : "Gujarat",
   "name" : "Dahod",
-  "confirmed" : 22,
+  "confirmed" : 24,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1366,7 +1366,7 @@
   "id" : "Junagadh",
   "state" : "Gujarat",
   "name" : "Junagadh",
-  "confirmed" : 5,
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1432,7 +1432,7 @@
   "id" : "Amreli",
   "state" : "Gujarat",
   "name" : "Amreli",
-  "confirmed" : 1,
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
