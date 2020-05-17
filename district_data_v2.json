@@ -2093,7 +2093,7 @@
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 5,
-  "recovered" : 221,
+  "recovered" : 223,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2155,6 +2155,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Ramgarh",
+  "state" : "Jharkhand",
+  "name" : "Ramgarh",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Lohardaga",
   "state" : "Jharkhand",
   "name" : "Lohardaga",
@@ -2166,9 +2177,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Letehar",
+  "id" : "Latehar",
   "state" : "Jharkhand",
-  "name" : "Letehar",
+  "name" : "Latehar",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
