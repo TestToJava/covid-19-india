@@ -4182,7 +4182,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 1597,
+  "confirmed" : 1598,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4267,6 +4267,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Pali",
+  "state" : "Rajasthan",
+  "name" : "Pali",
+  "confirmed" : 132,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bharatpur",
   "state" : "Rajasthan",
   "name" : "Bharatpur",
@@ -4277,17 +4288,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Pali",
-  "state" : "Rajasthan",
-  "name" : "Pali",
-  "confirmed" : 128,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Dungarpur",
   "state" : "Rajasthan",
@@ -4347,7 +4347,7 @@
   "id" : "Jhunjhunu",
   "state" : "Rajasthan",
   "name" : "Jhunjhunu",
-  "confirmed" : 56,
+  "confirmed" : 57,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4359,7 +4359,7 @@
   "state" : "Rajasthan",
   "name" : "Bikaner",
   "confirmed" : 53,
-  "recovered" : 5366,
+  "recovered" : 5375,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4421,6 +4421,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sikar",
+  "state" : "Rajasthan",
+  "name" : "Sikar",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Sirohi",
   "state" : "Rajasthan",
   "name" : "Sirohi",
@@ -4431,17 +4442,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Sikar",
-  "state" : "Rajasthan",
-  "name" : "Sikar",
-  "confirmed" : 40,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Dausa",
   "state" : "Rajasthan",
