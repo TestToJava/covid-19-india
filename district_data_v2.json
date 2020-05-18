@@ -6361,7 +6361,7 @@
   "state" : "West Bengal",
   "name" : "Paschim Bardhaman",
   "confirmed" : 18,
-  "recovered" : 2817,
+  "recovered" : 2821,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6382,13 +6382,24 @@
   "id" : "Nadia",
   "state" : "West Bengal",
   "name" : "Nadia",
-  "confirmed" : 12,
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Uttar-Dinajpur",
+  "state" : "West Bengal",
+  "name" : "Uttar Dinajpur",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Murshidabad",
   "state" : "West Bengal",
@@ -6400,17 +6411,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Uttar-Dinajpur",
-  "state" : "West Bengal",
-  "name" : "Uttar Dinajpur",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Kalimpong",
   "state" : "West Bengal",
