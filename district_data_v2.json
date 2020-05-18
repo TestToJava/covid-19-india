@@ -806,7 +806,7 @@
   "state" : "Chandigarh",
   "name" : "Chandigarh",
   "confirmed" : 196,
-  "recovered" : 0,
+  "recovered" : 196,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -955,6 +955,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Dadra-and-Nagar-Haveli",
+  "state" : "Dadra and Nagar Haveli",
+  "name" : "Dadra and Nagar Haveli",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Others",
   "state" : "Delhi",
