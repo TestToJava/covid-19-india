@@ -6361,7 +6361,7 @@
   "state" : "West Bengal",
   "name" : "Paschim Bardhaman",
   "confirmed" : 18,
-  "recovered" : 2821,
+  "recovered" : 2825,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6383,6 +6383,17 @@
   "state" : "West Bengal",
   "name" : "Nadia",
   "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Birbhum",
+  "state" : "West Bengal",
+  "name" : "Birbhum",
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6433,17 +6444,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Birbhum",
-  "state" : "West Bengal",
-  "name" : "Birbhum",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Jalpaiguri",
   "state" : "West Bengal",
