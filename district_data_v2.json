@@ -362,9 +362,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Sivsagar",
+  "id" : "Sivasagar",
   "state" : "Assam",
-  "name" : "Sivsagar",
+  "name" : "Sivasagar",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -4248,7 +4248,7 @@
   "id" : "Chittaurgarh",
   "state" : "Rajasthan",
   "name" : "Chittaurgarh",
-  "confirmed" : 154,
+  "confirmed" : 155,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4266,6 +4266,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Bharatpur",
+  "state" : "Rajasthan",
+  "name" : "Bharatpur",
+  "confirmed" : 129,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Pali",
   "state" : "Rajasthan",
@@ -4288,17 +4299,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Bharatpur",
-  "state" : "Rajasthan",
-  "name" : "Bharatpur",
-  "confirmed" : 123,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Bhilwara",
   "state" : "Rajasthan",
@@ -4358,8 +4358,8 @@
   "id" : "Bikaner",
   "state" : "Rajasthan",
   "name" : "Bikaner",
-  "confirmed" : 51,
-  "recovered" : 5342,
+  "confirmed" : 53,
+  "recovered" : 5366,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4446,7 +4446,7 @@
   "id" : "Dausa",
   "state" : "Rajasthan",
   "name" : "Dausa",
-  "confirmed" : 36,
+  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4465,10 +4465,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dhaulpur",
+  "id" : "Barmer",
   "state" : "Rajasthan",
-  "name" : "Dhaulpur",
-  "confirmed" : 24,
+  "name" : "Barmer",
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4476,10 +4476,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Barmer",
+  "id" : "Dhaulpur",
   "state" : "Rajasthan",
-  "name" : "Barmer",
-  "confirmed" : 22,
+  "name" : "Dhaulpur",
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
