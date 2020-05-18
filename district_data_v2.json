@@ -835,6 +835,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Janjgir-Champa",
+  "state" : "Chhattisgarh",
+  "name" : "Janjgir-Champa",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Durg",
   "state" : "Chhattisgarh",
   "name" : "Durg",
@@ -861,7 +872,7 @@
   "state" : "Chhattisgarh",
   "name" : "Raipur",
   "confirmed" : 7,
-  "recovered" : 0,
+  "recovered" : 93,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -871,8 +882,8 @@
   "id" : "Surajpur",
   "state" : "Chhattisgarh",
   "name" : "Surajpur",
-  "confirmed" : 6,
-  "recovered" : 85,
+  "confirmed" : 7,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -890,10 +901,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Janjgir-Champa",
+  "id" : "Surguja",
   "state" : "Chhattisgarh",
-  "name" : "Janjgir-Champa",
-  "confirmed" : 5,
+  "name" : "Surguja",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1113,7 +1124,7 @@
   "id" : "Surat",
   "state" : "Gujarat",
   "name" : "Surat",
-  "confirmed" : 1094,
+  "confirmed" : 1127,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1124,7 +1135,7 @@
   "id" : "Vadodara",
   "state" : "Gujarat",
   "name" : "Vadodara",
-  "confirmed" : 660,
+  "confirmed" : 682,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1268,7 +1279,7 @@
   "state" : "Gujarat",
   "name" : "Sabarkantha",
   "confirmed" : 39,
-  "recovered" : 11683,
+  "recovered" : 11745,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1341,6 +1352,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Valsad",
+  "state" : "Gujarat",
+  "name" : "Valsad",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Narmada",
   "state" : "Gujarat",
   "name" : "Narmada",
@@ -1362,17 +1384,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Valsad",
-  "state" : "Gujarat",
-  "name" : "Valsad",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Junagadh",
   "state" : "Gujarat",
@@ -1410,7 +1421,7 @@
   "id" : "Surendranagar",
   "state" : "Gujarat",
   "name" : "Surendranagar",
-  "confirmed" : 4,
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
