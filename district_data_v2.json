@@ -387,7 +387,7 @@
   "id" : "Patna",
   "state" : "Bihar",
   "name" : "Patna",
-  "confirmed" : 165,
+  "confirmed" : 166,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -464,7 +464,7 @@
   "id" : "Buxar",
   "state" : "Bihar",
   "name" : "Buxar",
-  "confirmed" : 62,
+  "confirmed" : 63,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -516,10 +516,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhojpur",
+  "id" : "Kaimur",
   "state" : "Bihar",
-  "name" : "Bhojpur",
-  "confirmed" : 38,
+  "name" : "Kaimur",
+  "confirmed" : 39,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -527,10 +527,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kaimur",
+  "id" : "Bhojpur",
   "state" : "Bihar",
-  "name" : "Kaimur",
-  "confirmed" : 37,
+  "name" : "Bhojpur",
+  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -574,7 +574,7 @@
   "id" : "Jehanabad",
   "state" : "Bihar",
   "name" : "Jehanabad",
-  "confirmed" : 27,
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -586,12 +586,23 @@
   "state" : "Bihar",
   "name" : "West Champaran",
   "confirmed" : 25,
-  "recovered" : 1423,
+  "recovered" : 1434,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Sheikhpura",
+  "state" : "Bihar",
+  "name" : "Sheikhpura",
+  "confirmed" : 23,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Aurangabad",
   "state" : "Bihar",
@@ -608,17 +619,6 @@
   "state" : "Bihar",
   "name" : "Saharsa",
   "confirmed" : 22,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Sheikhpura",
-  "state" : "Bihar",
-  "name" : "Sheikhpura",
-  "confirmed" : 21,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -684,7 +684,7 @@
   "id" : "Samastipur",
   "state" : "Bihar",
   "name" : "Samastipur",
-  "confirmed" : 15,
+  "confirmed" : 16,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -758,6 +758,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Gaya",
+  "state" : "Bihar",
+  "name" : "Gaya",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
@@ -768,17 +779,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Gaya",
-  "state" : "Bihar",
-  "name" : "Gaya",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Sheohar",
   "state" : "Bihar",
