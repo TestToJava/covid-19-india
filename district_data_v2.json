@@ -879,9 +879,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kabirdham",
+  "id" : "Kawardha",
   "state" : "Chhattisgarh",
-  "name" : "Kabirdham",
+  "name" : "Kawardha",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
@@ -894,7 +894,7 @@
   "state" : "Chhattisgarh",
   "name" : "Raipur",
   "confirmed" : 7,
-  "recovered" : 98,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -905,7 +905,7 @@
   "state" : "Chhattisgarh",
   "name" : "Surajpur",
   "confirmed" : 7,
-  "recovered" : 0,
+  "recovered" : 100,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -927,6 +927,17 @@
   "state" : "Chhattisgarh",
   "name" : "Rajnandgaon",
   "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Raigarh",
+  "state" : "Chhattisgarh",
+  "name" : "Raigarh",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6576,15 +6587,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Darjeeling",
-  "state" : "West Bengal",
-  "name" : "Darjeeling",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 } ]
