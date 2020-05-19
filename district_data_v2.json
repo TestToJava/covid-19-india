@@ -4091,6 +4091,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Ludhiana",
+  "state" : "Punjab",
+  "name" : "Ludhiana",
+  "confirmed" : 169,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Tarn-Taran",
   "state" : "Punjab",
   "name" : "Tarn Taran",
@@ -4102,21 +4113,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ludhiana",
-  "state" : "Punjab",
-  "name" : "Ludhiana",
-  "confirmed" : 150,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Gurdaspur",
   "state" : "Punjab",
   "name" : "Gurdaspur",
-  "confirmed" : 123,
+  "confirmed" : 124,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4127,13 +4127,24 @@
   "id" : "S-B-S-Nagar",
   "state" : "Punjab",
   "name" : "S.B.S Nagar",
-  "confirmed" : 106,
+  "confirmed" : 105,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Patiala",
+  "state" : "Punjab",
+  "name" : "Patiala",
+  "confirmed" : 103,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "S-A-S-Nagar",
   "state" : "Punjab",
@@ -4145,17 +4156,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Patiala",
-  "state" : "Punjab",
-  "name" : "Patiala",
-  "confirmed" : 100,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Hoshiarpur",
   "state" : "Punjab",
@@ -4183,7 +4183,7 @@
   "state" : "Punjab",
   "name" : "Muktsar",
   "confirmed" : 65,
-  "recovered" : 1980,
+  "recovered" : 2002,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
