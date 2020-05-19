@@ -4047,20 +4047,42 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Puducherry",
+  "id" : "Villianur",
   "state" : "Puducherry",
-  "name" : "Puducherry",
-  "confirmed" : 10,
-  "recovered" : 13,
+  "name" : "Villianur",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Mahe",
+  "state" : "Puducherry",
+  "name" : "Mahe",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Ariankuppam",
+  "state" : "Puducherry",
+  "name" : "Ariankuppam",
+  "confirmed" : 3,
+  "recovered" : 26,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Mahe",
+  "id" : "Karaikal",
   "state" : "Puducherry",
-  "name" : "Mahe",
+  "name" : "Karaikal",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -4069,16 +4091,49 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Karaikal",
+  "id" : "Mannadipet",
   "state" : "Puducherry",
-  "name" : "Karaikal",
+  "name" : "Mannadipet",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Uzhavarkarai",
+  "state" : "Puducherry",
+  "name" : "Uzhavarkarai",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Nettapakkam",
+  "state" : "Puducherry",
+  "name" : "Nettapakkam",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
+}, {
+  "id" : "Thirubuvanai",
+  "state" : "Puducherry",
+  "name" : "Thirubuvanai",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Amritsar",
   "state" : "Punjab",
@@ -6532,59 +6587,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Paschim-Bardhaman",
-  "state" : "West Bengal",
-  "name" : "Paschim Bardhaman",
-  "confirmed" : 19,
-  "recovered" : 2961,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Purba-Bardhaman",
-  "state" : "West Bengal",
-  "name" : "Purba Bardhaman",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Nadia",
-  "state" : "West Bengal",
-  "name" : "Nadia",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Uttar-Dinajpur",
-  "state" : "West Bengal",
-  "name" : "Uttar Dinajpur",
-  "confirmed" : 13,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Birbhum",
-  "state" : "West Bengal",
-  "name" : "Birbhum",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 } ]
