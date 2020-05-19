@@ -6587,4 +6587,125 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Paschim-Bardhaman",
+  "state" : "West Bengal",
+  "name" : "Paschim Bardhaman",
+  "confirmed" : 19,
+  "recovered" : 2961,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Purba-Bardhaman",
+  "state" : "West Bengal",
+  "name" : "Purba Bardhaman",
+  "confirmed" : 16,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Nadia",
+  "state" : "West Bengal",
+  "name" : "Nadia",
+  "confirmed" : 16,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Uttar-Dinajpur",
+  "state" : "West Bengal",
+  "name" : "Uttar Dinajpur",
+  "confirmed" : 13,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Birbhum",
+  "state" : "West Bengal",
+  "name" : "Birbhum",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Murshidabad",
+  "state" : "West Bengal",
+  "name" : "Murshidabad",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Darjeeling",
+  "state" : "West Bengal",
+  "name" : "Darjeeling",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Kalimpong",
+  "state" : "West Bengal",
+  "name" : "Kalimpong",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Jalpaiguri",
+  "state" : "West Bengal",
+  "name" : "Jalpaiguri",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Dakshin-Dinajpur",
+  "state" : "West Bengal",
+  "name" : "Dakshin Dinajpur",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Jhargram",
+  "state" : "West Bengal",
+  "name" : "Jhargram",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 } ]
