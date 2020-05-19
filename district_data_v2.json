@@ -2925,6 +2925,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Morena",
+  "state" : "Madhya Pradesh",
+  "name" : "Morena",
+  "confirmed" : 38,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Hoshangabad",
   "state" : "Madhya Pradesh",
   "name" : "Hoshangabad",
@@ -2936,21 +2947,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Morena",
-  "state" : "Madhya Pradesh",
-  "name" : "Morena",
-  "confirmed" : 34,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Barwani",
   "state" : "Madhya Pradesh",
   "name" : "Barwani",
-  "confirmed" : 31,
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2969,27 +2969,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sagar",
-  "state" : "Madhya Pradesh",
-  "name" : "Sagar",
-  "confirmed" : 21,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Bhind",
   "state" : "Madhya Pradesh",
   "name" : "Bhind",
-  "confirmed" : 19,
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Sagar",
+  "state" : "Madhya Pradesh",
+  "name" : "Sagar",
+  "confirmed" : 23,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Vidisha",
   "state" : "Madhya Pradesh",
@@ -3017,7 +3017,40 @@
   "state" : "Madhya Pradesh",
   "name" : "Agar Malwa",
   "confirmed" : 13,
-  "recovered" : 5433,
+  "recovered" : 5459,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jhabua",
+  "state" : "Madhya Pradesh",
+  "name" : "Jhabua",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Satna",
+  "state" : "Madhya Pradesh",
+  "name" : "Satna",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Betul",
+  "state" : "Madhya Pradesh",
+  "name" : "Betul",
+  "confirmed" : 9,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3035,27 +3068,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Satna",
+  "id" : "Tikamgarh",
   "state" : "Madhya Pradesh",
-  "name" : "Satna",
-  "confirmed" : 8,
+  "name" : "Tikamgarh",
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Jhabua",
-  "state" : "Madhya Pradesh",
-  "name" : "Jhabua",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Chhindwara",
   "state" : "Madhya Pradesh",
@@ -3071,17 +3093,6 @@
   "id" : "Sehore",
   "state" : "Madhya Pradesh",
   "name" : "Sehore",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Tikamgarh",
-  "state" : "Madhya Pradesh",
-  "name" : "Tikamgarh",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -3177,17 +3188,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Betul",
-  "state" : "Madhya Pradesh",
-  "name" : "Betul",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Ashoknagar",
   "state" : "Madhya Pradesh",
