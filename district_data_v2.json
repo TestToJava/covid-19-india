@@ -527,6 +527,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Nawada",
+  "state" : "Bihar",
+  "name" : "Nawada",
+  "confirmed" : 39,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Bhojpur",
   "state" : "Bihar",
   "name" : "Bhojpur",
@@ -537,17 +548,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Nawada",
-  "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 36,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Purnia",
   "state" : "Bihar",
@@ -586,12 +586,23 @@
   "state" : "Bihar",
   "name" : "West Champaran",
   "confirmed" : 25,
-  "recovered" : 1434,
+  "recovered" : 1442,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Supaul",
+  "state" : "Bihar",
+  "name" : "Supaul",
+  "confirmed" : 24,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Sheikhpura",
   "state" : "Bihar",
@@ -637,21 +648,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Supaul",
+  "id" : "Madhepura",
   "state" : "Bihar",
-  "name" : "Supaul",
-  "confirmed" : 21,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "East-Champaran",
-  "state" : "Bihar",
-  "name" : "East Champaran",
-  "confirmed" : 19,
+  "name" : "Madhepura",
+  "confirmed" : 20,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -659,10 +659,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Madhepura",
+  "id" : "East-Champaran",
   "state" : "Bihar",
-  "name" : "Madhepura",
-  "confirmed" : 18,
+  "name" : "East Champaran",
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4237,7 +4237,7 @@
   "id" : "Jaipur",
   "state" : "Rajasthan",
   "name" : "Jaipur",
-  "confirmed" : 1623,
+  "confirmed" : 1625,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4281,7 +4281,7 @@
   "id" : "Ajmer",
   "state" : "Rajasthan",
   "name" : "Ajmer",
-  "confirmed" : 256,
+  "confirmed" : 257,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4299,6 +4299,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Dungarpur",
+  "state" : "Rajasthan",
+  "name" : "Dungarpur",
+  "confirmed" : 172,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Chittaurgarh",
   "state" : "Rajasthan",
@@ -4343,17 +4354,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Dungarpur",
-  "state" : "Rajasthan",
-  "name" : "Dungarpur",
-  "confirmed" : 124,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Jalore",
   "state" : "Rajasthan",
@@ -4414,7 +4414,7 @@
   "state" : "Rajasthan",
   "name" : "Jhunjhunu",
   "confirmed" : 58,
-  "recovered" : 5507,
+  "recovered" : 5562,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4479,7 +4479,7 @@
   "id" : "Churu",
   "state" : "Rajasthan",
   "name" : "Churu",
-  "confirmed" : 46,
+  "confirmed" : 47,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4501,7 +4501,7 @@
   "id" : "Dausa",
   "state" : "Rajasthan",
   "name" : "Dausa",
-  "confirmed" : 38,
+  "confirmed" : 39,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4512,7 +4512,7 @@
   "id" : "Alwar",
   "state" : "Rajasthan",
   "name" : "Alwar",
-  "confirmed" : 35,
+  "confirmed" : 36,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4534,7 +4534,7 @@
   "id" : "Dhaulpur",
   "state" : "Rajasthan",
   "name" : "Dhaulpur",
-  "confirmed" : 27,
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
