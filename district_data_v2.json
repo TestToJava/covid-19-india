@@ -2177,6 +2177,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "East-Singhbhum",
+  "state" : "Jharkhand",
+  "name" : "East Singhbhum",
+  "confirmed" : 6,
+  "recovered" : 233,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Deoghar",
   "state" : "Jharkhand",
   "name" : "Deoghar",
@@ -2187,17 +2198,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "East-Singhbhum",
-  "state" : "Jharkhand",
-  "name" : "East Singhbhum",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Latehar",
   "state" : "Jharkhand",
