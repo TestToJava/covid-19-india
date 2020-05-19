@@ -2203,7 +2203,7 @@
   "state" : "Jharkhand",
   "name" : "Deoghar",
   "confirmed" : 5,
-  "recovered" : 232,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
