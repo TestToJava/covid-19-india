@@ -635,7 +635,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Supaul",
   "state" : "Bihar",
@@ -723,7 +723,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Vaishali",
   "state" : "Bihar",
@@ -767,7 +767,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Saran",
   "state" : "Bihar",
@@ -811,7 +811,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Araria",
   "state" : "Bihar",
@@ -827,8 +827,8 @@
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
-  "confirmed" : 196,
-  "recovered" : 196,
+  "confirmed" : 199,
+  "recovered" : 199,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2103,7 +2103,7 @@
   "id" : "Ranchi",
   "state" : "Jharkhand",
   "name" : "Ranchi",
-  "confirmed" : 104,
+  "confirmed" : 105,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2111,10 +2111,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Garhwa",
+  "id" : "Hazaribagh",
   "state" : "Jharkhand",
-  "name" : "Garhwa",
-  "confirmed" : 29,
+  "name" : "Hazaribagh",
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2122,10 +2122,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Hazaribagh",
+  "id" : "Garhwa",
   "state" : "Jharkhand",
-  "name" : "Hazaribagh",
-  "confirmed" : 26,
+  "name" : "Garhwa",
+  "confirmed" : 29,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2169,7 +2169,7 @@
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
-  "confirmed" : 6,
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2192,7 +2192,7 @@
   "state" : "Jharkhand",
   "name" : "East Singhbhum",
   "confirmed" : 6,
-  "recovered" : 233,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2203,7 +2203,7 @@
   "state" : "Jharkhand",
   "name" : "Deoghar",
   "confirmed" : 5,
-  "recovered" : 0,
+  "recovered" : 248,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2224,13 +2224,24 @@
   "id" : "Simdega",
   "state" : "Jharkhand",
   "name" : "Simdega",
-  "confirmed" : 2,
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Ramgarh",
+  "state" : "Jharkhand",
+  "name" : "Ramgarh",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Jamtara",
   "state" : "Jharkhand",
@@ -2254,9 +2265,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Ramgarh",
+  "id" : "Gumla",
   "state" : "Jharkhand",
-  "name" : "Ramgarh",
+  "name" : "Gumla",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -2265,9 +2276,20 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Gumla",
+  "id" : "Lohardaga",
   "state" : "Jharkhand",
-  "name" : "Gumla",
+  "name" : "Lohardaga",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Seraikela-Kharsawan",
+  "state" : "Jharkhand",
+  "name" : "Seraikela Kharsawan",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -2279,17 +2301,6 @@
   "id" : "West-Singhbhum",
   "state" : "Jharkhand",
   "name" : "West Singhbhum",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Lohardaga",
-  "state" : "Jharkhand",
-  "name" : "Lohardaga",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -5458,7 +5469,7 @@
   "id" : "Dhalai",
   "state" : "Tripura",
   "name" : "Dhalai",
-  "confirmed" : 161,
+  "confirmed" : 162,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5470,7 +5481,7 @@
   "state" : "Tripura",
   "name" : "North Tripura",
   "confirmed" : 4,
-  "recovered" : 168,
+  "recovered" : 169,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6569,17 +6580,6 @@
   "id" : "Birbhum",
   "state" : "West Bengal",
   "name" : "Birbhum",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Murshidabad",
-  "state" : "West Bengal",
-  "name" : "Murshidabad",
   "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
