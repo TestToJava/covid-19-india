@@ -5084,13 +5084,24 @@
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
-  "confirmed" : 1022,
+  "confirmed" : 1056,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Others",
+  "state" : "Telangana",
+  "name" : "Others",
+  "confirmed" : 86,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 }, {
   "id" : "Suryapet",
   "state" : "Telangana",
@@ -5102,17 +5113,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Others",
-  "state" : "Telangana",
-  "name" : "Others",
-  "confirmed" : 78,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Nizamabad",
   "state" : "Telangana",
@@ -5239,7 +5239,7 @@
   "state" : "Telangana",
   "name" : "Yadadri",
   "confirmed" : 12,
-  "recovered" : 1592,
+  "recovered" : 1634,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
