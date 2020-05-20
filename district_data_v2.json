@@ -6511,21 +6511,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Nainital",
-  "state" : "Uttarakhand",
-  "name" : "Nainital",
-  "confirmed" : 23,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Udham-Singh-Nagar",
   "state" : "Uttarakhand",
   "name" : "Udham Singh Nagar",
-  "confirmed" : 23,
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6533,22 +6522,33 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Haridwar",
+  "id" : "Nainital",
   "state" : "Uttarakhand",
-  "name" : "Haridwar",
-  "confirmed" : 7,
+  "name" : "Nainital",
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
+}, {
+  "id" : "Haridwar",
+  "state" : "Uttarakhand",
+  "name" : "Haridwar",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Pauri-Garhwal",
   "state" : "Uttarakhand",
   "name" : "Pauri Garhwal",
   "confirmed" : 4,
-  "recovered" : 113,
+  "recovered" : 120,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
