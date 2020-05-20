@@ -3919,7 +3919,7 @@
   "state" : "Odisha",
   "name" : "Angul",
   "confirmed" : 17,
-  "recovered" : 1045,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
