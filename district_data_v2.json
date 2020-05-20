@@ -2914,21 +2914,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Raisen",
-  "state" : "Madhya Pradesh",
-  "name" : "Raisen",
-  "confirmed" : 77,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Gwalior",
   "state" : "Madhya Pradesh",
   "name" : "Gwalior",
-  "confirmed" : 67,
+  "confirmed" : 77,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2936,10 +2925,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Raisen",
+  "state" : "Madhya Pradesh",
+  "name" : "Raisen",
+  "confirmed" : 67,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Dewas",
   "state" : "Madhya Pradesh",
   "name" : "Dewas",
-  "confirmed" : 67,
+  "confirmed" : 66,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3061,7 +3061,7 @@
   "state" : "Madhya Pradesh",
   "name" : "Jhabua",
   "confirmed" : 11,
-  "recovered" : 5734,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3072,7 +3072,7 @@
   "state" : "Madhya Pradesh",
   "name" : "Satna",
   "confirmed" : 10,
-  "recovered" : 5737,
+  "recovered" : 5735,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
