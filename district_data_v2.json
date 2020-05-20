@@ -1784,7 +1784,7 @@
   "id" : "Kangra",
   "state" : "Himachal Pradesh",
   "name" : "Kangra",
-  "confirmed" : 33,
+  "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1818,7 +1818,7 @@
   "state" : "Himachal Pradesh",
   "name" : "Chamba",
   "confirmed" : 13,
-  "recovered" : 92,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1829,7 +1829,7 @@
   "state" : "Himachal Pradesh",
   "name" : "Solan",
   "confirmed" : 9,
-  "recovered" : 0,
+  "recovered" : 110,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1847,6 +1847,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Mandi",
+  "state" : "Himachal Pradesh",
+  "name" : "Mandi",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sirmour",
   "state" : "Himachal Pradesh",
   "name" : "Sirmour",
@@ -1857,17 +1868,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Mandi",
-  "state" : "Himachal Pradesh",
-  "name" : "Mandi",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Kullu",
   "state" : "Himachal Pradesh",
