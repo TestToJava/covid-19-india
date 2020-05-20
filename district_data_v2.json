@@ -890,11 +890,22 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Baloda-Bazar",
+  "state" : "Chhattisgarh",
+  "name" : "Baloda Bazar",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Raipur",
   "state" : "Chhattisgarh",
   "name" : "Raipur",
   "confirmed" : 7,
-  "recovered" : 0,
+  "recovered" : 104,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -905,17 +916,6 @@
   "state" : "Chhattisgarh",
   "name" : "Surajpur",
   "confirmed" : 7,
-  "recovered" : 102,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Baloda-Bazar",
-  "state" : "Chhattisgarh",
-  "name" : "Baloda Bazar",
-  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
