@@ -6591,7 +6591,7 @@
   "id" : "Udham-Singh-Nagar",
   "state" : "Uttarakhand",
   "name" : "Udham Singh Nagar",
-  "confirmed" : 27,
+  "confirmed" : 29,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6602,7 +6602,7 @@
   "id" : "Nainital",
   "state" : "Uttarakhand",
   "name" : "Nainital",
-  "confirmed" : 26,
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6613,7 +6613,7 @@
   "id" : "Haridwar",
   "state" : "Uttarakhand",
   "name" : "Haridwar",
-  "confirmed" : 8,
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6621,11 +6621,33 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Uttarkashi",
+  "state" : "Uttarakhand",
+  "name" : "Uttarkashi",
+  "confirmed" : 7,
+  "recovered" : 145,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Tehri-Garhwal",
   "state" : "Uttarakhand",
   "name" : "Tehri Garhwal",
   "confirmed" : 6,
-  "recovered" : 132,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Bageshwar",
+  "state" : "Uttarakhand",
+  "name" : "Bageshwar",
+  "confirmed" : 6,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6643,9 +6665,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Uttarkashi",
+  "id" : "Almora",
   "state" : "Uttarakhand",
-  "name" : "Uttarkashi",
+  "name" : "Almora",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
@@ -6653,28 +6675,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Almora",
-  "state" : "Uttarakhand",
-  "name" : "Almora",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Bageshwar",
-  "state" : "Uttarakhand",
-  "name" : "Bageshwar",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Others",
   "state" : "Uttarakhand",
