@@ -2474,21 +2474,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Hassan",
-  "state" : "Karnataka",
-  "name" : "Hassan",
-  "confirmed" : 53,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Dakshina-Kannada",
   "state" : "Karnataka",
   "name" : "Dakshina Kannada",
-  "confirmed" : 52,
+  "confirmed" : 56,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2496,43 +2485,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dharwad",
+  "id" : "Hassan",
   "state" : "Karnataka",
-  "name" : "Dharwad",
-  "confirmed" : 26,
+  "name" : "Hassan",
+  "confirmed" : 55,
   "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Shimoga",
-  "state" : "Karnataka",
-  "name" : "Shimoga",
-  "confirmed" : 26,
-  "recovered" : 1491,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Chikkaballapura",
-  "state" : "Karnataka",
-  "name" : "Chikkaballapura",
-  "confirmed" : 25,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
-  "confirmed" : 22,
+  "confirmed" : 49,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2540,10 +2507,43 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Shimoga",
+  "state" : "Karnataka",
+  "name" : "Shimoga",
+  "confirmed" : 32,
+  "recovered" : 1548,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Dharwad",
+  "state" : "Karnataka",
+  "name" : "Dharwad",
+  "confirmed" : 31,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Chikkaballapura",
+  "state" : "Karnataka",
+  "name" : "Chikkaballapura",
+  "confirmed" : 27,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Ballari",
   "state" : "Karnataka",
   "name" : "Ballari",
-  "confirmed" : 19,
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
