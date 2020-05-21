@@ -442,7 +442,7 @@
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
-  "confirmed" : 91,
+  "confirmed" : 109,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -593,6 +593,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Samastipur",
+  "state" : "Bihar",
+  "name" : "Samastipur",
+  "confirmed" : 40,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bhojpur",
   "state" : "Bihar",
   "name" : "Bhojpur",
@@ -608,7 +619,7 @@
   "state" : "Bihar",
   "name" : "Purnia",
   "confirmed" : 36,
-  "recovered" : 0,
+  "recovered" : 1675,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -619,7 +630,7 @@
   "state" : "Bihar",
   "name" : "Muzaffarpur",
   "confirmed" : 30,
-  "recovered" : 1624,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -663,6 +674,17 @@
   "state" : "Bihar",
   "name" : "Sheikhpura",
   "confirmed" : 24,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Lakhisarai",
+  "state" : "Bihar",
+  "name" : "Lakhisarai",
+  "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -725,17 +747,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Samastipur",
-  "state" : "Bihar",
-  "name" : "Samastipur",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Vaishali",
   "state" : "Bihar",
   "name" : "Vaishali",
@@ -757,17 +768,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Lakhisarai",
-  "state" : "Bihar",
-  "name" : "Lakhisarai",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Kishanganj",
   "state" : "Bihar",
