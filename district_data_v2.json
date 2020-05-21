@@ -263,6 +263,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kokrajhar",
+  "state" : "Assam",
+  "name" : "Kokrajhar",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Morigaon",
   "state" : "Assam",
   "name" : "Morigaon",
@@ -289,7 +300,7 @@
   "state" : "Assam",
   "name" : "Nalbari",
   "confirmed" : 6,
-  "recovered" : 0,
+  "recovered" : 199,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -300,7 +311,7 @@
   "state" : "Assam",
   "name" : "Bongaigaon",
   "confirmed" : 5,
-  "recovered" : 196,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -310,17 +321,6 @@
   "id" : "Karimganj",
   "state" : "Assam",
   "name" : "Karimganj",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kokrajhar",
-  "state" : "Assam",
-  "name" : "Kokrajhar",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -340,10 +340,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Sonitpur",
+  "id" : "Barpeta",
   "state" : "Assam",
-  "name" : "Sonitpur",
-  "confirmed" : 3,
+  "name" : "Barpeta",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -351,9 +351,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Barpeta",
+  "id" : "Sonitpur",
   "state" : "Assam",
-  "name" : "Barpeta",
+  "name" : "Sonitpur",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
@@ -2708,7 +2708,7 @@
   "id" : "Kannur",
   "state" : "Kerala",
   "name" : "Kannur",
-  "confirmed" : 134,
+  "confirmed" : 138,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2719,7 +2719,7 @@
   "id" : "Malappuram",
   "state" : "Kerala",
   "name" : "Malappuram",
-  "confirmed" : 57,
+  "confirmed" : 62,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2749,11 +2749,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Thrissur",
+  "state" : "Kerala",
+  "name" : "Thrissur",
+  "confirmed" : 30,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kollam",
   "state" : "Kerala",
   "name" : "Kollam",
   "confirmed" : 28,
-  "recovered" : 0,
+  "recovered" : 683,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2764,23 +2775,23 @@
   "state" : "Kerala",
   "name" : "Ernakulam",
   "confirmed" : 27,
-  "recovered" : 666,
+  "recovered" : 678,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Thrissur",
+  "id" : "Kottayam",
   "state" : "Kerala",
-  "name" : "Thrissur",
+  "name" : "Kottayam",
   "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Idukki",
   "state" : "Kerala",
@@ -2792,17 +2803,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Kottayam",
-  "state" : "Kerala",
-  "name" : "Kottayam",
-  "confirmed" : 24,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Pathanamthitta",
   "state" : "Kerala",
@@ -2818,7 +2818,7 @@
   "id" : "Thiruvananthapuram",
   "state" : "Kerala",
   "name" : "Thiruvananthapuram",
-  "confirmed" : 22,
+  "confirmed" : 24,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
