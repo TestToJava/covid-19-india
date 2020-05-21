@@ -1858,10 +1858,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Hamirpur",
+  "state" : "Himachal Pradesh",
+  "name" : "Hamirpur",
+  "confirmed" : 46,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kangra",
   "state" : "Himachal Pradesh",
   "name" : "Kangra",
-  "confirmed" : 35,
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1880,10 +1891,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Hamirpur",
+  "id" : "Solan",
   "state" : "Himachal Pradesh",
-  "name" : "Hamirpur",
-  "confirmed" : 15,
+  "name" : "Solan",
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1895,18 +1906,7 @@
   "state" : "Himachal Pradesh",
   "name" : "Chamba",
   "confirmed" : 13,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Solan",
-  "state" : "Himachal Pradesh",
-  "name" : "Solan",
-  "confirmed" : 9,
-  "recovered" : 110,
+  "recovered" : 152,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3160,7 +3160,7 @@
   "state" : "Madhya Pradesh",
   "name" : "Satna",
   "confirmed" : 10,
-  "recovered" : 5977,
+  "recovered" : 5981,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3188,6 +3188,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Sidhi",
+  "state" : "Madhya Pradesh",
+  "name" : "Sidhi",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Tikamgarh",
   "state" : "Madhya Pradesh",
@@ -3255,17 +3266,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sidhi",
-  "state" : "Madhya Pradesh",
-  "name" : "Sidhi",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Dindori",
   "state" : "Madhya Pradesh",
   "name" : "Dindori",
@@ -3299,10 +3299,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Alirajpur",
+  "id" : "Shahdol",
   "state" : "Madhya Pradesh",
-  "name" : "Alirajpur",
-  "confirmed" : 3,
+  "name" : "Shahdol",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3310,9 +3310,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Shahdol",
+  "id" : "Alirajpur",
   "state" : "Madhya Pradesh",
-  "name" : "Shahdol",
+  "name" : "Alirajpur",
   "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
@@ -3398,9 +3398,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Singaruli",
+  "id" : "Balaghat",
   "state" : "Madhya Pradesh",
-  "name" : "Singaruli",
+  "name" : "Balaghat",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
