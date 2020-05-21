@@ -494,6 +494,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Jehanabad",
+  "state" : "Bihar",
+  "name" : "Jehanabad",
+  "confirmed" : 91,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Begusarai",
   "state" : "Bihar",
   "name" : "Begusarai",
@@ -564,17 +575,6 @@
   "state" : "Bihar",
   "name" : "Bhagalpur",
   "confirmed" : 59,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Jehanabad",
-  "state" : "Bihar",
-  "name" : "Jehanabad",
-  "confirmed" : 58,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -663,7 +663,18 @@
   "state" : "Bihar",
   "name" : "Purnia",
   "confirmed" : 37,
-  "recovered" : 1690,
+  "recovered" : 1747,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "East-Champaran",
+  "state" : "Bihar",
+  "name" : "East Champaran",
+  "confirmed" : 32,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -769,9 +780,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "East-Champaran",
+  "id" : "Vaishali",
   "state" : "Bihar",
-  "name" : "East Champaran",
+  "name" : "Vaishali",
   "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
@@ -780,21 +791,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Arwal",
+  "id" : "Gaya",
   "state" : "Bihar",
-  "name" : "Arwal",
-  "confirmed" : 17,
+  "name" : "Gaya",
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
-  "id" : "Vaishali",
+  "id" : "Arwal",
   "state" : "Bihar",
-  "name" : "Vaishali",
-  "confirmed" : 15,
+  "name" : "Arwal",
+  "confirmed" : 17,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -834,17 +845,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Gaya",
-  "state" : "Bihar",
-  "name" : "Gaya",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Sitamarhi",
   "state" : "Bihar",
