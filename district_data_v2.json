@@ -252,6 +252,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Dhubri",
+  "state" : "Assam",
+  "name" : "Dhubri",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Morigaon",
   "state" : "Assam",
   "name" : "Morigaon",
@@ -285,22 +296,11 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Dhubri",
-  "state" : "Assam",
-  "name" : "Dhubri",
-  "confirmed" : 5,
-  "recovered" : 188,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Bongaigaon",
   "state" : "Assam",
   "name" : "Bongaigaon",
   "confirmed" : 5,
-  "recovered" : 0,
+  "recovered" : 196,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -310,6 +310,17 @@
   "id" : "Karimganj",
   "state" : "Assam",
   "name" : "Karimganj",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Kokrajhar",
+  "state" : "Assam",
+  "name" : "Kokrajhar",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -351,10 +362,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Biswanath",
+  "id" : "Sivasagar",
   "state" : "Assam",
-  "name" : "Biswanath",
-  "confirmed" : 2,
+  "name" : "Sivasagar",
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -362,9 +373,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kokrajhar",
+  "id" : "Biswanath",
   "state" : "Assam",
-  "name" : "Kokrajhar",
+  "name" : "Biswanath",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -406,9 +417,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Sivasagar",
+  "id" : "Dibrugarh",
   "state" : "Assam",
-  "name" : "Sivasagar",
+  "name" : "Dibrugarh",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
