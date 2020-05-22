@@ -4991,7 +4991,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Ariyalur",
   "state" : "Tamil Nadu",
@@ -5002,7 +5002,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Viluppuram",
   "state" : "Tamil Nadu",
@@ -5013,7 +5013,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Tirunelveli",
   "state" : "Tamil Nadu",
@@ -5046,7 +5046,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Tiruvannamalai",
   "state" : "Tamil Nadu",
@@ -5123,7 +5123,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Theni",
   "state" : "Tamil Nadu",
@@ -5145,7 +5145,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Ranipet",
   "state" : "Tamil Nadu",
@@ -5189,7 +5189,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Namakkal",
   "state" : "Tamil Nadu",
@@ -5200,7 +5200,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Tiruchirappalli",
   "state" : "Tamil Nadu",
@@ -5222,7 +5222,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Airport-Quarantine",
   "state" : "Tamil Nadu",
@@ -5288,7 +5288,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Thiruvarur",
   "state" : "Tamil Nadu",
@@ -5299,7 +5299,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Thirupathur",
   "state" : "Tamil Nadu",
