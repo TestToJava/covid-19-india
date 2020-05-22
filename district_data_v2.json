@@ -461,21 +461,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Others",
-  "state" : "Bihar",
-  "name" : "Others",
-  "confirmed" : 240,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Patna",
   "state" : "Bihar",
   "name" : "Patna",
-  "confirmed" : 177,
+  "confirmed" : 186,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -487,6 +476,17 @@
   "state" : "Bihar",
   "name" : "Munger",
   "confirmed" : 139,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Rohtas",
+  "state" : "Bihar",
+  "name" : "Rohtas",
+  "confirmed" : 123,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -516,10 +516,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Rohtas",
+  "id" : "Jehanabad",
   "state" : "Bihar",
-  "name" : "Rohtas",
-  "confirmed" : 109,
+  "name" : "Jehanabad",
+  "confirmed" : 106,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Buxar",
+  "state" : "Bihar",
+  "name" : "Buxar",
+  "confirmed" : 100,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -527,10 +538,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Jehanabad",
+  "id" : "Khagaria",
   "state" : "Bihar",
-  "name" : "Jehanabad",
-  "confirmed" : 91,
+  "name" : "Khagaria",
+  "confirmed" : 96,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -549,38 +560,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Khagaria",
-  "state" : "Bihar",
-  "name" : "Khagaria",
-  "confirmed" : 82,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
-  "confirmed" : 78,
+  "confirmed" : 80,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Buxar",
-  "state" : "Bihar",
-  "name" : "Buxar",
-  "confirmed" : 77,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Katihar",
   "state" : "Bihar",
@@ -607,7 +596,7 @@
   "id" : "Banka",
   "state" : "Bihar",
   "name" : "Banka",
-  "confirmed" : 52,
+  "confirmed" : 64,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -663,7 +652,7 @@
   "state" : "Bihar",
   "name" : "East Champaran",
   "confirmed" : 39,
-  "recovered" : 2166,
+  "recovered" : 2204,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -674,7 +663,7 @@
   "state" : "Bihar",
   "name" : "Bhojpur",
   "confirmed" : 38,
-  "recovered" : 0,
+  "recovered" : 2015,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4564,6 +4553,61 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Jaipur",
+  "state" : "Rajasthan",
+  "name" : "Jaipur",
+  "confirmed" : 1699,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Jodhpur",
+  "state" : "Rajasthan",
+  "name" : "Jodhpur",
+  "confirmed" : 1160,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Udaipur",
+  "state" : "Rajasthan",
+  "name" : "Udaipur",
+  "confirmed" : 445,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Kota",
+  "state" : "Rajasthan",
+  "name" : "Kota",
+  "confirmed" : 356,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Dungarpur",
+  "state" : "Rajasthan",
+  "name" : "Dungarpur",
+  "confirmed" : 292,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Ajmer",
   "state" : "Rajasthan",
   "name" : "Ajmer",
@@ -4575,10 +4619,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Alwar",
+  "id" : "Pali",
   "state" : "Rajasthan",
-  "name" : "Alwar",
-  "confirmed" : 40,
+  "name" : "Pali",
+  "confirmed" : 242,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4586,10 +4630,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Banswara",
+  "id" : "Nagaur",
   "state" : "Rajasthan",
-  "name" : "Banswara",
-  "confirmed" : 77,
+  "name" : "Nagaur",
+  "confirmed" : 232,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4597,27 +4641,38 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Baran",
+  "id" : "Chittaurgarh",
   "state" : "Rajasthan",
-  "name" : "Baran",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Barmer",
-  "state" : "Rajasthan",
-  "name" : "Barmer",
-  "confirmed" : 70,
+  "name" : "Chittaurgarh",
+  "confirmed" : 168,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Tonk",
+  "state" : "Rajasthan",
+  "name" : "Tonk",
+  "confirmed" : 156,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jalore",
+  "state" : "Rajasthan",
+  "name" : "Jalore",
+  "confirmed" : 135,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Bharatpur",
   "state" : "Rajasthan",
@@ -4641,16 +4696,126 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bikaner",
+  "id" : "Sirohi",
   "state" : "Rajasthan",
-  "name" : "Bikaner",
-  "confirmed" : 72,
+  "name" : "Sirohi",
+  "confirmed" : 87,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Banswara",
+  "state" : "Rajasthan",
+  "name" : "Banswara",
+  "confirmed" : 77,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Jhunjhunu",
+  "state" : "Rajasthan",
+  "name" : "Jhunjhunu",
+  "confirmed" : 77,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Sikar",
+  "state" : "Rajasthan",
+  "name" : "Sikar",
+  "confirmed" : 74,
+  "recovered" : 6281,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Bikaner",
+  "state" : "Rajasthan",
+  "name" : "Bikaner",
+  "confirmed" : 72,
+  "recovered" : 6377,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Barmer",
+  "state" : "Rajasthan",
+  "name" : "Barmer",
+  "confirmed" : 70,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Rajsamand",
+  "state" : "Rajasthan",
+  "name" : "Rajsamand",
+  "confirmed" : 69,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jaisalmer",
+  "state" : "Rajasthan",
+  "name" : "Jaisalmer",
+  "confirmed" : 62,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Evacuees",
+  "state" : "Rajasthan",
+  "name" : "Evacuees",
+  "confirmed" : 61,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Churu",
+  "state" : "Rajasthan",
+  "name" : "Churu",
+  "confirmed" : 60,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jhalawar",
+  "state" : "Rajasthan",
+  "name" : "Jhalawar",
+  "confirmed" : 52,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "BSF",
   "state" : "Rajasthan",
@@ -4663,21 +4828,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Chittaurgarh",
+  "id" : "Alwar",
   "state" : "Rajasthan",
-  "name" : "Chittaurgarh",
-  "confirmed" : 168,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Churu",
-  "state" : "Rajasthan",
-  "name" : "Churu",
-  "confirmed" : 60,
+  "name" : "Alwar",
+  "confirmed" : 40,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4707,38 +4861,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dungarpur",
+  "id" : "Sawai-Madhopur",
   "state" : "Rajasthan",
-  "name" : "Dungarpur",
-  "confirmed" : 292,
+  "name" : "Sawai Madhopur",
+  "confirmed" : 17,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Evacuees",
-  "state" : "Rajasthan",
-  "name" : "Evacuees",
-  "confirmed" : 61,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Ganganagar",
-  "state" : "Rajasthan",
-  "name" : "Ganganagar",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Hanumangarh",
   "state" : "Rajasthan",
@@ -4751,131 +4883,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Italian",
-  "state" : "Rajasthan",
-  "name" : "Italian",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Jaipur",
-  "state" : "Rajasthan",
-  "name" : "Jaipur",
-  "confirmed" : 1699,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Jaisalmer",
-  "state" : "Rajasthan",
-  "name" : "Jaisalmer",
-  "confirmed" : 62,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Jalore",
-  "state" : "Rajasthan",
-  "name" : "Jalore",
-  "confirmed" : 135,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Jhalawar",
-  "state" : "Rajasthan",
-  "name" : "Jhalawar",
-  "confirmed" : 52,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Jhunjhunu",
-  "state" : "Rajasthan",
-  "name" : "Jhunjhunu",
-  "confirmed" : 77,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Jodhpur",
-  "state" : "Rajasthan",
-  "name" : "Jodhpur",
-  "confirmed" : 1160,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Karauli",
   "state" : "Rajasthan",
   "name" : "Karauli",
   "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kota",
-  "state" : "Rajasthan",
-  "name" : "Kota",
-  "confirmed" : 356,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Nagaur",
-  "state" : "Rajasthan",
-  "name" : "Nagaur",
-  "confirmed" : 232,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Others",
-  "state" : "Rajasthan",
-  "name" : "Others",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Pali",
-  "state" : "Rajasthan",
-  "name" : "Pali",
-  "confirmed" : 242,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4894,43 +4905,21 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Rajsamand",
+  "id" : "Others",
   "state" : "Rajasthan",
-  "name" : "Rajsamand",
-  "confirmed" : 69,
+  "name" : "Others",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
-  "id" : "Sawai-Madhopur",
+  "id" : "Baran",
   "state" : "Rajasthan",
-  "name" : "Sawai Madhopur",
-  "confirmed" : 17,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Sikar",
-  "state" : "Rajasthan",
-  "name" : "Sikar",
-  "confirmed" : 74,
-  "recovered" : 6281,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Sirohi",
-  "state" : "Rajasthan",
-  "name" : "Sirohi",
-  "confirmed" : 87,
+  "name" : "Baran",
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4938,27 +4927,27 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Tonk",
+  "id" : "Italian",
   "state" : "Rajasthan",
-  "name" : "Tonk",
-  "confirmed" : 156,
+  "name" : "Italian",
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
-  "id" : "Udaipur",
+  "id" : "Ganganagar",
   "state" : "Rajasthan",
-  "name" : "Udaipur",
-  "confirmed" : 445,
+  "name" : "Ganganagar",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "GREEN"
 }, {
   "id" : "Chennai",
   "state" : "Tamil Nadu",
