@@ -659,11 +659,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Others",
+  "state" : "Bihar",
+  "name" : "Others",
+  "confirmed" : 42,
+  "recovered" : 2166,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Sheikhpura",
   "state" : "Bihar",
   "name" : "Sheikhpura",
   "confirmed" : 41,
-  "recovered" : 2124,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
