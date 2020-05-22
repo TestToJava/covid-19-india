@@ -882,8 +882,8 @@
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
-  "confirmed" : 218,
-  "recovered" : 218,
+  "confirmed" : 219,
+  "recovered" : 219,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -5090,7 +5090,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Dindigul",
   "state" : "Tamil Nadu",
@@ -6580,7 +6580,7 @@
   "id" : "Dehradun",
   "state" : "Uttarakhand",
   "name" : "Dehradun",
-  "confirmed" : 50,
+  "confirmed" : 53,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6591,7 +6591,7 @@
   "id" : "Udham-Singh-Nagar",
   "state" : "Uttarakhand",
   "name" : "Udham Singh Nagar",
-  "confirmed" : 29,
+  "confirmed" : 31,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6613,7 +6613,7 @@
   "id" : "Haridwar",
   "state" : "Uttarakhand",
   "name" : "Haridwar",
-  "confirmed" : 10,
+  "confirmed" : 12,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6625,7 +6625,7 @@
   "state" : "Uttarakhand",
   "name" : "Uttarkashi",
   "confirmed" : 7,
-  "recovered" : 145,
+  "recovered" : 152,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6676,17 +6676,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Others",
-  "state" : "Uttarakhand",
-  "name" : "Others",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Chamoli",
   "state" : "Uttarakhand",
   "name" : "Chamoli",
@@ -6697,6 +6686,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Others",
+  "state" : "Uttarakhand",
+  "name" : "Others",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 }, {
   "id" : "Kolkata",
   "state" : "West Bengal",
