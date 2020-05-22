@@ -2213,13 +2213,24 @@
   "id" : "Hazaribagh",
   "state" : "Jharkhand",
   "name" : "Hazaribagh",
-  "confirmed" : 33,
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "East-Singhbhum",
+  "state" : "Jharkhand",
+  "name" : "East Singhbhum",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Kodarma",
   "state" : "Jharkhand",
@@ -2242,17 +2253,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "East-Singhbhum",
-  "state" : "Jharkhand",
-  "name" : "East Singhbhum",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Palamu",
   "state" : "Jharkhand",
@@ -2287,11 +2287,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Ramgarh",
+  "state" : "Jharkhand",
+  "name" : "Ramgarh",
+  "confirmed" : 6,
+  "recovered" : 323,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Deoghar",
   "state" : "Jharkhand",
   "name" : "Deoghar",
   "confirmed" : 5,
-  "recovered" : 308,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2320,6 +2331,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "West-Singhbhum",
+  "state" : "Jharkhand",
+  "name" : "West Singhbhum",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Simdega",
   "state" : "Jharkhand",
   "name" : "Simdega",
@@ -2330,17 +2352,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Ramgarh",
-  "state" : "Jharkhand",
-  "name" : "Ramgarh",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Gumla",
   "state" : "Jharkhand",
@@ -2389,17 +2400,6 @@
   "id" : "Chatra",
   "state" : "Jharkhand",
   "name" : "Chatra",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "West-Singhbhum",
-  "state" : "Jharkhand",
-  "name" : "West Singhbhum",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
