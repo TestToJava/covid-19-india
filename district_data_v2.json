@@ -483,6 +483,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Madhubani",
+  "state" : "Bihar",
+  "name" : "Madhubani",
+  "confirmed" : 110,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
@@ -519,18 +530,7 @@
   "id" : "Gopalganj",
   "state" : "Bihar",
   "name" : "Gopalganj",
-  "confirmed" : 88,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Madhubani",
-  "state" : "Bihar",
-  "name" : "Madhubani",
-  "confirmed" : 81,
+  "confirmed" : 90,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -560,6 +560,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Katihar",
+  "state" : "Bihar",
+  "name" : "Katihar",
+  "confirmed" : 73,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Buxar",
   "state" : "Bihar",
   "name" : "Buxar",
@@ -575,17 +586,6 @@
   "state" : "Bihar",
   "name" : "Bhagalpur",
   "confirmed" : 59,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Katihar",
-  "state" : "Bihar",
-  "name" : "Katihar",
-  "confirmed" : 54,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -663,7 +663,7 @@
   "state" : "Bihar",
   "name" : "Purnia",
   "confirmed" : 37,
-  "recovered" : 1794,
+  "recovered" : 1844,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
