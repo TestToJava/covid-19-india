@@ -54,6 +54,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Others",
+  "state" : "Andhra Pradesh",
+  "name" : "Others",
+  "confirmed" : 260,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Chittoor",
   "state" : "Andhra Pradesh",
   "name" : "Chittoor",
@@ -76,22 +87,11 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Others",
-  "state" : "Andhra Pradesh",
-  "name" : "Others",
-  "confirmed" : 153,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Anantapur",
   "state" : "Andhra Pradesh",
   "name" : "Anantapur",
   "confirmed" : 136,
-  "recovered" : 2560,
+  "recovered" : 2667,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
