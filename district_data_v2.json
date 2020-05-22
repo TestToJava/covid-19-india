@@ -1619,7 +1619,7 @@
   "id" : "Faridabad",
   "state" : "Haryana",
   "name" : "Faridabad",
-  "confirmed" : 181,
+  "confirmed" : 182,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1696,7 +1696,7 @@
   "id" : "Panchkula",
   "state" : "Haryana",
   "name" : "Panchkula",
-  "confirmed" : 26,
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1719,7 +1719,29 @@
   "state" : "Haryana",
   "name" : "Karnal",
   "confirmed" : 21,
-  "recovered" : 1031,
+  "recovered" : 1043,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Mahendragarh",
+  "state" : "Haryana",
+  "name" : "Mahendragarh",
+  "confirmed" : 21,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Rohtak",
+  "state" : "Haryana",
+  "name" : "Rohtak",
+  "confirmed" : 15,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1736,28 +1758,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Rohtak",
-  "state" : "Haryana",
-  "name" : "Rohtak",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Mahendragarh",
-  "state" : "Haryana",
-  "name" : "Mahendragarh",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Rewari",
   "state" : "Haryana",
@@ -1792,6 +1792,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sirsa",
+  "state" : "Haryana",
+  "name" : "Sirsa",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Yamunanagar",
   "state" : "Haryana",
   "name" : "Yamunanagar",
@@ -1806,17 +1817,6 @@
   "id" : "Fatehabad",
   "state" : "Haryana",
   "name" : "Fatehabad",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Sirsa",
-  "state" : "Haryana",
-  "name" : "Sirsa",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
