@@ -311,7 +311,7 @@
   "state" : "Assam",
   "name" : "Nalbari",
   "confirmed" : 6,
-  "recovered" : 210,
+  "recovered" : 212,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -340,6 +340,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Sivasagar",
+  "state" : "Assam",
+  "name" : "Sivasagar",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Nagaon",
   "state" : "Assam",
   "name" : "Nagaon",
@@ -355,17 +366,6 @@
   "state" : "Assam",
   "name" : "Barpeta",
   "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Sivasagar",
-  "state" : "Assam",
-  "name" : "Sivasagar",
-  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
