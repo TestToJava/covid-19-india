@@ -496,5 +496,11 @@
       "confirmed":123164,
       "deaths":3724,
       "recovered":51833
+   },
+   {
+      "date":"May 23",
+      "confirmed":129518,
+      "deaths":3866,
+      "recovered":54387
    }
 ]
