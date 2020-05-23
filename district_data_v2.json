@@ -333,7 +333,7 @@
   "state" : "Assam",
   "name" : "Sivasagar",
   "confirmed" : 7,
-  "recovered" : 347,
+  "recovered" : 346,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -373,9 +373,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Tinsukia",
+  "id" : "Hailakandi",
   "state" : "Assam",
-  "name" : "Tinsukia",
+  "name" : "Hailakandi",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -384,10 +384,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Hailakandi",
+  "id" : "Tinsukia",
   "state" : "Assam",
-  "name" : "Hailakandi",
-  "confirmed" : 5,
+  "name" : "Tinsukia",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
