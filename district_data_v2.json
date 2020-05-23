@@ -2551,6 +2551,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Yadagiri",
+  "state" : "Karnataka",
+  "name" : "Yadagiri",
+  "confirmed" : 86,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Bagalakote",
   "state" : "Karnataka",
   "name" : "Bagalakote",
@@ -2565,7 +2576,7 @@
   "id" : "Hassan",
   "state" : "Karnataka",
   "name" : "Hassan",
-  "confirmed" : 80,
+  "confirmed" : 84,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2576,7 +2587,7 @@
   "id" : "Bidar",
   "state" : "Karnataka",
   "name" : "Bidar",
-  "confirmed" : 77,
+  "confirmed" : 80,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2598,7 +2609,7 @@
   "id" : "Uttara-Kannada",
   "state" : "Karnataka",
   "name" : "Uttara Kannada",
-  "confirmed" : 65,
+  "confirmed" : 67,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2606,10 +2617,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Raichur",
+  "state" : "Karnataka",
+  "name" : "Raichur",
+  "confirmed" : 66,
+  "recovered" : 1941,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Dakshina-Kannada",
   "state" : "Karnataka",
   "name" : "Dakshina Kannada",
-  "confirmed" : 57,
+  "confirmed" : 60,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2620,13 +2642,24 @@
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
-  "confirmed" : 53,
-  "recovered" : 1806,
+  "confirmed" : 56,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Dharwad",
+  "state" : "Karnataka",
+  "name" : "Dharwad",
+  "confirmed" : 38,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Shimoga",
   "state" : "Karnataka",
@@ -2639,9 +2672,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Dharwad",
+  "id" : "Ballari",
   "state" : "Karnataka",
-  "name" : "Dharwad",
+  "name" : "Ballari",
   "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
@@ -2649,28 +2682,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Ballari",
-  "state" : "Karnataka",
-  "name" : "Ballari",
-  "confirmed" : 30,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Raichur",
-  "state" : "Karnataka",
-  "name" : "Raichur",
-  "confirmed" : 26,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Tumakuru",
   "state" : "Karnataka",
@@ -2687,17 +2698,6 @@
   "state" : "Karnataka",
   "name" : "Gadag",
   "confirmed" : 20,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Yadagiri",
-  "state" : "Karnataka",
-  "name" : "Yadagiri",
-  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
