@@ -2331,11 +2331,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Gumla",
+  "state" : "Jharkhand",
+  "name" : "Gumla",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Dhanbad",
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 7,
-  "recovered" : 0,
+  "recovered" : 330,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2346,7 +2357,7 @@
   "state" : "Jharkhand",
   "name" : "Ramgarh",
   "confirmed" : 6,
-  "recovered" : 323,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2407,17 +2418,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Gumla",
-  "state" : "Jharkhand",
-  "name" : "Gumla",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Jamtara",
   "state" : "Jharkhand",
