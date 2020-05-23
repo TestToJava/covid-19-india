@@ -4095,7 +4095,7 @@
   "state" : "Odisha",
   "name" : "Jagatsinghpur",
   "confirmed" : 30,
-  "recovered" : 1254,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4106,7 +4106,7 @@
   "state" : "Odisha",
   "name" : "Khordha",
   "confirmed" : 21,
-  "recovered" : 0,
+  "recovered" : 1273,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4160,6 +4160,28 @@
   "id" : "Bolangir",
   "state" : "Odisha",
   "name" : "Bolangir",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Malkangiri",
+  "state" : "Odisha",
+  "name" : "Malkangiri",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Malkangiri",
+  "state" : "Odisha",
+  "name" : "Malkangiri",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
@@ -4179,38 +4201,27 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kandhamal",
-  "state" : "Odisha",
-  "name" : "Kandhamal",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Malkangiri",
-  "state" : "Odisha",
-  "name" : "Malkangiri",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
   "name" : "Jharsuguda",
-  "confirmed" : 3,
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Kandhamal",
+  "state" : "Odisha",
+  "name" : "Kandhamal",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Deogarh",
   "state" : "Odisha",
@@ -4244,6 +4255,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Nabarangpur",
+  "state" : "Odisha",
+  "name" : "Nabarangpur",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Villianur",
   "state" : "Puducherry",
