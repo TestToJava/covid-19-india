@@ -197,6 +197,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Hojai",
+  "state" : "Assam",
+  "name" : "Hojai",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Cachar",
   "state" : "Assam",
   "name" : "Cachar",
@@ -208,21 +219,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Hojai",
-  "state" : "Assam",
-  "name" : "Hojai",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Golaghat",
   "state" : "Assam",
   "name" : "Golaghat",
-  "confirmed" : 15,
+  "confirmed" : 16,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -252,6 +252,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Morigaon",
+  "state" : "Assam",
+  "name" : "Morigaon",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Dhubri",
   "state" : "Assam",
   "name" : "Dhubri",
@@ -263,10 +274,21 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Nalbari",
+  "state" : "Assam",
+  "name" : "Nalbari",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jorhat",
   "state" : "Assam",
   "name" : "Jorhat",
-  "confirmed" : 7,
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -296,42 +318,31 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Morigaon",
-  "state" : "Assam",
-  "name" : "Morigaon",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Goalpara",
   "state" : "Assam",
   "name" : "Goalpara",
-  "confirmed" : 6,
-  "recovered" : 0,
+  "confirmed" : 7,
+  "recovered" : 334,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Nalbari",
+  "id" : "Sivasagar",
   "state" : "Assam",
-  "name" : "Nalbari",
+  "name" : "Sivasagar",
   "confirmed" : 6,
-  "recovered" : 319,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Sivasagar",
+  "id" : "Nagaon",
   "state" : "Assam",
-  "name" : "Sivasagar",
+  "name" : "Nagaon",
   "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
@@ -362,9 +373,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Nagaon",
+  "id" : "Tinsukia",
   "state" : "Assam",
-  "name" : "Nagaon",
+  "name" : "Tinsukia",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -464,17 +475,6 @@
   "id" : "Dibrugarh",
   "state" : "Assam",
   "name" : "Dibrugarh",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Tinsukia",
-  "state" : "Assam",
-  "name" : "Tinsukia",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -1135,7 +1135,7 @@
   "id" : "Others",
   "state" : "Delhi",
   "name" : "Others",
-  "confirmed" : 11531,
+  "confirmed" : 12122,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1191,7 +1191,7 @@
   "state" : "Delhi",
   "name" : "North Delhi",
   "confirmed" : 60,
-  "recovered" : 12319,
+  "recovered" : 12910,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
