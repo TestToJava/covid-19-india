@@ -333,7 +333,7 @@
   "state" : "Assam",
   "name" : "Goalpara",
   "confirmed" : 7,
-  "recovered" : 391,
+  "recovered" : 390,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -461,9 +461,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "East-Karbi-Anglong",
+  "id" : "Karbi-Anglong",
   "state" : "Assam",
-  "name" : "East Karbi Anglong",
+  "name" : "Karbi Anglong",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -486,17 +486,6 @@
   "id" : "South-Salmara-Mancachar",
   "state" : "Assam",
   "name" : "South Salmara Mancachar",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "West-Karbi-Anglong",
-  "state" : "Assam",
-  "name" : "West Karbi Anglong",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
