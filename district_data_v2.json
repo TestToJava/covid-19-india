@@ -607,7 +607,7 @@
   "id" : "Banka",
   "state" : "Bihar",
   "name" : "Banka",
-  "confirmed" : 88,
+  "confirmed" : 93,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -637,10 +637,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Nawada",
+  "id" : "East-Champaran",
   "state" : "Bihar",
-  "name" : "Nawada",
-  "confirmed" : 72,
+  "name" : "East Champaran",
+  "confirmed" : 75,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -648,10 +648,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "East-Champaran",
+  "id" : "Nawada",
   "state" : "Bihar",
-  "name" : "East Champaran",
-  "confirmed" : 64,
+  "name" : "Nawada",
+  "confirmed" : 72,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -673,7 +673,7 @@
   "id" : "Siwan",
   "state" : "Bihar",
   "name" : "Siwan",
-  "confirmed" : 59,
+  "confirmed" : 60,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -696,7 +696,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 50,
-  "recovered" : 2545,
+  "recovered" : 2573,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -725,10 +725,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Vaishali",
+  "id" : "Purnia",
   "state" : "Bihar",
-  "name" : "Vaishali",
-  "confirmed" : 46,
+  "name" : "Purnia",
+  "confirmed" : 47,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -736,10 +736,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Purnia",
+  "id" : "Vaishali",
   "state" : "Bihar",
-  "name" : "Purnia",
-  "confirmed" : 45,
+  "name" : "Vaishali",
+  "confirmed" : 46,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -758,6 +758,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Gaya",
+  "state" : "Bihar",
+  "name" : "Gaya",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Madhepura",
   "state" : "Bihar",
   "name" : "Madhepura",
@@ -768,17 +779,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Gaya",
-  "state" : "Bihar",
-  "name" : "Gaya",
-  "confirmed" : 40,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Darbhanga",
   "state" : "Bihar",
@@ -816,7 +816,7 @@
   "id" : "Saran",
   "state" : "Bihar",
   "name" : "Saran",
-  "confirmed" : 29,
+  "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
