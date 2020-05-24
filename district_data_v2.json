@@ -6734,7 +6734,7 @@
   "id" : "Nainital",
   "state" : "Uttarakhand",
   "name" : "Nainital",
-  "confirmed" : 85,
+  "confirmed" : 117,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6745,7 +6745,7 @@
   "id" : "Dehradun",
   "state" : "Uttarakhand",
   "name" : "Dehradun",
-  "confirmed" : 63,
+  "confirmed" : 69,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6756,7 +6756,7 @@
   "id" : "Udham-Singh-Nagar",
   "state" : "Uttarakhand",
   "name" : "Udham Singh Nagar",
-  "confirmed" : 34,
+  "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6775,21 +6775,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Uttarkashi",
-  "state" : "Uttarakhand",
-  "name" : "Uttarkashi",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Almora",
   "state" : "Uttarakhand",
   "name" : "Almora",
-  "confirmed" : 7,
+  "confirmed" : 12,
   "recovered" : 244,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6797,10 +6786,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Champawat",
+  "id" : "Uttarkashi",
   "state" : "Uttarakhand",
-  "name" : "Champawat",
-  "confirmed" : 7,
+  "name" : "Uttarkashi",
+  "confirmed" : 10,
+  "recovered" : 296,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Tehri-Garhwal",
+  "state" : "Uttarakhand",
+  "name" : "Tehri Garhwal",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6808,16 +6808,27 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Tehri-Garhwal",
+  "id" : "Champawat",
   "state" : "Uttarakhand",
-  "name" : "Tehri Garhwal",
-  "confirmed" : 6,
+  "name" : "Champawat",
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Pauri-Garhwal",
+  "state" : "Uttarakhand",
+  "name" : "Pauri Garhwal",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Bageshwar",
   "state" : "Uttarakhand",
@@ -6830,16 +6841,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Pauri-Garhwal",
+  "id" : "Chamoli",
   "state" : "Uttarakhand",
-  "name" : "Pauri Garhwal",
-  "confirmed" : 6,
+  "name" : "Chamoli",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Rudraprayag",
   "state" : "Uttarakhand",
@@ -6856,17 +6867,6 @@
   "state" : "Uttarakhand",
   "name" : "Pithoragarh",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Chamoli",
-  "state" : "Uttarakhand",
-  "name" : "Chamoli",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
