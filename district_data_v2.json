@@ -2584,6 +2584,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Hassan",
+  "state" : "Karnataka",
+  "name" : "Hassan",
+  "confirmed" : 91,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Bagalakote",
   "state" : "Karnataka",
   "name" : "Bagalakote",
@@ -2594,17 +2605,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Hassan",
-  "state" : "Karnataka",
-  "name" : "Hassan",
-  "confirmed" : 84,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Bidar",
   "state" : "Karnataka",
@@ -2643,7 +2643,7 @@
   "state" : "Karnataka",
   "name" : "Raichur",
   "confirmed" : 66,
-  "recovered" : 1990,
+  "recovered" : 2000,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2664,7 +2664,7 @@
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
-  "confirmed" : 56,
+  "confirmed" : 57,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2719,7 +2719,7 @@
   "id" : "Tumakuru",
   "state" : "Karnataka",
   "name" : "Tumakuru",
-  "confirmed" : 24,
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
