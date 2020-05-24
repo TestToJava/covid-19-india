@@ -1685,7 +1685,7 @@
   "id" : "Faridabad",
   "state" : "Haryana",
   "name" : "Faridabad",
-  "confirmed" : 195,
+  "confirmed" : 206,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1707,7 +1707,7 @@
   "id" : "Jhajjar",
   "state" : "Haryana",
   "name" : "Jhajjar",
-  "confirmed" : 91,
+  "confirmed" : 93,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1796,7 +1796,7 @@
   "state" : "Haryana",
   "name" : "Mahendragarh",
   "confirmed" : 21,
-  "recovered" : 1131,
+  "recovered" : 1152,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1814,10 +1814,21 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
+  "id" : "Hissar",
+  "state" : "Haryana",
+  "name" : "Hissar",
+  "confirmed" : 19,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Rohtak",
   "state" : "Haryana",
   "name" : "Rohtak",
-  "confirmed" : 15,
+  "confirmed" : 16,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1846,17 +1857,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Hissar",
-  "state" : "Haryana",
-  "name" : "Hissar",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Rewari",
   "state" : "Haryana",
