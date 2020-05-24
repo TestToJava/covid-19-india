@@ -475,31 +475,31 @@
    },
    {
       "date":"May 19",
-      "confirmed":105660,
+      "confirmed":106480,
       "deaths":3301,
       "recovered":42308
    },
    {
       "date":"May 20",
-      "confirmed":110947,
+      "confirmed":112200,
       "deaths":3435,
       "recovered":45429
    },
    {
       "date":"May 21",
-      "confirmed":116822,
+      "confirmed":118223,
       "deaths":3584,
       "recovered":48486
    },
    {
       "date":"May 22",
-      "confirmed":123164,
+      "confirmed":124759,
       "deaths":3724,
       "recovered":51833
    },
    {
       "date":"May 23",
-      "confirmed":129518,
+      "confirmed":131425,
       "deaths":3866,
       "recovered":54387
    }
