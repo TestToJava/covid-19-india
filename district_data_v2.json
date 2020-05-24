@@ -4424,7 +4424,7 @@
   "id" : "Amritsar",
   "state" : "Punjab",
   "name" : "Amritsar",
-  "confirmed" : 318,
+  "confirmed" : 319,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4435,7 +4435,7 @@
   "id" : "Jalandhar",
   "state" : "Punjab",
   "name" : "Jalandhar",
-  "confirmed" : 213,
+  "confirmed" : 214,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4468,7 +4468,7 @@
   "id" : "Gurdaspur",
   "state" : "Punjab",
   "name" : "Gurdaspur",
-  "confirmed" : 130,
+  "confirmed" : 132,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4486,6 +4486,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Hoshiarpur",
+  "state" : "Punjab",
+  "name" : "Hoshiarpur",
+  "confirmed" : 106,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "S-B-S-Nagar",
   "state" : "Punjab",
@@ -4509,17 +4520,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Hoshiarpur",
-  "state" : "Punjab",
-  "name" : "Hoshiarpur",
-  "confirmed" : 102,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Sangrur",
   "state" : "Punjab",
   "name" : "Sangrur",
@@ -4535,7 +4535,7 @@
   "state" : "Punjab",
   "name" : "Muktsar",
   "confirmed" : 66,
-  "recovered" : 2045,
+  "recovered" : 2060,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4619,6 +4619,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Pathankot",
+  "state" : "Punjab",
+  "name" : "Pathankot",
+  "confirmed" : 39,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kapurthala",
   "state" : "Punjab",
   "name" : "Kapurthala",
@@ -4633,17 +4644,6 @@
   "id" : "Mansa",
   "state" : "Punjab",
   "name" : "Mansa",
-  "confirmed" : 32,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Pathankot",
-  "state" : "Punjab",
-  "name" : "Pathankot",
   "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
