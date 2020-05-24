@@ -4139,7 +4139,7 @@
   "state" : "Odisha",
   "name" : "Khordha",
   "confirmed" : 21,
-  "recovered" : 1312,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
