@@ -4300,10 +4300,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Villianur",
+  "id" : "Kurumbapet",
   "state" : "Puducherry",
-  "name" : "Villianur",
-  "confirmed" : 5,
+  "name" : "Kurumbapet",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4311,9 +4311,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Mahe",
+  "id" : "Arumbarthapuram",
   "state" : "Puducherry",
-  "name" : "Mahe",
+  "name" : "Arumbarthapuram",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
@@ -4333,10 +4333,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ariankuppam",
+  "id" : "Mahe",
   "state" : "Puducherry",
-  "name" : "Ariankuppam",
-  "confirmed" : 3,
+  "name" : "Mahe",
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4344,11 +4344,66 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Uzhavarkarai",
+  "id" : "Ariankuppam",
   "state" : "Puducherry",
-  "name" : "Uzhavarkarai",
+  "name" : "Ariankuppam",
   "confirmed" : 3,
-  "recovered" : 27,
+  "recovered" : 1,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Villianur",
+  "state" : "Puducherry",
+  "name" : "Villianur",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Periya-Kalapet",
+  "state" : "Puducherry",
+  "name" : "Periya Kalapet",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Reddiyarpalayam",
+  "state" : "Puducherry",
+  "name" : "Reddiyarpalayam",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Mannadipet",
+  "state" : "Puducherry",
+  "name" : "Mannadipet",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Moolakulam",
+  "state" : "Puducherry",
+  "name" : "Moolakulam",
+  "confirmed" : 2,
+  "recovered" : 41,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4364,18 +4419,18 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Mannadipet",
+  "id" : "Others",
   "state" : "Puducherry",
-  "name" : "Mannadipet",
+  "name" : "Others",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
   "id" : "Muthiyalpet",
   "state" : "Puducherry",
@@ -4388,17 +4443,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Others",
-  "state" : "Puducherry",
-  "name" : "Others",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Nettapakkam",
   "state" : "Puducherry",
   "name" : "Nettapakkam",
@@ -4410,9 +4454,64 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Dharmapuri",
+  "state" : "Puducherry",
+  "name" : "Dharmapuri",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Vadamangalam",
+  "state" : "Puducherry",
+  "name" : "Vadamangalam",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Saram",
+  "state" : "Puducherry",
+  "name" : "Saram",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Kuchipalayam",
+  "state" : "Puducherry",
+  "name" : "Kuchipalayam",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Thirubuvanai",
   "state" : "Puducherry",
   "name" : "Thirubuvanai",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Details-awaited",
+  "state" : "Puducherry",
+  "name" : "Details awaited",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
