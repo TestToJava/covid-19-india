@@ -208,6 +208,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Golaghat",
+  "state" : "Assam",
+  "name" : "Golaghat",
+  "confirmed" : 69,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Cachar",
   "state" : "Assam",
   "name" : "Cachar",
@@ -241,17 +252,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Golaghat",
-  "state" : "Assam",
-  "name" : "Golaghat",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Nalbari",
   "state" : "Assam",
   "name" : "Nalbari",
@@ -274,6 +274,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kokrajhar",
+  "state" : "Assam",
+  "name" : "Kokrajhar",
+  "confirmed" : 13,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Morigaon",
   "state" : "Assam",
   "name" : "Morigaon",
@@ -288,7 +299,7 @@
   "id" : "Jorhat",
   "state" : "Assam",
   "name" : "Jorhat",
-  "confirmed" : 10,
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -299,7 +310,29 @@
   "id" : "Nagaon",
   "state" : "Assam",
   "name" : "Nagaon",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Karimganj",
+  "state" : "Assam",
+  "name" : "Karimganj",
   "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Sivasagar",
+  "state" : "Assam",
+  "name" : "Sivasagar",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -311,18 +344,7 @@
   "state" : "Assam",
   "name" : "Dhubri",
   "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kokrajhar",
-  "state" : "Assam",
-  "name" : "Kokrajhar",
-  "confirmed" : 7,
-  "recovered" : 0,
+  "recovered" : 465,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -344,17 +366,17 @@
   "state" : "Assam",
   "name" : "Goalpara",
   "confirmed" : 7,
-  "recovered" : 393,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sivasagar",
+  "id" : "Chirang",
   "state" : "Assam",
-  "name" : "Sivasagar",
-  "confirmed" : 7,
+  "name" : "Chirang",
+  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -362,9 +384,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Chirang",
+  "id" : "Tinsukia",
   "state" : "Assam",
-  "name" : "Chirang",
+  "name" : "Tinsukia",
   "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
@@ -384,17 +406,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Karimganj",
-  "state" : "Assam",
-  "name" : "Karimganj",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Hailakandi",
   "state" : "Assam",
   "name" : "Hailakandi",
@@ -410,17 +421,6 @@
   "state" : "Assam",
   "name" : "West Karbi Anglong",
   "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Tinsukia",
-  "state" : "Assam",
-  "name" : "Tinsukia",
-  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -449,6 +449,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Dhemaji",
+  "state" : "Assam",
+  "name" : "Dhemaji",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 }, {
   "id" : "Biswanath",
   "state" : "Assam",
@@ -504,17 +515,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Others",
-  "state" : "Assam",
-  "name" : "Others",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Patna",
   "state" : "Bihar",
