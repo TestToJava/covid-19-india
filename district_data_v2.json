@@ -4963,7 +4963,7 @@
   "id" : "Bhilwara",
   "state" : "Rajasthan",
   "name" : "Bhilwara",
-  "confirmed" : 117,
+  "confirmed" : 118,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5004,27 +5004,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Banswara",
-  "state" : "Rajasthan",
-  "name" : "Banswara",
-  "confirmed" : 85,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Barmer",
   "state" : "Rajasthan",
   "name" : "Barmer",
-  "confirmed" : 82,
-  "recovered" : 7028,
+  "confirmed" : 87,
+  "recovered" : 7033,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Banswara",
+  "state" : "Rajasthan",
+  "name" : "Banswara",
+  "confirmed" : 85,
+  "recovered" : 7039,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Sikar",
   "state" : "Rajasthan",
@@ -5092,6 +5092,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Alwar",
+  "state" : "Rajasthan",
+  "name" : "Alwar",
+  "confirmed" : 51,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "BSF",
   "state" : "Rajasthan",
   "name" : "BSF",
@@ -5102,17 +5113,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Alwar",
-  "state" : "Rajasthan",
-  "name" : "Alwar",
-  "confirmed" : 46,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Dausa",
   "state" : "Rajasthan",
