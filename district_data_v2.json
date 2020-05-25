@@ -4982,9 +4982,9 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Chittaurgarh",
+  "id" : "Chittorgarh",
   "state" : "Rajasthan",
-  "name" : "Chittaurgarh",
+  "name" : "Chittorgarh",
   "confirmed" : 170,
   "recovered" : 0,
   "deaths" : 0,
@@ -5191,9 +5191,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dhaulpur",
+  "id" : "Dholpur",
   "state" : "Rajasthan",
-  "name" : "Dhaulpur",
+  "name" : "Dholpur",
   "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
