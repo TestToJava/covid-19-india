@@ -527,6 +527,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Begusarai",
+  "state" : "Bihar",
+  "name" : "Begusarai",
+  "confirmed" : 158,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Rohtas",
   "state" : "Bihar",
   "name" : "Rohtas",
@@ -537,17 +548,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Begusarai",
-  "state" : "Bihar",
-  "name" : "Begusarai",
-  "confirmed" : 150,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Munger",
   "state" : "Bihar",
@@ -574,7 +574,7 @@
   "id" : "Katihar",
   "state" : "Bihar",
   "name" : "Katihar",
-  "confirmed" : 133,
+  "confirmed" : 135,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -703,11 +703,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Aurangabad",
+  "state" : "Bihar",
+  "name" : "Aurangabad",
+  "confirmed" : 59,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Vaishali",
   "state" : "Bihar",
   "name" : "Vaishali",
   "confirmed" : 55,
-  "recovered" : 0,
+  "recovered" : 2737,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -718,18 +729,7 @@
   "state" : "Bihar",
   "name" : "Sheikhpura",
   "confirmed" : 52,
-  "recovered" : 2720,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Aurangabad",
-  "state" : "Bihar",
-  "name" : "Aurangabad",
-  "confirmed" : 52,
-  "recovered" : 2686,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -937,8 +937,8 @@
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
-  "confirmed" : 262,
-  "recovered" : 262,
+  "confirmed" : 266,
+  "recovered" : 266,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1311,8 +1311,8 @@
   "id" : "Others",
   "state" : "Goa",
   "name" : "Others",
-  "confirmed" : 40,
-  "recovered" : 66,
+  "confirmed" : 41,
+  "recovered" : 67,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2353,6 +2353,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Bokaro",
+  "state" : "Jharkhand",
+  "name" : "Bokaro",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Giridih",
   "state" : "Jharkhand",
   "name" : "Giridih",
@@ -2374,17 +2385,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Bokaro",
-  "state" : "Jharkhand",
-  "name" : "Bokaro",
-  "confirmed" : 15,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Ramgarh",
   "state" : "Jharkhand",
@@ -2412,7 +2412,7 @@
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 10,
-  "recovered" : 392,
+  "recovered" : 394,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
