@@ -252,6 +252,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Lakhimpur",
+  "state" : "Assam",
+  "name" : "Lakhimpur",
+  "confirmed" : 21,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kamrup",
   "state" : "Assam",
   "name" : "Kamrup",
@@ -296,17 +307,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Lakhimpur",
-  "state" : "Assam",
-  "name" : "Lakhimpur",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Morigaon",
   "state" : "Assam",
   "name" : "Morigaon",
@@ -317,6 +317,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Sivasagar",
+  "state" : "Assam",
+  "name" : "Sivasagar",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Jorhat",
   "state" : "Assam",
@@ -333,18 +344,7 @@
   "state" : "Assam",
   "name" : "Nagaon",
   "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Sivasagar",
-  "state" : "Assam",
-  "name" : "Sivasagar",
-  "confirmed" : 9,
-  "recovered" : 514,
+  "recovered" : 526,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -945,6 +945,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Mungeli",
+  "state" : "Chhattisgarh",
+  "name" : "Mungeli",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Korba",
   "state" : "Chhattisgarh",
   "name" : "Korba",
@@ -955,17 +966,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Mungeli",
-  "state" : "Chhattisgarh",
-  "name" : "Mungeli",
-  "confirmed" : 39,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Bilaspur",
   "state" : "Chhattisgarh",
@@ -1037,7 +1037,7 @@
   "state" : "Chhattisgarh",
   "name" : "Durg",
   "confirmed" : 12,
-  "recovered" : 281,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1048,7 +1048,7 @@
   "state" : "Chhattisgarh",
   "name" : "Raigarh",
   "confirmed" : 10,
-  "recovered" : 283,
+  "recovered" : 291,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1058,7 +1058,7 @@
   "id" : "Raipur",
   "state" : "Chhattisgarh",
   "name" : "Raipur",
-  "confirmed" : 8,
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1069,6 +1069,17 @@
   "id" : "Balrampur",
   "state" : "Chhattisgarh",
   "name" : "Balrampur",
+  "confirmed" : 8,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Kanker",
+  "state" : "Chhattisgarh",
+  "name" : "Kanker",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
@@ -1103,17 +1114,6 @@
   "state" : "Chhattisgarh",
   "name" : "Korea",
   "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kanker",
-  "state" : "Chhattisgarh",
-  "name" : "Kanker",
-  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1707,7 +1707,7 @@
   "id" : "Gurugram",
   "state" : "Haryana",
   "name" : "Gurugram",
-  "confirmed" : 271,
+  "confirmed" : 284,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1718,7 +1718,7 @@
   "id" : "Faridabad",
   "state" : "Haryana",
   "name" : "Faridabad",
-  "confirmed" : 210,
+  "confirmed" : 211,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1729,7 +1729,7 @@
   "id" : "Sonipat",
   "state" : "Haryana",
   "name" : "Sonipat",
-  "confirmed" : 159,
+  "confirmed" : 163,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1806,7 +1806,7 @@
   "id" : "Jind",
   "state" : "Haryana",
   "name" : "Jind",
-  "confirmed" : 26,
+  "confirmed" : 29,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1829,7 +1829,7 @@
   "state" : "Haryana",
   "name" : "Mahendragarh",
   "confirmed" : 21,
-  "recovered" : 1187,
+  "recovered" : 1213,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1851,6 +1851,17 @@
   "state" : "Haryana",
   "name" : "Hissar",
   "confirmed" : 20,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Kurukshetra",
+  "state" : "Haryana",
+  "name" : "Kurukshetra",
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1880,17 +1891,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kurukshetra",
-  "state" : "Haryana",
-  "name" : "Kurukshetra",
-  "confirmed" : 15,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Italian",
   "state" : "Haryana",
   "name" : "Italian",
@@ -1913,10 +1913,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Yamunanagar",
+  "id" : "Fatehabad",
   "state" : "Haryana",
-  "name" : "Yamunanagar",
-  "confirmed" : 8,
+  "name" : "Fatehabad",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1924,9 +1924,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Fatehabad",
+  "id" : "Yamunanagar",
   "state" : "Haryana",
-  "name" : "Fatehabad",
+  "name" : "Yamunanagar",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
@@ -1949,7 +1949,7 @@
   "id" : "Charki-Dadri",
   "state" : "Haryana",
   "name" : "Charki Dadri",
-  "confirmed" : 6,
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
