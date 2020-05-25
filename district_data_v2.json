@@ -4025,6 +4025,28 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Dimapur",
+  "state" : "Nagaland",
+  "name" : "Dimapur",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Kohima",
+  "state" : "Nagaland",
+  "name" : "Kohima",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Ganjam",
   "state" : "Odisha",
   "name" : "Ganjam",
