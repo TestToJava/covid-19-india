@@ -4421,6 +4421,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Reddiyarpalayam",
+  "state" : "Puducherry",
+  "name" : "Reddiyarpalayam",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Villianur",
   "state" : "Puducherry",
   "name" : "Villianur",
@@ -4435,17 +4446,6 @@
   "id" : "Periya-Kalapet",
   "state" : "Puducherry",
   "name" : "Periya Kalapet",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Reddiyarpalayam",
-  "state" : "Puducherry",
-  "name" : "Reddiyarpalayam",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -4469,7 +4469,7 @@
   "state" : "Puducherry",
   "name" : "Moolakulam",
   "confirmed" : 2,
-  "recovered" : 41,
+  "recovered" : 42,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
