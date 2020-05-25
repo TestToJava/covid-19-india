@@ -4432,6 +4432,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Muthiyalpet",
+  "state" : "Puducherry",
+  "name" : "Muthiyalpet",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Villianur",
   "state" : "Puducherry",
   "name" : "Villianur",
@@ -4447,7 +4458,7 @@
   "state" : "Puducherry",
   "name" : "Periya Kalapet",
   "confirmed" : 2,
-  "recovered" : 0,
+  "recovered" : 43,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4469,7 +4480,7 @@
   "state" : "Puducherry",
   "name" : "Moolakulam",
   "confirmed" : 2,
-  "recovered" : 42,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4497,17 +4508,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Muthiyalpet",
-  "state" : "Puducherry",
-  "name" : "Muthiyalpet",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Nettapakkam",
   "state" : "Puducherry",
@@ -4567,17 +4567,6 @@
   "id" : "Thirubuvanai",
   "state" : "Puducherry",
   "name" : "Thirubuvanai",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Details-awaited",
-  "state" : "Puducherry",
-  "name" : "Details awaited",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -6955,7 +6944,7 @@
   "state" : "Uttarakhand",
   "name" : "Uttarkashi",
   "confirmed" : 10,
-  "recovered" : 0,
+  "recovered" : 317,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
