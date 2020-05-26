@@ -6107,13 +6107,24 @@
   "id" : "Dhalai",
   "state" : "Tripura",
   "name" : "Dhalai",
-  "confirmed" : 164,
+  "confirmed" : 165,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Khowai",
+  "state" : "Tripura",
+  "name" : "Khowai",
+  "confirmed" : 12,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "West-Tripura",
   "state" : "Tripura",
@@ -6130,7 +6141,7 @@
   "state" : "Tripura",
   "name" : "Gomati",
   "confirmed" : 7,
-  "recovered" : 0,
+  "recovered" : 209,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6141,7 +6152,7 @@
   "state" : "Tripura",
   "name" : "North Tripura",
   "confirmed" : 7,
-  "recovered" : 198,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6159,21 +6170,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Khowai",
-  "state" : "Tripura",
-  "name" : "Khowai",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "South-Tripura",
   "state" : "Tripura",
   "name" : "South Tripura",
-  "confirmed" : 2,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7357,4 +7357,37 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Dakshin-Dinajpur",
+  "state" : "West Bengal",
+  "name" : "Dakshin Dinajpur",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Jhargram",
+  "state" : "West Bengal",
+  "name" : "Jhargram",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Bankura",
+  "state" : "West Bengal",
+  "name" : "Bankura",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 } ]
