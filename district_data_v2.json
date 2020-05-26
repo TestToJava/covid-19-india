@@ -2576,7 +2576,7 @@
   "id" : "Bengaluru",
   "state" : "Karnataka",
   "name" : "Bengaluru",
-  "confirmed" : 291,
+  "confirmed" : 293,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2606,21 +2606,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Chikkaballapura",
-  "state" : "Karnataka",
-  "name" : "Chikkaballapura",
-  "confirmed" : 127,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Yadagiri",
   "state" : "Karnataka",
   "name" : "Yadagiri",
-  "confirmed" : 125,
+  "confirmed" : 139,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2628,10 +2617,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Davanagere",
+  "id" : "Belagavi",
   "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 123,
+  "name" : "Belagavi",
+  "confirmed" : 135,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2639,21 +2628,32 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Belagavi",
+  "id" : "Davanagere",
   "state" : "Karnataka",
-  "name" : "Belagavi",
-  "confirmed" : 122,
+  "name" : "Davanagere",
+  "confirmed" : 133,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Chikkaballapura",
+  "state" : "Karnataka",
+  "name" : "Chikkaballapura",
+  "confirmed" : 128,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
-  "confirmed" : 111,
+  "confirmed" : 114,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2664,13 +2664,24 @@
   "id" : "Hassan",
   "state" : "Karnataka",
   "name" : "Hassan",
-  "confirmed" : 99,
+  "confirmed" : 112,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Bidar",
+  "state" : "Karnataka",
+  "name" : "Bidar",
+  "confirmed" : 97,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Mysuru",
   "state" : "Karnataka",
@@ -2682,17 +2693,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Bidar",
-  "state" : "Karnataka",
-  "name" : "Bidar",
-  "confirmed" : 87,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Bagalakote",
   "state" : "Karnataka",
@@ -2720,7 +2720,7 @@
   "state" : "Karnataka",
   "name" : "Uttara Kannada",
   "confirmed" : 70,
-  "recovered" : 2182,
+  "recovered" : 2248,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
