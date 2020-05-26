@@ -2895,7 +2895,7 @@
   "id" : "Kasaragod",
   "state" : "Kerala",
   "name" : "Kasaragod",
-  "confirmed" : 228,
+  "confirmed" : 231,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2928,7 +2928,7 @@
   "id" : "Malappuram",
   "state" : "Kerala",
   "name" : "Malappuram",
-  "confirmed" : 79,
+  "confirmed" : 84,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2958,22 +2958,33 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kollam",
+  "state" : "Kerala",
+  "name" : "Kollam",
+  "confirmed" : 42,
+  "recovered" : 963,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kottayam",
   "state" : "Kerala",
   "name" : "Kottayam",
   "confirmed" : 39,
-  "recovered" : 944,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Kollam",
+  "id" : "Thrissur",
   "state" : "Kerala",
-  "name" : "Kollam",
+  "name" : "Thrissur",
   "confirmed" : 38,
-  "recovered" : 933,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2991,17 +3002,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Thrissur",
-  "state" : "Kerala",
-  "name" : "Thrissur",
-  "confirmed" : 34,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Pathanamthitta",
   "state" : "Kerala",
   "name" : "Pathanamthitta",
@@ -3013,10 +3013,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Idukki",
+  "id" : "Alappuzha",
   "state" : "Kerala",
-  "name" : "Idukki",
-  "confirmed" : 27,
+  "name" : "Alappuzha",
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3024,10 +3024,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Alappuzha",
+  "id" : "Idukki",
   "state" : "Kerala",
-  "name" : "Alappuzha",
-  "confirmed" : 25,
+  "name" : "Idukki",
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
