@@ -2430,11 +2430,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "West-Singhbhum",
+  "state" : "Jharkhand",
+  "name" : "West Singhbhum",
+  "confirmed" : 13,
+  "recovered" : 439,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Ramgarh",
   "state" : "Jharkhand",
   "name" : "Ramgarh",
   "confirmed" : 11,
-  "recovered" : 436,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2451,17 +2462,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "West-Singhbhum",
-  "state" : "Jharkhand",
-  "name" : "West Singhbhum",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Latehar",
   "state" : "Jharkhand",
