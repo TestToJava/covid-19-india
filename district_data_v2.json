@@ -355,7 +355,7 @@
   "state" : "Assam",
   "name" : "Sivasagar",
   "confirmed" : 12,
-  "recovered" : 592,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
