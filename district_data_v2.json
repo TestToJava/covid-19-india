@@ -296,10 +296,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Nalbari",
+  "id" : "Nagaon",
   "state" : "Assam",
-  "name" : "Nalbari",
-  "confirmed" : 17,
+  "name" : "Nagaon",
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -307,10 +307,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Nagaon",
+  "id" : "Nalbari",
   "state" : "Assam",
-  "name" : "Nagaon",
-  "confirmed" : 16,
+  "name" : "Nalbari",
+  "confirmed" : 17,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -366,7 +366,7 @@
   "state" : "Assam",
   "name" : "Jorhat",
   "confirmed" : 11,
-  "recovered" : 595,
+  "recovered" : 597,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
