@@ -2345,7 +2345,7 @@
   "id" : "Hazaribagh",
   "state" : "Jharkhand",
   "name" : "Hazaribagh",
-  "confirmed" : 45,
+  "confirmed" : 48,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2386,6 +2386,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Gumla",
+  "state" : "Jharkhand",
+  "name" : "Gumla",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Giridih",
   "state" : "Jharkhand",
   "name" : "Giridih",
@@ -2419,22 +2430,11 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Gumla",
-  "state" : "Jharkhand",
-  "name" : "Gumla",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Dhanbad",
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 10,
-  "recovered" : 405,
+  "recovered" : 421,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2452,10 +2452,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Latehar",
+  "id" : "West-Singhbhum",
   "state" : "Jharkhand",
-  "name" : "Latehar",
-  "confirmed" : 9,
+  "name" : "West Singhbhum",
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2463,10 +2463,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "West-Singhbhum",
+  "id" : "Latehar",
   "state" : "Jharkhand",
-  "name" : "West Singhbhum",
-  "confirmed" : 7,
+  "name" : "Latehar",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2488,7 +2488,7 @@
   "id" : "Seraikela-Kharsawan",
   "state" : "Jharkhand",
   "name" : "Seraikela Kharsawan",
-  "confirmed" : 4,
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2499,6 +2499,17 @@
   "id" : "Pakur",
   "state" : "Jharkhand",
   "name" : "Pakur",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Chatra",
+  "state" : "Jharkhand",
+  "name" : "Chatra",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
@@ -2533,17 +2544,6 @@
   "state" : "Jharkhand",
   "name" : "Lohardaga",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Chatra",
-  "state" : "Jharkhand",
-  "name" : "Chatra",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
