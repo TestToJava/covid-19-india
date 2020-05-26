@@ -2334,7 +2334,7 @@
   "id" : "Garhwa",
   "state" : "Jharkhand",
   "name" : "Garhwa",
-  "confirmed" : 52,
+  "confirmed" : 55,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2356,7 +2356,7 @@
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
-  "confirmed" : 29,
+  "confirmed" : 31,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2367,13 +2367,24 @@
   "id" : "East-Singhbhum",
   "state" : "Jharkhand",
   "name" : "East Singhbhum",
-  "confirmed" : 25,
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Palamu",
+  "state" : "Jharkhand",
+  "name" : "Palamu",
+  "confirmed" : 18,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Bokaro",
   "state" : "Jharkhand",
@@ -2408,38 +2419,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Palamu",
-  "state" : "Jharkhand",
-  "name" : "Palamu",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Ramgarh",
-  "state" : "Jharkhand",
-  "name" : "Ramgarh",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Dhanbad",
   "state" : "Jharkhand",
   "name" : "Dhanbad",
-  "confirmed" : 10,
-  "recovered" : 421,
+  "confirmed" : 13,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Ramgarh",
+  "state" : "Jharkhand",
+  "name" : "Ramgarh",
+  "confirmed" : 11,
+  "recovered" : 436,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Simdega",
   "state" : "Jharkhand",
@@ -2518,6 +2518,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Lohardaga",
+  "state" : "Jharkhand",
+  "name" : "Lohardaga",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jamtara",
   "state" : "Jharkhand",
   "name" : "Jamtara",
@@ -2540,16 +2551,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Lohardaga",
+  "id" : "Khunti",
   "state" : "Jharkhand",
-  "name" : "Lohardaga",
+  "name" : "Khunti",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Godda",
   "state" : "Jharkhand",
@@ -2561,17 +2572,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Khunti",
-  "state" : "Jharkhand",
-  "name" : "Khunti",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Bengaluru",
   "state" : "Karnataka",
