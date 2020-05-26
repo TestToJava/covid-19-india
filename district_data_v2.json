@@ -91,12 +91,23 @@
   "state" : "Andhra Pradesh",
   "name" : "Anantapur",
   "confirmed" : 136,
-  "recovered" : 2623,
+  "recovered" : 2671,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Foreign-Returnees",
+  "state" : "Andhra Pradesh",
+  "name" : "Foreign Returnees",
+  "confirmed" : 111,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 }, {
   "id" : "Kadapa",
   "state" : "Andhra Pradesh",
@@ -141,17 +152,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Foreign-Returnees",
-  "state" : "Andhra Pradesh",
-  "name" : "Foreign Returnees",
-  "confirmed" : 63,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "East-Godavari",
   "state" : "Andhra Pradesh",
