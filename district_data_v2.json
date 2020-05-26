@@ -2906,7 +2906,7 @@
   "id" : "Kannur",
   "state" : "Kerala",
   "name" : "Kannur",
-  "confirmed" : 188,
+  "confirmed" : 196,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2914,10 +2914,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Malappuram",
+  "id" : "Palakkad",
   "state" : "Kerala",
-  "name" : "Malappuram",
-  "confirmed" : 79,
+  "name" : "Palakkad",
+  "confirmed" : 96,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2925,10 +2925,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Palakkad",
+  "id" : "Malappuram",
   "state" : "Kerala",
-  "name" : "Palakkad",
-  "confirmed" : 67,
+  "name" : "Malappuram",
+  "confirmed" : 79,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2958,16 +2958,38 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kottayam",
+  "state" : "Kerala",
+  "name" : "Kottayam",
+  "confirmed" : 39,
+  "recovered" : 944,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Kollam",
   "state" : "Kerala",
   "name" : "Kollam",
   "confirmed" : 38,
-  "recovered" : 896,
+  "recovered" : 933,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Ernakulam",
+  "state" : "Kerala",
+  "name" : "Ernakulam",
+  "confirmed" : 36,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Thrissur",
   "state" : "Kerala",
@@ -2979,28 +3001,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Kottayam",
-  "state" : "Kerala",
-  "name" : "Kottayam",
-  "confirmed" : 33,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Ernakulam",
-  "state" : "Kerala",
-  "name" : "Ernakulam",
-  "confirmed" : 31,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Pathanamthitta",
   "state" : "Kerala",
@@ -7174,7 +7174,7 @@
   "id" : "South-24-Parganas",
   "state" : "West Bengal",
   "name" : "South 24 Parganas",
-  "confirmed" : 128,
+  "confirmed" : 137,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7196,7 +7196,7 @@
   "id" : "Purba-Medinipur",
   "state" : "West Bengal",
   "name" : "Purba Medinipur",
-  "confirmed" : 63,
+  "confirmed" : 66,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7207,7 +7207,7 @@
   "id" : "Murshidabad",
   "state" : "West Bengal",
   "name" : "Murshidabad",
-  "confirmed" : 49,
+  "confirmed" : 62,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7215,32 +7215,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Uttar-Dinajpur",
-  "state" : "West Bengal",
-  "name" : "Uttar Dinajpur",
-  "confirmed" : 46,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Others",
   "state" : "West Bengal",
   "name" : "Others",
-  "confirmed" : 37,
-  "recovered" : 3938,
+  "confirmed" : 48,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Purba-Bardhaman",
+  "id" : "Uttar-Dinajpur",
   "state" : "West Bengal",
-  "name" : "Purba Bardhaman",
-  "confirmed" : 30,
+  "name" : "Uttar Dinajpur",
+  "confirmed" : 47,
+  "recovered" : 4009,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Paschim-Bardhaman",
+  "state" : "West Bengal",
+  "name" : "Paschim Bardhaman",
+  "confirmed" : 39,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7248,10 +7248,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Paschim-Bardhaman",
+  "id" : "Purba-Bardhaman",
   "state" : "West Bengal",
-  "name" : "Paschim Bardhaman",
-  "confirmed" : 29,
+  "name" : "Purba Bardhaman",
+  "confirmed" : 36,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Birbhum",
+  "state" : "West Bengal",
+  "name" : "Birbhum",
+  "confirmed" : 32,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Nadia",
+  "state" : "West Bengal",
+  "name" : "Nadia",
+  "confirmed" : 30,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7270,32 +7292,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Nadia",
-  "state" : "West Bengal",
-  "name" : "Nadia",
-  "confirmed" : 27,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Birbhum",
-  "state" : "West Bengal",
-  "name" : "Birbhum",
-  "confirmed" : 22,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Darjeeling",
   "state" : "West Bengal",
   "name" : "Darjeeling",
-  "confirmed" : 12,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7314,27 +7314,27 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Dakshin-Dinajpur",
-  "state" : "West Bengal",
-  "name" : "Dakshin Dinajpur",
-  "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Jalpaiguri",
   "state" : "West Bengal",
   "name" : "Jalpaiguri",
-  "confirmed" : 4,
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Dakshin-Dinajpur",
+  "state" : "West Bengal",
+  "name" : "Dakshin Dinajpur",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Jhargram",
   "state" : "West Bengal",
