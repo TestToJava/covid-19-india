@@ -703,6 +703,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Darbhanga",
+  "state" : "Bihar",
+  "name" : "Darbhanga",
+  "confirmed" : 64,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Samastipur",
   "state" : "Bihar",
   "name" : "Samastipur",
@@ -729,7 +740,7 @@
   "state" : "Bihar",
   "name" : "Aurangabad",
   "confirmed" : 59,
-  "recovered" : 0,
+  "recovered" : 2790,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -769,17 +780,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Darbhanga",
-  "state" : "Bihar",
-  "name" : "Darbhanga",
-  "confirmed" : 52,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Supaul",
   "state" : "Bihar",
   "name" : "Supaul",
@@ -801,6 +801,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Gaya",
+  "state" : "Bihar",
+  "name" : "Gaya",
+  "confirmed" : 51,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Kaimur",
   "state" : "Bihar",
@@ -824,20 +835,20 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Gaya",
+  "id" : "Madhepura",
   "state" : "Bihar",
-  "name" : "Gaya",
-  "confirmed" : 47,
+  "name" : "Madhepura",
+  "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Madhepura",
+  "id" : "Saran",
   "state" : "Bihar",
-  "name" : "Madhepura",
+  "name" : "Saran",
   "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
@@ -867,17 +878,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Saran",
-  "state" : "Bihar",
-  "name" : "Saran",
-  "confirmed" : 38,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Muzaffarpur",
   "state" : "Bihar",
