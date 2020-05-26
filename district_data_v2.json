@@ -211,7 +211,7 @@
   "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
   "name" : "Kamrup Metropolitan",
-  "confirmed" : 200,
+  "confirmed" : 204,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -277,7 +277,7 @@
   "id" : "Kamrup",
   "state" : "Assam",
   "name" : "Kamrup",
-  "confirmed" : 20,
+  "confirmed" : 21,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -366,7 +366,7 @@
   "state" : "Assam",
   "name" : "Sivasagar",
   "confirmed" : 12,
-  "recovered" : 678,
+  "recovered" : 682,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -453,7 +453,7 @@
   "id" : "West-Karbi-Anglong",
   "state" : "Assam",
   "name" : "West Karbi Anglong",
-  "confirmed" : 5,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -483,6 +483,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Darrang",
+  "state" : "Assam",
+  "name" : "Darrang",
+  "confirmed" : 4,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Karbi-Anglong",
   "state" : "Assam",
   "name" : "Karbi Anglong",
@@ -493,17 +504,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Others",
-  "state" : "Assam",
-  "name" : "Others",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Udalguri",
   "state" : "Assam",
@@ -527,16 +527,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Darrang",
+  "id" : "Dibrugarh",
   "state" : "Assam",
-  "name" : "Darrang",
-  "confirmed" : 2,
+  "name" : "Dibrugarh",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Patna",
   "state" : "Bihar",
