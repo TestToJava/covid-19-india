@@ -740,7 +740,18 @@
   "state" : "Bihar",
   "name" : "Vaishali",
   "confirmed" : 55,
-  "recovered" : 2737,
+  "recovered" : 2765,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Saharsa",
+  "state" : "Bihar",
+  "name" : "Saharsa",
+  "confirmed" : 54,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -835,17 +846,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Saharsa",
-  "state" : "Bihar",
-  "name" : "Saharsa",
-  "confirmed" : 43,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "West-Champaran",
   "state" : "Bihar",
   "name" : "West Champaran",
@@ -901,6 +901,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kishanganj",
+  "state" : "Bihar",
+  "name" : "Kishanganj",
+  "confirmed" : 31,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Jamui",
   "state" : "Bihar",
   "name" : "Jamui",
@@ -916,17 +927,6 @@
   "state" : "Bihar",
   "name" : "Lakhisarai",
   "confirmed" : 27,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kishanganj",
-  "state" : "Bihar",
-  "name" : "Kishanganj",
-  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
