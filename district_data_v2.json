@@ -4161,7 +4161,7 @@
   "state" : "Nagaland",
   "name" : "Dimapur",
   "confirmed" : 2,
-  "recovered" : 0,
+  "recovered" : 4,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
