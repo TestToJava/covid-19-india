@@ -4326,7 +4326,7 @@
   "state" : "Odisha",
   "name" : "Angul",
   "confirmed" : 25,
-  "recovered" : 1580,
+  "recovered" : 1593,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4366,6 +4366,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Mayurbhanj",
+  "state" : "Odisha",
+  "name" : "Mayurbhanj",
+  "confirmed" : 16,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kalahandi",
   "state" : "Odisha",
   "name" : "Kalahandi",
@@ -4377,21 +4388,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Mayurbhanj",
+  "id" : "Nuapada",
   "state" : "Odisha",
-  "name" : "Mayurbhanj",
-  "confirmed" : 15,
+  "name" : "Nuapada",
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Kandhamal",
   "state" : "Odisha",
   "name" : "Kandhamal",
-  "confirmed" : 14,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4457,17 +4468,6 @@
   "id" : "Nabarangpur",
   "state" : "Odisha",
   "name" : "Nabarangpur",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Nuapada",
-  "state" : "Odisha",
-  "name" : "Nuapada",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
