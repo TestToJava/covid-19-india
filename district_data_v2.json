@@ -1044,6 +1044,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Jashpur",
+  "state" : "Chhattisgarh",
+  "name" : "Jashpur",
+  "confirmed" : 16,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Janjgir-Champa",
   "state" : "Chhattisgarh",
   "name" : "Janjgir-Champa",
@@ -1066,11 +1077,22 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kanker",
+  "state" : "Chhattisgarh",
+  "name" : "Kanker",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kawardha",
   "state" : "Chhattisgarh",
   "name" : "Kawardha",
   "confirmed" : 13,
-  "recovered" : 0,
+  "recovered" : 398,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1081,18 +1103,7 @@
   "state" : "Chhattisgarh",
   "name" : "Raigarh",
   "confirmed" : 13,
-  "recovered" : 373,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kanker",
-  "state" : "Chhattisgarh",
-  "name" : "Kanker",
-  "confirmed" : 12,
-  "recovered" : 387,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1146,17 +1157,6 @@
   "id" : "Surajpur",
   "state" : "Chhattisgarh",
   "name" : "Surajpur",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Jashpur",
-  "state" : "Chhattisgarh",
-  "name" : "Jashpur",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
