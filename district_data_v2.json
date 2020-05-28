@@ -2386,17 +2386,6 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Hazaribagh",
-  "state" : "Jharkhand",
-  "name" : "Hazaribagh",
-  "confirmed" : 58,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Garhwa",
   "state" : "Jharkhand",
   "name" : "Garhwa",
@@ -2408,10 +2397,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Hazaribagh",
+  "state" : "Jharkhand",
+  "name" : "Hazaribagh",
+  "confirmed" : 48,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
-  "confirmed" : 33,
+  "confirmed" : 31,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2422,7 +2422,7 @@
   "id" : "East-Singhbhum",
   "state" : "Jharkhand",
   "name" : "East Singhbhum",
-  "confirmed" : 30,
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2433,7 +2433,7 @@
   "id" : "Palamu",
   "state" : "Jharkhand",
   "name" : "Palamu",
-  "confirmed" : 18,
+  "confirmed" : 17,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2474,22 +2474,11 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ramgarh",
-  "state" : "Jharkhand",
-  "name" : "Ramgarh",
-  "confirmed" : 15,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "West-Singhbhum",
   "state" : "Jharkhand",
   "name" : "West Singhbhum",
   "confirmed" : 14,
-  "recovered" : 458,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2500,12 +2489,23 @@
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 13,
-  "recovered" : 0,
+  "recovered" : 437,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Ramgarh",
+  "state" : "Jharkhand",
+  "name" : "Ramgarh",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Simdega",
   "state" : "Jharkhand",
@@ -2521,7 +2521,7 @@
   "id" : "Latehar",
   "state" : "Jharkhand",
   "name" : "Latehar",
-  "confirmed" : 10,
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2543,7 +2543,7 @@
   "id" : "Seraikela-Kharsawan",
   "state" : "Jharkhand",
   "name" : "Seraikela Kharsawan",
-  "confirmed" : 5,
+  "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2565,13 +2565,24 @@
   "id" : "Lohardaga",
   "state" : "Jharkhand",
   "name" : "Lohardaga",
-  "confirmed" : 4,
+  "confirmed" : 3,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Khunti",
+  "state" : "Jharkhand",
+  "name" : "Khunti",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Jamtara",
   "state" : "Jharkhand",
@@ -2594,17 +2605,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Khunti",
-  "state" : "Jharkhand",
-  "name" : "Khunti",
-  "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Chatra",
   "state" : "Jharkhand",
