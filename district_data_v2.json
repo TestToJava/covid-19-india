@@ -3842,7 +3842,7 @@
   "state" : "Maharashtra",
   "name" : "Yavatmal",
   "confirmed" : 116,
-  "recovered" : 59464,
+  "recovered" : 59546,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3860,21 +3860,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sangli",
-  "state" : "Maharashtra",
-  "name" : "Sangli",
-  "confirmed" : 94,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Latur",
   "state" : "Maharashtra",
   "name" : "Latur",
-  "confirmed" : 94,
+  "confirmed" : 107,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3882,10 +3871,21 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Sangli",
+  "state" : "Maharashtra",
+  "name" : "Sangli",
+  "confirmed" : 101,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Ahmadnagar",
   "state" : "Maharashtra",
   "name" : "Ahmadnagar",
-  "confirmed" : 87,
+  "confirmed" : 92,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3896,18 +3896,7 @@
   "id" : "Jalna",
   "state" : "Maharashtra",
   "name" : "Jalna",
-  "confirmed" : 79,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Others",
-  "state" : "Maharashtra",
-  "name" : "Others",
-  "confirmed" : 53,
+  "confirmed" : 87,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3918,7 +3907,7 @@
   "id" : "Buldhana",
   "state" : "Maharashtra",
   "name" : "Buldhana",
-  "confirmed" : 53,
+  "confirmed" : 55,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3926,10 +3915,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Gondia",
+  "id" : "Others",
   "state" : "Maharashtra",
-  "name" : "Gondia",
-  "confirmed" : 48,
+  "name" : "Others",
+  "confirmed" : 54,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Osmanabad",
+  "state" : "Maharashtra",
+  "name" : "Osmanabad",
+  "confirmed" : 54,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3937,10 +3937,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Osmanabad",
+  "id" : "Gondia",
   "state" : "Maharashtra",
-  "name" : "Osmanabad",
-  "confirmed" : 45,
+  "name" : "Gondia",
+  "confirmed" : 51,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3951,13 +3951,24 @@
   "id" : "Beed",
   "state" : "Maharashtra",
   "name" : "Beed",
-  "confirmed" : 40,
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Parbhani",
+  "state" : "Maharashtra",
+  "name" : "Parbhani",
+  "confirmed" : 40,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Nandurbar",
   "state" : "Maharashtra",
@@ -3973,24 +3984,13 @@
   "id" : "Gadchiroli",
   "state" : "Maharashtra",
   "name" : "Gadchiroli",
-  "confirmed" : 26,
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Parbhani",
-  "state" : "Maharashtra",
-  "name" : "Parbhani",
-  "confirmed" : 25,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Chandrapur",
   "state" : "Maharashtra",
@@ -4003,6 +4003,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bhandara",
+  "state" : "Maharashtra",
+  "name" : "Bhandara",
+  "confirmed" : 20,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Sindhudurg",
   "state" : "Maharashtra",
   "name" : "Sindhudurg",
@@ -4014,21 +4025,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Bhandara",
+  "id" : "Wardha",
   "state" : "Maharashtra",
-  "name" : "Bhandara",
-  "confirmed" : 19,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Washim",
-  "state" : "Maharashtra",
-  "name" : "Washim",
-  "confirmed" : 10,
+  "name" : "Wardha",
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4036,9 +4036,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Wardha",
+  "id" : "Washim",
   "state" : "Maharashtra",
-  "name" : "Wardha",
+  "name" : "Washim",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
