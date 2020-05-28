@@ -2356,13 +2356,24 @@
   "id" : "Ranchi",
   "state" : "Jharkhand",
   "name" : "Ranchi",
-  "confirmed" : 125,
+  "confirmed" : 126,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Hazaribagh",
+  "state" : "Jharkhand",
+  "name" : "Hazaribagh",
+  "confirmed" : 56,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Garhwa",
   "state" : "Jharkhand",
@@ -2375,21 +2386,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Hazaribagh",
-  "state" : "Jharkhand",
-  "name" : "Hazaribagh",
-  "confirmed" : 48,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Kodarma",
   "state" : "Jharkhand",
   "name" : "Kodarma",
-  "confirmed" : 31,
+  "confirmed" : 33,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2400,7 +2400,7 @@
   "id" : "East-Singhbhum",
   "state" : "Jharkhand",
   "name" : "East Singhbhum",
-  "confirmed" : 27,
+  "confirmed" : 30,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2452,38 +2452,38 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Ramgarh",
+  "state" : "Jharkhand",
+  "name" : "Ramgarh",
+  "confirmed" : 15,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "West-Singhbhum",
+  "state" : "Jharkhand",
+  "name" : "West Singhbhum",
+  "confirmed" : 14,
+  "recovered" : 456,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Dhanbad",
   "state" : "Jharkhand",
   "name" : "Dhanbad",
   "confirmed" : 13,
-  "recovered" : 0,
+  "recovered" : 453,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "West-Singhbhum",
-  "state" : "Jharkhand",
-  "name" : "West Singhbhum",
-  "confirmed" : 13,
-  "recovered" : 436,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Ramgarh",
-  "state" : "Jharkhand",
-  "name" : "Ramgarh",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Simdega",
   "state" : "Jharkhand",
@@ -2499,7 +2499,7 @@
   "id" : "Latehar",
   "state" : "Jharkhand",
   "name" : "Latehar",
-  "confirmed" : 9,
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
