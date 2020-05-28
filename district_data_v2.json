@@ -4337,7 +4337,7 @@
   "state" : "Odisha",
   "name" : "Angul",
   "confirmed" : 25,
-  "recovered" : 1649,
+  "recovered" : 1657,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4454,6 +4454,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sambalpur",
+  "state" : "Odisha",
+  "name" : "Sambalpur",
+  "confirmed" : 7,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
   "name" : "Jharsuguda",
@@ -4465,21 +4476,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sambalpur",
+  "id" : "Subarnapur",
   "state" : "Odisha",
-  "name" : "Sambalpur",
+  "name" : "Subarnapur",
   "confirmed" : 5,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Nabarangpur",
-  "state" : "Odisha",
-  "name" : "Nabarangpur",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4490,7 +4490,7 @@
   "id" : "Bargarh",
   "state" : "Odisha",
   "name" : "Bargarh",
-  "confirmed" : 1,
+  "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4498,9 +4498,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Subarnapur",
+  "id" : "Nabarangpur",
   "state" : "Odisha",
-  "name" : "Subarnapur",
+  "name" : "Nabarangpur",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
