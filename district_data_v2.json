@@ -2631,7 +2631,7 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 188,
+  "confirmed" : 190,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2716,6 +2716,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Dakshina-Kannada",
+  "state" : "Karnataka",
+  "name" : "Dakshina Kannada",
+  "confirmed" : 99,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Mysuru",
   "state" : "Karnataka",
   "name" : "Mysuru",
@@ -2726,17 +2737,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Dakshina-Kannada",
-  "state" : "Karnataka",
-  "name" : "Dakshina Kannada",
-  "confirmed" : 87,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Bagalakote",
   "state" : "Karnataka",
@@ -2753,7 +2753,7 @@
   "state" : "Karnataka",
   "name" : "Vijayapura",
   "confirmed" : 81,
-  "recovered" : 2490,
+  "recovered" : 2509,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2851,7 +2851,7 @@
   "id" : "Kolar",
   "state" : "Karnataka",
   "name" : "Kolar",
-  "confirmed" : 17,
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2884,8 +2884,8 @@
   "id" : "Haveri",
   "state" : "Karnataka",
   "name" : "Haveri",
-  "confirmed" : 6,
-  "recovered" : 40,
+  "confirmed" : 10,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
