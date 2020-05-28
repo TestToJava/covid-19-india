@@ -2606,259 +2606,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Bengaluru",
-  "state" : "Karnataka",
-  "name" : "Bengaluru",
-  "confirmed" : 305,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Mandya",
-  "state" : "Karnataka",
-  "name" : "Mandya",
-  "confirmed" : 256,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kalaburagi",
-  "state" : "Karnataka",
-  "name" : "Kalaburagi",
-  "confirmed" : 188,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Yadagiri",
-  "state" : "Karnataka",
-  "name" : "Yadagiri",
-  "confirmed" : 162,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Udupi",
-  "state" : "Karnataka",
-  "name" : "Udupi",
-  "confirmed" : 150,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Davanagere",
-  "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 140,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Hassan",
-  "state" : "Karnataka",
-  "name" : "Hassan",
-  "confirmed" : 140,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Belagavi",
-  "state" : "Karnataka",
-  "name" : "Belagavi",
-  "confirmed" : 139,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Chikkaballapura",
-  "state" : "Karnataka",
-  "name" : "Chikkaballapura",
-  "confirmed" : 132,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Bidar",
-  "state" : "Karnataka",
-  "name" : "Bidar",
-  "confirmed" : 110,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Mysuru",
-  "state" : "Karnataka",
-  "name" : "Mysuru",
-  "confirmed" : 92,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Dakshina-Kannada",
-  "state" : "Karnataka",
-  "name" : "Dakshina Kannada",
-  "confirmed" : 87,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Bagalakote",
-  "state" : "Karnataka",
-  "name" : "Bagalakote",
-  "confirmed" : 86,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Vijayapura",
-  "state" : "Karnataka",
-  "name" : "Vijayapura",
-  "confirmed" : 81,
-  "recovered" : 2489,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Uttara-Kannada",
-  "state" : "Karnataka",
-  "name" : "Uttara Kannada",
-  "confirmed" : 75,
-  "recovered" : 2338,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Raichur",
-  "state" : "Karnataka",
-  "name" : "Raichur",
-  "confirmed" : 72,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Dharwad",
-  "state" : "Karnataka",
-  "name" : "Dharwad",
-  "confirmed" : 43,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Ballari",
-  "state" : "Karnataka",
-  "name" : "Ballari",
-  "confirmed" : 38,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Chitradurga",
-  "state" : "Karnataka",
-  "name" : "Chitradurga",
-  "confirmed" : 37,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Shimoga",
-  "state" : "Karnataka",
-  "name" : "Shimoga",
-  "confirmed" : 36,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Gadag",
-  "state" : "Karnataka",
-  "name" : "Gadag",
-  "confirmed" : 35,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Tumakuru",
-  "state" : "Karnataka",
-  "name" : "Tumakuru",
-  "confirmed" : 28,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kolar",
-  "state" : "Karnataka",
-  "name" : "Kolar",
-  "confirmed" : 17,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Chikkamagaluru",
   "state" : "Karnataka",
   "name" : "Chikkamagaluru",
@@ -2885,7 +2632,7 @@
   "state" : "Karnataka",
   "name" : "Haveri",
   "confirmed" : 6,
-  "recovered" : 0,
+  "recovered" : 40,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -5444,6 +5191,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Bengaluru",
+  "state" : "Karnataka",
+  "name" : "Bengaluru",
+  "confirmed" : 305,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Tirunelveli",
   "state" : "Tamil Nadu",
   "name" : "Tirunelveli",
@@ -5459,6 +5217,17 @@
   "state" : "Tamil Nadu",
   "name" : "Tiruvannamalai",
   "confirmed" : 263,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Mandya",
+  "state" : "Karnataka",
+  "name" : "Mandya",
+  "confirmed" : 256,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5499,6 +5268,39 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kalaburagi",
+  "state" : "Karnataka",
+  "name" : "Kalaburagi",
+  "confirmed" : 188,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Yadagiri",
+  "state" : "Karnataka",
+  "name" : "Yadagiri",
+  "confirmed" : 162,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Udupi",
+  "state" : "Karnataka",
+  "name" : "Udupi",
+  "confirmed" : 150,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Coimbatore",
   "state" : "Tamil Nadu",
   "name" : "Coimbatore",
@@ -5509,6 +5311,28 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Davanagere",
+  "state" : "Karnataka",
+  "name" : "Davanagere",
+  "confirmed" : 140,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Hassan",
+  "state" : "Karnataka",
+  "name" : "Hassan",
+  "confirmed" : 140,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Perambalur",
   "state" : "Tamil Nadu",
@@ -5521,10 +5345,32 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Belagavi",
+  "state" : "Karnataka",
+  "name" : "Belagavi",
+  "confirmed" : 139,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Dindigul",
   "state" : "Tamil Nadu",
   "name" : "Dindigul",
   "confirmed" : 134,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Chikkaballapura",
+  "state" : "Karnataka",
+  "name" : "Chikkaballapura",
+  "confirmed" : 132,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5554,6 +5400,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bidar",
+  "state" : "Karnataka",
+  "name" : "Bidar",
+  "confirmed" : 110,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Theni",
   "state" : "Tamil Nadu",
   "name" : "Theni",
@@ -5576,6 +5433,28 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Mysuru",
+  "state" : "Karnataka",
+  "name" : "Mysuru",
+  "confirmed" : 92,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Dakshina-Kannada",
+  "state" : "Karnataka",
+  "name" : "Dakshina Kannada",
+  "confirmed" : 87,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Airport-Quarantine",
   "state" : "Tamil Nadu",
   "name" : "Airport Quarantine",
@@ -5586,6 +5465,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
+}, {
+  "id" : "Bagalakote",
+  "state" : "Karnataka",
+  "name" : "Bagalakote",
+  "confirmed" : 86,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Tenkasi",
   "state" : "Tamil Nadu",
@@ -5608,6 +5498,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Vijayapura",
+  "state" : "Karnataka",
+  "name" : "Vijayapura",
+  "confirmed" : 81,
+  "recovered" : 2490,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Karur",
   "state" : "Tamil Nadu",
@@ -5641,6 +5542,28 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Uttara-Kannada",
+  "state" : "Karnataka",
+  "name" : "Uttara Kannada",
+  "confirmed" : 75,
+  "recovered" : 2338,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Raichur",
+  "state" : "Karnataka",
+  "name" : "Raichur",
+  "confirmed" : 73,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Erode",
   "state" : "Tamil Nadu",
@@ -5708,6 +5631,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Dharwad",
+  "state" : "Karnataka",
+  "name" : "Dharwad",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Thiruvarur",
   "state" : "Tamil Nadu",
   "name" : "Thiruvarur",
@@ -5730,6 +5664,50 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Ballari",
+  "state" : "Karnataka",
+  "name" : "Ballari",
+  "confirmed" : 38,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Chitradurga",
+  "state" : "Karnataka",
+  "name" : "Chitradurga",
+  "confirmed" : 37,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Shimoga",
+  "state" : "Karnataka",
+  "name" : "Shimoga",
+  "confirmed" : 36,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Gadag",
+  "state" : "Karnataka",
+  "name" : "Gadag",
+  "confirmed" : 35,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Thirupathur",
   "state" : "Tamil Nadu",
   "name" : "Thirupathur",
@@ -5745,6 +5723,17 @@
   "state" : "Tamil Nadu",
   "name" : "Sivaganga",
   "confirmed" : 31,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Tumakuru",
+  "state" : "Karnataka",
+  "name" : "Tumakuru",
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -5773,6 +5762,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Kolar",
+  "state" : "Karnataka",
+  "name" : "Kolar",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "The-Nilgiris",
   "state" : "Tamil Nadu",
