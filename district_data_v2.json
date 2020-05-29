@@ -4410,6 +4410,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Nuapada",
+  "state" : "Odisha",
+  "name" : "Nuapada",
+  "confirmed" : 26,
+  "recovered" : 1735,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Angul",
   "state" : "Odisha",
   "name" : "Angul",
@@ -4486,17 +4497,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Nuapada",
-  "state" : "Odisha",
-  "name" : "Nuapada",
-  "confirmed" : 14,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Kandhamal",
   "state" : "Odisha",
