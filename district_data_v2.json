@@ -274,6 +274,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kokrajhar",
+  "state" : "Assam",
+  "name" : "Kokrajhar",
+  "confirmed" : 41,
+  "recovered" : 1071,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Nagaon",
   "state" : "Assam",
   "name" : "Nagaon",
@@ -355,18 +366,7 @@
   "state" : "Assam",
   "name" : "Barpeta",
   "confirmed" : 19,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Kokrajhar",
-  "state" : "Assam",
-  "name" : "Kokrajhar",
-  "confirmed" : 15,
-  "recovered" : 1071,
+  "recovered" : 1097,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
