@@ -3236,7 +3236,7 @@
   "id" : "Sagar",
   "state" : "Madhya Pradesh",
   "name" : "Sagar",
-  "confirmed" : 154,
+  "confirmed" : 164,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3277,6 +3277,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Morena",
+  "state" : "Madhya Pradesh",
+  "name" : "Morena",
+  "confirmed" : 93,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Dewas",
   "state" : "Madhya Pradesh",
   "name" : "Dewas",
@@ -3299,17 +3310,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Morena",
-  "state" : "Madhya Pradesh",
-  "name" : "Morena",
-  "confirmed" : 88,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Raisen",
   "state" : "Madhya Pradesh",
   "name" : "Raisen",
@@ -3324,7 +3324,7 @@
   "id" : "Bhind",
   "state" : "Madhya Pradesh",
   "name" : "Bhind",
-  "confirmed" : 53,
+  "confirmed" : 56,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3335,7 +3335,7 @@
   "id" : "Barwani",
   "state" : "Madhya Pradesh",
   "name" : "Barwani",
-  "confirmed" : 42,
+  "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3357,7 +3357,7 @@
   "id" : "Rewa",
   "state" : "Madhya Pradesh",
   "name" : "Rewa",
-  "confirmed" : 33,
+  "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3368,7 +3368,7 @@
   "id" : "Ratlam",
   "state" : "Madhya Pradesh",
   "name" : "Ratlam",
-  "confirmed" : 32,
+  "confirmed" : 34,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3379,7 +3379,7 @@
   "id" : "Betul",
   "state" : "Madhya Pradesh",
   "name" : "Betul",
-  "confirmed" : 21,
+  "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3412,7 +3412,7 @@
   "id" : "Dindori",
   "state" : "Madhya Pradesh",
   "name" : "Dindori",
-  "confirmed" : 16,
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3423,13 +3423,35 @@
   "id" : "Damoh",
   "state" : "Madhya Pradesh",
   "name" : "Damoh",
-  "confirmed" : 16,
-  "recovered" : 7825,
+  "confirmed" : 19,
+  "recovered" : 7891,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Chhatarpur",
+  "state" : "Madhya Pradesh",
+  "name" : "Chhatarpur",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Sidhi",
+  "state" : "Madhya Pradesh",
+  "name" : "Sidhi",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Agar-Malwa",
   "state" : "Madhya Pradesh",
@@ -3464,17 +3486,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Sidhi",
-  "state" : "Madhya Pradesh",
-  "name" : "Sidhi",
-  "confirmed" : 12,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Singaruli",
   "state" : "Madhya Pradesh",
   "name" : "Singaruli",
@@ -3485,6 +3496,50 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Panna",
+  "state" : "Madhya Pradesh",
+  "name" : "Panna",
+  "confirmed" : 11,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Shivpuri",
+  "state" : "Madhya Pradesh",
+  "name" : "Shivpuri",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Narsinghpur",
+  "state" : "Madhya Pradesh",
+  "name" : "Narsinghpur",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Shahdol",
+  "state" : "Madhya Pradesh",
+  "name" : "Shahdol",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Shajapur",
   "state" : "Madhya Pradesh",
@@ -3497,20 +3552,31 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Chhatarpur",
+  "id" : "Tikamgarh",
   "state" : "Madhya Pradesh",
-  "name" : "Chhatarpur",
+  "name" : "Tikamgarh",
   "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Tikamgarh",
+  "id" : "Sheopur",
   "state" : "Madhya Pradesh",
-  "name" : "Tikamgarh",
+  "name" : "Sheopur",
+  "confirmed" : 9,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Chhindwara",
+  "state" : "Madhya Pradesh",
+  "name" : "Chhindwara",
   "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
@@ -3530,9 +3596,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Shivpuri",
+  "id" : "Rajgarh",
   "state" : "Madhya Pradesh",
-  "name" : "Shivpuri",
+  "name" : "Rajgarh",
   "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
@@ -3540,39 +3606,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Narsinghpur",
-  "state" : "Madhya Pradesh",
-  "name" : "Narsinghpur",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Shahdol",
-  "state" : "Madhya Pradesh",
-  "name" : "Shahdol",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Sheopur",
-  "state" : "Madhya Pradesh",
-  "name" : "Sheopur",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Balaghat",
   "state" : "Madhya Pradesh",
@@ -3585,32 +3618,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Rajgarh",
-  "state" : "Madhya Pradesh",
-  "name" : "Rajgarh",
-  "confirmed" : 7,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Chhindwara",
-  "state" : "Madhya Pradesh",
-  "name" : "Chhindwara",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Sehore",
   "state" : "Madhya Pradesh",
   "name" : "Sehore",
-  "confirmed" : 6,
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3621,6 +3632,17 @@
   "id" : "Umaria",
   "state" : "Madhya Pradesh",
   "name" : "Umaria",
+  "confirmed" : 6,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Anuppur",
+  "state" : "Madhya Pradesh",
+  "name" : "Anuppur",
   "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
@@ -3629,9 +3651,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Panna",
+  "id" : "Mandla",
   "state" : "Madhya Pradesh",
-  "name" : "Panna",
+  "name" : "Mandla",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
@@ -3661,28 +3683,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Anuppur",
-  "state" : "Madhya Pradesh",
-  "name" : "Anuppur",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Mandla",
-  "state" : "Madhya Pradesh",
-  "name" : "Mandla",
-  "confirmed" : 3,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Seoni",
   "state" : "Madhya Pradesh",
@@ -4127,8 +4127,8 @@
   "id" : "Imphal-West",
   "state" : "Manipur",
   "name" : "Imphal West",
-  "confirmed" : 16,
-  "recovered" : 40,
+  "confirmed" : 17,
+  "recovered" : 41,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
