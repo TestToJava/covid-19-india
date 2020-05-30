@@ -296,6 +296,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Chirang",
+  "state" : "Assam",
+  "name" : "Chirang",
+  "confirmed" : 32,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Lakhimpur",
   "state" : "Assam",
   "name" : "Lakhimpur",
@@ -355,7 +366,7 @@
   "state" : "Assam",
   "name" : "Nalbari",
   "confirmed" : 20,
-  "recovered" : 0,
+  "recovered" : 1123,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -487,17 +498,6 @@
   "state" : "Assam",
   "name" : "Karbi Anglong",
   "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Chirang",
-  "state" : "Assam",
-  "name" : "Chirang",
-  "confirmed" : 6,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
