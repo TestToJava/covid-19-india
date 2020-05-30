@@ -729,7 +729,7 @@
   "state" : "Bihar",
   "name" : "Darbhanga",
   "confirmed" : 87,
-  "recovered" : 3444,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1033,6 +1033,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Korea",
+  "state" : "Chhattisgarh",
+  "name" : "Korea",
+  "confirmed" : 29,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Balod",
   "state" : "Chhattisgarh",
   "name" : "Balod",
@@ -1066,11 +1077,33 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kanker",
+  "state" : "Chhattisgarh",
+  "name" : "Kanker",
+  "confirmed" : 19,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Jashpur",
   "state" : "Chhattisgarh",
   "name" : "Jashpur",
   "confirmed" : 16,
   "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Balrampur",
+  "state" : "Chhattisgarh",
+  "name" : "Balrampur",
+  "confirmed" : 16,
+  "recovered" : 447,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1099,17 +1132,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kanker",
-  "state" : "Chhattisgarh",
-  "name" : "Kanker",
-  "confirmed" : 15,
-  "recovered" : 415,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Raigarh",
   "state" : "Chhattisgarh",
   "name" : "Raigarh",
@@ -1121,21 +1143,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Durg",
-  "state" : "Chhattisgarh",
-  "name" : "Durg",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Raipur",
   "state" : "Chhattisgarh",
   "name" : "Raipur",
-  "confirmed" : 11,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1143,21 +1154,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Balrampur",
+  "id" : "Durg",
   "state" : "Chhattisgarh",
-  "name" : "Balrampur",
-  "confirmed" : 10,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Korea",
-  "state" : "Chhattisgarh",
-  "name" : "Korea",
-  "confirmed" : 9,
+  "name" : "Durg",
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1256,7 +1256,7 @@
   "id" : "Others",
   "state" : "Delhi",
   "name" : "Others",
-  "confirmed" : 16598,
+  "confirmed" : 17761,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1312,7 +1312,7 @@
   "state" : "Delhi",
   "name" : "North Delhi",
   "confirmed" : 60,
-  "recovered" : 17386,
+  "recovered" : 18549,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1388,8 +1388,8 @@
   "id" : "Others",
   "state" : "Goa",
   "name" : "Others",
-  "confirmed" : 43,
-  "recovered" : 69,
+  "confirmed" : 44,
+  "recovered" : 70,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
