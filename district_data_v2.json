@@ -4410,22 +4410,11 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Nuapada",
-  "state" : "Odisha",
-  "name" : "Nuapada",
-  "confirmed" : 30,
-  "recovered" : 1831,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Deogarh",
   "state" : "Odisha",
   "name" : "Deogarh",
   "confirmed" : 28,
-  "recovered" : 0,
+  "recovered" : 1819,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4481,6 +4470,17 @@
   "name" : "Malkangiri",
   "confirmed" : 19,
   "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Nuapada",
+  "state" : "Odisha",
+  "name" : "Nuapada",
+  "confirmed" : 18,
+  "recovered" : 1831,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
