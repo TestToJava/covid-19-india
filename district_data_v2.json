@@ -2045,6 +2045,28 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bilaspur",
+  "state" : "Himachal Pradesh",
+  "name" : "Bilaspur",
+  "confirmed" : 18,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Chamba",
+  "state" : "Himachal Pradesh",
+  "name" : "Chamba",
+  "confirmed" : 20,
+  "recovered" : 295,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Hamirpur",
   "state" : "Himachal Pradesh",
   "name" : "Hamirpur",
@@ -2059,7 +2081,7 @@
   "id" : "Kangra",
   "state" : "Himachal Pradesh",
   "name" : "Kangra",
-  "confirmed" : 74,
+  "confirmed" : 79,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2067,43 +2089,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Una",
+  "id" : "Kullu",
   "state" : "Himachal Pradesh",
-  "name" : "Una",
-  "confirmed" : 33,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Solan",
-  "state" : "Himachal Pradesh",
-  "name" : "Solan",
-  "confirmed" : 23,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Chamba",
-  "state" : "Himachal Pradesh",
-  "name" : "Chamba",
-  "confirmed" : 20,
-  "recovered" : 295,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Bilaspur",
-  "state" : "Himachal Pradesh",
-  "name" : "Bilaspur",
-  "confirmed" : 18,
+  "name" : "Kullu",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2144,21 +2133,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kullu",
+  "id" : "Solan",
   "state" : "Himachal Pradesh",
-  "name" : "Kullu",
-  "confirmed" : 1,
+  "name" : "Solan",
+  "confirmed" : 24,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
+}, {
+  "id" : "Una",
+  "state" : "Himachal Pradesh",
+  "name" : "Una",
+  "confirmed" : 33,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Anantnag",
   "state" : "Jammu and Kashmir",
   "name" : "Anantnag",
-  "confirmed" : 295,
+  "confirmed" : 314,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2169,7 +2169,7 @@
   "id" : "Kulgam",
   "state" : "Jammu and Kashmir",
   "name" : "Kulgam",
-  "confirmed" : 273,
+  "confirmed" : 277,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
