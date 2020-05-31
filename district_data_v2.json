@@ -1894,7 +1894,7 @@
   "id" : "Mahendragarh",
   "state" : "Haryana",
   "name" : "Mahendragarh",
-  "confirmed" : 39,
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1905,8 +1905,19 @@
   "id" : "Hissar",
   "state" : "Haryana",
   "name" : "Hissar",
-  "confirmed" : 31,
+  "confirmed" : 40,
   "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Bhiwani",
+  "state" : "Haryana",
+  "name" : "Bhiwani",
+  "confirmed" : 33,
+  "recovered" : 2091,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1917,17 +1928,6 @@
   "state" : "Haryana",
   "name" : "Rohtak",
   "confirmed" : 31,
-  "recovered" : 2056,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Jind",
-  "state" : "Haryana",
-  "name" : "Jind",
-  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1938,6 +1938,17 @@
   "id" : "Kurukshetra",
   "state" : "Haryana",
   "name" : "Kurukshetra",
+  "confirmed" : 31,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Jind",
+  "state" : "Haryana",
+  "name" : "Jind",
   "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
@@ -2022,17 +2033,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Bhiwani",
-  "state" : "Haryana",
-  "name" : "Bhiwani",
-  "confirmed" : 13,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Charki-Dadri",
   "state" : "Haryana",
@@ -4864,7 +4864,7 @@
   "id" : "Ludhiana",
   "state" : "Punjab",
   "name" : "Ludhiana",
-  "confirmed" : 180,
+  "confirmed" : 189,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4894,6 +4894,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Hoshiarpur",
+  "state" : "Punjab",
+  "name" : "Hoshiarpur",
+  "confirmed" : 120,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Patiala",
   "state" : "Punjab",
   "name" : "Patiala",
@@ -4904,17 +4915,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Hoshiarpur",
-  "state" : "Punjab",
-  "name" : "Hoshiarpur",
-  "confirmed" : 116,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "S-A-S-Nagar",
   "state" : "Punjab",
@@ -4949,6 +4949,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Rupnagar",
+  "state" : "Punjab",
+  "name" : "Rupnagar",
+  "confirmed" : 70,
+  "recovered" : 2255,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Muktsar",
   "state" : "Punjab",
   "name" : "Muktsar",
@@ -4971,21 +4982,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Rupnagar",
-  "state" : "Punjab",
-  "name" : "Rupnagar",
-  "confirmed" : 62,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Moga",
   "state" : "Punjab",
   "name" : "Moga",
-  "confirmed" : 61,
+  "confirmed" : 62,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
