@@ -1003,7 +1003,7 @@
   "id" : "Bilaspur",
   "state" : "Chhattisgarh",
   "name" : "Bilaspur",
-  "confirmed" : 49,
+  "confirmed" : 50,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1014,7 +1014,7 @@
   "id" : "Korba",
   "state" : "Chhattisgarh",
   "name" : "Korba",
-  "confirmed" : 42,
+  "confirmed" : 44,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1026,6 +1026,17 @@
   "state" : "Chhattisgarh",
   "name" : "Rajnandgaon",
   "confirmed" : 35,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Jashpur",
+  "state" : "Chhattisgarh",
+  "name" : "Jashpur",
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1088,22 +1099,11 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Jashpur",
-  "state" : "Chhattisgarh",
-  "name" : "Jashpur",
-  "confirmed" : 16,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Balrampur",
   "state" : "Chhattisgarh",
   "name" : "Balrampur",
   "confirmed" : 16,
-  "recovered" : 447,
+  "recovered" : 479,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1132,6 +1132,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Raipur",
+  "state" : "Chhattisgarh",
+  "name" : "Raipur",
+  "confirmed" : 14,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Raigarh",
   "state" : "Chhattisgarh",
   "name" : "Raigarh",
@@ -1143,16 +1154,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Raipur",
+  "id" : "Mahasamud",
   "state" : "Chhattisgarh",
-  "name" : "Raipur",
+  "name" : "Mahasamud",
   "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "GREEN"
 }, {
   "id" : "Durg",
   "state" : "Chhattisgarh",
@@ -1224,17 +1235,6 @@
   "state" : "Chhattisgarh",
   "name" : "Bastar",
   "confirmed" : 2,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Mahasamud",
-  "state" : "Chhattisgarh",
-  "name" : "Mahasamud",
-  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
