@@ -1114,7 +1114,7 @@
   "state" : "Chhattisgarh",
   "name" : "Mahasamud",
   "confirmed" : 19,
-  "recovered" : 494,
+  "recovered" : 496,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1187,10 +1187,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Surajpur",
+  "id" : "Surguja",
   "state" : "Chhattisgarh",
-  "name" : "Surajpur",
-  "confirmed" : 8,
+  "name" : "Surguja",
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1198,10 +1198,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Surguja",
+  "id" : "Surajpur",
   "state" : "Chhattisgarh",
-  "name" : "Surguja",
-  "confirmed" : 7,
+  "name" : "Surajpur",
+  "confirmed" : 8,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
