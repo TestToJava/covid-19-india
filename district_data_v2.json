@@ -2441,10 +2441,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kodarma",
+  "id" : "Dhanbad",
   "state" : "Jharkhand",
-  "name" : "Kodarma",
-  "confirmed" : 41,
+  "name" : "Dhanbad",
+  "confirmed" : 53,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2452,10 +2452,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Dhanbad",
+  "id" : "Kodarma",
   "state" : "Jharkhand",
-  "name" : "Dhanbad",
-  "confirmed" : 53,
+  "name" : "Kodarma",
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2522,7 +2522,7 @@
   "state" : "Jharkhand",
   "name" : "West Singhbhum",
   "confirmed" : 15,
-  "recovered" : 613,
+  "recovered" : 636,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
