@@ -4355,10 +4355,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bolangir",
+  "id" : "Khordha",
   "state" : "Odisha",
-  "name" : "Bolangir",
-  "confirmed" : 80,
+  "name" : "Khordha",
+  "confirmed" : 83,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4366,10 +4366,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Khordha",
+  "id" : "Bolangir",
   "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 76,
+  "name" : "Bolangir",
+  "confirmed" : 80,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4436,7 +4436,7 @@
   "state" : "Odisha",
   "name" : "Boudh",
   "confirmed" : 33,
-  "recovered" : 1940,
+  "recovered" : 1947,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
