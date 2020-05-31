@@ -2511,7 +2511,7 @@
   "state" : "Jharkhand",
   "name" : "West Singhbhum",
   "confirmed" : 15,
-  "recovered" : 609,
+  "recovered" : 610,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2562,10 +2562,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Seraikela-Kharsawan",
+  "id" : "Pakur",
   "state" : "Jharkhand",
-  "name" : "Seraikela Kharsawan",
-  "confirmed" : 4,
+  "name" : "Pakur",
+  "confirmed" : 5,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2573,9 +2573,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Pakur",
+  "id" : "Seraikela-Kharsawan",
   "state" : "Jharkhand",
-  "name" : "Pakur",
+  "name" : "Seraikela Kharsawan",
   "confirmed" : 4,
   "recovered" : 0,
   "deaths" : 0,
