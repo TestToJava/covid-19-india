@@ -6790,7 +6790,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Ambedkar Nagar",
   "confirmed" : 62,
-  "recovered" : 8026,
+  "recovered" : 8075,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6801,7 +6801,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Amroha",
   "confirmed" : 61,
-  "recovered" : 8009,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6852,6 +6852,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Fatehpur",
+  "state" : "Uttar Pradesh",
+  "name" : "Fatehpur",
+  "confirmed" : 51,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Hardoi",
   "state" : "Uttar Pradesh",
   "name" : "Hardoi",
@@ -6863,20 +6874,20 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kaushambi",
+  "id" : "Ballia",
   "state" : "Uttar Pradesh",
-  "name" : "Kaushambi",
-  "confirmed" : 48,
+  "name" : "Ballia",
+  "confirmed" : 50,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
-  "id" : "Fatehpur",
+  "id" : "Kaushambi",
   "state" : "Uttar Pradesh",
-  "name" : "Fatehpur",
+  "name" : "Kaushambi",
   "confirmed" : 48,
   "recovered" : 0,
   "deaths" : 0,
@@ -6899,7 +6910,7 @@
   "id" : "Shamli",
   "state" : "Uttar Pradesh",
   "name" : "Shamli",
-  "confirmed" : 44,
+  "confirmed" : 46,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6918,16 +6929,38 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ballia",
+  "id" : "Bhadohi",
   "state" : "Uttar Pradesh",
-  "name" : "Ballia",
+  "name" : "Bhadohi",
   "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
+}, {
+  "id" : "Baghpat",
+  "state" : "Uttar Pradesh",
+  "name" : "Baghpat",
+  "confirmed" : 42,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Mainpuri",
+  "state" : "Uttar Pradesh",
+  "name" : "Mainpuri",
+  "confirmed" : 42,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Sitapur",
   "state" : "Uttar Pradesh",
@@ -6951,9 +6984,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Baghpat",
+  "id" : "Budaun",
   "state" : "Uttar Pradesh",
-  "name" : "Baghpat",
+  "name" : "Budaun",
   "confirmed" : 40,
   "recovered" : 0,
   "deaths" : 0,
@@ -6962,38 +6995,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Bhadohi",
+  "id" : "Chitrakoot",
   "state" : "Uttar Pradesh",
-  "name" : "Bhadohi",
-  "confirmed" : 39,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Mainpuri",
-  "state" : "Uttar Pradesh",
-  "name" : "Mainpuri",
-  "confirmed" : 39,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Budaun",
-  "state" : "Uttar Pradesh",
-  "name" : "Budaun",
+  "name" : "Chitrakoot",
   "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Jhansi",
   "state" : "Uttar Pradesh",
@@ -7006,10 +7017,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Chitrakoot",
+  "id" : "Farrukhabad",
   "state" : "Uttar Pradesh",
-  "name" : "Chitrakoot",
-  "confirmed" : 37,
+  "name" : "Farrukhabad",
+  "confirmed" : 36,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7017,16 +7028,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Farrukhabad",
+  "id" : "Unnao",
   "state" : "Uttar Pradesh",
-  "name" : "Farrukhabad",
+  "name" : "Unnao",
   "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
   "id" : "Mirzapur",
   "state" : "Uttar Pradesh",
@@ -7039,10 +7050,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Unnao",
+  "id" : "Etah",
   "state" : "Uttar Pradesh",
-  "name" : "Unnao",
-  "confirmed" : 33,
+  "name" : "Etah",
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7072,17 +7083,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Etah",
-  "state" : "Uttar Pradesh",
-  "name" : "Etah",
-  "confirmed" : 29,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Hathras",
   "state" : "Uttar Pradesh",
   "name" : "Hathras",
@@ -7094,21 +7094,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Banda",
-  "state" : "Uttar Pradesh",
-  "name" : "Banda",
-  "confirmed" : 23,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Mau",
   "state" : "Uttar Pradesh",
   "name" : "Mau",
-  "confirmed" : 23,
+  "confirmed" : 28,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7116,10 +7105,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Chandauli",
+  "id" : "Banda",
   "state" : "Uttar Pradesh",
-  "name" : "Chandauli",
-  "confirmed" : 22,
+  "name" : "Banda",
+  "confirmed" : 24,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Shahjahanpur",
+  "state" : "Uttar Pradesh",
+  "name" : "Shahjahanpur",
+  "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7127,10 +7127,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Shahjahanpur",
+  "id" : "Chandauli",
   "state" : "Uttar Pradesh",
-  "name" : "Shahjahanpur",
-  "confirmed" : 20,
+  "name" : "Chandauli",
+  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7152,13 +7152,24 @@
   "id" : "Kasganj",
   "state" : "Uttar Pradesh",
   "name" : "Kasganj",
-  "confirmed" : 16,
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Kushinagar",
+  "state" : "Uttar Pradesh",
+  "name" : "Kushinagar",
+  "confirmed" : 17,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Mahoba",
   "state" : "Uttar Pradesh",
@@ -7171,21 +7182,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kushinagar",
-  "state" : "Uttar Pradesh",
-  "name" : "Kushinagar",
-  "confirmed" : 11,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Sonbhadra",
   "state" : "Uttar Pradesh",
   "name" : "Sonbhadra",
-  "confirmed" : 8,
+  "confirmed" : 9,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
