@@ -4113,6 +4113,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Imphal-West",
+  "state" : "Manipur",
+  "name" : "Imphal West",
+  "confirmed" : 18,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Churachandpur",
   "state" : "Manipur",
   "name" : "Churachandpur",
@@ -4124,31 +4135,20 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Imphal-West",
-  "state" : "Manipur",
-  "name" : "Imphal West",
-  "confirmed" : 17,
-  "recovered" : 41,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Imphal-East",
   "state" : "Manipur",
   "name" : "Imphal East",
-  "confirmed" : 4,
-  "recovered" : 0,
+  "confirmed" : 5,
+  "recovered" : 44,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Thoubal",
+  "id" : "Kangpokpi",
   "state" : "Manipur",
-  "name" : "Thoubal",
+  "name" : "Kangpokpi",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -4160,6 +4160,17 @@
   "id" : "Noney",
   "state" : "Manipur",
   "name" : "Noney",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Thoubal",
+  "state" : "Manipur",
+  "name" : "Thoubal",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
