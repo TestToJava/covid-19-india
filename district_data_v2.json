@@ -1290,7 +1290,7 @@
   "state" : "Dadra and Nagar Haveli",
   "name" : "Dadra and Nagar Haveli",
   "confirmed" : 2,
-  "recovered" : 0,
+  "recovered" : 2,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
