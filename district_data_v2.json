@@ -4468,8 +4468,19 @@
   "id" : "Boudh",
   "state" : "Odisha",
   "name" : "Boudh",
+  "confirmed" : 34,
+  "recovered" : 2092,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Nuapada",
+  "state" : "Odisha",
+  "name" : "Nuapada",
   "confirmed" : 33,
-  "recovered" : 2075,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4486,17 +4497,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Nuapada",
-  "state" : "Odisha",
-  "name" : "Nuapada",
-  "confirmed" : 30,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Angul",
   "state" : "Odisha",
@@ -4531,6 +4531,28 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Kandhamal",
+  "state" : "Odisha",
+  "name" : "Kandhamal",
+  "confirmed" : 22,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Malkangiri",
+  "state" : "Odisha",
+  "name" : "Malkangiri",
+  "confirmed" : 21,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kalahandi",
   "state" : "Odisha",
   "name" : "Kalahandi",
@@ -4541,17 +4563,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Malkangiri",
-  "state" : "Odisha",
-  "name" : "Malkangiri",
-  "confirmed" : 20,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Dhenkanal",
   "state" : "Odisha",
@@ -4564,10 +4575,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kandhamal",
+  "id" : "Bargarh",
   "state" : "Odisha",
-  "name" : "Kandhamal",
-  "confirmed" : 13,
+  "name" : "Bargarh",
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4596,17 +4607,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Bargarh",
-  "state" : "Odisha",
-  "name" : "Bargarh",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
