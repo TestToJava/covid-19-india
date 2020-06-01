@@ -5975,8 +5975,8 @@
   "id" : "Hyderabad",
   "state" : "Telangana",
   "name" : "Hyderabad",
-  "confirmed" : 1465,
-  "recovered" : 122,
+  "confirmed" : 1544,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -5997,8 +5997,8 @@
   "id" : "Ranga-Reddy",
   "state" : "Telangana",
   "name" : "Ranga Reddy",
-  "confirmed" : 115,
-  "recovered" : 40,
+  "confirmed" : 118,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6027,6 +6027,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Medchal-Malkajgiri",
+  "state" : "Telangana",
+  "name" : "Medchal Malkajgiri",
+  "confirmed" : 47,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Jogulamba-Gadwal",
   "state" : "Telangana",
   "name" : "Jogulamba Gadwal",
@@ -6037,17 +6048,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Medchal-Malkajgiri",
-  "state" : "Telangana",
-  "name" : "Medchal Malkajgiri",
-  "confirmed" : 44,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Vikarabad",
   "state" : "Telangana",
@@ -6104,10 +6104,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Karimnagar",
+  "id" : "Nalgonda",
   "state" : "Telangana",
-  "name" : "Karimnagar",
-  "confirmed" : 19,
+  "name" : "Nalgonda",
+  "confirmed" : 20,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6115,10 +6115,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Nalgonda",
+  "id" : "Karimnagar",
   "state" : "Telangana",
-  "name" : "Nalgonda",
-  "confirmed" : 18,
+  "name" : "Karimnagar",
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6141,7 +6141,7 @@
   "state" : "Telangana",
   "name" : "Mahabubnagar",
   "confirmed" : 16,
-  "recovered" : 2698,
+  "recovered" : 2792,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6151,7 +6151,7 @@
   "id" : "Sangareddy",
   "state" : "Telangana",
   "name" : "Sangareddy",
-  "confirmed" : 12,
+  "confirmed" : 14,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6184,7 +6184,7 @@
   "id" : "Medak",
   "state" : "Telangana",
   "name" : "Medak",
-  "confirmed" : 8,
+  "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -6203,6 +6203,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Jangoan",
+  "state" : "Telangana",
+  "name" : "Jangoan",
+  "confirmed" : 5,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bhadradri-Kothagudem",
   "state" : "Telangana",
   "name" : "Bhadradri Kothagudem",
@@ -6213,17 +6224,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Jangoan",
-  "state" : "Telangana",
-  "name" : "Jangoan",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Jayashankar",
   "state" : "Telangana",
@@ -6258,6 +6258,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Peddapalli",
+  "state" : "Telangana",
+  "name" : "Peddapalli",
+  "confirmed" : 3,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Mulugu",
   "state" : "Telangana",
   "name" : "Mulugu",
@@ -6269,9 +6280,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Peddapalli",
+  "id" : "Mahabubabad",
   "state" : "Telangana",
-  "name" : "Peddapalli",
+  "name" : "Mahabubabad",
   "confirmed" : 2,
   "recovered" : 0,
   "deaths" : 0,
@@ -6305,17 +6316,6 @@
   "id" : "Siddipet",
   "state" : "Telangana",
   "name" : "Siddipet",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Mahabubabad",
-  "state" : "Telangana",
-  "name" : "Mahabubabad",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
