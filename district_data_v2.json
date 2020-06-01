@@ -186,20 +186,42 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Lohit",
+  "id" : "Changlang",
   "state" : "Arunachal Pradesh",
-  "name" : "Lohit",
-  "confirmed" : 1,
-  "recovered" : 2,
+  "name" : "Changlang",
+  "confirmed" : 14,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Others",
+  "id" : "Tawang",
   "state" : "Arunachal Pradesh",
-  "name" : "Others",
+  "name" : "Tawang",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Lohit",
+  "state" : "Arunachal Pradesh",
+  "name" : "Lohit",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Namsai",
+  "state" : "Arunachal Pradesh",
+  "name" : "Namsai",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
