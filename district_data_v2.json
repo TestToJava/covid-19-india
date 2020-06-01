@@ -1891,6 +1891,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Hissar",
+  "state" : "Haryana",
+  "name" : "Hissar",
+  "confirmed" : 53,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Karnal",
   "state" : "Haryana",
   "name" : "Karnal",
@@ -1902,11 +1913,22 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Rohtak",
+  "state" : "Haryana",
+  "name" : "Rohtak",
+  "confirmed" : 45,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Sirsa",
   "state" : "Haryana",
   "name" : "Sirsa",
   "confirmed" : 43,
-  "recovered" : 0,
+  "recovered" : 2356,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1924,32 +1946,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Hissar",
-  "state" : "Haryana",
-  "name" : "Hissar",
-  "confirmed" : 40,
-  "recovered" : 2309,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Bhiwani",
   "state" : "Haryana",
   "name" : "Bhiwani",
   "confirmed" : 38,
-  "recovered" : 2277,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Rohtak",
-  "state" : "Haryana",
-  "name" : "Rohtak",
-  "confirmed" : 31,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1960,7 +1960,7 @@
   "id" : "Kurukshetra",
   "state" : "Haryana",
   "name" : "Kurukshetra",
-  "confirmed" : 31,
+  "confirmed" : 35,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1971,6 +1971,17 @@
   "id" : "Jind",
   "state" : "Haryana",
   "name" : "Jind",
+  "confirmed" : 29,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Kaithal",
+  "state" : "Haryana",
+  "name" : "Kaithal",
   "confirmed" : 29,
   "recovered" : 0,
   "deaths" : 0,
@@ -2016,17 +2027,6 @@
   "state" : "Haryana",
   "name" : "Fatehabad",
   "confirmed" : 19,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kaithal",
-  "state" : "Haryana",
-  "name" : "Kaithal",
-  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
