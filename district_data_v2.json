@@ -255,7 +255,7 @@
   "id" : "Golaghat",
   "state" : "Assam",
   "name" : "Golaghat",
-  "confirmed" : 179,
+  "confirmed" : 189,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -285,6 +285,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Airport-Quarantine",
+  "state" : "Assam",
+  "name" : "Airport Quarantine",
+  "confirmed" : 60,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Kokrajhar",
   "state" : "Assam",
   "name" : "Kokrajhar",
@@ -307,16 +318,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Airport-Quarantine",
+  "id" : "Nagaon",
   "state" : "Assam",
-  "name" : "Airport Quarantine",
+  "name" : "Nagaon",
   "confirmed" : 55,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Karimganj",
   "state" : "Assam",
@@ -373,17 +384,6 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Nagaon",
-  "state" : "Assam",
-  "name" : "Nagaon",
-  "confirmed" : 43,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Goalpara",
   "state" : "Assam",
   "name" : "Goalpara",
@@ -410,7 +410,7 @@
   "state" : "Assam",
   "name" : "Dibrugarh",
   "confirmed" : 36,
-  "recovered" : 1484,
+  "recovered" : 1512,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -453,7 +453,7 @@
   "id" : "Jorhat",
   "state" : "Assam",
   "name" : "Jorhat",
-  "confirmed" : 22,
+  "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
