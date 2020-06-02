@@ -4348,7 +4348,7 @@
   "state" : "Mizoram",
   "name" : "Aizawl",
   "confirmed" : 1,
-  "recovered" : 0,
+  "recovered" : 1,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
