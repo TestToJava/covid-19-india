@@ -6944,7 +6944,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Kheri",
   "confirmed" : 69,
-  "recovered" : 8722,
+  "recovered" : 8729,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6955,7 +6955,7 @@
   "state" : "Uttar Pradesh",
   "name" : "Gonda",
   "confirmed" : 68,
-  "recovered" : 8663,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -7270,21 +7270,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Banda",
-  "state" : "Uttar Pradesh",
-  "name" : "Banda",
-  "confirmed" : 25,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Kushinagar",
   "state" : "Uttar Pradesh",
   "name" : "Kushinagar",
-  "confirmed" : 24,
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7302,6 +7291,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Banda",
+  "state" : "Uttar Pradesh",
+  "name" : "Banda",
+  "confirmed" : 25,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Kanpur-Dehat",
   "state" : "Uttar Pradesh",
