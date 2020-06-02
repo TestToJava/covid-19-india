@@ -410,7 +410,7 @@
   "state" : "Assam",
   "name" : "Dibrugarh",
   "confirmed" : 36,
-  "recovered" : 1512,
+  "recovered" : 1525,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -432,6 +432,17 @@
   "state" : "Assam",
   "name" : "Chirang",
   "confirmed" : 32,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Biswanath",
+  "state" : "Assam",
+  "name" : "Biswanath",
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -516,9 +527,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Biswanath",
+  "id" : "Darrang",
   "state" : "Assam",
-  "name" : "Biswanath",
+  "name" : "Darrang",
   "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
@@ -527,9 +538,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Darrang",
+  "id" : "West-Karbi-Anglong",
   "state" : "Assam",
-  "name" : "Darrang",
+  "name" : "West Karbi Anglong",
   "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
@@ -581,17 +592,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "West-Karbi-Anglong",
-  "state" : "Assam",
-  "name" : "West Karbi Anglong",
-  "confirmed" : 4,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "South-Salmara-Mancachar",
   "state" : "Assam",
