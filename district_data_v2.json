@@ -197,22 +197,33 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Others",
+  "id" : "Itanagar-Capital-Region",
   "state" : "Arunachal Pradesh",
-  "name" : "Others",
-  "confirmed" : 3,
+  "name" : "Itanagar Capital Region",
+  "confirmed" : 7,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "GREEN"
 }, {
   "id" : "Lohit",
   "state" : "Arunachal Pradesh",
   "name" : "Lohit",
+  "confirmed" : 2,
+  "recovered" : 29,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Upper-Siang",
+  "state" : "Arunachal Pradesh",
+  "name" : "Upper Siang",
   "confirmed" : 1,
-  "recovered" : 23,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -7670,17 +7681,6 @@
   "state" : "West Bengal",
   "name" : "Paschim Medinipur",
   "confirmed" : 52,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Darjeeling",
-  "state" : "West Bengal",
-  "name" : "Darjeeling",
-  "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
