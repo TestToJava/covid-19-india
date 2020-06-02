@@ -1042,7 +1042,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Bilaspur",
   "state" : "Chhattisgarh",
@@ -1053,7 +1053,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Korba",
   "state" : "Chhattisgarh",
@@ -1064,7 +1064,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
   "id" : "Jashpur",
   "state" : "Chhattisgarh",
@@ -1075,7 +1075,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Rajnandgaon",
   "state" : "Chhattisgarh",
@@ -1086,7 +1086,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Balod",
   "state" : "Chhattisgarh",
@@ -1097,7 +1097,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Korea",
   "state" : "Chhattisgarh",
@@ -1108,7 +1108,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Baloda-Bazar",
   "state" : "Chhattisgarh",
@@ -1119,7 +1119,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Kanker",
   "state" : "Chhattisgarh",
@@ -1130,7 +1130,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Mahasamud",
   "state" : "Chhattisgarh",
@@ -1141,7 +1141,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Bametara",
   "state" : "Chhattisgarh",
@@ -1152,7 +1152,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Raigarh",
   "state" : "Chhattisgarh",
@@ -1163,7 +1163,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Kawardha",
   "state" : "Chhattisgarh",
@@ -1174,7 +1174,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Raipur",
   "state" : "Chhattisgarh",
@@ -1185,7 +1185,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "NONE"
 }, {
   "id" : "Balrampur",
   "state" : "Chhattisgarh",
@@ -1196,7 +1196,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Janjgir-Champa",
   "state" : "Chhattisgarh",
@@ -1207,7 +1207,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Durg",
   "state" : "Chhattisgarh",
@@ -1218,7 +1218,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Surguja",
   "state" : "Chhattisgarh",
@@ -1229,7 +1229,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Surajpur",
   "state" : "Chhattisgarh",
@@ -1240,7 +1240,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Dhamtari",
   "state" : "Chhattisgarh",
@@ -1251,7 +1251,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Gariaband",
   "state" : "Chhattisgarh",
@@ -1262,7 +1262,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Gaurela-Pendra-Marwahi",
   "state" : "Chhattisgarh",
@@ -1273,7 +1273,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Bastar",
   "state" : "Chhattisgarh",
@@ -1284,7 +1284,7 @@
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "NONE"
 }, {
   "id" : "Dadra-and-Nagar-Haveli",
   "state" : "Dadra and Nagar Haveli",
@@ -1432,8 +1432,8 @@
   "id" : "Others",
   "state" : "Goa",
   "name" : "Others",
-  "confirmed" : 47,
-  "recovered" : 73,
+  "confirmed" : 53,
+  "recovered" : 79,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
