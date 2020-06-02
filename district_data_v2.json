@@ -6185,7 +6185,7 @@
   "state" : "Telangana",
   "name" : "Mahabubnagar",
   "confirmed" : 17,
-  "recovered" : 2877,
+  "recovered" : 2878,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6196,7 +6196,7 @@
   "state" : "Telangana",
   "name" : "Sangareddy",
   "confirmed" : 15,
-  "recovered" : 0,
+  "recovered" : 2879,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -6335,6 +6335,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Siddipet",
+  "state" : "Telangana",
+  "name" : "Siddipet",
+  "confirmed" : 2,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Wanaparthy",
   "state" : "Telangana",
   "name" : "Wanaparthy",
@@ -6357,9 +6368,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Siddipet",
+  "id" : "Yadadri",
   "state" : "Telangana",
-  "name" : "Siddipet",
+  "name" : "Yadadri",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -6368,9 +6379,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Yadadri",
+  "id" : "Mancherial",
   "state" : "Telangana",
-  "name" : "Yadadri",
+  "name" : "Mancherial",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -7676,15 +7687,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Jhargram",
-  "state" : "West Bengal",
-  "name" : "Jhargram",
-  "confirmed" : 6,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 } ]
