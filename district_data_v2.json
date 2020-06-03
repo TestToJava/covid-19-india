@@ -7523,65 +7523,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Alipurduar",
+  "id" : "Kolkata",
   "state" : "West Bengal",
-  "name" : "Alipurduar",
-  "confirmed" : 8,
+  "name" : "Kolkata",
+  "confirmed" : 2394,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "RED"
 }, {
-  "id" : "Bankura",
+  "id" : "Howrah",
   "state" : "West Bengal",
-  "name" : "Bankura",
-  "confirmed" : 71,
+  "name" : "Howrah",
+  "confirmed" : 1214,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "RED"
 }, {
-  "id" : "Birbhum",
+  "id" : "North-24-Parganas",
   "state" : "West Bengal",
-  "name" : "Birbhum",
-  "confirmed" : 167,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Coochbehar",
-  "state" : "West Bengal",
-  "name" : "Coochbehar",
-  "confirmed" : 132,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Dakshin-Dinajpur",
-  "state" : "West Bengal",
-  "name" : "Dakshin Dinajpur",
-  "confirmed" : 40,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Darjeeling",
-  "state" : "West Bengal",
-  "name" : "Darjeeling",
-  "confirmed" : 50,
+  "name" : "North 24 Parganas",
+  "confirmed" : 869,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7600,10 +7567,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Howrah",
+  "id" : "South-24-Parganas",
   "state" : "West Bengal",
-  "name" : "Howrah",
-  "confirmed" : 1214,
+  "name" : "South 24 Parganas",
+  "confirmed" : 206,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7611,21 +7578,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Jalpaiguri",
+  "id" : "Birbhum",
   "state" : "West Bengal",
-  "name" : "Jalpaiguri",
-  "confirmed" : 18,
+  "name" : "Birbhum",
+  "confirmed" : 167,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Jhargram",
+  "id" : "Uttar-Dinajpur",
   "state" : "West Bengal",
-  "name" : "Jhargram",
-  "confirmed" : 6,
+  "name" : "Uttar Dinajpur",
+  "confirmed" : 166,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7633,32 +7600,32 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kalimpong",
-  "state" : "West Bengal",
-  "name" : "Kalimpong",
-  "confirmed" : 9,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Kolkata",
-  "state" : "West Bengal",
-  "name" : "Kolkata",
-  "confirmed" : 2394,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Malda",
   "state" : "West Bengal",
   "name" : "Malda",
   "confirmed" : 153,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Coochbehar",
+  "state" : "West Bengal",
+  "name" : "Coochbehar",
+  "confirmed" : 132,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Purba-Medinipur",
+  "state" : "West Bengal",
+  "name" : "Purba Medinipur",
+  "confirmed" : 117,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7677,6 +7644,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Purba-Bardhaman",
+  "state" : "West Bengal",
+  "name" : "Purba Bardhaman",
+  "confirmed" : 105,
+  "recovered" : 6508,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Nadia",
   "state" : "West Bengal",
   "name" : "Nadia",
@@ -7687,4 +7665,26 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Bankura",
+  "state" : "West Bengal",
+  "name" : "Bankura",
+  "confirmed" : 71,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Others",
+  "state" : "West Bengal",
+  "name" : "Others",
+  "confirmed" : 60,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
 } ]
