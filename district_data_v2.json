@@ -35,7 +35,7 @@
   "id" : "Others-States",
   "state" : "Andhra Pradesh",
   "name" : "Others States",
-  "confirmed" : 573,
+  "confirmed" : 616,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -91,7 +91,7 @@
   "state" : "Andhra Pradesh",
   "name" : "East Godavari",
   "confirmed" : 252,
-  "recovered" : 4065,
+  "recovered" : 4112,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -164,6 +164,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Vizianagaram",
+  "state" : "Andhra Pradesh",
+  "name" : "Vizianagaram",
+  "confirmed" : 30,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Srikakulam",
   "state" : "Andhra Pradesh",
   "name" : "Srikakulam",
@@ -174,17 +185,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Vizianagaram",
-  "state" : "Andhra Pradesh",
-  "name" : "Vizianagaram",
-  "confirmed" : 26,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Changlang",
   "state" : "Arunachal Pradesh",
