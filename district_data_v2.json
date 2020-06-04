@@ -2738,6 +2738,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Udupi",
+  "state" : "Karnataka",
+  "name" : "Udupi",
+  "confirmed" : 564,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
@@ -2749,21 +2760,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Udupi",
-  "state" : "Karnataka",
-  "name" : "Udupi",
-  "confirmed" : 472,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Bengaluru",
   "state" : "Karnataka",
   "name" : "Bengaluru",
-  "confirmed" : 417,
+  "confirmed" : 424,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2771,10 +2771,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Raichur",
+  "state" : "Karnataka",
+  "name" : "Raichur",
+  "confirmed" : 356,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Mandya",
   "state" : "Karnataka",
   "name" : "Mandya",
-  "confirmed" : 302,
+  "confirmed" : 317,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2793,21 +2804,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Raichur",
-  "state" : "Karnataka",
-  "name" : "Raichur",
-  "confirmed" : 268,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
   "id" : "Belagavi",
   "state" : "Karnataka",
   "name" : "Belagavi",
-  "confirmed" : 211,
+  "confirmed" : 222,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2896,7 +2896,7 @@
   "state" : "Karnataka",
   "name" : "Bagalakote",
   "confirmed" : 90,
-  "recovered" : 4063,
+  "recovered" : 4276,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
