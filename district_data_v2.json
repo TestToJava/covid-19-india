@@ -212,7 +212,7 @@
   "state" : "Arunachal Pradesh",
   "name" : "Namsai",
   "confirmed" : 2,
-  "recovered" : 41,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -222,8 +222,8 @@
   "id" : "Lohit",
   "state" : "Arunachal Pradesh",
   "name" : "Lohit",
-  "confirmed" : 1,
-  "recovered" : 42,
+  "confirmed" : 2,
+  "recovered" : 43,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -233,6 +233,17 @@
   "id" : "Upper-Siang",
   "state" : "Arunachal Pradesh",
   "name" : "Upper Siang",
+  "confirmed" : 1,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "West-Siang",
+  "state" : "Arunachal Pradesh",
+  "name" : "West Siang",
   "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
@@ -7676,15 +7687,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Malda",
-  "state" : "West Bengal",
-  "name" : "Malda",
-  "confirmed" : 158,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 } ]
