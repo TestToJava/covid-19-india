@@ -35,7 +35,7 @@
   "id" : "Others-States",
   "state" : "Andhra Pradesh",
   "name" : "Others States",
-  "confirmed" : 616,
+  "confirmed" : 700,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -65,6 +65,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Nellore",
+  "state" : "Andhra Pradesh",
+  "name" : "Nellore",
+  "confirmed" : 288,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Chittoor",
   "state" : "Andhra Pradesh",
   "name" : "Chittoor",
@@ -76,22 +87,11 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Nellore",
-  "state" : "Andhra Pradesh",
-  "name" : "Nellore",
-  "confirmed" : 283,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Anantapur",
   "state" : "Andhra Pradesh",
   "name" : "Anantapur",
   "confirmed" : 255,
-  "recovered" : 4157,
+  "recovered" : 4250,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -102,7 +102,7 @@
   "state" : "Andhra Pradesh",
   "name" : "East Godavari",
   "confirmed" : 253,
-  "recovered" : 4112,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -134,7 +134,7 @@
   "id" : "Foreign-Returnees",
   "state" : "Andhra Pradesh",
   "name" : "Foreign Returnees",
-  "confirmed" : 119,
+  "confirmed" : 123,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
