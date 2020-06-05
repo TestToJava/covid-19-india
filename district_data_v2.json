@@ -4534,7 +4534,18 @@
   "id" : "Ganjam",
   "state" : "Odisha",
   "name" : "Ganjam",
-  "confirmed" : 521,
+  "confirmed" : 533,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Bhubaneswar",
+  "state" : "Odisha",
+  "name" : "Bhubaneswar",
+  "confirmed" : 293,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4674,22 +4685,11 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Bhubaneswar",
-  "state" : "Odisha",
-  "name" : "Bhubaneswar",
-  "confirmed" : 55,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Gajapati",
   "state" : "Odisha",
   "name" : "Gajapati",
   "confirmed" : 44,
-  "recovered" : 2478,
+  "recovered" : 2728,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4740,17 +4740,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Keonjhar",
-  "state" : "Odisha",
-  "name" : "Keonjhar",
-  "confirmed" : 30,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Angul",
   "state" : "Odisha",
   "name" : "Angul",
@@ -4762,21 +4751,21 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Subarnapur",
+  "id" : "Keonjhar",
   "state" : "Odisha",
-  "name" : "Subarnapur",
-  "confirmed" : 25,
+  "name" : "Keonjhar",
+  "confirmed" : 30,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "GREEN"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Kandhamal",
+  "id" : "Subarnapur",
   "state" : "Odisha",
-  "name" : "Kandhamal",
-  "confirmed" : 22,
+  "name" : "Subarnapur",
+  "confirmed" : 25,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4794,6 +4783,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Kandhamal",
+  "state" : "Odisha",
+  "name" : "Kandhamal",
+  "confirmed" : 22,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Malkangiri",
   "state" : "Odisha",
