@@ -4700,7 +4700,7 @@
   "state" : "Odisha",
   "name" : "Gajapati",
   "confirmed" : 51,
-  "recovered" : 2563,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
