@@ -4223,10 +4223,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Imphal-West",
+  "id" : "Churachandpur",
   "state" : "Manipur",
-  "name" : "Imphal West",
-  "confirmed" : 21,
+  "name" : "Churachandpur",
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4234,9 +4234,9 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Churachandpur",
+  "id" : "Imphal-West",
   "state" : "Manipur",
-  "name" : "Churachandpur",
+  "name" : "Imphal West",
   "confirmed" : 21,
   "recovered" : 0,
   "deaths" : 0,
@@ -4282,7 +4282,7 @@
   "state" : "Manipur",
   "name" : "Ukhrul",
   "confirmed" : 5,
-  "recovered" : 124,
+  "recovered" : 129,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
