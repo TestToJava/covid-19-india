@@ -4542,9 +4542,9 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Bhubaneswar",
+  "id" : "Jajapur",
   "state" : "Odisha",
-  "name" : "Bhubaneswar",
+  "name" : "Jajapur",
   "confirmed" : 293,
   "recovered" : 0,
   "deaths" : 0,
@@ -4553,16 +4553,16 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Jajapur",
+  "id" : "Khordha",
   "state" : "Odisha",
-  "name" : "Jajapur",
-  "confirmed" : 290,
+  "name" : "Khordha",
+  "confirmed" : 217,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
   "id" : "Baleswar",
   "state" : "Odisha",
@@ -4578,7 +4578,7 @@
   "id" : "Kendrapara",
   "state" : "Odisha",
   "name" : "Kendrapara",
-  "confirmed" : 161,
+  "confirmed" : 163,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4586,16 +4586,16 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Khordha",
+  "id" : "Cuttack",
   "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 140,
+  "name" : "Cuttack",
+  "confirmed" : 154,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "GREEN"
 }, {
   "id" : "Bhadrak",
   "state" : "Odisha",
@@ -4607,17 +4607,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Cuttack",
-  "state" : "Odisha",
-  "name" : "Cuttack",
-  "confirmed" : 131,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Bolangir",
   "state" : "Odisha",
@@ -4685,11 +4674,22 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Bhubaneswar",
+  "state" : "Odisha",
+  "name" : "Bhubaneswar",
+  "confirmed" : 55,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Gajapati",
   "state" : "Odisha",
   "name" : "Gajapati",
-  "confirmed" : 44,
-  "recovered" : 2728,
+  "confirmed" : 51,
+  "recovered" : 2602,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
