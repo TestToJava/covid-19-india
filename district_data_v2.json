@@ -4237,7 +4237,7 @@
   "id" : "Imphal-West",
   "state" : "Manipur",
   "name" : "Imphal West",
-  "confirmed" : 21,
+  "confirmed" : 23,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4278,11 +4278,22 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kamjong",
+  "state" : "Manipur",
+  "name" : "Kamjong",
+  "confirmed" : 6,
+  "recovered" : 142,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Ukhrul",
   "state" : "Manipur",
   "name" : "Ukhrul",
-  "confirmed" : 5,
-  "recovered" : 134,
+  "confirmed" : 6,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -4355,10 +4366,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kamjong",
+  "id" : "Jiribam",
   "state" : "Manipur",
-  "name" : "Kamjong",
-  "confirmed" : 2,
+  "name" : "Jiribam",
+  "confirmed" : 1,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -7676,15 +7687,4 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Uttar-Dinajpur",
-  "state" : "West Bengal",
-  "name" : "Uttar Dinajpur",
-  "confirmed" : 202,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 } ]
