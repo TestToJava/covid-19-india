@@ -4212,10 +4212,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Others",
+  "id" : "Churachandpur",
   "state" : "Manipur",
-  "name" : "Others",
-  "confirmed" : 26,
+  "name" : "Churachandpur",
+  "confirmed" : 30,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4223,10 +4223,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Churachandpur",
+  "id" : "Others",
   "state" : "Manipur",
-  "name" : "Churachandpur",
-  "confirmed" : 26,
+  "name" : "Others",
+  "confirmed" : 27,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -4282,7 +4282,7 @@
   "state" : "Manipur",
   "name" : "Ukhrul",
   "confirmed" : 5,
-  "recovered" : 129,
+  "recovered" : 134,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
