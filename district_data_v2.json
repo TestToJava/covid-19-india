@@ -2907,7 +2907,7 @@
   "state" : "Karnataka",
   "name" : "Uttara Kannada",
   "confirmed" : 92,
-  "recovered" : 4833,
+  "recovered" : 4835,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3024,10 +3024,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Chikkamagaluru",
+  "id" : "Haveri",
   "state" : "Karnataka",
-  "name" : "Chikkamagaluru",
-  "confirmed" : 18,
+  "name" : "Haveri",
+  "confirmed" : 19,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -3035,10 +3035,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Haveri",
+  "id" : "Chikkamagaluru",
   "state" : "Karnataka",
-  "name" : "Haveri",
-  "confirmed" : 17,
+  "name" : "Chikkamagaluru",
+  "confirmed" : 18,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
