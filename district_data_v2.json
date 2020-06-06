@@ -310,8 +310,8 @@
   "id" : "Hojai",
   "state" : "Assam",
   "name" : "Hojai",
-  "confirmed" : 158,
-  "recovered" : 0,
+  "confirmed" : 198,
+  "recovered" : 40,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -332,7 +332,7 @@
   "id" : "Nagaon",
   "state" : "Assam",
   "name" : "Nagaon",
-  "confirmed" : 90,
+  "confirmed" : 97,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -376,7 +376,7 @@
   "id" : "Barpeta",
   "state" : "Assam",
   "name" : "Barpeta",
-  "confirmed" : 68,
+  "confirmed" : 75,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -395,6 +395,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Airport-Quarantine",
+  "state" : "Assam",
+  "name" : "Airport Quarantine",
+  "confirmed" : 66,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Udalguri",
   "state" : "Assam",
   "name" : "Udalguri",
@@ -405,17 +416,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Airport-Quarantine",
-  "state" : "Assam",
-  "name" : "Airport Quarantine",
-  "confirmed" : 62,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Kokrajhar",
   "state" : "Assam",
@@ -454,7 +454,7 @@
   "state" : "Assam",
   "name" : "Dibrugarh",
   "confirmed" : 46,
-  "recovered" : 2243,
+  "recovered" : 2319,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -464,6 +464,17 @@
   "id" : "Hailakandi",
   "state" : "Assam",
   "name" : "Hailakandi",
+  "confirmed" : 44,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Biswanath",
+  "state" : "Assam",
+  "name" : "Biswanath",
   "confirmed" : 44,
   "recovered" : 0,
   "deaths" : 0,
@@ -483,6 +494,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Dhemaji",
+  "state" : "Assam",
+  "name" : "Dhemaji",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Goalpara",
   "state" : "Assam",
   "name" : "Goalpara",
@@ -493,28 +515,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Biswanath",
-  "state" : "Assam",
-  "name" : "Biswanath",
-  "confirmed" : 40,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Dhemaji",
-  "state" : "Assam",
-  "name" : "Dhemaji",
-  "confirmed" : 34,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Chirang",
   "state" : "Assam",
@@ -530,7 +530,7 @@
   "id" : "Sonitpur",
   "state" : "Assam",
   "name" : "Sonitpur",
-  "confirmed" : 28,
+  "confirmed" : 31,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -615,6 +615,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Karbi-Anglong",
+  "state" : "Assam",
+  "name" : "Karbi Anglong",
+  "confirmed" : 10,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Others",
   "state" : "Assam",
   "name" : "Others",
@@ -625,17 +636,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "NONE"
-}, {
-  "id" : "Karbi-Anglong",
-  "state" : "Assam",
-  "name" : "Karbi Anglong",
-  "confirmed" : 8,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "South-Salmara-Mancachar",
   "state" : "Assam",
@@ -1091,7 +1091,18 @@
   "id" : "Korba",
   "state" : "Chhattisgarh",
   "name" : "Korba",
-  "confirmed" : 94,
+  "confirmed" : 97,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Baloda-Bazar",
+  "state" : "Chhattisgarh",
+  "name" : "Baloda Bazar",
+  "confirmed" : 96,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1103,17 +1114,6 @@
   "state" : "Chhattisgarh",
   "name" : "Mungeli",
   "confirmed" : 86,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Baloda-Bazar",
-  "state" : "Chhattisgarh",
-  "name" : "Baloda Bazar",
-  "confirmed" : 82,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1191,7 +1191,7 @@
   "state" : "Chhattisgarh",
   "name" : "Korea",
   "confirmed" : 39,
-  "recovered" : 902,
+  "recovered" : 920,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1275,10 +1275,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Gariaband",
+  "id" : "Surajpur",
   "state" : "Chhattisgarh",
-  "name" : "Gariaband",
-  "confirmed" : 10,
+  "name" : "Surajpur",
+  "confirmed" : 11,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1286,9 +1286,9 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Surajpur",
+  "id" : "Gariaband",
   "state" : "Chhattisgarh",
-  "name" : "Surajpur",
+  "name" : "Gariaband",
   "confirmed" : 10,
   "recovered" : 0,
   "deaths" : 0,
