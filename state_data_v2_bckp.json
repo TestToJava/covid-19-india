@@ -175,12 +175,12 @@
   "recovered" : "435",
   "state" : "Jharkhand"
 }, {
-  "active" : "630",
-  "confirmed" : "863",
+  "active" : "661",
+  "confirmed" : "902",
   "deaths" : "2",
   "delta" : null,
   "lastupdatedtime" : "2020-06-05T22:45:01.328",
-  "recovered" : "231",
+  "recovered" : "239",
   "state" : "Chhattisgarh"
 }, {
   "active" : "520",
