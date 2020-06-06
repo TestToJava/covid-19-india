@@ -1946,6 +1946,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Karnal",
+  "state" : "Haryana",
+  "name" : "Karnal",
+  "confirmed" : 91,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Nuh",
   "state" : "Haryana",
   "name" : "Nuh",
@@ -1968,10 +1979,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Karnal",
+  "id" : "Ambala",
   "state" : "Haryana",
-  "name" : "Karnal",
-  "confirmed" : 81,
+  "name" : "Ambala",
+  "confirmed" : 80,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1990,22 +2001,11 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Ambala",
-  "state" : "Haryana",
-  "name" : "Ambala",
-  "confirmed" : 77,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Panipat",
   "state" : "Haryana",
   "name" : "Panipat",
-  "confirmed" : 71,
-  "recovered" : 3912,
+  "confirmed" : 72,
+  "recovered" : 3938,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2026,7 +2026,7 @@
   "id" : "Sirsa",
   "state" : "Haryana",
   "name" : "Sirsa",
-  "confirmed" : 50,
+  "confirmed" : 51,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2037,7 +2037,7 @@
   "id" : "Kurukshetra",
   "state" : "Haryana",
   "name" : "Kurukshetra",
-  "confirmed" : 49,
+  "confirmed" : 51,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2056,6 +2056,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kaithal",
+  "state" : "Haryana",
+  "name" : "Kaithal",
+  "confirmed" : 43,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Jind",
   "state" : "Haryana",
   "name" : "Jind",
@@ -2071,17 +2082,6 @@
   "state" : "Haryana",
   "name" : "Charki Dadri",
   "confirmed" : 35,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kaithal",
-  "state" : "Haryana",
-  "name" : "Kaithal",
-  "confirmed" : 34,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
