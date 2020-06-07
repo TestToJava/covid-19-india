@@ -2774,7 +2774,7 @@
   "id" : "Udupi",
   "state" : "Karnataka",
   "name" : "Udupi",
-  "confirmed" : 889,
+  "confirmed" : 902,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2785,7 +2785,7 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 621,
+  "confirmed" : 660,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2796,7 +2796,7 @@
   "id" : "Yadagiri",
   "state" : "Karnataka",
   "name" : "Yadagiri",
-  "confirmed" : 476,
+  "confirmed" : 515,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2807,7 +2807,7 @@
   "id" : "Bengaluru",
   "state" : "Karnataka",
   "name" : "Bengaluru",
-  "confirmed" : 452,
+  "confirmed" : 475,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2840,7 +2840,7 @@
   "id" : "Belagavi",
   "state" : "Karnataka",
   "name" : "Belagavi",
-  "confirmed" : 263,
+  "confirmed" : 301,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2851,7 +2851,7 @@
   "id" : "Bidar",
   "state" : "Karnataka",
   "name" : "Bidar",
-  "confirmed" : 215,
+  "confirmed" : 222,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2870,10 +2870,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Vijayapura",
+  "id" : "Davanagere",
   "state" : "Karnataka",
-  "name" : "Vijayapura",
-  "confirmed" : 193,
+  "name" : "Davanagere",
+  "confirmed" : 203,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2881,10 +2881,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Davanagere",
+  "id" : "Vijayapura",
   "state" : "Karnataka",
-  "name" : "Davanagere",
-  "confirmed" : 186,
+  "name" : "Vijayapura",
+  "confirmed" : 202,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2895,7 +2895,7 @@
   "id" : "Dakshina-Kannada",
   "state" : "Karnataka",
   "name" : "Dakshina Kannada",
-  "confirmed" : 167,
+  "confirmed" : 184,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -2929,7 +2929,7 @@
   "state" : "Karnataka",
   "name" : "Uttara Kannada",
   "confirmed" : 94,
-  "recovered" : 5213,
+  "recovered" : 5438,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2947,6 +2947,28 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Shimoga",
+  "state" : "Karnataka",
+  "name" : "Shimoga",
+  "confirmed" : 65,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Ballari",
+  "state" : "Karnataka",
+  "name" : "Ballari",
+  "confirmed" : 60,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Dharwad",
   "state" : "Karnataka",
   "name" : "Dharwad",
@@ -2957,28 +2979,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Ballari",
-  "state" : "Karnataka",
-  "name" : "Ballari",
-  "confirmed" : 54,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Shimoga",
-  "state" : "Karnataka",
-  "name" : "Shimoga",
-  "confirmed" : 53,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Gadag",
   "state" : "Karnataka",
@@ -3002,6 +3002,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Bengaluru-Rural",
+  "state" : "Karnataka",
+  "name" : "Bengaluru Rural",
+  "confirmed" : 36,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Others",
   "state" : "Karnataka",
   "name" : "Others",
@@ -3023,17 +3034,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Bengaluru-Rural",
-  "state" : "Karnataka",
-  "name" : "Bengaluru Rural",
-  "confirmed" : 31,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Kolar",
   "state" : "Karnataka",
