@@ -5591,7 +5591,7 @@
   "state" : "Rajasthan",
   "name" : "Jhunjhunu",
   "confirmed" : 161,
-  "recovered" : 10338,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -5602,7 +5602,7 @@
   "state" : "Rajasthan",
   "name" : "Rajsamand",
   "confirmed" : 161,
-  "recovered" : 10383,
+  "recovered" : 10385,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -5752,6 +5752,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Others",
+  "state" : "Rajasthan",
+  "name" : "Others",
+  "confirmed" : 30,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Karauli",
   "state" : "Rajasthan",
   "name" : "Karauli",
@@ -5762,17 +5773,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Others",
-  "state" : "Rajasthan",
-  "name" : "Others",
-  "confirmed" : 28,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Pratapgarh",
   "state" : "Rajasthan",
