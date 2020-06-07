@@ -21,21 +21,21 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Anantapur",
+  "id" : "Others-States",
   "state" : "Andhra Pradesh",
-  "name" : "Anantapur",
-  "confirmed" : 274,
-  "recovered" : 4460,
+  "name" : "Others States",
+  "confirmed" : 810,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
-  "id" : "Chittoor",
+  "id" : "Kurnool",
   "state" : "Andhra Pradesh",
-  "name" : "Chittoor",
-  "confirmed" : 298,
+  "name" : "Kurnool",
+  "confirmed" : 772,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -43,10 +43,87 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Guntur",
+  "state" : "Andhra Pradesh",
+  "name" : "Guntur",
+  "confirmed" : 558,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Krishna",
+  "state" : "Andhra Pradesh",
+  "name" : "Krishna",
+  "confirmed" : 551,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Nellore",
+  "state" : "Andhra Pradesh",
+  "name" : "Nellore",
+  "confirmed" : 335,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Chittoor",
+  "state" : "Andhra Pradesh",
+  "name" : "Chittoor",
+  "confirmed" : 299,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Anantapur",
+  "state" : "Andhra Pradesh",
+  "name" : "Anantapur",
+  "confirmed" : 288,
+  "recovered" : 4659,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "East-Godavari",
   "state" : "Andhra Pradesh",
   "name" : "East Godavari",
-  "confirmed" : 272,
+  "confirmed" : 275,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "West-Godavari",
+  "state" : "Andhra Pradesh",
+  "name" : "West Godavari",
+  "confirmed" : 188,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Kadapa",
+  "state" : "Andhra Pradesh",
+  "name" : "Kadapa",
+  "confirmed" : 164,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -65,71 +142,16 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Guntur",
+  "id" : "Visakhapatnam",
   "state" : "Andhra Pradesh",
-  "name" : "Guntur",
-  "confirmed" : 556,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Kadapa",
-  "state" : "Andhra Pradesh",
-  "name" : "Kadapa",
-  "confirmed" : 150,
+  "name" : "Visakhapatnam",
+  "confirmed" : 128,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Krishna",
-  "state" : "Andhra Pradesh",
-  "name" : "Krishna",
-  "confirmed" : 526,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Kurnool",
-  "state" : "Andhra Pradesh",
-  "name" : "Kurnool",
-  "confirmed" : 762,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Nellore",
-  "state" : "Andhra Pradesh",
-  "name" : "Nellore",
-  "confirmed" : 304,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Others-States",
-  "state" : "Andhra Pradesh",
-  "name" : "Others States",
-  "confirmed" : 741,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Prakasam",
   "state" : "Andhra Pradesh",
@@ -142,32 +164,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Srikakulam",
-  "state" : "Andhra Pradesh",
-  "name" : "Srikakulam",
-  "confirmed" : 31,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Visakhapatnam",
-  "state" : "Andhra Pradesh",
-  "name" : "Visakhapatnam",
-  "confirmed" : 111,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Vizianagaram",
   "state" : "Andhra Pradesh",
   "name" : "Vizianagaram",
-  "confirmed" : 37,
+  "confirmed" : 43,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -175,10 +175,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "West-Godavari",
+  "id" : "Srikakulam",
   "state" : "Andhra Pradesh",
-  "name" : "West Godavari",
-  "confirmed" : 182,
+  "name" : "Srikakulam",
+  "confirmed" : 32,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
