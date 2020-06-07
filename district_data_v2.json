@@ -740,7 +740,7 @@
   "state" : "Bihar",
   "name" : "Munger",
   "confirmed" : 182,
-  "recovered" : 0,
+  "recovered" : 15,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
