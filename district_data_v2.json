@@ -3049,7 +3049,7 @@
   "id" : "Unassigned",
   "state" : "State Unassigned",
   "name" : "Unassigned",
-  "confirmed" : 8829,
+  "confirmed" : 7477,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
