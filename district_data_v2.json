@@ -6126,17 +6126,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
-  "state" : "Madhya Pradesh",
-  "name" : "Others",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Aizawl",
   "state" : "Mizoram",
   "name" : "Aizawl",
