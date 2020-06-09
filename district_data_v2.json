@@ -971,7 +971,7 @@
   "state" : "Himachal Pradesh",
   "name" : "Chamba",
   "confirmed" : 32,
-  "recovered" : 421,
+  "recovered" : 429,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1000,10 +1000,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Shimla",
+  "id" : "Sirmour",
   "state" : "Himachal Pradesh",
-  "name" : "Shimla",
-  "confirmed" : 13,
+  "name" : "Sirmour",
+  "confirmed" : 20,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1011,10 +1011,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sirmour",
+  "id" : "Shimla",
   "state" : "Himachal Pradesh",
-  "name" : "Sirmour",
-  "confirmed" : 12,
+  "name" : "Shimla",
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
