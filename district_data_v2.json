@@ -3060,7 +3060,7 @@
   "id" : "Unassigned",
   "state" : "State Unassigned",
   "name" : "Unassigned",
-  "confirmed" : 7477,
+  "confirmed" : 8443,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
