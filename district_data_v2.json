@@ -6467,9 +6467,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Ferozepur",
+  "id" : "Firozpur",
   "state" : "Punjab",
-  "name" : "Ferozepur",
+  "name" : "Firozpur",
   "confirmed" : 46,
   "recovered" : null,
   "deaths" : null,
@@ -6621,9 +6621,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Sri-Muktsar-Sahib",
+  "id" : "Muktsar",
   "state" : "Punjab",
-  "name" : "Sri Muktsar Sahib",
+  "name" : "Muktsar",
   "confirmed" : 71,
   "recovered" : null,
   "deaths" : null,
