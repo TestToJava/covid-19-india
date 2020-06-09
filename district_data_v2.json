@@ -3123,6 +3123,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Others",
+  "state" : "Andaman and Nicobar Islands",
+  "name" : "Others",
+  "confirmed" : 1,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Foreign-Evacuees",
   "state" : "Andhra Pradesh",
   "name" : "Foreign Evacuees",
@@ -4127,7 +4138,7 @@
   "id" : "Others",
   "state" : "Delhi",
   "name" : "Others",
-  "confirmed" : 29155,
+  "confirmed" : 30521,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
