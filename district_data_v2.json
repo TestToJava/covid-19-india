@@ -1850,7 +1850,7 @@
   "id" : "Kendrapara",
   "state" : "Odisha",
   "name" : "Kendrapara",
-  "confirmed" : 167,
+  "confirmed" : 169,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1961,7 +1961,7 @@
   "state" : "Odisha",
   "name" : "NDRF/ODRAF returned from West Bengal",
   "confirmed" : 61,
-  "recovered" : 3132,
+  "recovered" : 3140,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1993,6 +1993,17 @@
   "id" : "Dhenkanal",
   "state" : "Odisha",
   "name" : "Dhenkanal",
+  "confirmed" : 39,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Deogarh",
+  "state" : "Odisha",
+  "name" : "Deogarh",
   "confirmed" : 38,
   "recovered" : 0,
   "deaths" : 0,
@@ -2033,17 +2044,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Deogarh",
-  "state" : "Odisha",
-  "name" : "Deogarh",
-  "confirmed" : 33,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Kalahandi",
   "state" : "Odisha",
