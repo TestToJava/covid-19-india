@@ -3126,7 +3126,7 @@
   "id" : "Others",
   "state" : "Andaman and Nicobar Islands",
   "name" : "Others",
-  "confirmed" : 1,
+  "confirmed" : 2,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
