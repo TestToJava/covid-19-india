@@ -4179,6 +4179,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Others",
+  "state" : "Dadra and Nagar Haveli and Daman and Diu",
+  "name" : "Others",
+  "confirmed" : 5,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "North-Goa",
   "state" : "Goa",
   "name" : "North Goa",
