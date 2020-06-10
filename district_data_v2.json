@@ -1322,7 +1322,7 @@
   "id" : "Kalaburagi",
   "state" : "Karnataka",
   "name" : "Kalaburagi",
-  "confirmed" : 769,
+  "confirmed" : 780,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1333,7 +1333,7 @@
   "id" : "Yadagiri",
   "state" : "Karnataka",
   "name" : "Yadagiri",
-  "confirmed" : 642,
+  "confirmed" : 669,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1344,7 +1344,7 @@
   "id" : "Bengaluru",
   "state" : "Karnataka",
   "name" : "Bengaluru",
-  "confirmed" : 522,
+  "confirmed" : 564,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1396,6 +1396,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Vijayapura",
+  "state" : "Karnataka",
+  "name" : "Vijayapura",
+  "confirmed" : 217,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Hassan",
   "state" : "Karnataka",
   "name" : "Hassan",
@@ -1429,17 +1440,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Vijayapura",
-  "state" : "Karnataka",
-  "name" : "Vijayapura",
-  "confirmed" : 204,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Chikkaballapura",
   "state" : "Karnataka",
   "name" : "Chikkaballapura",
@@ -1466,7 +1466,7 @@
   "state" : "Karnataka",
   "name" : "Uttara Kannada",
   "confirmed" : 96,
-  "recovered" : 5921,
+  "recovered" : 6014,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
