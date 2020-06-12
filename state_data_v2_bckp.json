@@ -1,6 +1,6 @@
 [ {
-  "active" : "142202",
-  "confirmed" : "297665",
+  "active" : "142818",
+  "confirmed" : "298281",
   "deaths" : "8498",
   "delta" : null,
   "lastupdatedtime" : "2020-06-12T02:45:01.425",
@@ -72,7 +72,7 @@
   "state" : "West Bengal"
 }, {
   "active" : "0",
-  "confirmed" : "8315",
+  "confirmed" : "8931",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-06-12T02:45:01.425",
