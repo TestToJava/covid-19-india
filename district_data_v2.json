@@ -6404,7 +6404,7 @@
   "id" : "Others",
   "state" : "Nagaland",
   "name" : "Others",
-  "confirmed" : 0,
+  "confirmed" : 9,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
