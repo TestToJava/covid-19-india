@@ -3310,6 +3310,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Others",
+  "state" : "Andhra Pradesh",
+  "name" : "Others",
+  "confirmed" : 186,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Anjaw",
   "state" : "Arunachal Pradesh",
   "name" : "Anjaw",
