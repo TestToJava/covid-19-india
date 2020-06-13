@@ -4190,6 +4190,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Other-States",
+  "state" : "Goa",
+  "name" : "Other States",
+  "confirmed" : 4,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "North-Goa",
   "state" : "Goa",
   "name" : "North Goa",
@@ -4215,7 +4226,7 @@
   "id" : "Others",
   "state" : "Goa",
   "name" : "Others",
-  "confirmed" : 80,
+  "confirmed" : 76,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
