@@ -3104,7 +3104,7 @@
   "id" : "Unassigned",
   "state" : "State Unassigned",
   "name" : "Unassigned",
-  "confirmed" : 7955,
+  "confirmed" : 7407,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
