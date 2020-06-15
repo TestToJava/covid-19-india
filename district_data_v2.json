@@ -1355,7 +1355,7 @@
   "id" : "Yadagiri",
   "state" : "Karnataka",
   "name" : "Yadagiri",
-  "confirmed" : 809,
+  "confirmed" : 822,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1488,7 +1488,7 @@
   "state" : "Karnataka",
   "name" : "Chikkaballapura",
   "confirmed" : 152,
-  "recovered" : 7194,
+  "recovered" : 7213,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1616,6 +1616,17 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
+  "id" : "Ramanagara",
+  "state" : "Karnataka",
+  "name" : "Ramanagara",
+  "confirmed" : 21,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "Chikkamagaluru",
   "state" : "Karnataka",
   "name" : "Chikkamagaluru",
@@ -1627,21 +1638,10 @@
   "oldDeaths" : 0,
   "zone" : "NONE"
 }, {
-  "id" : "Ramanagara",
-  "state" : "Karnataka",
-  "name" : "Ramanagara",
-  "confirmed" : 19,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
   "id" : "Koppal",
   "state" : "Karnataka",
   "name" : "Koppal",
-  "confirmed" : 13,
+  "confirmed" : 17,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
