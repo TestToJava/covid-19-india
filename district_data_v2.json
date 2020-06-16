@@ -7204,6 +7204,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Others",
+  "state" : "Sikkim",
+  "name" : "Others",
+  "confirmed" : 0,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Foreign-Evacuees",
   "state" : "Telangana",
   "name" : "Foreign Evacuees",
