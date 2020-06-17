@@ -2962,7 +2962,7 @@
   "state" : "West Bengal",
   "name" : "Purba Medinipur",
   "confirmed" : 230,
-  "recovered" : 12250,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -2973,7 +2973,7 @@
   "state" : "West Bengal",
   "name" : "Uttar Dinajpur",
   "confirmed" : 228,
-  "recovered" : 12272,
+  "recovered" : 12300,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -3046,6 +3046,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Alipurduar",
+  "state" : "West Bengal",
+  "name" : "Alipurduar",
+  "confirmed" : 102,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Purulia",
   "state" : "West Bengal",
   "name" : "Purulia",
@@ -3061,17 +3072,6 @@
   "state" : "West Bengal",
   "name" : "Dakshin Dinajpur",
   "confirmed" : 81,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Alipurduar",
-  "state" : "West Bengal",
-  "name" : "Alipurduar",
-  "confirmed" : 74,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
