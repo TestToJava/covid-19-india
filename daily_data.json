@@ -646,5 +646,17 @@
       "confirmed":354159,
       "deaths":11916,
       "recovered":187549
+   },
+   {
+      "date":"Jun 17",
+      "confirmed":367264,
+      "deaths":12258,
+      "recovered":194441
+   },
+   {
+      "date":"Jun 18",
+      "confirmed":381091,
+      "deaths":12600,
+      "recovered":205184
    }
 ]
