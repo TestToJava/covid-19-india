@@ -2,7 +2,7 @@
   "id" : "Others",
   "state" : "Assam",
   "name" : "Others",
-  "confirmed" : 981,
+  "confirmed" : 974,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -13,7 +13,7 @@
   "id" : "Kamrup-Metropolitan",
   "state" : "Assam",
   "name" : "Kamrup Metropolitan",
-  "confirmed" : 617,
+  "confirmed" : 655,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -179,7 +179,7 @@
   "state" : "Assam",
   "name" : "Sonitpur",
   "confirmed" : 84,
-  "recovered" : 4862,
+  "recovered" : 4904,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -274,6 +274,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Chirang",
+  "state" : "Assam",
+  "name" : "Chirang",
+  "confirmed" : 52,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Morigaon",
   "state" : "Assam",
   "name" : "Morigaon",
@@ -284,17 +295,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Chirang",
-  "state" : "Assam",
-  "name" : "Chirang",
-  "confirmed" : 41,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Karbi-Anglong",
   "state" : "Assam",
