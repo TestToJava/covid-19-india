@@ -1708,7 +1708,7 @@
   "state" : "Tamil Nadu",
   "name" : "Ramanathapuram",
   "confirmed" : 222,
-  "recovered" : 52341,
+  "recovered" : 52334,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1869,9 +1869,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Pudukkottai",
+  "id" : "Sivaganga",
   "state" : "Tamil Nadu",
-  "name" : "Pudukkottai",
+  "name" : "Sivaganga",
   "confirmed" : 72,
   "recovered" : 0,
   "deaths" : 0,
@@ -1880,10 +1880,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sivaganga",
+  "id" : "Pudukkottai",
   "state" : "Tamil Nadu",
-  "name" : "Sivaganga",
-  "confirmed" : 65,
+  "name" : "Pudukkottai",
+  "confirmed" : 58,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
