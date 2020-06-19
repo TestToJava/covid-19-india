@@ -2430,6 +2430,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Others",
+  "state" : "Arunachal Pradesh",
+  "name" : "Others",
+  "confirmed" : 13,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Araria",
   "state" : "Bihar",
   "name" : "Araria",
