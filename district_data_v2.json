@@ -1982,7 +1982,7 @@
   "id" : "Others",
   "state" : "Andaman and Nicobar Islands",
   "name" : "Others",
-  "confirmed" : 9,
+  "confirmed" : 11,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
