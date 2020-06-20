@@ -4850,6 +4850,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Others",
+  "state" : "Maharashtra",
+  "name" : "Others",
+  "confirmed" : 3874,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "East-Garo-Hills",
   "state" : "Meghalaya",
   "name" : "East Garo Hills",
