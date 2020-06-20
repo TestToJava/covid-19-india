@@ -1176,6 +1176,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Khordha",
+  "state" : "Odisha",
+  "name" : "Khordha",
+  "confirmed" : 380,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Jajapur",
   "state" : "Odisha",
   "name" : "Jajapur",
@@ -1186,17 +1197,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
-}, {
-  "id" : "Khordha",
-  "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 353,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Baleswar",
   "state" : "Odisha",
@@ -1323,7 +1323,7 @@
   "state" : "Odisha",
   "name" : "Nayagarh",
   "confirmed" : 113,
-  "recovered" : 4812,
+  "recovered" : 4856,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -1374,6 +1374,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Angul",
+  "state" : "Odisha",
+  "name" : "Angul",
+  "confirmed" : 55,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Dhenkanal",
   "state" : "Odisha",
   "name" : "Dhenkanal",
@@ -1388,7 +1399,7 @@
   "id" : "Bargarh",
   "state" : "Odisha",
   "name" : "Bargarh",
-  "confirmed" : 50,
+  "confirmed" : 52,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1396,21 +1407,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Angul",
-  "state" : "Odisha",
-  "name" : "Angul",
-  "confirmed" : 49,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Malkangiri",
   "state" : "Odisha",
   "name" : "Malkangiri",
-  "confirmed" : 49,
+  "confirmed" : 51,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1421,7 +1421,7 @@
   "id" : "Deogarh",
   "state" : "Odisha",
   "name" : "Deogarh",
-  "confirmed" : 40,
+  "confirmed" : 41,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1487,7 +1487,7 @@
   "id" : "Rayagada",
   "state" : "Odisha",
   "name" : "Rayagada",
-  "confirmed" : 12,
+  "confirmed" : 17,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -1498,7 +1498,7 @@
   "id" : "Nabarangpur",
   "state" : "Odisha",
   "name" : "Nabarangpur",
-  "confirmed" : 12,
+  "confirmed" : 13,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
