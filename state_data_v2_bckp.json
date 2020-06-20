@@ -1,10 +1,10 @@
 [ {
-  "active" : "168626",
-  "confirmed" : "395804",
+  "active" : "168639",
+  "confirmed" : "395829",
   "deaths" : "12969",
   "delta" : null,
   "lastupdatedtime" : "2020-06-20T02:45:01.013",
-  "recovered" : "214209",
+  "recovered" : "214221",
   "state" : "Total"
 }, {
   "active" : "55665",
@@ -223,12 +223,12 @@
   "recovered" : "385",
   "state" : "Himachal Pradesh"
 }, {
-  "active" : "62",
-  "confirmed" : "375",
+  "active" : "60",
+  "confirmed" : "381",
   "deaths" : "6",
   "delta" : null,
   "lastupdatedtime" : "2020-06-20T02:45:01.013",
-  "recovered" : "307",
+  "recovered" : "315",
   "state" : "Chandigarh"
 }, {
   "active" : "162",
@@ -255,12 +255,12 @@
   "recovered" : "9",
   "state" : "Mizoram"
 }, {
-  "active" : "106",
-  "confirmed" : "116",
+  "active" : "121",
+  "confirmed" : "135",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-06-20T02:45:01.013",
-  "recovered" : "10",
+  "recovered" : "14",
   "state" : "Arunachal Pradesh"
 }, {
   "active" : "62",
