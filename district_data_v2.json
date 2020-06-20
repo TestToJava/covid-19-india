@@ -6250,7 +6250,7 @@
   "id" : "Karaikal",
   "state" : "Puducherry",
   "name" : "Karaikal",
-  "confirmed" : 11,
+  "confirmed" : 10,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
