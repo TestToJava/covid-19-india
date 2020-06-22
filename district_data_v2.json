@@ -21,6 +21,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Khordha",
+  "state" : "Odisha",
+  "name" : "Khordha",
+  "confirmed" : 595,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Cuttack",
   "state" : "Odisha",
   "name" : "Cuttack",
@@ -31,17 +42,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Khordha",
-  "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 401,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Jajapur",
   "state" : "Odisha",
@@ -145,7 +145,7 @@
   "id" : "Bolangir",
   "state" : "Odisha",
   "name" : "Bolangir",
-  "confirmed" : 151,
+  "confirmed" : 152,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -179,7 +179,7 @@
   "state" : "Odisha",
   "name" : "Keonjhar",
   "confirmed" : 100,
-  "recovered" : 5103,
+  "recovered" : 5304,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -197,6 +197,17 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Kalahandi",
+  "state" : "Odisha",
+  "name" : "Kalahandi",
+  "confirmed" : 70,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bargarh",
   "state" : "Odisha",
   "name" : "Bargarh",
@@ -207,17 +218,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Kalahandi",
-  "state" : "Odisha",
-  "name" : "Kalahandi",
-  "confirmed" : 64,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Bhubaneswar",
   "state" : "Odisha",
@@ -350,17 +350,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Others",
-  "state" : "Odisha",
-  "name" : "Others",
-  "confirmed" : 1,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
 }, {
   "id" : "Chennai",
   "state" : "Tamil Nadu",
