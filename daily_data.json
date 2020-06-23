@@ -1,674 +1,116 @@
 [
-   {
-      "date":"Mar 1",
-      "confirmed":3,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 2",
-      "confirmed":5,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 3",
-      "confirmed":6,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 4",
-      "confirmed":28,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 5",
-      "confirmed":30,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 6",
-      "confirmed":31,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 7",
-      "confirmed":34,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 8",
-      "confirmed":41,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 9",
-      "confirmed":47,
-      "deaths":0,
-      "recovered":3
-   },
-   {
-      "date":"Mar 10",
-      "confirmed":63,
-      "deaths":0,
-      "recovered":4
-   },
-   {
-      "date":"Mar 11",
-      "confirmed":70,
-      "deaths":0,
-      "recovered":4
-   },
-   {
-      "date":"Mar 12",
-      "confirmed":82,
-      "deaths":1,
-      "recovered":4
-   },
-   {
-      "date":"Mar 13",
-      "confirmed":91,
-      "deaths":1,
-      "recovered":10
-   },
-   {
-      "date":"Mar 14",
-      "confirmed":107,
-      "deaths":2,
-      "recovered":10
-   },
-   {
-      "date":"Mar 15",
-      "confirmed":113,
-      "deaths":2,
-      "recovered":13
-   },
-   {
-      "date":"Mar 16",
-      "confirmed":127,
-      "deaths":2,
-      "recovered":14
-   },
-   {
-      "date":"Mar 17",
-      "confirmed":146,
-      "deaths":3,
-      "recovered":15
-   },
-   {
-      "date":"Mar 18",
-      "confirmed":171,
-      "deaths":3,
-      "recovered":15
-   },
-   {
-      "date":"Mar 19",
-      "confirmed":199,
-      "deaths":4,
-      "recovered":20
-   },
-   {
-      "date":"Mar 20",
-      "confirmed":258,
-      "deaths":4,
-      "recovered":23
-   },
-   {
-      "date":"Mar 21",
-      "confirmed":334,
-      "deaths":4,
-      "recovered":23
-   },
-   {
-      "date":"Mar 22",
-      "confirmed":403,
-      "deaths":7,
-      "recovered":23
-   },
-   {
-      "date":"Mar 23",
-      "confirmed":505,
-      "deaths":9,
-      "recovered":25
-   },
-   {
-      "date":"Mar 24",
-      "confirmed":571,
-      "deaths":10,
-      "recovered":40
-   },
-   {
-      "date":"Mar 25",
-      "confirmed":657,
-      "deaths":11,
-      "recovered":43
-   },
-   {
-      "date":"Mar 26",
-      "confirmed":735,
-      "deaths":16,
-      "recovered":50
-   },
-   {
-      "date":"Mar 27",
-      "confirmed":886,
-      "deaths":19,
-      "recovered":75
-   },
-   {
-      "date":"Mar 28",
-      "confirmed":1029,
-      "deaths":24,
-      "recovered":85
-   },
-   {
-      "date":"Mar 29",
-      "confirmed":1139,
-      "deaths":27,
-      "recovered":102
-   },
-   {
-      "date":"Mar 30",
-      "confirmed":1347,
-      "deaths":43,
-      "recovered":137
-   },
-   {
-      "date":"Mar 31",
-      "confirmed":1635,
-      "deaths":49,
-      "recovered":150
-   },
-   {
-      "date":"Apr 1",
-      "confirmed":2059,
-      "deaths":56,
-      "recovered":169
-   },
-   {
-      "date":"Apr 2",
-      "confirmed":2545,
-      "deaths":72,
-      "recovered":191
-   },
-   {
-      "date":"Apr 3",
-      "confirmed":3108,
-      "deaths":86,
-      "recovered":230
-   },
-   {
-      "date":"Apr 4",
-      "confirmed":3671,
-      "deaths":99,
-      "recovered":286
-   },
-   {
-      "date":"Apr 5",
-      "confirmed":4289,
-      "deaths":118,
-      "recovered":328
-   },
-   {
-      "date":"Apr 6",
-      "confirmed":4778,
-      "deaths":136,
-      "recovered":382
-   },
-   {
-      "date":"Apr 7",
-      "confirmed":5351,
-      "deaths":160,
-      "recovered":464
-   },
-   {
-      "date":"Apr 8",
-      "confirmed":5916,
-      "deaths":180,
-      "recovered":565
-   },
-   {
-      "date":"Apr 9",
-      "confirmed":6725,
-      "deaths":226,
-      "recovered":620
-   },
-   {
-      "date":"Apr 10",
-      "confirmed":7600,
-      "deaths":249,
-      "recovered":774
-   },
-   {
-      "date":"Apr 11",
-      "confirmed":8453,
-      "deaths":288,
-      "recovered":972
-   },
-   {
-      "date":"Apr 12",
-      "confirmed":9205,
-      "deaths":331,
-      "recovered":1080
-   },
-   {
-      "date":"Apr 13",
-      "confirmed":10453,
-      "deaths":358,
-      "recovered":1193
-   },
-   {
-      "date":"Apr 14",
-      "confirmed":11487,
-      "deaths":393,
-      "recovered":1361
-   },
-   {
-      "date":"Apr 15",
-      "confirmed":12370,
-      "deaths":422,
-      "recovered":1509
-   },
-   {
-      "date":"Apr 16",
-      "confirmed":13430,
-      "deaths":448,
-      "recovered":1768
-   },
-   {
-      "date":"Apr 17",
-      "confirmed":14352,
-      "deaths":486,
-      "recovered":2041
-   },
-   {
-      "date":"Apr 18",
-      "confirmed":15722,
-      "deaths":521,
-      "recovered":2463
-   },
-   {
-      "date":"Apr 19",
-      "confirmed":17304,
-      "deaths":559,
-      "recovered":2854
-   },
-   {
-      "date":"Apr 20",
-      "confirmed":18539,
-      "deaths":592,
-      "recovered":3274
-   },
-   {
-      "date":"Apr 21",
-      "confirmed":20080,
-      "deaths":645,
-      "recovered":3795
-   },
-   {
-      "date":"Apr 22",
-      "confirmed":21370,
-      "deaths":681,
-      "recovered":4370
-   },
-   {
-      "date":"Apr 23",
-      "confirmed":23124,
-      "deaths":721,
-      "recovered":5007
-   },
-   {
-      "date":"Apr 24",
-      "confirmed":24447,
-      "deaths":780,
-      "recovered":5457
-   },
-   {
-      "date":"Apr 25",
-      "confirmed":26285,
-      "deaths":825,
-      "recovered":5967
-   },
-   {
-      "date":"Apr 26",
-      "confirmed":27897,
-      "deaths":886,
-      "recovered":6524
-   },
-   {
-      "date":"Apr 27",
-      "confirmed":29451,
-      "deaths":939,
-      "recovered":7137
-   },
-   {
-      "date":"Apr 28",
-      "confirmed":31367,
-      "deaths":1008,
-      "recovered":7747
-   },
-   {
-      "date":"Apr 29",
-      "confirmed":33062,
-      "deaths":1079,
-      "recovered":8438
-   },
-   {
-      "date":"Apr 30",
-      "confirmed":34865,
-      "deaths":1224,
-      "recovered":9059
-   },
-   {
-      "date":"May 1",
-      "confirmed":37257,
-      "deaths":1233,
-      "recovered":10005
-   },
-   {
-      "date":"May 2",
-      "confirmed":39699,
-      "deaths":1323,
-      "recovered":10825
-   },
-   {
-      "date":"May 3",
-      "confirmed":42589,
-      "deaths":1392,
-      "recovered":11788
-   },
-   {
-      "date":"May 4",
-      "confirmed":46437,
-      "deaths":1566,
-      "recovered":12847
-   },
-   {
-      "date":"May 5",
-      "confirmed":49402,
-      "deaths":1694,
-      "recovered":14142
-   },
-   {
-      "date":"May 6",
-      "confirmed":52986,
-      "deaths":1787,
-      "recovered":15331
-   },
-   {
-      "date":"May 7",
-      "confirmed":56349,
-      "deaths":1890,
-      "recovered":16777
-   },
-   {
-      "date":"May 8",
-      "confirmed":59695,
-      "deaths":1985,
-      "recovered":17886
-   },
-   {
-      "date":"May 9",
-      "confirmed":63190,
-      "deaths":2106,
-      "recovered":19315
-   },
-   {
-      "date":"May 10",
-      "confirmed":67158,
-      "deaths":2213,
-      "recovered":20972
-   },
-   {
-      "date":"May 11",
-      "confirmed":70764,
-      "deaths":2294,
-      "recovered":22552
-   },
-   {
-      "date":"May 12",
-      "confirmed":74290,
-      "deaths":2418,
-      "recovered":24422
-   },
-   {
-      "date":"May 13",
-      "confirmed":78053,
-      "deaths":2549,
-      "recovered":26398
-   },
-   {
-      "date":"May 14",
-      "confirmed":81986,
-      "deaths":2646,
-      "recovered":27968
-   },
-   {
-      "date":"May 15",
-      "confirmed":85778,
-      "deaths":2752,
-      "recovered":30257
-   },
-   {
-      "date":"May 16",
-      "confirmed":90644,
-      "deaths":2871,
-      "recovered":34386
-   },
-   {
-      "date":"May 17",
-      "confirmed":95698,
-      "deaths":3023,
-      "recovered":36795
-   },
-   {
-      "date":"May 18",
-      "confirmed":100322,
-      "deaths":3154,
-      "recovered":39259
-   },
-   {
-      "date":"May 19",
-      "confirmed":106480,
-      "deaths":3301,
-      "recovered":42308
-   },
-   {
-      "date":"May 20",
-      "confirmed":112200,
-      "deaths":3435,
-      "recovered":45429
-   },
-   {
-      "date":"May 21",
-      "confirmed":118223,
-      "deaths":3584,
-      "recovered":48486
-   },
-   {
-      "date":"May 22",
-      "confirmed":124759,
-      "deaths":3724,
-      "recovered":51833
-   },
-   {
-      "date":"May 23",
-      "confirmed":131425,
-      "deaths":3866,
-      "recovered":54387
-   },
-   {
-      "date":"May 24",
-      "confirmed":138525,
-      "deaths":4023,
-      "recovered":57697
-   },
-   {
-      "date":"May 25",
-      "confirmed":144932,
-      "deaths":4174,
-      "recovered":60661
-   },
-   {
-      "date":"May 26",
-      "confirmed":150801,
-      "deaths":4346,
-      "recovered":64298
-   },
-   {
-      "date":"May 27",
-      "confirmed":158078,
-      "deaths":4532,
-      "recovered":67743
-   },
-   {
-      "date":"May 28",
-      "confirmed":165389,
-      "deaths":4708,
-      "recovered":70927
-   },
-   {
-      "date":"May 29",
-      "confirmed":173499,
-      "deaths":4977,
-      "recovered":82625
-   },
-   {
-      "date":"May 30",
-      "confirmed":181849,
-      "deaths":5184,
-      "recovered":86798
-   },
-   {
-      "date":"May 31",
-      "confirmed":190627,
-      "deaths":5403,
-      "recovered":91843
-   },
-   {
-      "date":"Jun 1",
-      "confirmed":198370,
-      "deaths":5605,
-      "recovered":95744
-   },
-   {
-      "date":"Jun 2",
-      "confirmed":207203,
-      "deaths":5824,
-      "recovered":100288
-   },
-   {
-      "date":"Jun 3",
-      "confirmed":216815,
-      "deaths":6076,
-      "recovered":104048
-   },
-   {
-      "date":"Jun 4",
-      "confirmed":226718,
-      "deaths":6358,
-      "recovered":108465
-   },
-   {
-      "date":"Jun 5",
-      "confirmed":236177,
-      "deaths":6646,
-      "recovered":113212
-   },
-   {
-      "date":"Jun 6",
-      "confirmed":246483,
-      "deaths":6941,
-      "recovered":118650
-   },
-   {
-      "date":"Jun 7",
-      "confirmed":257478,
-      "deaths":7202,
-      "recovered":123838
-   },
-   {
-      "date":"Jun 8",
-      "confirmed":266018,
-      "deaths":7473,
-      "recovered":129094
-   },
-   {
-      "date":"Jun 9",
-      "confirmed":276158,
-      "deaths":7748,
-      "recovered":134619
-   },
-   {
-      "date":"Jun 10",
-      "confirmed":287155,
-      "deaths":8107,
-      "recovered":140943
-   },
-   {
-      "date":"Jun 11",
-      "confirmed":298281,
-      "deaths":8498,
-      "recovered":146965
-   },
-   {
-      "date":"Jun 12",
-      "confirmed":309601,
-      "deaths":8888,
-      "recovered":154230
-   },
-   {
-      "date":"Jun 13",
-      "confirmed":321626,
-      "deaths":9197,
-      "recovered":162326
-   },
-   {
-      "date":"Jun 14",
-      "confirmed":333019,
-      "deaths":9518,
-      "recovered":169683
-   },
-   {
-      "date":"Jun 15",
-      "confirmed":343036,
-      "deaths":9913,
-      "recovered":180322
-   },
-   {
-      "date":"Jun 16",
-      "confirmed":354159,
-      "deaths":11916,
-      "recovered":187549
-   },
-   {
-      "date":"Jun 17",
-      "confirmed":367264,
-      "deaths":12258,
-      "recovered":194441
-   },
-   {
-      "date":"Jun 18",
-      "confirmed":381091,
-      "deaths":12600,
-      "recovered":205184
-   },
-   {
-      "date":"Jun 19",
-      "confirmed":395829,
-      "deaths":12969,
-      "recovered":214221
-   },
-   {
-      "date":"Jun 20",
-      "confirmed":411729,
-      "deaths":13277,
-      "recovered":228175
-   }
+{"date":"Mar 1","confirmed":3,"deaths":0,"recovered":3},
+{"date":"Mar 2","confirmed":5,"deaths":0,"recovered":3},
+{"date":"Mar 3","confirmed":6,"deaths":0,"recovered":3},
+{"date":"Mar 4","confirmed":28,"deaths":0,"recovered":3},
+{"date":"Mar 5","confirmed":30,"deaths":0,"recovered":3},
+{"date":"Mar 6","confirmed":31,"deaths":0,"recovered":3},
+{"date":"Mar 7","confirmed":34,"deaths":0,"recovered":3},
+{"date":"Mar 8","confirmed":41,"deaths":0,"recovered":3},
+{"date":"Mar 9","confirmed":47,"deaths":0,"recovered":3},
+{"date":"Mar 10","confirmed":63,"deaths":0,"recovered":4},
+{"date":"Mar 11","confirmed":70,"deaths":0,"recovered":4},
+{"date":"Mar 12","confirmed":82,"deaths":1,"recovered":4},
+{"date":"Mar 13","confirmed":91,"deaths":1,"recovered":10},
+{"date":"Mar 14","confirmed":107,"deaths":2,"recovered":10},
+{"date":"Mar 15","confirmed":113,"deaths":2,"recovered":13},
+{"date":"Mar 16","confirmed":127,"deaths":2,"recovered":14},
+{"date":"Mar 17","confirmed":146,"deaths":3,"recovered":15},
+{"date":"Mar 18","confirmed":171,"deaths":3,"recovered":15},
+{"date":"Mar 19","confirmed":199,"deaths":4,"recovered":20},
+{"date":"Mar 20","confirmed":258,"deaths":4,"recovered":23},
+{"date":"Mar 21","confirmed":334,"deaths":4,"recovered":23},
+{"date":"Mar 22","confirmed":403,"deaths":7,"recovered":23},
+{"date":"Mar 23","confirmed":505,"deaths":9,"recovered":25},
+{"date":"Mar 24","confirmed":571,"deaths":10,"recovered":40},
+{"date":"Mar 25","confirmed":657,"deaths":11,"recovered":43},
+{"date":"Mar 26","confirmed":735,"deaths":16,"recovered":50},
+{"date":"Mar 27","confirmed":886,"deaths":19,"recovered":75},
+{"date":"Mar 28","confirmed":1029,"deaths":24,"recovered":85},
+{"date":"Mar 29","confirmed":1139,"deaths":27,"recovered":102},
+{"date":"Mar 30","confirmed":1347,"deaths":43,"recovered":137},
+{"date":"Mar 31","confirmed":1635,"deaths":49,"recovered":150},
+{"date":"Apr 1","confirmed":2059,"deaths":56,"recovered":169},
+{"date":"Apr 2","confirmed":2545,"deaths":72,"recovered":191},
+{"date":"Apr 3","confirmed":3108,"deaths":86,"recovered":230},
+{"date":"Apr 4","confirmed":3671,"deaths":99,"recovered":286},
+{"date":"Apr 5","confirmed":4289,"deaths":118,"recovered":328},
+{"date":"Apr 6","confirmed":4778,"deaths":136,"recovered":382},
+{"date":"Apr 7","confirmed":5351,"deaths":160,"recovered":464},
+{"date":"Apr 8","confirmed":5916,"deaths":180,"recovered":565},
+{"date":"Apr 9","confirmed":6725,"deaths":226,"recovered":620},
+{"date":"Apr 10","confirmed":7600,"deaths":249,"recovered":774},
+{"date":"Apr 11","confirmed":8453,"deaths":288,"recovered":972},
+{"date":"Apr 12","confirmed":9205,"deaths":331,"recovered":1080},
+{"date":"Apr 13","confirmed":10453,"deaths":358,"recovered":1193},
+{"date":"Apr 14","confirmed":11487,"deaths":393,"recovered":1361},
+{"date":"Apr 15","confirmed":12370,"deaths":422,"recovered":1509},
+{"date":"Apr 16","confirmed":13430,"deaths":448,"recovered":1768},
+{"date":"Apr 17","confirmed":14352,"deaths":486,"recovered":2041},
+{"date":"Apr 18","confirmed":15722,"deaths":521,"recovered":2463},
+{"date":"Apr 19","confirmed":17304,"deaths":559,"recovered":2854},
+{"date":"Apr 20","confirmed":18539,"deaths":592,"recovered":3274},
+{"date":"Apr 21","confirmed":20080,"deaths":645,"recovered":3795},
+{"date":"Apr 22","confirmed":21370,"deaths":681,"recovered":4370},
+{"date":"Apr 23","confirmed":23124,"deaths":721,"recovered":5007},
+{"date":"Apr 24","confirmed":24447,"deaths":780,"recovered":5457},
+{"date":"Apr 25","confirmed":26285,"deaths":825,"recovered":5967},
+{"date":"Apr 26","confirmed":27897,"deaths":886,"recovered":6524},
+{"date":"Apr 27","confirmed":29451,"deaths":939,"recovered":7137},
+{"date":"Apr 28","confirmed":31367,"deaths":1008,"recovered":7747},
+{"date":"Apr 29","confirmed":33062,"deaths":1079,"recovered":8438},
+{"date":"Apr 30","confirmed":34865,"deaths":1224,"recovered":9059},
+{"date":"May 1","confirmed":37257,"deaths":1233,"recovered":10005},
+{"date":"May 2","confirmed":39699,"deaths":1323,"recovered":10825},
+{"date":"May 3","confirmed":42589,"deaths":1392,"recovered":11788},
+{"date":"May 4","confirmed":46437,"deaths":1566,"recovered":12847},
+{"date":"May 5","confirmed":49402,"deaths":1694,"recovered":14142},
+{"date":"May 6","confirmed":52986,"deaths":1787,"recovered":15331},
+{"date":"May 7","confirmed":56349,"deaths":1890,"recovered":16777},
+{"date":"May 8","confirmed":59695,"deaths":1985,"recovered":17886},
+{"date":"May 9","confirmed":63190,"deaths":2106,"recovered":19315},
+{"date":"May 10","confirmed":67158,"deaths":2213,"recovered":20972},
+{"date":"May 11","confirmed":70764,"deaths":2294,"recovered":22552},
+{"date":"May 12","confirmed":74290,"deaths":2418,"recovered":24422},
+{"date":"May 13","confirmed":78053,"deaths":2549,"recovered":26398},
+{"date":"May 14","confirmed":81986,"deaths":2646,"recovered":27968},
+{"date":"May 15","confirmed":85778,"deaths":2752,"recovered":30257},
+{"date":"May 16","confirmed":90644,"deaths":2871,"recovered":34386},
+{"date":"May 17","confirmed":95698,"deaths":3023,"recovered":36795},
+{"date":"May 18","confirmed":100322,"deaths":3154,"recovered":39259},
+{"date":"May 19","confirmed":106480,"deaths":3301,"recovered":42308},
+{"date":"May 20","confirmed":112200,"deaths":3435,"recovered":45429},
+{"date":"May 21","confirmed":118223,"deaths":3584,"recovered":48486},
+{"date":"May 22","confirmed":124759,"deaths":3724,"recovered":51833},
+{"date":"May 23","confirmed":131425,"deaths":3866,"recovered":54387},
+{"date":"May 24","confirmed":138525,"deaths":4023,"recovered":57697},
+{"date":"May 25","confirmed":144932,"deaths":4174,"recovered":60661},
+{"date":"May 26","confirmed":150801,"deaths":4346,"recovered":64298},
+{"date":"May 27","confirmed":158078,"deaths":4532,"recovered":67743},
+{"date":"May 28","confirmed":165389,"deaths":4708,"recovered":70927},
+{"date":"May 29","confirmed":173499,"deaths":4977,"recovered":82625},
+{"date":"May 30","confirmed":181849,"deaths":5184,"recovered":86798},
+{"date":"May 31","confirmed":190627,"deaths":5403,"recovered":91843},
+{"date":"Jun 1","confirmed":198370,"deaths":5605,"recovered":95744},
+{"date":"Jun 2","confirmed":207203,"deaths":5824,"recovered":100288},
+{"date":"Jun 3","confirmed":216815,"deaths":6076,"recovered":104048},
+{"date":"Jun 4","confirmed":226718,"deaths":6358,"recovered":108465},
+{"date":"Jun 5","confirmed":236177,"deaths":6646,"recovered":113212},
+{"date":"Jun 6","confirmed":246483,"deaths":6941,"recovered":118650},
+{"date":"Jun 7","confirmed":257478,"deaths":7202,"recovered":123838},
+{"date":"Jun 8","confirmed":266018,"deaths":7473,"recovered":129094},
+{"date":"Jun 9","confirmed":276158,"deaths":7748,"recovered":134619},
+{"date":"Jun 10","confirmed":287155,"deaths":8107,"recovered":140943},
+{"date":"Jun 11","confirmed":298281,"deaths":8498,"recovered":146965},
+{"date":"Jun 12","confirmed":309601,"deaths":8888,"recovered":154230},
+{"date":"Jun 13","confirmed":321626,"deaths":9197,"recovered":162326},
+{"date":"Jun 14","confirmed":333019,"deaths":9518,"recovered":169683},
+{"date":"Jun 15","confirmed":343036,"deaths":9913,"recovered":180322},
+{"date":"Jun 16","confirmed":354159,"deaths":11916,"recovered":187549},
+{"date":"Jun 17","confirmed":367264,"deaths":12258,"recovered":194441},
+{"date":"Jun 18","confirmed":381091,"deaths":12600,"recovered":205184},
+{"date":"Jun 19","confirmed":395829,"deaths":12969,"recovered":214221},
+{"date":"Jun 20","confirmed":411729,"deaths":13277,"recovered":228175},
+{"date":"Jun 21","confirmed":426902,"deaths":13703,"recovered":237258},
+{"date":"Jun 22","confirmed":440450,"deaths":14015,"recovered":148137}
 ]
