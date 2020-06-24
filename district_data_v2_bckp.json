@@ -5994,17 +5994,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
-  "state" : "Nagaland",
-  "name" : "Others",
-  "confirmed" : 3,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Amritsar",
   "state" : "Punjab",
   "name" : "Amritsar",
