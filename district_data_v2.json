@@ -824,9 +824,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Andaman and Nicobar Islands",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 18,
   "recovered" : null,
   "deaths" : null,
@@ -1660,9 +1660,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Assam",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 2096,
   "recovered" : null,
   "deaths" : null,
@@ -1927,7 +1927,7 @@
   "id" : "Nalanda",
   "state" : "Bihar",
   "name" : "Nalanda",
-  "confirmed" : 180,
+  "confirmed" : 181,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -2015,7 +2015,7 @@
   "id" : "Sheikhpura",
   "state" : "Bihar",
   "name" : "Sheikhpura",
-  "confirmed" : 132,
+  "confirmed" : 133,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -2037,7 +2037,7 @@
   "id" : "Sitamarhi",
   "state" : "Bihar",
   "name" : "Sitamarhi",
-  "confirmed" : 129,
+  "confirmed" : 130,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -2082,17 +2082,6 @@
   "state" : "Bihar",
   "name" : "West Champaran",
   "confirmed" : 134,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Others",
-  "state" : "Bihar",
-  "name" : "Others",
-  "confirmed" : 3,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -2551,9 +2540,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Delhi",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 65814,
   "recovered" : null,
   "deaths" : null,
@@ -2639,9 +2628,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Goa",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 522,
   "recovered" : null,
   "deaths" : null,
@@ -4982,9 +4971,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Meghalaya",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 2,
   "recovered" : null,
   "deaths" : null,
@@ -6005,9 +5994,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Nagaland",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 17,
   "recovered" : null,
   "deaths" : null,
@@ -6753,9 +6742,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Sikkim",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 2,
   "recovered" : null,
   "deaths" : null,
@@ -7149,9 +7138,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Telangana",
-  "name" : "Others",
+  "name" : "Unknown",
   "confirmed" : 456,
   "recovered" : null,
   "deaths" : null,
