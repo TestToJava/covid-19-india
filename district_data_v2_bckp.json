@@ -2540,7 +2540,7 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
+  "id" : "Unknown",
   "state" : "Delhi",
   "name" : "Others",
   "confirmed" : 65814,
