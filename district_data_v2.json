@@ -10,10 +10,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Angul",
+  "id" : "Ganjam",
   "state" : "Odisha",
-  "name" : "Angul",
-  "confirmed" : 57,
+  "name" : "Ganjam",
+  "confirmed" : 1030,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -21,71 +21,16 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Baleswar",
+  "id" : "Khordha",
   "state" : "Odisha",
-  "name" : "Baleswar",
-  "confirmed" : 323,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Bargarh",
-  "state" : "Odisha",
-  "name" : "Bargarh",
-  "confirmed" : 68,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Bhadrak",
-  "state" : "Odisha",
-  "name" : "Bhadrak",
-  "confirmed" : 200,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Bhubaneswar",
-  "state" : "Odisha",
-  "name" : "Bhubaneswar",
-  "confirmed" : 59,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Bolangir",
-  "state" : "Odisha",
-  "name" : "Bolangir",
-  "confirmed" : 154,
+  "name" : "Khordha",
+  "confirmed" : 629,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Boudh",
-  "state" : "Odisha",
-  "name" : "Boudh",
-  "confirmed" : 40,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
 }, {
   "id" : "Cuttack",
   "state" : "Odisha",
@@ -98,27 +43,16 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Deogarh",
+  "id" : "Jajapur",
   "state" : "Odisha",
-  "name" : "Deogarh",
-  "confirmed" : 41,
+  "name" : "Jajapur",
+  "confirmed" : 393,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Dhenkanal",
-  "state" : "Odisha",
-  "name" : "Dhenkanal",
-  "confirmed" : 66,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Gajapati",
   "state" : "Odisha",
@@ -131,10 +65,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Ganjam",
+  "id" : "Baleswar",
   "state" : "Odisha",
-  "name" : "Ganjam",
-  "confirmed" : 1030,
+  "name" : "Baleswar",
+  "confirmed" : 323,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -153,16 +87,115 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Jajapur",
+  "id" : "Puri",
   "state" : "Odisha",
-  "name" : "Jajapur",
-  "confirmed" : 393,
+  "name" : "Puri",
+  "confirmed" : 224,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Kendrapara",
+  "state" : "Odisha",
+  "name" : "Kendrapara",
+  "confirmed" : 220,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Bhadrak",
+  "state" : "Odisha",
+  "name" : "Bhadrak",
+  "confirmed" : 200,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
+}, {
+  "id" : "Kandhamal",
+  "state" : "Odisha",
+  "name" : "Kandhamal",
+  "confirmed" : 176,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Mayurbhanj",
+  "state" : "Odisha",
+  "name" : "Mayurbhanj",
+  "confirmed" : 165,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Sundargarh",
+  "state" : "Odisha",
+  "name" : "Sundargarh",
+  "confirmed" : 164,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Bolangir",
+  "state" : "Odisha",
+  "name" : "Bolangir",
+  "confirmed" : 154,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Nayagarh",
+  "state" : "Odisha",
+  "name" : "Nayagarh",
+  "confirmed" : 132,
+  "recovered" : 5752,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Keonjhar",
+  "state" : "Odisha",
+  "name" : "Keonjhar",
+  "confirmed" : 100,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Nuapada",
+  "state" : "Odisha",
+  "name" : "Nuapada",
+  "confirmed" : 79,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Jharsuguda",
   "state" : "Odisha",
@@ -186,10 +219,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kandhamal",
+  "id" : "Bargarh",
   "state" : "Odisha",
-  "name" : "Kandhamal",
-  "confirmed" : 176,
+  "name" : "Bargarh",
+  "confirmed" : 68,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -197,10 +230,10 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Kendrapara",
+  "id" : "Dhenkanal",
   "state" : "Odisha",
-  "name" : "Kendrapara",
-  "confirmed" : 220,
+  "name" : "Dhenkanal",
+  "confirmed" : 66,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -208,109 +241,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Keonjhar",
+  "id" : "Bhubaneswar",
   "state" : "Odisha",
-  "name" : "Keonjhar",
-  "confirmed" : 100,
+  "name" : "Bhubaneswar",
+  "confirmed" : 59,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
-  "id" : "Khordha",
+  "id" : "Angul",
   "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 629,
+  "name" : "Angul",
+  "confirmed" : 57,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Koraput",
-  "state" : "Odisha",
-  "name" : "Koraput",
-  "confirmed" : 26,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "RED"
 }, {
   "id" : "Malkangiri",
   "state" : "Odisha",
   "name" : "Malkangiri",
   "confirmed" : 53,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Mayurbhanj",
-  "state" : "Odisha",
-  "name" : "Mayurbhanj",
-  "confirmed" : 165,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Nabarangpur",
-  "state" : "Odisha",
-  "name" : "Nabarangpur",
-  "confirmed" : 13,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Nayagarh",
-  "state" : "Odisha",
-  "name" : "Nayagarh",
-  "confirmed" : 132,
-  "recovered" : 5752,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Nuapada",
-  "state" : "Odisha",
-  "name" : "Nuapada",
-  "confirmed" : 79,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Puri",
-  "state" : "Odisha",
-  "name" : "Puri",
-  "confirmed" : 224,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "GREEN"
-}, {
-  "id" : "Rayagada",
-  "state" : "Odisha",
-  "name" : "Rayagada",
-  "confirmed" : 22,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -329,6 +285,28 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
+  "id" : "Deogarh",
+  "state" : "Odisha",
+  "name" : "Deogarh",
+  "confirmed" : 41,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Boudh",
+  "state" : "Odisha",
+  "name" : "Boudh",
+  "confirmed" : 40,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
   "id" : "Subarnapur",
   "state" : "Odisha",
   "name" : "Subarnapur",
@@ -340,16 +318,38 @@
   "oldDeaths" : 0,
   "zone" : "GREEN"
 }, {
-  "id" : "Sundargarh",
+  "id" : "Koraput",
   "state" : "Odisha",
-  "name" : "Sundargarh",
-  "confirmed" : 164,
+  "name" : "Koraput",
+  "confirmed" : 26,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Rayagada",
+  "state" : "Odisha",
+  "name" : "Rayagada",
+  "confirmed" : 22,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
+}, {
+  "id" : "Nabarangpur",
+  "state" : "Odisha",
+  "name" : "Nabarangpur",
+  "confirmed" : 13,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "GREEN"
 }, {
   "id" : "Chennai",
   "state" : "Tamil Nadu",
