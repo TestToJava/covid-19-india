@@ -76,6 +76,17 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
+  "id" : "Bhubaneswar",
+  "state" : "Odisha",
+  "name" : "Bhubaneswar",
+  "confirmed" : 274,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Jagatsinghpur",
   "state" : "Odisha",
   "name" : "Jagatsinghpur",
@@ -157,7 +168,7 @@
   "state" : "Odisha",
   "name" : "Bolangir",
   "confirmed" : 165,
-  "recovered" : 0,
+  "recovered" : 6378,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -168,7 +179,7 @@
   "state" : "Odisha",
   "name" : "Nayagarh",
   "confirmed" : 135,
-  "recovered" : 6163,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -240,17 +251,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Bhubaneswar",
-  "state" : "Odisha",
-  "name" : "Bhubaneswar",
-  "confirmed" : 59,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Angul",
   "state" : "Odisha",
