@@ -114,5 +114,7 @@
 {"date":"Jun 21","confirmed":426902,"deaths":13703,"recovered":237258},
 {"date":"Jun 22","confirmed":440450,"deaths":14015,"recovered":248137},
 {"date":"Jun 23","confirmed":456061,"deaths":14480,"recovered":258522},
-{"date":"Jun 24","confirmed":472985,"deaths":14906,"recovered":271688}
+{"date":"Jun 24","confirmed":472985,"deaths":14906,"recovered":271688},
+{"date":"Jun 25","confirmed":491190,"deaths":15308,"recovered":285671},
+{"date":"Jun 26","confirmed":509445,"deaths":15689,"recovered":295917}
 ]
