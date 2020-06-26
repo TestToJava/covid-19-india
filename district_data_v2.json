@@ -21,17 +21,6 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Khordha",
-  "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 548,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Cuttack",
   "state" : "Odisha",
   "name" : "Cuttack",
@@ -42,6 +31,17 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
+}, {
+  "id" : "Khordha",
+  "state" : "Odisha",
+  "name" : "Khordha",
+  "confirmed" : 478,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Gajapati",
   "state" : "Odisha",
@@ -168,7 +168,7 @@
   "state" : "Odisha",
   "name" : "Bolangir",
   "confirmed" : 165,
-  "recovered" : 0,
+  "recovered" : 6180,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
