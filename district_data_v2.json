@@ -4908,7 +4908,7 @@
   "id" : "Ribhoi",
   "state" : "Meghalaya",
   "name" : "Ribhoi",
-  "confirmed" : 0,
+  "confirmed" : 1,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
