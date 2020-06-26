@@ -2100,6 +2100,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Chandigarh",
+  "name" : "Unknown",
+  "confirmed" : 1,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Other-States",
   "state" : "Chhattisgarh",
   "name" : "Other States",
