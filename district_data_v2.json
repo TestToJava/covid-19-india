@@ -351,22 +351,11 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Airport-Quarantine",
+  "id" : "Chennai",
   "state" : "Tamil Nadu",
-  "name" : "Airport Quarantine",
-  "confirmed" : 667,
+  "name" : "Chennai",
+  "confirmed" : 53762,
   "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "NONE"
-}, {
-  "id" : "Ariyalur",
-  "state" : "Tamil Nadu",
-  "name" : "Ariyalur",
-  "confirmed" : 461,
-  "recovered" : 82120,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -384,10 +373,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Chennai",
+  "id" : "Thiruvallur",
   "state" : "Tamil Nadu",
-  "name" : "Chennai",
-  "confirmed" : 53762,
+  "name" : "Thiruvallur",
+  "confirmed" : 3524,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -395,65 +384,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Coimbatore",
+  "id" : "Madurai",
   "state" : "Tamil Nadu",
-  "name" : "Coimbatore",
-  "confirmed" : 460,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Cuddalore",
-  "state" : "Tamil Nadu",
-  "name" : "Cuddalore",
-  "confirmed" : 982,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Dharmapuri",
-  "state" : "Tamil Nadu",
-  "name" : "Dharmapuri",
-  "confirmed" : 69,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Dindigul",
-  "state" : "Tamil Nadu",
-  "name" : "Dindigul",
-  "confirmed" : 370,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Erode",
-  "state" : "Tamil Nadu",
-  "name" : "Erode",
-  "confirmed" : 124,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Kallakurichi",
-  "state" : "Tamil Nadu",
-  "name" : "Kallakurichi",
-  "confirmed" : 552,
+  "name" : "Madurai",
+  "confirmed" : 1995,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -472,10 +406,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Kanniyakumari",
+  "id" : "Tiruvannamalai",
   "state" : "Tamil Nadu",
-  "name" : "Kanniyakumari",
-  "confirmed" : 328,
+  "name" : "Tiruvannamalai",
+  "confirmed" : 1767,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -483,10 +417,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Karur",
+  "id" : "Vellore",
   "state" : "Tamil Nadu",
-  "name" : "Karur",
-  "confirmed" : 136,
+  "name" : "Vellore",
+  "confirmed" : 1095,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -494,54 +428,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Krishnagiri",
+  "id" : "Cuddalore",
   "state" : "Tamil Nadu",
-  "name" : "Krishnagiri",
-  "confirmed" : 110,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Madurai",
-  "state" : "Tamil Nadu",
-  "name" : "Madurai",
-  "confirmed" : 1995,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Nagapattinam",
-  "state" : "Tamil Nadu",
-  "name" : "Nagapattinam",
-  "confirmed" : 250,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Namakkal",
-  "state" : "Tamil Nadu",
-  "name" : "Namakkal",
-  "confirmed" : 97,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Perambalur",
-  "state" : "Tamil Nadu",
-  "name" : "Perambalur",
-  "confirmed" : 162,
+  "name" : "Cuddalore",
+  "confirmed" : 982,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -549,10 +439,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Pudukkottai",
+  "id" : "Thoothukkudi",
   "state" : "Tamil Nadu",
-  "name" : "Pudukkottai",
-  "confirmed" : 167,
+  "name" : "Thoothukkudi",
+  "confirmed" : 866,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -560,16 +450,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Railway-Quarantine",
+  "id" : "Viluppuram",
   "state" : "Tamil Nadu",
-  "name" : "Railway Quarantine",
-  "confirmed" : 403,
+  "name" : "Viluppuram",
+  "confirmed" : 814,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "NONE"
+  "zone" : "RED"
+}, {
+  "id" : "Tirunelveli",
+  "state" : "Tamil Nadu",
+  "name" : "Tirunelveli",
+  "confirmed" : 744,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
 }, {
   "id" : "Ramanathapuram",
   "state" : "Tamil Nadu",
@@ -604,10 +505,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sivaganga",
+  "id" : "Kallakurichi",
   "state" : "Tamil Nadu",
-  "name" : "Sivaganga",
-  "confirmed" : 168,
+  "name" : "Kallakurichi",
+  "confirmed" : 707,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -615,87 +516,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Tenkasi",
+  "id" : "Airport-Quarantine",
   "state" : "Tamil Nadu",
-  "name" : "Tenkasi",
-  "confirmed" : 332,
+  "name" : "Airport Quarantine",
+  "confirmed" : 667,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Thanjavur",
-  "state" : "Tamil Nadu",
-  "name" : "Thanjavur",
-  "confirmed" : 420,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "The-Nilgiris",
-  "state" : "Tamil Nadu",
-  "name" : "The Nilgiris",
-  "confirmed" : 71,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
   "id" : "Theni",
   "state" : "Tamil Nadu",
   "name" : "Theni",
   "confirmed" : 575,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Thirupathur",
-  "state" : "Tamil Nadu",
-  "name" : "Thirupathur",
-  "confirmed" : 138,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Thiruvallur",
-  "state" : "Tamil Nadu",
-  "name" : "Thiruvallur",
-  "confirmed" : 3524,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Thiruvarur",
-  "state" : "Tamil Nadu",
-  "name" : "Thiruvarur",
-  "confirmed" : 428,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
-  "id" : "Thoothukkudi",
-  "state" : "Tamil Nadu",
-  "name" : "Thoothukkudi",
-  "confirmed" : 866,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -714,16 +549,148 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Tirunelveli",
+  "id" : "Ariyalur",
   "state" : "Tamil Nadu",
-  "name" : "Tirunelveli",
-  "confirmed" : 744,
+  "name" : "Ariyalur",
+  "confirmed" : 461,
+  "recovered" : 82275,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
+  "id" : "Coimbatore",
+  "state" : "Tamil Nadu",
+  "name" : "Coimbatore",
+  "confirmed" : 460,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
+}, {
+  "id" : "Thiruvarur",
+  "state" : "Tamil Nadu",
+  "name" : "Thiruvarur",
+  "confirmed" : 428,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Thanjavur",
+  "state" : "Tamil Nadu",
+  "name" : "Thanjavur",
+  "confirmed" : 420,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Railway-Quarantine",
+  "state" : "Tamil Nadu",
+  "name" : "Railway Quarantine",
+  "confirmed" : 403,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Dindigul",
+  "state" : "Tamil Nadu",
+  "name" : "Dindigul",
+  "confirmed" : 370,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Virudhunagar",
+  "state" : "Tamil Nadu",
+  "name" : "Virudhunagar",
+  "confirmed" : 363,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Tenkasi",
+  "state" : "Tamil Nadu",
+  "name" : "Tenkasi",
+  "confirmed" : 332,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Kanniyakumari",
+  "state" : "Tamil Nadu",
+  "name" : "Kanniyakumari",
+  "confirmed" : 328,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Nagapattinam",
+  "state" : "Tamil Nadu",
+  "name" : "Nagapattinam",
+  "confirmed" : 250,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Sivaganga",
+  "state" : "Tamil Nadu",
+  "name" : "Sivaganga",
+  "confirmed" : 168,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Pudukkottai",
+  "state" : "Tamil Nadu",
+  "name" : "Pudukkottai",
+  "confirmed" : 167,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Perambalur",
+  "state" : "Tamil Nadu",
+  "name" : "Perambalur",
+  "confirmed" : 162,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
 }, {
   "id" : "Tiruppur",
   "state" : "Tamil Nadu",
@@ -736,10 +703,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Tiruvannamalai",
+  "id" : "Thirupathur",
   "state" : "Tamil Nadu",
-  "name" : "Tiruvannamalai",
-  "confirmed" : 1767,
+  "name" : "Thirupathur",
+  "confirmed" : 138,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -747,10 +714,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Vellore",
+  "id" : "Karur",
   "state" : "Tamil Nadu",
-  "name" : "Vellore",
-  "confirmed" : 1095,
+  "name" : "Karur",
+  "confirmed" : 136,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -758,21 +725,54 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Viluppuram",
+  "id" : "Erode",
   "state" : "Tamil Nadu",
-  "name" : "Viluppuram",
-  "confirmed" : 814,
+  "name" : "Erode",
+  "confirmed" : 124,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "ORANGE"
 }, {
-  "id" : "Virudhunagar",
+  "id" : "Krishnagiri",
   "state" : "Tamil Nadu",
-  "name" : "Virudhunagar",
-  "confirmed" : 363,
+  "name" : "Krishnagiri",
+  "confirmed" : 110,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Namakkal",
+  "state" : "Tamil Nadu",
+  "name" : "Namakkal",
+  "confirmed" : 97,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "The-Nilgiris",
+  "state" : "Tamil Nadu",
+  "name" : "The Nilgiris",
+  "confirmed" : 71,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
+  "id" : "Dharmapuri",
+  "state" : "Tamil Nadu",
+  "name" : "Dharmapuri",
+  "confirmed" : 69,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
