@@ -6767,7 +6767,7 @@
   "id" : "Unknown",
   "state" : "Sikkim",
   "name" : "Unknown",
-  "confirmed" : 0,
+  "confirmed" : 1,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
