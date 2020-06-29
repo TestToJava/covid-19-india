@@ -116,8 +116,8 @@
 {"date":"Jun 23","confirmed":456061,"deaths":14480,"recovered":258522},
 {"date":"Jun 24","confirmed":472985,"deaths":14906,"recovered":271688},
 {"date":"Jun 25","confirmed":491190,"deaths":15308,"recovered":285671},
-{"date":"Jun 26","confirmed":509445,"deaths":15689,"recovered":295917}
-{"date":"Jun 27","confirmed":529587,"deaths":16103,"recovered":310146}
-{"date":"Jun 28","confirmed":549197,"deaths":16487,"recovered":321774}
+{"date":"Jun 26","confirmed":509445,"deaths":15689,"recovered":295917},
+{"date":"Jun 27","confirmed":529587,"deaths":16103,"recovered":310146},
+{"date":"Jun 28","confirmed":549197,"deaths":16487,"recovered":321774},
 {"date":"Jun 29","confirmed":567536,"deaths":16904,"recovered":335271}
 ]
