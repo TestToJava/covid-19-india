@@ -247,12 +247,12 @@
   "recovered" : "364",
   "state" : "Chandigarh"
 }, {
-  "active" : "131",
-  "confirmed" : "213",
+  "active" : "53",
+  "confirmed" : "107",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-07-01T02:45:00.948",
-  "recovered" : "82",
+  "recovered" : "54",
   "state" : "Dadra and Nagar Haveli"
 }, {
   "active" : "128",
@@ -303,11 +303,11 @@
   "recovered" : "0",
   "state" : "Lakshadweep"
 }, {
-  "active" : "0",
-  "confirmed" : "0",
+  "active" : "78",
+  "confirmed" : "106",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-07-01T02:45:00.948",
-  "recovered" : "0",
+  "recovered" : "28",
   "state" : "Daman and Diu"
 } ]
