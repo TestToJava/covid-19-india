@@ -3,7 +3,7 @@
   "confirmed" : "591116",
   "deaths" : "17484",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "351628",
   "state" : "Total"
 }, {
@@ -11,7 +11,7 @@
   "confirmed" : "174761",
   "deaths" : "7855",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "90911",
   "state" : "Maharashtra"
 }, {
@@ -19,7 +19,7 @@
   "confirmed" : "94049",
   "deaths" : "1264",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "52926",
   "state" : "Tamil Nadu"
 }, {
@@ -27,7 +27,7 @@
   "confirmed" : "87360",
   "deaths" : "2742",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "58348",
   "state" : "Delhi"
 }, {
@@ -35,7 +35,7 @@
   "confirmed" : "32643",
   "deaths" : "1848",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "23670",
   "state" : "Gujarat"
 }, {
@@ -43,7 +43,7 @@
   "confirmed" : "23492",
   "deaths" : "697",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "16084",
   "state" : "Uttar Pradesh"
 }, {
@@ -51,7 +51,7 @@
   "confirmed" : "18559",
   "deaths" : "668",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "12130",
   "state" : "West Bengal"
 }, {
@@ -59,7 +59,7 @@
   "confirmed" : "18086",
   "deaths" : "413",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "14232",
   "state" : "Rajasthan"
 }, {
@@ -67,7 +67,7 @@
   "confirmed" : "16339",
   "deaths" : "260",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "7294",
   "state" : "Telangana"
 }, {
@@ -75,7 +75,7 @@
   "confirmed" : "15252",
   "deaths" : "193",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "6988",
   "state" : "Andhra Pradesh"
 }, {
@@ -83,7 +83,7 @@
   "confirmed" : "15242",
   "deaths" : "246",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "7920",
   "state" : "Karnataka"
 }, {
@@ -91,7 +91,7 @@
   "confirmed" : "14654",
   "deaths" : "236",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "10060",
   "state" : "Haryana"
 }, {
@@ -99,7 +99,7 @@
   "confirmed" : "13593",
   "deaths" : "572",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "10395",
   "state" : "Madhya Pradesh"
 }, {
@@ -107,7 +107,7 @@
   "confirmed" : "10075",
   "deaths" : "73",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "7811",
   "state" : "Bihar"
 }, {
@@ -115,7 +115,7 @@
   "confirmed" : "8547",
   "deaths" : "12",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "5648",
   "state" : "Assam"
 }, {
@@ -123,7 +123,7 @@
   "confirmed" : "7497",
   "deaths" : "101",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "4722",
   "state" : "Jammu and Kashmir"
 }, {
@@ -131,7 +131,7 @@
   "confirmed" : "7316",
   "deaths" : "33",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "5189",
   "state" : "Odisha"
 }, {
@@ -139,7 +139,7 @@
   "confirmed" : "6915",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "0",
   "state" : "Unknown*"
 }, {
@@ -147,7 +147,7 @@
   "confirmed" : "5568",
   "deaths" : "144",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "3867",
   "state" : "Punjab"
 }, {
@@ -155,7 +155,7 @@
   "confirmed" : "4593",
   "deaths" : "25",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "2304",
   "state" : "Kerala"
 }, {
@@ -163,7 +163,7 @@
   "confirmed" : "2881",
   "deaths" : "41",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "2231",
   "state" : "Uttarakhand"
 }, {
@@ -171,7 +171,7 @@
   "confirmed" : "2858",
   "deaths" : "13",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "2250",
   "state" : "Chhattisgarh"
 }, {
@@ -179,7 +179,7 @@
   "confirmed" : "2490",
   "deaths" : "15",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "1884",
   "state" : "Jharkhand"
 }, {
@@ -187,7 +187,7 @@
   "confirmed" : "1393",
   "deaths" : "1",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "1092",
   "state" : "Tripura"
 }, {
@@ -195,7 +195,7 @@
   "confirmed" : "1315",
   "deaths" : "3",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "596",
   "state" : "Goa"
 }, {
@@ -203,7 +203,7 @@
   "confirmed" : "1234",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "553",
   "state" : "Manipur"
 }, {
@@ -211,7 +211,7 @@
   "confirmed" : "990",
   "deaths" : "1",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "694",
   "state" : "Ladakh"
 }, {
@@ -219,7 +219,7 @@
   "confirmed" : "960",
   "deaths" : "9",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "603",
   "state" : "Himachal Pradesh"
 }, {
@@ -227,7 +227,7 @@
   "confirmed" : "714",
   "deaths" : "11",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "272",
   "state" : "Puducherry"
 }, {
@@ -235,7 +235,7 @@
   "confirmed" : "480",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "168",
   "state" : "Nagaland"
 }, {
@@ -243,7 +243,7 @@
   "confirmed" : "440",
   "deaths" : "6",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "364",
   "state" : "Chandigarh"
 }, {
@@ -251,7 +251,7 @@
   "confirmed" : "228",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "101",
   "state" : "Dadra and Nagar Haveli"
 }, {
@@ -259,7 +259,7 @@
   "confirmed" : "191",
   "deaths" : "1",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "62",
   "state" : "Arunachal Pradesh"
 }, {
@@ -267,7 +267,7 @@
   "confirmed" : "160",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "122",
   "state" : "Mizoram"
 }, {
@@ -275,7 +275,7 @@
   "confirmed" : "100",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "45",
   "state" : "Andaman and Nicobar Islands"
 }, {
@@ -283,7 +283,7 @@
   "confirmed" : "88",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "50",
   "state" : "Sikkim"
 }, {
@@ -291,7 +291,7 @@
   "confirmed" : "53",
   "deaths" : "1",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "42",
   "state" : "Meghalaya"
 }, {
@@ -299,7 +299,7 @@
   "confirmed" : "0",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "0",
   "state" : "Lakshadweep"
 }, {
@@ -307,7 +307,7 @@
   "confirmed" : "0",
   "deaths" : "0",
   "delta" : null,
-  "lastupdatedtime" : "2020-07-01T15:18:14.594",
+  "lastupdatedtime" : "2020-07-01T15:23:20.676",
   "recovered" : "0",
   "state" : "Daman and Diu"
 } ]
