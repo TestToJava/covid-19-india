@@ -582,9 +582,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Thiruvarur",
+  "id" : "Tiruvarur",
   "state" : "Tamil Nadu",
-  "name" : "Thiruvarur",
+  "name" : "Tiruvarur",
   "confirmed" : 513,
   "recovered" : 0,
   "deaths" : 0,
@@ -747,9 +747,9 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "The-Nilgiris",
+  "id" : "Nilgiris",
   "state" : "Tamil Nadu",
-  "name" : "The Nilgiris",
+  "name" : "Nilgiris",
   "confirmed" : 119,
   "recovered" : 0,
   "deaths" : 0,
