@@ -373,9 +373,9 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Thiruvallur",
+  "id" : "Tiruvallur",
   "state" : "Tamil Nadu",
-  "name" : "Thiruvallur",
+  "name" : "Tiruvallur",
   "confirmed" : 4343,
   "recovered" : 0,
   "deaths" : 0,
