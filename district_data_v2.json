@@ -2089,17 +2089,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Bihar",
-  "name" : "Unknown",
-  "confirmed" : 3,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
@@ -2576,7 +2565,7 @@
   "id" : "Dadra-and-Nagar-Haveli",
   "state" : "Dadra and Nagar Haveli and Daman and Diu",
   "name" : "Dadra and Nagar Haveli",
-  "confirmed" : 159,
+  "confirmed" : 173,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -4886,7 +4875,7 @@
   "id" : "East-Khasi-Hills",
   "state" : "Meghalaya",
   "name" : "East Khasi Hills",
-  "confirmed" : 33,
+  "confirmed" : 36,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
