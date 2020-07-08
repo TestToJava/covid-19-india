@@ -4850,6 +4850,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Maharashtra",
+  "name" : "Unknown",
+  "confirmed" : 6603,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "East-Garo-Hills",
   "state" : "Meghalaya",
   "name" : "East Garo Hills",
@@ -6712,7 +6723,7 @@
   "id" : "East-Sikkim",
   "state" : "Sikkim",
   "name" : "East Sikkim",
-  "confirmed" : 65,
+  "confirmed" : 71,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
