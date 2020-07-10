@@ -54,10 +54,21 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bhubaneswar",
+  "state" : "Odisha",
+  "name" : "Bhubaneswar",
+  "confirmed" : 602,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Khordha",
   "state" : "Odisha",
   "name" : "Khordha",
-  "confirmed" : 578,
+  "confirmed" : 592,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -75,17 +86,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Bhubaneswar",
-  "state" : "Odisha",
-  "name" : "Bhubaneswar",
-  "confirmed" : 557,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Baleswar",
   "state" : "Odisha",
@@ -168,7 +168,7 @@
   "state" : "Odisha",
   "name" : "Bolangir",
   "confirmed" : 260,
-  "recovered" : 11897,
+  "recovered" : 11956,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
