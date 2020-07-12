@@ -130,5 +130,6 @@
 {"date":"Jul 7","confirmed":743491,"deaths":20653,"recovered":457058},
 {"date":"Jul 8","confirmed":769502,"deaths":21144,"recovered":476553},
 {"date":"Jul 9","confirmed":794850,"deaths":21624,"recovered":495960},
-{"date":"Jul 10","confirmed":82259,"deaths":22145,"recovered":516204}
+{"date":"Jul 10","confirmed":822604,"deaths":22145,"recovered":516204},
+{"date":"Jul 10","confirmed":850359,"deaths":22687,"recovered":536231}
 ]
