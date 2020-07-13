@@ -65,6 +65,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Khordha",
+  "state" : "Odisha",
+  "name" : "Khordha",
+  "confirmed" : 618,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Gajapati",
   "state" : "Odisha",
   "name" : "Gajapati",
@@ -75,17 +86,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "GREEN"
-}, {
-  "id" : "Khordha",
-  "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 603,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
 }, {
   "id" : "Baleswar",
   "state" : "Odisha",
@@ -168,7 +168,7 @@
   "state" : "Odisha",
   "name" : "Nayagarh",
   "confirmed" : 270,
-  "recovered" : 13722,
+  "recovered" : 13737,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
