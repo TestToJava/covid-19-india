@@ -79,12 +79,12 @@
   "recovered" : "16464",
   "state" : "Andhra Pradesh"
 }, {
-  "active" : "5737",
-  "confirmed" : "24487",
-  "deaths" : "514",
+  "active" : "5788",
+  "confirmed" : "24936",
+  "deaths" : "518",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "18236",
+  "recovered" : "18630",
   "state" : "Rajasthan"
 }, {
   "active" : "4984",
