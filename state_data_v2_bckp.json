@@ -127,12 +127,12 @@
   "recovered" : "9255",
   "state" : "Odisha"
 }, {
-  "active" : "4355",
-  "confirmed" : "10513",
-  "deaths" : "179",
+  "active" : "4545",
+  "confirmed" : "10827",
+  "deaths" : "187",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "5979",
+  "recovered" : "6095",
   "state" : "Jammu and Kashmir"
 }, {
   "active" : "4032",
@@ -143,12 +143,12 @@
   "recovered" : "4257",
   "state" : "Kerala"
 }, {
-  "active" : "2230",
-  "confirmed" : "7821",
-  "deaths" : "199",
+  "active" : "2388",
+  "confirmed" : "8178",
+  "deaths" : "204",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "5392",
+  "recovered" : "5586",
   "state" : "Punjab"
 }, {
   "active" : "1044",
@@ -159,12 +159,12 @@
   "recovered" : "3202",
   "state" : "Chhattisgarh"
 }, {
-  "active" : "1433",
-  "confirmed" : "3774",
+  "active" : "1579",
+  "confirmed" : "3963",
   "deaths" : "33",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "2308",
+  "recovered" : "2351",
   "state" : "Jharkhand"
 }, {
   "active" : "703",
@@ -191,20 +191,20 @@
   "recovered" : "0",
   "state" : "Unknown*"
 }, {
-  "active" : "644",
-  "confirmed" : "2067",
+  "active" : "602",
+  "confirmed" : "2093",
   "deaths" : "2",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "1421",
+  "recovered" : "1475",
   "state" : "Tripura"
 }, {
-  "active" : "713",
-  "confirmed" : "1609",
+  "active" : "656",
+  "confirmed" : "1626",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "896",
+  "recovered" : "970",
   "state" : "Manipur"
 }, {
   "active" : "665",
@@ -215,12 +215,12 @@
   "recovered" : "785",
   "state" : "Puducherry"
 }, {
-  "active" : "279",
-  "confirmed" : "1213",
+  "active" : "305",
+  "confirmed" : "1243",
   "deaths" : "11",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "923",
+  "recovered" : "927",
   "state" : "Himachal Pradesh"
 }, {
   "active" : "146",
@@ -239,36 +239,36 @@
   "recovered" : "340",
   "state" : "Nagaland"
 }, {
-  "active" : "134",
-  "confirmed" : "559",
+  "active" : "157",
+  "confirmed" : "588",
   "deaths" : "8",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "417",
+  "recovered" : "423",
   "state" : "Chandigarh"
 }, {
-  "active" : "220",
-  "confirmed" : "360",
-  "deaths" : "2",
+  "active" : "239",
+  "confirmed" : "387",
+  "deaths" : "3",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "138",
+  "recovered" : "145",
   "state" : "Arunachal Pradesh"
 }, {
-  "active" : "248",
-  "confirmed" : "295",
+  "active" : "268",
+  "confirmed" : "316",
   "deaths" : "2",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "45",
+  "recovered" : "46",
   "state" : "Meghalaya"
 }, {
-  "active" : "135",
-  "confirmed" : "278",
+  "active" : "113",
+  "confirmed" : "290",
   "deaths" : "1",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "142",
+  "recovered" : "165",
   "state" : "Daman and Diu"
 }, {
   "active" : "90",
@@ -279,28 +279,28 @@
   "recovered" : "145",
   "state" : "Dadra and Nagar Haveli"
 }, {
-  "active" : "81",
-  "confirmed" : "231",
+  "active" : "82",
+  "confirmed" : "233",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "150",
+  "recovered" : "151",
   "state" : "Mizoram"
 }, {
-  "active" : "84",
+  "active" : "66",
   "confirmed" : "166",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "82",
+  "recovered" : "87",
   "state" : "Sikkim"
 }, {
-  "active" : "63",
-  "confirmed" : "163",
+  "active" : "57",
+  "confirmed" : "166",
   "deaths" : "0",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "100",
+  "recovered" : "109",
   "state" : "Andaman and Nicobar Islands"
 }, {
   "active" : "0",
