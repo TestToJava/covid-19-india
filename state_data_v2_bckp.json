@@ -1,10 +1,10 @@
 [ {
-  "active" : "311283",
-  "confirmed" : "906169",
-  "deaths" : "23707",
+  "active" : "311418",
+  "confirmed" : "907645",
+  "deaths" : "23728",
   "delta" : null,
   "lastupdatedtime" : "2020-07-14T02:45:01.084",
-  "recovered" : "571179",
+  "recovered" : "572112",
   "state" : "Total"
 }, {
   "active" : "105935",
