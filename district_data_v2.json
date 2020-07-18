@@ -4454,6 +4454,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Lakshadweep",
+  "state" : "Lakshadweep",
+  "name" : "Lakshadweep",
+  "confirmed" : 0,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Ahmednagar",
   "state" : "Maharashtra",
   "name" : "Ahmednagar",
