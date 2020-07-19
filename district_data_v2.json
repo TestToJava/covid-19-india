@@ -6723,7 +6723,7 @@
   "id" : "East-Sikkim",
   "state" : "Sikkim",
   "name" : "East Sikkim",
-  "confirmed" : 212,
+  "confirmed" : 222,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
