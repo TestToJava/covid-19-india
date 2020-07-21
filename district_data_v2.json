@@ -1275,6 +1275,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Arunachal Pradesh",
+  "name" : "Unknown",
+  "confirmed" : 68,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Airport-Quarantine",
   "state" : "Assam",
   "name" : "Airport Quarantine",
@@ -5436,7 +5447,7 @@
   "id" : "Indore",
   "state" : "Madhya Pradesh",
   "name" : "Indore",
-  "confirmed" : 6155,
+  "confirmed" : 6225,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -5778,17 +5789,6 @@
   "state" : "Madhya Pradesh",
   "name" : "Vidisha",
   "confirmed" : 174,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Madhya Pradesh",
-  "name" : "Unknown",
-  "confirmed" : 70,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
