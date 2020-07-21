@@ -7292,6 +7292,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Tripura",
+  "name" : "Unknown",
+  "confirmed" : 254,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Agra",
   "state" : "Uttar Pradesh",
   "name" : "Agra",
