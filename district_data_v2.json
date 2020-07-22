@@ -190,7 +190,7 @@
   "state" : "Odisha",
   "name" : "Nayagarh",
   "confirmed" : 349,
-  "recovered" : 19322,
+  "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
