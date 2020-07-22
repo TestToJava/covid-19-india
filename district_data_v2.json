@@ -3013,6 +3013,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Gujarat",
+  "name" : "Unknown",
+  "confirmed" : 0,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Bilaspur",
   "state" : "Himachal Pradesh",
   "name" : "Bilaspur",
