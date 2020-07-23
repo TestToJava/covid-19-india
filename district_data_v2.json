@@ -54,10 +54,10 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Sundargarh",
+  "id" : "Khordha",
   "state" : "Odisha",
-  "name" : "Sundargarh",
-  "confirmed" : 917,
+  "name" : "Khordha",
+  "confirmed" : 1013,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -65,10 +65,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Khordha",
+  "id" : "Sundargarh",
   "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 876,
+  "name" : "Sundargarh",
+  "confirmed" : 917,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -168,7 +168,7 @@
   "state" : "Odisha",
   "name" : "Nayagarh",
   "confirmed" : 410,
-  "recovered" : 20962,
+  "recovered" : 21099,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
