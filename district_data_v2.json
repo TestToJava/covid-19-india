@@ -2092,7 +2092,7 @@
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
-  "confirmed" : 780,
+  "confirmed" : 800,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
