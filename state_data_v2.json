@@ -2,273 +2,273 @@
   "active" : "429971",
   "confirmed" : "1241699",
   "deaths" : "29456",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "782272",
   "state" : "Total"
 }, {
   "active" : "137282",
   "confirmed" : "337607",
   "deaths" : "12556",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "187769",
   "state" : "Maharashtra"
 }, {
   "active" : "52209",
   "confirmed" : "186492",
   "deaths" : "2700",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "131583",
   "state" : "Tamil Nadu"
 }, {
   "active" : "14954",
   "confirmed" : "126323",
   "deaths" : "3719",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "107650",
   "state" : "Delhi"
 }, {
   "active" : "47070",
   "confirmed" : "75833",
   "deaths" : "1524",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "27239",
   "state" : "Karnataka"
 }, {
   "active" : "33995",
   "confirmed" : "64762",
   "deaths" : "808",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "29959",
   "state" : "Andhra Pradesh"
 }, {
   "active" : "20825",
   "confirmed" : "55588",
   "deaths" : "1263",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "33500",
   "state" : "Uttar Pradesh"
 }, {
   "active" : "11916",
   "confirmed" : "51485",
   "deaths" : "2228",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "37341",
   "state" : "Gujarat"
 }, {
   "active" : "18450",
   "confirmed" : "49321",
   "deaths" : "1221",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "29650",
   "state" : "West Bengal"
 }, {
   "active" : "11155",
   "confirmed" : "49259",
   "deaths" : "438",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "37666",
   "state" : "Telangana"
 }, {
   "active" : "8587",
   "confirmed" : "32673",
   "deaths" : "588",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "23498",
   "state" : "Rajasthan"
 }, {
   "active" : "9982",
   "confirmed" : "30066",
   "deaths" : "208",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "19876",
   "state" : "Bihar"
 }, {
   "active" : "6117",
   "confirmed" : "28186",
   "deaths" : "372",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "21697",
   "state" : "Haryana"
 }, {
   "active" : "8324",
   "confirmed" : "27745",
   "deaths" : "71",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "19350",
   "state" : "Assam"
 }, {
   "active" : "7236",
   "confirmed" : "24842",
   "deaths" : "770",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "16836",
   "state" : "Madhya Pradesh"
 }, {
   "active" : "7205",
   "confirmed" : "21099",
   "deaths" : "145",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "13749",
   "state" : "Odisha"
 }, {
   "active" : "6831",
   "confirmed" : "15711",
   "deaths" : "273",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "8607",
   "state" : "Jammu and Kashmir"
 }, {
   "active" : "8823",
   "confirmed" : "15033",
   "deaths" : "46",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "6164",
   "state" : "Kerala"
 }, {
   "active" : "3391",
   "confirmed" : "11301",
   "deaths" : "269",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "7641",
   "state" : "Punjab"
 }, {
   "active" : "3648",
   "confirmed" : "6761",
   "deaths" : "65",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "3048",
   "state" : "Jharkhand"
 }, {
   "active" : "1740",
   "confirmed" : "5999",
   "deaths" : "29",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "4230",
   "state" : "Chhattisgarh"
 }, {
   "active" : "1894",
   "confirmed" : "5300",
   "deaths" : "57",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "3349",
   "state" : "Uttarakhand"
 }, {
   "active" : "1607",
   "confirmed" : "4176",
   "deaths" : "28",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "2541",
   "state" : "Goa"
 }, {
   "active" : "1430",
   "confirmed" : "3471",
   "deaths" : "8",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "2033",
   "state" : "Tripura"
 }, {
   "active" : "987",
   "confirmed" : "2421",
   "deaths" : "34",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "1400",
   "state" : "Puducherry"
 }, {
   "active" : "642",
   "confirmed" : "2060",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "1418",
   "state" : "Manipur"
 }, {
   "active" : "645",
   "confirmed" : "1769",
   "deaths" : "12",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "1112",
   "state" : "Himachal Pradesh"
 }, {
   "active" : "186",
   "confirmed" : "1206",
   "deaths" : "2",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "1018",
   "state" : "Ladakh"
 }, {
   "active" : "688",
   "confirmed" : "1174",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "486",
   "state" : "Nagaland"
 }, {
   "active" : "632",
   "confirmed" : "949",
   "deaths" : "3",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "314",
   "state" : "Arunachal Pradesh"
 }, {
   "active" : "241",
   "confirmed" : "780",
   "deaths" : "13",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "526",
   "state" : "Chandigarh"
 }, {
   "active" : "452",
   "confirmed" : "534",
   "deaths" : "4",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "78",
   "state" : "Meghalaya"
 }, {
   "active" : "339",
   "confirmed" : "451",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "112",
   "state" : "Sikkim"
 }, {
   "active" : "152",
   "confirmed" : "437",
   "deaths" : "1",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "284",
   "state" : "Daman and Diu"
 }, {
   "active" : "131",
   "confirmed" : "338",
   "deaths" : "1",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "206",
   "state" : "Dadra and Nagar Haveli"
 }, {
   "active" : "147",
   "confirmed" : "326",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "179",
   "state" : "Mizoram"
 }, {
   "active" : "58",
   "confirmed" : "221",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "163",
   "state" : "Andaman and Nicobar Islands"
 }, {
   "active" : "0",
   "confirmed" : "0",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "0",
   "state" : "Unknown*"
 }, {
   "active" : "0",
   "confirmed" : "0",
   "deaths" : "0",
-  "lastupdatedtime" : "2020-07-23T08:54:32.773",
+  "lastupdatedtime" : "2020-07-23T08:57:45.340",
   "recovered" : "0",
   "state" : "Lakshadweep"
 } ]
