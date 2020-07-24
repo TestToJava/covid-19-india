@@ -365,7 +365,7 @@
   "id" : "Ariyalur",
   "state" : "Tamil Nadu",
   "name" : "Ariyalur",
-  "confirmed" : 759,
+  "confirmed" : 796,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -608,7 +608,7 @@
   "state" : "Tamil Nadu",
   "name" : "Salem",
   "confirmed" : 2609,
-  "recovered" : 192964,
+  "recovered" : 193382,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
@@ -670,6 +670,17 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Thiruvallur",
+  "state" : "Tamil Nadu",
+  "name" : "Thiruvallur",
+  "confirmed" : 11008,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "RED"
+}, {
   "id" : "Thoothukudi",
   "state" : "Tamil Nadu",
   "name" : "Thoothukudi",
@@ -713,17 +724,6 @@
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "ORANGE"
-}, {
-  "id" : "Tiruvallur",
-  "state" : "Tamil Nadu",
-  "name" : "Tiruvallur",
-  "confirmed" : 10627,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
 }, {
   "id" : "Tiruvannamalai",
   "state" : "Tamil Nadu",
