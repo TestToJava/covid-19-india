@@ -5873,6 +5873,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Mizoram",
+  "name" : "Unknown",
+  "confirmed" : 5,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Others",
   "state" : "Nagaland",
   "name" : "Others",
