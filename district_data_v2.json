@@ -472,9 +472,9 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Kanyakumari",
+  "id" : "Kanniyakumari",
   "state" : "Tamil Nadu",
-  "name" : "Kanyakumari",
+  "name" : "Kanniyakumari",
   "confirmed" : 5307,
   "recovered" : 0,
   "deaths" : 0,
@@ -560,9 +560,9 @@
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Pudukottai",
+  "id" : "Pudukkottai",
   "state" : "Tamil Nadu",
-  "name" : "Pudukottai",
+  "name" : "Pudukkottai",
   "confirmed" : 2471,
   "recovered" : 0,
   "deaths" : 0,
