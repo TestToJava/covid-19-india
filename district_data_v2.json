@@ -4982,6 +4982,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "CAPF-Personnel",
+  "state" : "Manipur",
+  "name" : "CAPF Personnel",
+  "confirmed" : 166,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Bishnupur",
   "state" : "Manipur",
   "name" : "Bishnupur",
@@ -5161,7 +5172,7 @@
   "id" : "Unknown",
   "state" : "Manipur",
   "name" : "Unknown",
-  "confirmed" : 194,
+  "confirmed" : 28,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
