@@ -4256,17 +4256,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Karnataka",
-  "name" : "Unknown",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Other-States",
   "state" : "Kerala",
   "name" : "Other States",
