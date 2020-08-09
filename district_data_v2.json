@@ -24,7 +24,7 @@
   "id" : "Bhubaneswar",
   "state" : "Odisha",
   "name" : "Bhubaneswar",
-  "confirmed" : 3573,
+  "confirmed" : 3929,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -46,7 +46,7 @@
   "id" : "Khordha",
   "state" : "Odisha",
   "name" : "Khordha",
-  "confirmed" : 2256,
+  "confirmed" : 2516,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -142,17 +142,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Sambalpur",
-  "state" : "Odisha",
-  "name" : "Sambalpur",
-  "confirmed" : 1001,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "ORANGE"
-}, {
   "id" : "Nayagarh",
   "state" : "Odisha",
   "name" : "Nayagarh",
@@ -164,21 +153,32 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Sambalpur",
+  "state" : "Odisha",
+  "name" : "Sambalpur",
+  "confirmed" : 1001,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "ORANGE"
+}, {
   "id" : "Bhadrak",
   "state" : "Odisha",
   "name" : "Bhadrak",
   "confirmed" : 914,
-  "recovered" : 45311,
+  "recovered" : 45927,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
   "zone" : "RED"
 }, {
-  "id" : "Jagatsinghpur",
+  "id" : "Kandhamal",
   "state" : "Odisha",
-  "name" : "Jagatsinghpur",
-  "confirmed" : 870,
+  "name" : "Kandhamal",
+  "confirmed" : 899,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
@@ -208,10 +208,10 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Kandhamal",
+  "id" : "Jagatsinghpur",
   "state" : "Odisha",
-  "name" : "Kandhamal",
-  "confirmed" : 899,
+  "name" : "Jagatsinghpur",
+  "confirmed" : 870,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
