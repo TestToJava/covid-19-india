@@ -2089,17 +2089,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Bihar",
-  "name" : "Unknown",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Chandigarh",
   "state" : "Chandigarh",
   "name" : "Chandigarh",
@@ -2423,17 +2412,6 @@
   "state" : "Chhattisgarh",
   "name" : "Gaurela Pendra Marwahi",
   "confirmed" : 33,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Chhattisgarh",
-  "name" : "Unknown",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
