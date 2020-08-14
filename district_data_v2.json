@@ -4993,6 +4993,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Meghalaya",
+  "name" : "Unknown",
+  "confirmed" : 35,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "CAPF-Personnel",
   "state" : "Manipur",
   "name" : "CAPF Personnel",
