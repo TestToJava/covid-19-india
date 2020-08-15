@@ -1275,17 +1275,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Arunachal Pradesh",
-  "name" : "Unknown",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Airport-Quarantine",
   "state" : "Assam",
   "name" : "Airport Quarantine",
@@ -2598,7 +2587,7 @@
   "id" : "Diu",
   "state" : "Dadra and Nagar Haveli and Daman and Diu",
   "name" : "Diu",
-  "confirmed" : 161,
+  "confirmed" : 155,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -5843,7 +5832,7 @@
   "id" : "Lunglei",
   "state" : "Mizoram",
   "name" : "Lunglei",
-  "confirmed" : 105,
+  "confirmed" : 108,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -5888,17 +5877,6 @@
   "state" : "Mizoram",
   "name" : "Serchhip",
   "confirmed" : 10,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Mizoram",
-  "name" : "Unknown",
-  "confirmed" : 3,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
