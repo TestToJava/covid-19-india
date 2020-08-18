@@ -2419,6 +2419,17 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
+  "id" : "Unknown",
+  "state" : "Chhattisgarh",
+  "name" : "Unknown",
+  "confirmed" : 107,
+  "recovered" : null,
+  "deaths" : null,
+  "oldConfirmed" : null,
+  "oldRecovered" : null,
+  "oldDeaths" : null,
+  "zone" : "NONE"
+}, {
   "id" : "Central-Delhi",
   "state" : "Delhi",
   "name" : "Central Delhi",
@@ -4886,7 +4897,7 @@
   "id" : "East-Khasi-Hills",
   "state" : "Meghalaya",
   "name" : "East Khasi Hills",
-  "confirmed" : 968,
+  "confirmed" : 971,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -4975,17 +4986,6 @@
   "state" : "Meghalaya",
   "name" : "West Khasi Hills",
   "confirmed" : 13,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Meghalaya",
-  "name" : "Unknown",
-  "confirmed" : 3,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
