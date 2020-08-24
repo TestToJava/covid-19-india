@@ -3673,17 +3673,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Jharkhand",
-  "name" : "Unknown",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Anantnag",
   "state" : "Jammu and Kashmir",
   "name" : "Anantnag",
@@ -4435,7 +4424,7 @@
   "id" : "Kargil",
   "state" : "Ladakh",
   "name" : "Kargil",
-  "confirmed" : 1117,
+  "confirmed" : 1123,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -4446,7 +4435,7 @@
   "id" : "Leh",
   "state" : "Ladakh",
   "name" : "Leh",
-  "confirmed" : 1162,
+  "confirmed" : 1207,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
