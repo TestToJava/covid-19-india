@@ -10,28 +10,6 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Unassigned",
-  "state" : "State Unassigned",
-  "name" : "Unassigned",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Nicobars",
-  "state" : "Andaman and Nicobar Islands",
-  "name" : "Nicobars",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "North-and-Middle-Andaman",
   "state" : "Andaman and Nicobar Islands",
   "name" : "North and Middle Andaman",
@@ -47,17 +25,6 @@
   "state" : "Andaman and Nicobar Islands",
   "name" : "South Andaman",
   "confirmed" : 51,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Andaman and Nicobar Islands",
-  "name" : "Unknown",
-  "confirmed" : 2893,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -278,28 +245,6 @@
   "state" : "Arunachal Pradesh",
   "name" : "Kamle",
   "confirmed" : 3,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Kra-Daadi",
-  "state" : "Arunachal Pradesh",
-  "name" : "Kra Daadi",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Kurung-Kumey",
-  "state" : "Arunachal Pradesh",
-  "name" : "Kurung Kumey",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -883,17 +828,6 @@
   "state" : "Assam",
   "name" : "West Karbi Anglong",
   "confirmed" : 39,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Assam",
-  "name" : "Unknown",
-  "confirmed" : 20377,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -1770,28 +1704,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Delhi",
-  "name" : "Unknown",
-  "confirmed" : 163283,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Other-States",
-  "state" : "Dadra and Nagar Haveli and Daman and Diu",
-  "name" : "Other States",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Dadra-and-Nagar-Haveli",
   "state" : "Dadra and Nagar Haveli and Daman and Diu",
   "name" : "Dadra and Nagar Haveli",
@@ -1851,17 +1763,6 @@
   "state" : "Goa",
   "name" : "South Goa",
   "confirmed" : 3317,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Unknown",
-  "state" : "Goa",
-  "name" : "Unknown",
-  "confirmed" : 8682,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -2375,17 +2276,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Foreign-Evacuees",
-  "state" : "Haryana",
-  "name" : "Foreign Evacuees",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Ambala",
   "state" : "Haryana",
   "name" : "Ambala",
@@ -2456,17 +2346,6 @@
   "state" : "Haryana",
   "name" : "Hisar",
   "confirmed" : 1782,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Italians",
-  "state" : "Haryana",
-  "name" : "Italians",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -3024,28 +2903,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Mirpur",
-  "state" : "Jammu and Kashmir",
-  "name" : "Mirpur",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Muzaffarabad",
-  "state" : "Jammu and Kashmir",
-  "name" : "Muzaffarabad",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Pulwama",
   "state" : "Jammu and Kashmir",
   "name" : "Pulwama",
@@ -3486,17 +3343,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Other-States",
-  "state" : "Kerala",
-  "name" : "Other States",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Alappuzha",
   "state" : "Kerala",
   "name" : "Alappuzha",
@@ -3666,17 +3512,6 @@
   "state" : "Ladakh",
   "name" : "Leh",
   "confirmed" : 1271,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Lakshadweep",
-  "state" : "Lakshadweep",
-  "name" : "Lakshadweep",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -3864,17 +3699,6 @@
   "state" : "Maharashtra",
   "name" : "Mumbai",
   "confirmed" : 137683,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Mumbai-Suburban",
-  "state" : "Maharashtra",
-  "name" : "Mumbai Suburban",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -4399,17 +4223,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Manipur",
-  "name" : "Unknown",
-  "confirmed" : 204,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Agar-Malwa",
   "state" : "Madhya Pradesh",
   "name" : "Agar Malwa",
@@ -4766,17 +4579,6 @@
   "state" : "Madhya Pradesh",
   "name" : "Niwari",
   "confirmed" : 148,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Other-Region",
-  "state" : "Madhya Pradesh",
-  "name" : "Other Region",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -5246,17 +5048,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Others",
-  "state" : "Odisha",
-  "name" : "Others",
-  "confirmed" : 0,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Angul",
   "state" : "Odisha",
   "name" : "Angul",
@@ -5268,9 +5059,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Balangir",
+  "id" : "Bolangir",
   "state" : "Odisha",
-  "name" : "Balangir",
+  "name" : "Bolangir",
   "confirmed" : 1444,
   "recovered" : null,
   "deaths" : null,
@@ -5279,9 +5070,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Balasore",
+  "id" : "Baleswar",
   "state" : "Odisha",
-  "name" : "Balasore",
+  "name" : "Baleswar",
   "confirmed" : 3077,
   "recovered" : null,
   "deaths" : null,
@@ -5389,9 +5180,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Jajpur",
+  "id" : "Jajapur",
   "state" : "Odisha",
-  "name" : "Jajpur",
+  "name" : "Jajapur",
   "confirmed" : 3132,
   "recovered" : null,
   "deaths" : null,
@@ -5444,21 +5235,10 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Kendujhar",
+  "id" : "Keonjhar",
   "state" : "Odisha",
-  "name" : "Kendujhar",
+  "name" : "Keonjhar",
   "confirmed" : 1519,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Khordha",
-  "state" : "Odisha",
-  "name" : "Khordha",
-  "confirmed" : 12791,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -5499,9 +5279,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Nabarangapur",
+  "id" : "Nabarangpur",
   "state" : "Odisha",
-  "name" : "Nabarangapur",
+  "name" : "Nabarangpur",
   "confirmed" : 854,
   "recovered" : null,
   "deaths" : null,
@@ -6709,17 +6489,6 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Unknown",
-  "state" : "Telangana",
-  "name" : "Unknown",
-  "confirmed" : 457,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
   "id" : "Railway-Quarantine",
   "state" : "Tamil Nadu",
   "name" : "Railway Quarantine",
@@ -6735,17 +6504,6 @@
   "state" : "Tamil Nadu",
   "name" : "Airport Quarantine",
   "confirmed" : 1693,
-  "recovered" : null,
-  "deaths" : null,
-  "oldConfirmed" : null,
-  "oldRecovered" : null,
-  "oldDeaths" : null,
-  "zone" : "NONE"
-}, {
-  "id" : "Other-States",
-  "state" : "Tamil Nadu",
-  "name" : "Other States",
-  "confirmed" : 0,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
@@ -6863,9 +6621,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Kanyakumari",
+  "id" : "Kanniyakumari",
   "state" : "Tamil Nadu",
-  "name" : "Kanyakumari",
+  "name" : "Kanniyakumari",
   "confirmed" : 8840,
   "recovered" : null,
   "deaths" : null,
@@ -6995,9 +6753,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Sivaganga",
+  "id" : "Sivagangai",
   "state" : "Tamil Nadu",
-  "name" : "Sivaganga",
+  "name" : "Sivagangai",
   "confirmed" : 3826,
   "recovered" : null,
   "deaths" : null,
@@ -7061,9 +6819,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Thoothukkudi",
+  "id" : "Thoothukudi",
   "state" : "Tamil Nadu",
-  "name" : "Thoothukkudi",
+  "name" : "Thoothukudi",
   "confirmed" : 10801,
   "recovered" : null,
   "deaths" : null,
@@ -7072,9 +6830,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Tiruchirappalli",
+  "id" : "Trichy",
   "state" : "Tamil Nadu",
-  "name" : "Tiruchirappalli",
+  "name" : "Trichy",
   "confirmed" : 6873,
   "recovered" : null,
   "deaths" : null,
@@ -7116,9 +6874,9 @@
   "oldDeaths" : null,
   "zone" : "NONE"
 }, {
-  "id" : "Tiruvannamalai",
+  "id" : "Thiruvannamalai",
   "state" : "Tamil Nadu",
-  "name" : "Tiruvannamalai",
+  "name" : "Thiruvannamalai",
   "confirmed" : 9626,
   "recovered" : null,
   "deaths" : null,
