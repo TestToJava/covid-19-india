@@ -10,49 +10,27 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
-  "id" : "Ganjam",
-  "state" : "Odisha",
-  "name" : "Ganjam",
-  "confirmed" : 16528,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
   "id" : "Bhubaneswar",
   "state" : "Odisha",
   "name" : "Bhubaneswar",
-  "confirmed" : 7599,
-  "recovered" : 0,
+  "confirmed" : 7931,
+  "recovered" : 12791,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "RED"
-}, {
-  "id" : "Cuttack",
-  "state" : "Odisha",
-  "name" : "Cuttack",
-  "confirmed" : 5921,
-  "recovered" : 0,
-  "deaths" : 0,
-  "oldConfirmed" : 0,
-  "oldRecovered" : 0,
-  "oldDeaths" : 0,
-  "zone" : "RED"
+  "zone" : "NONE"
 }, {
   "id" : "Khordha",
   "state" : "Odisha",
   "name" : "Khordha",
-  "confirmed" : 4769,
+  "confirmed" : 4860,
   "recovered" : 0,
   "deaths" : 0,
   "oldConfirmed" : 0,
   "oldRecovered" : 0,
   "oldDeaths" : 0,
-  "zone" : "ORANGE"
+  "zone" : "NONE"
 }, {
   "id" : "Airport-Quarantine",
   "state" : "Tamil Nadu",
