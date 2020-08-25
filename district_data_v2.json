@@ -10,6 +10,28 @@
   "oldDeaths" : 0,
   "zone" : "ORANGE"
 }, {
+  "id" : "Bhubaneswar",
+  "state" : "Odisha",
+  "name" : "Bhubaneswar",
+  "confirmed" : 7599,
+  "recovered" : 12368,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
+  "id" : "Khordha",
+  "state" : "Odisha",
+  "name" : "Khordha",
+  "confirmed" : 4769,
+  "recovered" : 0,
+  "deaths" : 0,
+  "oldConfirmed" : 0,
+  "oldRecovered" : 0,
+  "oldDeaths" : 0,
+  "zone" : "NONE"
+}, {
   "id" : "North-and-Middle-Andaman",
   "state" : "Andaman and Nicobar Islands",
   "name" : "North and Middle Andaman",
