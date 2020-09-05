@@ -1784,7 +1784,7 @@
   "id" : "Other-States",
   "state" : "Goa",
   "name" : "Other States",
-  "confirmed" : 200,
+  "confirmed" : 201,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
