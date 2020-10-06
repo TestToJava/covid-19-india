@@ -3808,7 +3808,7 @@
   "id" : "Other-States",
   "state" : "Maharashtra",
   "name" : "Other States",
-  "confirmed" : 1670,
+  "confirmed" : 1656,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
