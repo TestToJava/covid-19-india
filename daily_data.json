@@ -1008,4 +1008,9 @@
   "confirmed" : 7704897,
   "recovered" : 6866894,
   "deaths" : 116648
+}, {
+  "date" : "1603324800000",
+  "confirmed" : 7759377,
+  "recovered" : 6943775,
+  "deaths" : 117321
 } ]
