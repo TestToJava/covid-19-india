@@ -3566,7 +3566,7 @@
   "id" : "Lakshadweep",
   "state" : "Lakshadweep",
   "name" : "Lakshadweep",
-  "confirmed" : 69,
+  "confirmed" : 70,
   "recovered" : null,
   "deaths" : null,
   "oldConfirmed" : null,
